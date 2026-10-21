@@ -1,0 +1,396 @@
+{
+  "items": [
+    {
+      "n": "03.14",
+      "kind": {
+        "ru": "ФОТОГРАФИЯ",
+        "en": "PHOTOGRAPH",
+        "fr": "PHOTOGRAPHIE",
+        "pt": "FOTOGRAFIA",
+        "sw": "PICHA"
+      },
+      "title": {
+        "ru": "Строительство Асуанской плотины",
+        "en": "Building the Aswan High Dam",
+        "fr": "La construction du haut barrage d’Assouan",
+        "pt": "A construção da Barragem de Assuão",
+        "sw": "Ujenzi wa Bwawa Kuu la Aswan"
+      },
+      "place": {
+        "ru": "Асуан, Египет",
+        "en": "Aswan, Egypt",
+        "fr": "Assouan, Égypte",
+        "pt": "Assuão, Egito",
+        "sw": "Aswan, Misri"
+      },
+      "date": {
+        "ru": "1964",
+        "en": "1964",
+        "fr": "1964",
+        "pt": "1964",
+        "sw": "1964"
+      },
+      "author": {
+        "ru": "Manfred Niermann",
+        "en": "Manfred Niermann",
+        "fr": "Manfred Niermann",
+        "pt": "Manfred Niermann",
+        "sw": "Manfred Niermann"
+      },
+      "source": {
+        "ru": "Wikimedia Commons, CC BY-SA 4.0",
+        "en": "Wikimedia Commons, CC BY-SA 4.0",
+        "fr": "Wikimedia Commons, CC BY-SA 4.0",
+        "pt": "Wikimedia Commons, CC BY-SA 4.0",
+        "sw": "Wikimedia Commons, CC BY-SA 4.0"
+      },
+      "photos": [
+        {
+          "src": "assets/aswan__37a9608c.jpg",
+          "color": false
+        },
+        {
+          "src": "assets/aswan2__074a0f16.jpg",
+          "color": false
+        },
+        {
+          "src": "assets/nile1964__60dcf7bc.jpg",
+          "color": false
+        }
+      ],
+      "back": {
+        "label": {
+          "ru": "ХРОНИКА · 1960-Е",
+          "en": "CHRONICLE · 1960s",
+          "fr": "CHRONIQUE · ANNÉES 1960",
+          "pt": "CRONOLOGIA · ANOS 1960",
+          "sw": "HISTORIA · MIAKA YA 1960"
+        },
+        "href": "story.html?id=aswan"
+      },
+      "audio": "",
+      "text": {
+        "ru": "Высотную плотину на Ниле строили с 1960 по 1970 год при финансовой и технической помощи Советского Союза. Проект делал институт «Гидропроект», на стройке работали советские инженеры и тысячи египетских рабочих.",
+        "en": "The High Dam on the Nile was built from 1960 to 1970 with financial and technical aid from the Soviet Union. It was designed by the Gidroproekt institute; Soviet engineers and thousands of Egyptian workers worked on the site.",
+        "fr": "Le haut barrage sur le Nil a été construit de 1960 à 1970 avec l’aide financière et technique de l’Union soviétique. Il a été conçu par l’institut Hydroprojet ; des ingénieurs soviétiques et des milliers d’ouvriers égyptiens ont travaillé sur le chantier.",
+        "pt": "A Barragem Alta do Nilo foi construída entre 1960 e 1970 com apoio financeiro e técnico da União Soviética. O projeto foi do instituto Gidroproekt; no estaleiro trabalharam engenheiros soviéticos e milhares de operários egípcios.",
+        "sw": "Bwawa Kuu la Nile lilijengwa kati ya 1960 na 1970 kwa msaada wa kifedha na kiufundi wa Umoja wa Kisovyeti. Lilisanifiwa na taasisi ya Gidroproekt; wahandisi wa Kisovyeti na maelfu ya wafanyakazi wa Kimisri walifanya kazi eneo la ujenzi."
+      },
+      "story": {
+        "ru": "[Здесь будет история из архива Центра: кто на снимке, что было дальше с героями.]",
+        "en": "[A story from the Center’s archive will go here: who is in the photo and what happened to them next.]",
+        "fr": "[Ici viendra une histoire tirée des archives du Centre : qui figure sur la photo et ce qu’il est advenu de ces personnes.]",
+        "pt": "[Aqui ficará uma história do arquivo do Centro: quem aparece na foto e o que lhes aconteceu depois.]",
+        "sw": "[Hapa itakuwa simulizi kutoka kumbukumbu za Kituo: walio kwenye picha ni nani na nini kiliwapata baadaye.]"
+      },
+      "optics": [
+        {
+          "label": {
+            "ru": "Советская пресса",
+            "en": "Soviet press",
+            "fr": "Presse soviétique",
+            "pt": "Imprensa soviética",
+            "sw": "Magazeti ya Kisovyeti"
+          },
+          "scan": {
+            "ru": "[Скан вырезки · газета, дата]",
+            "en": "[Clipping scan · newspaper, date]",
+            "fr": "[Coupure numérisée · journal, date]",
+            "pt": "[Recorte digitalizado · jornal, data]",
+            "sw": "[Nakala ya kipande · gazeti, tarehe]"
+          },
+          "text": {
+            "ru": "[Как событие подавала советская пресса: короткий пересказ и цитата из вырезки.]",
+            "en": "[How the Soviet press presented the event: a short summary and a quote from the clipping.]",
+            "fr": "[Comment la presse soviétique présentait l’événement : bref résumé et citation.]",
+            "pt": "[Como a imprensa soviética apresentou o acontecimento: breve resumo e citação.]",
+            "sw": "[Jinsi magazeti ya Kisovyeti yalivyoeleza tukio: muhtasari mfupi na nukuu.]"
+          }
+        },
+        {
+          "label": {
+            "ru": "Египетская пресса",
+            "en": "Egyptian press",
+            "fr": "Presse égyptienne",
+            "pt": "Imprensa egípcia",
+            "sw": "Magazeti ya Misri"
+          },
+          "scan": {
+            "ru": "[Скан вырезки · газета, дата]",
+            "en": "[Clipping scan · newspaper, date]",
+            "fr": "[Coupure numérisée · journal, date]",
+            "pt": "[Recorte digitalizado · jornal, data]",
+            "sw": "[Nakala ya kipande · gazeti, tarehe]"
+          },
+          "text": {
+            "ru": "[Как о том же писала египетская пресса.]",
+            "en": "[How the Egyptian press wrote about the same event.]",
+            "fr": "[Ce qu’en écrivait la presse égyptienne.]",
+            "pt": "[Como a imprensa egípcia escreveu sobre o mesmo acontecimento.]",
+            "sw": "[Jinsi magazeti ya Misri yalivyoandika kuhusu tukio hilo.]"
+          }
+        }
+      ],
+      "related": [
+        "03.15",
+        "04.02"
+      ]
+    },
+    {
+      "n": "03.15",
+      "kind": {
+        "ru": "ФОТОГРАФИЯ",
+        "en": "PHOTOGRAPH",
+        "fr": "PHOTOGRAPHIE",
+        "pt": "FOTOGRAFIA",
+        "sw": "PICHA"
+      },
+      "title": {
+        "ru": "Насер на стройке в Асуане",
+        "en": "Nasser at the Aswan construction site",
+        "fr": "Nasser sur le chantier d’Assouan",
+        "pt": "Nasser nas obras de Assuão",
+        "sw": "Nasser kwenye ujenzi wa Aswan"
+      },
+      "place": {
+        "ru": "Асуан, Египет",
+        "en": "Aswan, Egypt",
+        "fr": "Assouan, Égypte",
+        "pt": "Assuão, Egito",
+        "sw": "Aswan, Misri"
+      },
+      "date": {
+        "ru": "[дата уточняется]",
+        "en": "[date to be confirmed]",
+        "fr": "[date à préciser]",
+        "pt": "[data a confirmar]",
+        "sw": "[tarehe itathibitishwa]"
+      },
+      "author": {
+        "ru": "Автор не указан",
+        "en": "Author not credited",
+        "fr": "Auteur non crédité",
+        "pt": "Autor não indicado",
+        "sw": "Mwandishi hajatajwa"
+      },
+      "source": {
+        "ru": "Wikimedia Commons · общественное достояние",
+        "en": "Wikimedia Commons · public domain",
+        "fr": "Wikimedia Commons · domaine public",
+        "pt": "Wikimedia Commons · domínio público",
+        "sw": "Wikimedia Commons · kikoa cha umma"
+      },
+      "photos": [
+        {
+          "src": "assets/nasser__ba45b9c9.jpg",
+          "color": false
+        }
+      ],
+      "back": {
+        "label": {
+          "ru": "ХРОНИКА · 1960-Е",
+          "en": "CHRONICLE · 1960s",
+          "fr": "CHRONIQUE · ANNÉES 1960",
+          "pt": "CRONOLOGIA · ANOS 1960",
+          "sw": "HISTORIA · MIAKA YA 1960"
+        },
+        "href": "story.html?id=aswan"
+      },
+      "audio": "",
+      "text": {
+        "ru": "[Описание экспоната: что на нём, когда и где сделано.]",
+        "en": "[Description of the exhibit: what it shows, when and where it was made.]",
+        "fr": "[Description de l’objet : ce qu’il montre, quand et où il a été réalisé.]",
+        "pt": "[Descrição da peça: o que mostra, quando e onde foi feita.]",
+        "sw": "[Maelezo ya kitu: kinaonyesha nini, kilitengenezwa lini na wapi.]"
+      },
+      "story": {
+        "ru": "[Здесь будет история из архива Центра: кто на снимке, что было дальше с героями.]",
+        "en": "[A story from the Center’s archive will go here: who is in the photo and what happened to them next.]",
+        "fr": "[Ici viendra une histoire tirée des archives du Centre : qui figure sur la photo et ce qu’il est advenu de ces personnes.]",
+        "pt": "[Aqui ficará uma história do arquivo do Centro: quem aparece na foto e o que lhes aconteceu depois.]",
+        "sw": "[Hapa itakuwa simulizi kutoka kumbukumbu za Kituo: walio kwenye picha ni nani na nini kiliwapata baadaye.]"
+      },
+      "optics": [
+        {
+          "label": {
+            "ru": "Советская пресса",
+            "en": "Soviet press",
+            "fr": "Presse soviétique",
+            "pt": "Imprensa soviética",
+            "sw": "Magazeti ya Kisovyeti"
+          },
+          "scan": {
+            "ru": "[Скан вырезки · газета, дата]",
+            "en": "[Clipping scan · newspaper, date]",
+            "fr": "[Coupure numérisée · journal, date]",
+            "pt": "[Recorte digitalizado · jornal, data]",
+            "sw": "[Nakala ya kipande · gazeti, tarehe]"
+          },
+          "text": {
+            "ru": "[Как событие подавала советская пресса: короткий пересказ и цитата из вырезки.]",
+            "en": "[How the Soviet press presented the event: a short summary and a quote from the clipping.]",
+            "fr": "[Comment la presse soviétique présentait l’événement : bref résumé et citation.]",
+            "pt": "[Como a imprensa soviética apresentou o acontecimento: breve resumo e citação.]",
+            "sw": "[Jinsi magazeti ya Kisovyeti yalivyoeleza tukio: muhtasari mfupi na nukuu.]"
+          }
+        },
+        {
+          "label": {
+            "ru": "Египетская пресса",
+            "en": "Egyptian press",
+            "fr": "Presse égyptienne",
+            "pt": "Imprensa egípcia",
+            "sw": "Magazeti ya Misri"
+          },
+          "scan": {
+            "ru": "[Скан вырезки · газета, дата]",
+            "en": "[Clipping scan · newspaper, date]",
+            "fr": "[Coupure numérisée · journal, date]",
+            "pt": "[Recorte digitalizado · jornal, data]",
+            "sw": "[Nakala ya kipande · gazeti, tarehe]"
+          },
+          "text": {
+            "ru": "[Как о том же писала египетская пресса.]",
+            "en": "[How the Egyptian press wrote about the same event.]",
+            "fr": "[Ce qu’en écrivait la presse égyptienne.]",
+            "pt": "[Como a imprensa egípcia escreveu sobre o mesmo acontecimento.]",
+            "sw": "[Jinsi magazeti ya Misri yalivyoandika kuhusu tukio hilo.]"
+          }
+        }
+      ],
+      "related": [
+        "03.14",
+        "04.02"
+      ]
+    },
+    {
+      "n": "04.02",
+      "kind": {
+        "ru": "ПОЧТОВАЯ МАРКА",
+        "en": "POSTAGE STAMP",
+        "fr": "TIMBRE-POSTE",
+        "pt": "SELO POSTAL",
+        "sw": "STEMPU YA POSTA"
+      },
+      "title": {
+        "ru": "Марка СССР «Патрис Лумумба», 1961",
+        "en": "USSR stamp “Patrice Lumumba”, 1961",
+        "fr": "Timbre soviétique « Patrice Lumumba », 1961",
+        "pt": "Selo soviético «Patrice Lumumba», 1961",
+        "sw": "Stempu ya USSR «Patrice Lumumba», 1961"
+      },
+      "place": {
+        "ru": "СССР",
+        "en": "USSR",
+        "fr": "URSS",
+        "pt": "URSS",
+        "sw": "USSR"
+      },
+      "date": {
+        "ru": "1961",
+        "en": "1961",
+        "fr": "1961",
+        "pt": "1961",
+        "sw": "1961"
+      },
+      "author": {
+        "ru": "Почта СССР",
+        "en": "USSR Post",
+        "fr": "Poste de l’URSS",
+        "pt": "Correios da URSS",
+        "sw": "Posta ya USSR"
+      },
+      "source": {
+        "ru": "общественное достояние",
+        "en": "public domain",
+        "fr": "domaine public",
+        "pt": "domínio público",
+        "sw": "kikoa cha umma"
+      },
+      "photos": [
+        {
+          "src": "assets/stamp__eb9cd20c.jpg",
+          "color": true
+        }
+      ],
+      "back": {
+        "label": {
+          "ru": "1960 · 17 СТРАН",
+          "en": "1960 · 17 COUNTRIES",
+          "fr": "1960 · 17 PAYS",
+          "pt": "1960 · 17 PAÍSES",
+          "sw": "1960 · NCHI 17"
+        },
+        "href": "story.html?id=africa"
+      },
+      "audio": "",
+      "text": {
+        "ru": "[Описание экспоната: что на нём, когда и где сделано.]",
+        "en": "[Description of the exhibit: what it shows, when and where it was made.]",
+        "fr": "[Description de l’objet : ce qu’il montre, quand et où il a été réalisé.]",
+        "pt": "[Descrição da peça: o que mostra, quando e onde foi feita.]",
+        "sw": "[Maelezo ya kitu: kinaonyesha nini, kilitengenezwa lini na wapi.]"
+      },
+      "story": {
+        "ru": "[Здесь будет история из архива Центра: кто на снимке, что было дальше с героями.]",
+        "en": "[A story from the Center’s archive will go here: who is in the photo and what happened to them next.]",
+        "fr": "[Ici viendra une histoire tirée des archives du Centre : qui figure sur la photo et ce qu’il est advenu de ces personnes.]",
+        "pt": "[Aqui ficará uma história do arquivo do Centro: quem aparece na foto e o que lhes aconteceu depois.]",
+        "sw": "[Hapa itakuwa simulizi kutoka kumbukumbu za Kituo: walio kwenye picha ni nani na nini kiliwapata baadaye.]"
+      },
+      "optics": [
+        {
+          "label": {
+            "ru": "Советская пресса",
+            "en": "Soviet press",
+            "fr": "Presse soviétique",
+            "pt": "Imprensa soviética",
+            "sw": "Magazeti ya Kisovyeti"
+          },
+          "scan": {
+            "ru": "[Скан вырезки · газета, дата]",
+            "en": "[Clipping scan · newspaper, date]",
+            "fr": "[Coupure numérisée · journal, date]",
+            "pt": "[Recorte digitalizado · jornal, data]",
+            "sw": "[Nakala ya kipande · gazeti, tarehe]"
+          },
+          "text": {
+            "ru": "[Как событие подавала советская пресса: короткий пересказ и цитата из вырезки.]",
+            "en": "[How the Soviet press presented the event: a short summary and a quote from the clipping.]",
+            "fr": "[Comment la presse soviétique présentait l’événement : bref résumé et citation.]",
+            "pt": "[Como a imprensa soviética apresentou o acontecimento: breve resumo e citação.]",
+            "sw": "[Jinsi magazeti ya Kisovyeti yalivyoeleza tukio: muhtasari mfupi na nukuu.]"
+          }
+        },
+        {
+          "label": {
+            "ru": "Египетская пресса",
+            "en": "Egyptian press",
+            "fr": "Presse égyptienne",
+            "pt": "Imprensa egípcia",
+            "sw": "Magazeti ya Misri"
+          },
+          "scan": {
+            "ru": "[Скан вырезки · газета, дата]",
+            "en": "[Clipping scan · newspaper, date]",
+            "fr": "[Coupure numérisée · journal, date]",
+            "pt": "[Recorte digitalizado · jornal, data]",
+            "sw": "[Nakala ya kipande · gazeti, tarehe]"
+          },
+          "text": {
+            "ru": "[Как о том же писала египетская пресса.]",
+            "en": "[How the Egyptian press wrote about the same event.]",
+            "fr": "[Ce qu’en écrivait la presse égyptienne.]",
+            "pt": "[Como a imprensa egípcia escreveu sobre o mesmo acontecimento.]",
+            "sw": "[Jinsi magazeti ya Misri yalivyoandika kuhusu tukio hilo.]"
+          }
+        }
+      ],
+      "related": [
+        "03.14",
+        "03.15"
+      ]
+    }
+  ]
+}

@@ -62,6 +62,13 @@
       "fr": "Menu",
       "pt": "Menu",
       "sw": "Menyu"
+    },
+    "navArch": {
+      "ru": "Архив",
+      "en": "Archive",
+      "fr": "Archives",
+      "pt": "Arquivo",
+      "sw": "Kumbukumbu"
     }
   },
   "hero": {
@@ -419,6 +426,835 @@
       "fr": "Cette rubrique sera ajoutée lors de la prochaine étape du site.",
       "pt": "Esta secção será acrescentada na próxima fase do site.",
       "sw": "Sehemu hii itaongezwa katika hatua inayofuata ya tovuti."
+    }
+  },
+  "common": {
+    "home": {
+      "ru": "Главная",
+      "en": "Home",
+      "fr": "Accueil",
+      "pt": "Início",
+      "sw": "Mwanzo"
+    },
+    "toHome": {
+      "ru": "На главную",
+      "en": "Home",
+      "fr": "Accueil",
+      "pt": "Início",
+      "sw": "Mwanzo"
+    },
+    "breadcrumb": {
+      "ru": "Путь",
+      "en": "Breadcrumb",
+      "fr": "Fil d’Ariane",
+      "pt": "Navegação",
+      "sw": "Njia"
+    }
+  },
+  "story": {
+    "story": {
+      "ru": "СЮЖЕТ",
+      "en": "STORY",
+      "fr": "RÉCIT",
+      "pt": "HISTÓRIA",
+      "sw": "SIMULIZI"
+    },
+    "items": {
+      "ru": "МАТЕРИАЛОВ",
+      "en": "ITEMS",
+      "fr": "DOCUMENTS",
+      "pt": "MATERIAIS",
+      "sw": "VITU"
+    },
+    "read": {
+      "ru": "~{n} МИН ЧТЕНИЯ",
+      "en": "~{n} MIN READ",
+      "fr": "~{n} MIN DE LECTURE",
+      "pt": "~{n} MIN DE LEITURA",
+      "sw": "DAKIKA ~{n} ZA KUSOMA"
+    },
+    "updated": {
+      "ru": "ОБНОВЛЕНО [ДАТА]",
+      "en": "UPDATED [DATE]",
+      "fr": "MIS À JOUR [DATE]",
+      "pt": "ATUALIZADO [DATA]",
+      "sw": "IMESASISHWA [TAREHE]"
+    },
+    "passport": {
+      "ru": "ПАСПОРТ СЮЖЕТА",
+      "en": "STORY FILE",
+      "fr": "FICHE DU RÉCIT",
+      "pt": "FICHA DA HISTÓRIA",
+      "sw": "TAARIFA ZA SIMULIZI"
+    },
+    "topics": {
+      "ru": "ТЕМЫ",
+      "en": "TOPICS",
+      "fr": "THÈMES",
+      "pt": "TEMAS",
+      "sw": "MADA"
+    },
+    "seeMat": {
+      "ru": "Смотреть материалы",
+      "en": "View items",
+      "fr": "Voir les documents",
+      "pt": "Ver materiais",
+      "sw": "Tazama vitu"
+    },
+    "download": {
+      "ru": "Скачать для исследования",
+      "en": "Download for research",
+      "fr": "Télécharger pour la recherche",
+      "pt": "Descarregar para investigação",
+      "sw": "Pakua kwa utafiti"
+    },
+    "zoom": {
+      "ru": "Открыть фото крупно",
+      "en": "Open photo full size",
+      "fr": "Ouvrir la photo en grand",
+      "pt": "Abrir a foto em grande",
+      "sw": "Fungua picha kubwa"
+    },
+    "timeline": {
+      "ru": "Хронология",
+      "en": "Timeline",
+      "fr": "Chronologie",
+      "pt": "Cronologia",
+      "sw": "Mfuatano wa matukio"
+    },
+    "matTitle": {
+      "ru": "Материалы сюжета",
+      "en": "Story items",
+      "fr": "Documents du récit",
+      "pt": "Materiais da história",
+      "sw": "Vitu vya simulizi"
+    },
+    "filterLabel": {
+      "ru": "Тип материала",
+      "en": "Item type",
+      "fr": "Type de document",
+      "pt": "Tipo de material",
+      "sw": "Aina ya kitu"
+    },
+    "fAll": {
+      "ru": "Все",
+      "en": "All",
+      "fr": "Tous",
+      "pt": "Todos",
+      "sw": "Vyote"
+    },
+    "fPhoto": {
+      "ru": "Фото",
+      "en": "Photos",
+      "fr": "Photos",
+      "pt": "Fotos",
+      "sw": "Picha"
+    },
+    "fDoc": {
+      "ru": "Документы",
+      "en": "Documents",
+      "fr": "Documents",
+      "pt": "Documentos",
+      "sw": "Nyaraka"
+    },
+    "fPress": {
+      "ru": "Пресса",
+      "en": "Press",
+      "fr": "Presse",
+      "pt": "Imprensa",
+      "sw": "Magazeti"
+    },
+    "scan": {
+      "ru": "[скан из архива Центра]",
+      "en": "[scan from the Center’s archive]",
+      "fr": "[numérisation des archives du Centre]",
+      "pt": "[digitalização do arquivo do Centro]",
+      "sw": "[nakala kutoka kumbukumbu za Kituo]"
+    },
+    "optics": {
+      "ru": "Две оптики",
+      "en": "Two perspectives",
+      "fr": "Deux regards",
+      "pt": "Dois olhares",
+      "sw": "Mitazamo miwili"
+    },
+    "other": {
+      "ru": "Другие сюжеты",
+      "en": "Other stories",
+      "fr": "Autres récits",
+      "pt": "Outras histórias",
+      "sw": "Simulizi nyingine"
+    },
+    "viewer": {
+      "ru": "Просмотр материала",
+      "en": "Item viewer",
+      "fr": "Visionneuse",
+      "pt": "Visualizador",
+      "sw": "Kitazamaji"
+    },
+    "close": {
+      "ru": "Закрыть",
+      "en": "Close",
+      "fr": "Fermer",
+      "pt": "Fechar",
+      "sw": "Funga"
+    },
+    "prev": {
+      "ru": "Предыдущий",
+      "en": "Previous",
+      "fr": "Précédent",
+      "pt": "Anterior",
+      "sw": "Iliyotangulia"
+    },
+    "next": {
+      "ru": "Следующий",
+      "en": "Next",
+      "fr": "Suivant",
+      "pt": "Seguinte",
+      "sw": "Inayofuata"
+    },
+    "lbDate": {
+      "ru": "ДАТА",
+      "en": "DATE",
+      "fr": "DATE",
+      "pt": "DATA",
+      "sw": "TAREHE"
+    },
+    "lbCode": {
+      "ru": "ШИФР",
+      "en": "REF.",
+      "fr": "COTE",
+      "pt": "COTA",
+      "sw": "NAMBA"
+    },
+    "lbSrc": {
+      "ru": "ИСТОЧНИК",
+      "en": "SOURCE",
+      "fr": "SOURCE",
+      "pt": "FONTE",
+      "sw": "CHANZO"
+    },
+    "kPhoto": {
+      "ru": "ФОТО",
+      "en": "PHOTO",
+      "fr": "PHOTO",
+      "pt": "FOTO",
+      "sw": "PICHA"
+    },
+    "kDoc": {
+      "ru": "ДОКУМЕНТ",
+      "en": "DOCUMENT",
+      "fr": "DOCUMENT",
+      "pt": "DOCUMENTO",
+      "sw": "HATI"
+    },
+    "kPress": {
+      "ru": "ПРЕССА",
+      "en": "PRESS",
+      "fr": "PRESSE",
+      "pt": "IMPRENSA",
+      "sw": "GAZETI"
+    },
+    "sample": {
+      "ru": "[пример]",
+      "en": "[sample]",
+      "fr": "[exemple]",
+      "pt": "[exemplo]",
+      "sw": "[mfano]"
+    },
+    "ref": {
+      "ru": "[шифр]",
+      "en": "[ref.]",
+      "fr": "[cote]",
+      "pt": "[cota]",
+      "sw": "[namba]"
+    },
+    "modern": {
+      "ru": "СОВРЕМЕННОЕ ФОТО",
+      "en": "MODERN PHOTO",
+      "fr": "PHOTO ACTUELLE",
+      "pt": "FOTO ATUAL",
+      "sw": "PICHA YA SASA"
+    },
+    "credits": {
+      "ru": "Фото в макете: Wikimedia Commons, авторы указаны в подписях",
+      "en": "Photos in this mock-up: Wikimedia Commons, authors credited in captions",
+      "fr": "Photos de la maquette : Wikimedia Commons, auteurs indiqués dans les légendes",
+      "pt": "Fotos da maqueta: Wikimedia Commons, autores indicados nas legendas",
+      "sw": "Picha za mfano: Wikimedia Commons, waandishi wametajwa kwenye maelezo"
+    },
+    "notFound": {
+      "ru": "Сюжет не найден.",
+      "en": "Story not found.",
+      "fr": "Récit introuvable.",
+      "pt": "História não encontrada.",
+      "sw": "Simulizi haikupatikana."
+    }
+  },
+  "exhibit": {
+    "word": {
+      "ru": "ЭКСПОНАТ",
+      "en": "EXHIBIT",
+      "fr": "OBJET",
+      "pt": "PEÇA",
+      "sw": "KITU"
+    },
+    "stamp": {
+      "ru": "АРХИВ ЦПА",
+      "en": "CAAS ARCHIVE",
+      "fr": "ARCHIVES CEAA",
+      "pt": "ARQUIVO CEAA",
+      "sw": "KUMBUKUMBU ZA KTA"
+    },
+    "lPlace": {
+      "ru": "МЕСТО",
+      "en": "PLACE",
+      "fr": "LIEU",
+      "pt": "LOCAL",
+      "sw": "MAHALI"
+    },
+    "lDate": {
+      "ru": "ДАТА",
+      "en": "DATE",
+      "fr": "DATE",
+      "pt": "DATA",
+      "sw": "TAREHE"
+    },
+    "lAuthor": {
+      "ru": "АВТОР",
+      "en": "AUTHOR",
+      "fr": "AUTEUR",
+      "pt": "AUTOR",
+      "sw": "MWANDISHI"
+    },
+    "lSource": {
+      "ru": "ИСТОЧНИК",
+      "en": "SOURCE",
+      "fr": "SOURCE",
+      "pt": "FONTE",
+      "sw": "CHANZO"
+    },
+    "listen": {
+      "ru": "Слушать историю",
+      "en": "Listen to the story",
+      "fr": "Écouter l’histoire",
+      "pt": "Ouvir a história",
+      "sw": "Sikiliza simulizi"
+    },
+    "optics": {
+      "ru": "Две оптики",
+      "en": "Two perspectives",
+      "fr": "Deux regards",
+      "pt": "Dois olhares",
+      "sw": "Mitazamo miwili"
+    },
+    "opticsHead": {
+      "ru": "ДВЕ ОПТИКИ · КАК ОБ ЭТОМ ПИСАЛИ",
+      "en": "TWO PERSPECTIVES · HOW IT WAS REPORTED",
+      "fr": "DEUX REGARDS · CE QU’EN DISAIT LA PRESSE",
+      "pt": "DOIS OLHARES · COMO A IMPRENSA NOTICIOU",
+      "sw": "MITAZAMO MIWILI · JINSI ILIVYORIPOTIWA"
+    },
+    "near": {
+      "ru": "Рядом на выставке",
+      "en": "Nearby in the exhibition",
+      "fr": "À proximité dans l’exposition",
+      "pt": "Perto na exposição",
+      "sw": "Karibu kwenye maonyesho"
+    },
+    "navLabel": {
+      "ru": "Экспонаты",
+      "en": "Exhibits",
+      "fr": "Objets",
+      "pt": "Peças",
+      "sw": "Vitu"
+    },
+    "prev": {
+      "ru": "НАЗАД",
+      "en": "BACK",
+      "fr": "PRÉCÉDENT",
+      "pt": "ANTERIOR",
+      "sw": "NYUMA"
+    },
+    "next": {
+      "ru": "ДАЛЕЕ",
+      "en": "NEXT",
+      "fr": "SUIVANT",
+      "pt": "SEGUINTE",
+      "sw": "MBELE"
+    },
+    "notFound": {
+      "ru": "Экспонат с таким номером не найден. Проверьте номер на стенде.",
+      "en": "No exhibit with this number. Please check the number on the stand.",
+      "fr": "Aucun objet ne porte ce numéro. Vérifiez le numéro sur le panneau.",
+      "pt": "Não existe peça com este número. Verifique o número no painel.",
+      "sw": "Hakuna kitu chenye namba hii. Tafadhali angalia namba kwenye ubao."
+    }
+  },
+  "exhibition": {
+    "word": {
+      "ru": "ВЫСТАВКА",
+      "en": "EXHIBITION",
+      "fr": "EXPOSITION",
+      "pt": "EXPOSIÇÃO",
+      "sw": "MAONYESHO"
+    },
+    "now": {
+      "ru": "СЕЙЧАС",
+      "en": "NOW ON",
+      "fr": "EN COURS",
+      "pt": "AGORA",
+      "sw": "SASA"
+    },
+    "lDates": {
+      "ru": "ДАТЫ",
+      "en": "DATES",
+      "fr": "DATES",
+      "pt": "DATAS",
+      "sw": "TAREHE"
+    },
+    "lPlace": {
+      "ru": "АДРЕС",
+      "en": "ADDRESS",
+      "fr": "ADRESSE",
+      "pt": "MORADA",
+      "sw": "ANWANI"
+    },
+    "lHours": {
+      "ru": "ЧАСЫ",
+      "en": "HOURS",
+      "fr": "HORAIRES",
+      "pt": "HORÁRIO",
+      "sw": "SAA"
+    },
+    "lEntry": {
+      "ru": "ВХОД",
+      "en": "ENTRY",
+      "fr": "ENTRÉE",
+      "pt": "ENTRADA",
+      "sw": "KIINGILIO"
+    },
+    "aboutH": {
+      "ru": "О выставке",
+      "en": "About the exhibition",
+      "fr": "L’exposition",
+      "pt": "Sobre a exposição",
+      "sw": "Kuhusu maonyesho"
+    },
+    "lead": {
+      "ru": "Фотографии, документы и плакаты о том, как страны Африки добивались независимости и как в этом участвовал Советский Союз.",
+      "en": "Photographs, documents and posters on how African countries won their independence and how the Soviet Union took part in it.",
+      "fr": "Photographies, documents et affiches sur la manière dont les pays africains ont conquis leur indépendance et sur le rôle de l’Union soviétique.",
+      "pt": "Fotografias, documentos e cartazes sobre como os países africanos conquistaram a independência e o papel da União Soviética.",
+      "sw": "Picha, nyaraka na mabango kuhusu jinsi nchi za Afrika zilivyopata uhuru na nafasi ya Umoja wa Kisovyeti katika hilo."
+    },
+    "sectH": {
+      "ru": "Разделы выставки",
+      "en": "Exhibition sections",
+      "fr": "Sections de l’exposition",
+      "pt": "Secções da exposição",
+      "sw": "Sehemu za maonyesho"
+    },
+    "sectHint": {
+      "ru": "Каждый раздел — сюжет на сайте. QR-код на стенде ведёт сюда же.",
+      "en": "Each section is a story on the website. The QR code on the stand leads here too.",
+      "fr": "Chaque section est un récit sur le site. Le code QR du panneau mène ici aussi.",
+      "pt": "Cada secção é uma história no site. O código QR do painel também leva aqui.",
+      "sw": "Kila sehemu ni simulizi kwenye tovuti. Msimbo wa QR kwenye ubao unaleta hapa pia."
+    },
+    "hall": {
+      "ru": "РАЗДЕЛ",
+      "en": "SECTION",
+      "fr": "SECTION",
+      "pt": "SECÇÃO",
+      "sw": "SEHEMU"
+    },
+    "open": {
+      "ru": "Открыть сюжет",
+      "en": "Open the story",
+      "fr": "Ouvrir le récit",
+      "pt": "Abrir a história",
+      "sw": "Fungua simulizi"
+    },
+    "photoH": {
+      "ru": "Фоторепортаж",
+      "en": "Photo report",
+      "fr": "Reportage photo",
+      "pt": "Reportagem fotográfica",
+      "sw": "Picha za maonyesho"
+    },
+    "prev": {
+      "ru": "Предыдущее фото",
+      "en": "Previous photo",
+      "fr": "Photo précédente",
+      "pt": "Foto anterior",
+      "sw": "Picha iliyotangulia"
+    },
+    "next": {
+      "ru": "Следующее фото",
+      "en": "Next photo",
+      "fr": "Photo suivante",
+      "pt": "Foto seguinte",
+      "sw": "Picha inayofuata"
+    },
+    "partnersH": {
+      "ru": "Партнёры",
+      "en": "Partners",
+      "fr": "Partenaires",
+      "pt": "Parceiros",
+      "sw": "Washirika"
+    },
+    "pressH": {
+      "ru": "Пресса",
+      "en": "Press",
+      "fr": "Presse",
+      "pt": "Imprensa",
+      "sw": "Vyombo vya habari"
+    },
+    "otherH": {
+      "ru": "Другие выставки",
+      "en": "Other exhibitions",
+      "fr": "Autres expositions",
+      "pt": "Outras exposições",
+      "sw": "Maonyesho mengine"
+    },
+    "credits": {
+      "ru": "Фото: Jaba1977, CC BY-SA 4.0 · Wikimedia Commons",
+      "en": "Photos: Jaba1977, CC BY-SA 4.0 · Wikimedia Commons",
+      "fr": "Photos : Jaba1977, CC BY-SA 4.0 · Wikimedia Commons",
+      "pt": "Fotos: Jaba1977, CC BY-SA 4.0 · Wikimedia Commons",
+      "sw": "Picha: Jaba1977, CC BY-SA 4.0 · Wikimedia Commons"
+    },
+    "notFound": {
+      "ru": "Выставка не найдена.",
+      "en": "Exhibition not found.",
+      "fr": "Exposition introuvable.",
+      "pt": "Exposição não encontrada.",
+      "sw": "Maonyesho hayakupatikana."
+    }
+  },
+  "pubpage": {
+    "h1": {
+      "ru": "Публикации учёных Центра",
+      "en": "Publications by the Center’s scholars",
+      "fr": "Publications des chercheurs du Centre",
+      "pt": "Publicações dos investigadores do Centro",
+      "sw": "Machapisho ya wataalamu wa Kituo"
+    },
+    "lead": {
+      "ru": "Статьи сотрудников и участников Центра прикладной африканистики: история колониализма и деколонизации, современные конфликты и политика стран Африки.",
+      "en": "Articles by staff and members of the Center for Applied African Studies: the history of colonialism and decolonisation, current conflicts and politics in Africa.",
+      "fr": "Articles des membres du Centre d’études africaines appliquées : histoire du colonialisme et de la décolonisation, conflits et politique en Afrique aujourd’hui.",
+      "pt": "Artigos dos membros do Centro de Estudos Africanos Aplicados: história do colonialismo e da descolonização, conflitos e política atuais em África.",
+      "sw": "Makala za wanachama wa Kituo cha Taaluma za Afrika kwa Vitendo: historia ya ukoloni na kuondoa ukoloni, migogoro na siasa za sasa barani Afrika."
+    },
+    "filterLabel": {
+      "ru": "Регион",
+      "en": "Region",
+      "fr": "Région",
+      "pt": "Região",
+      "sw": "Kanda"
+    },
+    "fAll": {
+      "ru": "Все",
+      "en": "All",
+      "fr": "Toutes",
+      "pt": "Todas",
+      "sw": "Zote"
+    },
+    "pages": {
+      "ru": "с.",
+      "en": "pp.",
+      "fr": "p.",
+      "pt": "pp.",
+      "sw": "uk."
+    },
+    "abs": {
+      "ru": "Аннотация",
+      "en": "Abstract",
+      "fr": "Résumé",
+      "pt": "Resumo",
+      "sw": "Muhtasari"
+    },
+    "absHide": {
+      "ru": "Скрыть аннотацию",
+      "en": "Hide abstract",
+      "fr": "Masquer le résumé",
+      "pt": "Ocultar resumo",
+      "sw": "Ficha muhtasari"
+    },
+    "absHead": {
+      "ru": "АННОТАЦИЯ",
+      "en": "ABSTRACT",
+      "fr": "RÉSUMÉ",
+      "pt": "RESUMO",
+      "sw": "MUHTASARI"
+    },
+    "absNote": {
+      "ru": "",
+      "en": "",
+      "fr": " · ARTICLE EN RUSSE, RÉSUMÉ DE L’AUTEUR EN ANGLAIS",
+      "pt": " · ARTIGO EM RUSSO, RESUMO DO AUTOR EM INGLÊS",
+      "sw": " · MAKALA KWA KIRUSI, MUHTASARI WA MWANDISHI KWA KIINGEREZA"
+    },
+    "pdf": {
+      "ru": "PDF",
+      "en": "PDF",
+      "fr": "PDF",
+      "pt": "PDF",
+      "sw": "PDF"
+    },
+    "cl": {
+      "ru": "КиберЛенинка",
+      "en": "CyberLeninka",
+      "fr": "CyberLeninka",
+      "pt": "CyberLeninka",
+      "sw": "CyberLeninka"
+    },
+    "cite": {
+      "ru": "КАК ЦИТИРОВАТЬ",
+      "en": "HOW TO CITE",
+      "fr": "COMMENT CITER",
+      "pt": "COMO CITAR",
+      "sw": "JINSI YA KUNUKUU"
+    },
+    "authorsHead": {
+      "ru": "АВТОРЫ ЦЕНТРА",
+      "en": "CENTER AUTHORS",
+      "fr": "AUTEURS DU CENTRE",
+      "pt": "AUTORES DO CENTRO",
+      "sw": "WAANDISHI WA KITUO"
+    },
+    "count1": {
+      "ru": "публикации",
+      "en": "publications",
+      "fr": "publications",
+      "pt": "publicações",
+      "sw": "machapisho"
+    },
+    "addTitle": {
+      "ru": "Вы учёный Центра?",
+      "en": "Are you a Center scholar?",
+      "fr": "Vous êtes chercheur du Centre ?",
+      "pt": "É investigador do Centro?",
+      "sw": "Je, wewe ni mtaalamu wa Kituo?"
+    },
+    "addText": {
+      "ru": "Добавьте свою статью в библиотеку: она появится здесь после проверки.",
+      "en": "Add your article to the library: it will appear here after review.",
+      "fr": "Ajoutez votre article à la bibliothèque : il apparaîtra ici après vérification.",
+      "pt": "Adicione o seu artigo à biblioteca: aparecerá aqui depois da verificação.",
+      "sw": "Ongeza makala yako kwenye maktaba: itaonekana hapa baada ya ukaguzi."
+    },
+    "addCta": {
+      "ru": "Добавить статью",
+      "en": "Add an article",
+      "fr": "Ajouter un article",
+      "pt": "Adicionar artigo",
+      "sw": "Ongeza makala"
+    },
+    "upKicker": {
+      "ru": "ДЛЯ УЧАСТНИКОВ ЦЕНТРА",
+      "en": "FOR CENTER MEMBERS",
+      "fr": "POUR LES MEMBRES DU CENTRE",
+      "pt": "PARA MEMBROS DO CENTRO",
+      "sw": "KWA WANACHAMA WA KITUO"
+    },
+    "upTitle": {
+      "ru": "Добавить публикацию",
+      "en": "Add a publication",
+      "fr": "Ajouter une publication",
+      "pt": "Adicionar publicação",
+      "sw": "Ongeza chapisho"
+    },
+    "upText": {
+      "ru": "Загрузите статью, опубликованную в открытом доступе. Модератор Центра проверит данные и опубликует её в библиотеке.",
+      "en": "Upload an article published in open access. A Center moderator will check the details and publish it in the library.",
+      "fr": "Téléversez un article publié en libre accès. Un modérateur du Centre vérifiera les données et le publiera dans la bibliothèque.",
+      "pt": "Carregue um artigo publicado em acesso aberto. Um moderador do Centro verificará os dados e publicá-lo-á na biblioteca.",
+      "sw": "Pakia makala iliyochapishwa wazi kwa umma. Msimamizi wa Kituo atakagua taarifa na kuichapisha kwenye maktaba."
+    },
+    "fAuthor": {
+      "ru": "АВТОР",
+      "en": "AUTHOR",
+      "fr": "AUTEUR",
+      "pt": "AUTOR",
+      "sw": "MWANDISHI"
+    },
+    "phAuthor": {
+      "ru": "Фамилия И.О.",
+      "en": "Surname, initials",
+      "fr": "Nom, initiales",
+      "pt": "Apelido, iniciais",
+      "sw": "Jina la ukoo, herufi za kwanza"
+    },
+    "fYear": {
+      "ru": "ГОД",
+      "en": "YEAR",
+      "fr": "ANNÉE",
+      "pt": "ANO",
+      "sw": "MWAKA"
+    },
+    "fTitle": {
+      "ru": "НАЗВАНИЕ СТАТЬИ",
+      "en": "ARTICLE TITLE",
+      "fr": "TITRE DE L’ARTICLE",
+      "pt": "TÍTULO DO ARTIGO",
+      "sw": "KICHWA CHA MAKALA"
+    },
+    "phTitle": {
+      "ru": "Полное название",
+      "en": "Full title",
+      "fr": "Titre complet",
+      "pt": "Título completo",
+      "sw": "Kichwa kamili"
+    },
+    "fJournal": {
+      "ru": "ЖУРНАЛ ИЛИ СБОРНИК",
+      "en": "JOURNAL OR VOLUME",
+      "fr": "REVUE OU OUVRAGE",
+      "pt": "REVISTA OU OBRA",
+      "sw": "JARIDA AU KITABU"
+    },
+    "phJournal": {
+      "ru": "Название, номер, страницы",
+      "en": "Title, issue, pages",
+      "fr": "Titre, numéro, pages",
+      "pt": "Título, número, páginas",
+      "sw": "Jina, toleo, kurasa"
+    },
+    "fDoi": {
+      "ru": "DOI ИЛИ ССЫЛКА",
+      "en": "DOI OR LINK",
+      "fr": "DOI OU LIEN",
+      "pt": "DOI OU LIGAÇÃO",
+      "sw": "DOI AU KIUNGO"
+    },
+    "fAbs": {
+      "ru": "АННОТАЦИЯ",
+      "en": "ABSTRACT",
+      "fr": "RÉSUMÉ",
+      "pt": "RESUMO",
+      "sw": "MUHTASARI"
+    },
+    "phAbs": {
+      "ru": "Несколько предложений о статье",
+      "en": "A few sentences about the article",
+      "fr": "Quelques phrases sur l’article",
+      "pt": "Algumas frases sobre o artigo",
+      "sw": "Sentensi chache kuhusu makala"
+    },
+    "fAgree": {
+      "ru": "Статья находится в открытом доступе, и я её автор или соавтор",
+      "en": "The article is open access and I am its author or co-author",
+      "fr": "L’article est en libre accès et j’en suis l’auteur ou le coauteur",
+      "pt": "O artigo está em acesso aberto e sou o seu autor ou coautor",
+      "sw": "Makala iko wazi kwa umma na mimi ni mwandishi au mwandishi mwenza"
+    },
+    "submit": {
+      "ru": "Отправить на проверку",
+      "en": "Submit for review",
+      "fr": "Envoyer pour vérification",
+      "pt": "Enviar para verificação",
+      "sw": "Tuma kwa ukaguzi"
+    },
+    "credits": {
+      "ru": "Статьи: КиберЛенинка, открытый доступ",
+      "en": "Articles: CyberLeninka, open access",
+      "fr": "Articles : CyberLeninka, libre accès",
+      "pt": "Artigos: CyberLeninka, acesso aberto",
+      "sw": "Makala: CyberLeninka, wazi kwa umma"
+    },
+    "stPubs": {
+      "ru": "публикации",
+      "en": "publications",
+      "fr": "publications",
+      "pt": "publicações",
+      "sw": "machapisho"
+    },
+    "stAuthors": {
+      "ru": "автор",
+      "en": "author",
+      "fr": "auteur",
+      "pt": "autor",
+      "sw": "mwandishi"
+    },
+    "stJournals": {
+      "ru": "журнала",
+      "en": "journals",
+      "fr": "revues",
+      "pt": "revistas",
+      "sw": "majarida"
+    },
+    "step1": {
+      "ru": "Заполните данные статьи и прикрепите PDF",
+      "en": "Fill in the article details and attach the PDF",
+      "fr": "Renseignez l’article et joignez le PDF",
+      "pt": "Preencha os dados do artigo e anexe o PDF",
+      "sw": "Jaza taarifa za makala na uambatishe PDF"
+    },
+    "step2": {
+      "ru": "Модератор Центра проверит публикацию",
+      "en": "A Center moderator reviews the publication",
+      "fr": "Un modérateur du Centre vérifie la publication",
+      "pt": "Um moderador do Centro verifica a publicação",
+      "sw": "Msimamizi wa Kituo anakagua chapisho"
+    },
+    "step3": {
+      "ru": "Статья появится в списке и на главной",
+      "en": "The article appears in the list and on the home page",
+      "fr": "L’article apparaît dans la liste et sur l’accueil",
+      "pt": "O artigo aparece na lista e na página inicial",
+      "sw": "Makala inaonekana kwenye orodha na ukurasa mkuu"
+    },
+    "fLink": {
+      "ru": "ССЫЛКА НА PDF ИЛИ КИБЕРЛЕНИНКУ",
+      "en": "LINK TO THE PDF OR CYBERLENINKA",
+      "fr": "LIEN VERS LE PDF OU CYBERLENINKA",
+      "pt": "LIGAÇÃO PARA O PDF OU CYBERLENINKA",
+      "sw": "KIUNGO CHA PDF AU CYBERLENINKA"
+    },
+    "mailNote": {
+      "ru": "По кнопке откроется ваша почта с готовым письмом. Файл PDF можно приложить к нему.",
+      "en": "The button opens your email app with a ready-made message. You can attach the PDF to it.",
+      "fr": "Le bouton ouvre votre messagerie avec un message prêt à envoyer. Vous pouvez y joindre le PDF.",
+      "pt": "O botão abre o seu e-mail com uma mensagem pronta. Pode anexar o PDF.",
+      "sw": "Kitufe kinafungua barua pepe yako ikiwa na ujumbe tayari. Unaweza kuambatisha PDF."
+    },
+    "noEmail": {
+      "ru": "Адрес для заявок пока не указан — форма скоро заработает.",
+      "en": "The address for submissions has not been set yet — the form will work soon.",
+      "fr": "L’adresse de réception n’est pas encore indiquée — le formulaire fonctionnera bientôt.",
+      "pt": "O endereço para envio ainda não foi indicado — o formulário funcionará em breve.",
+      "sw": "Anwani ya kupokea maombi bado haijawekwa — fomu itafanya kazi hivi karibuni."
+    },
+    "sentMsg": {
+      "ru": "Письмо подготовлено в вашей почте. Отправьте его — после проверки статья появится в библиотеке.",
+      "en": "The message is ready in your email app. Send it, and after review the article will appear in the library.",
+      "fr": "Le message est prêt dans votre messagerie. Envoyez-le : après vérification, l’article apparaîtra dans la bibliothèque.",
+      "pt": "A mensagem está pronta no seu e-mail. Envie-a: depois da verificação, o artigo aparecerá na biblioteca.",
+      "sw": "Ujumbe uko tayari kwenye barua pepe yako. Utume, na baada ya ukaguzi makala itaonekana kwenye maktaba."
+    },
+    "needAgree": {
+      "ru": "Заполните автора и название и подтвердите, что статья в открытом доступе.",
+      "en": "Please fill in the author and title and confirm that the article is open access.",
+      "fr": "Indiquez l’auteur et le titre et confirmez que l’article est en libre accès.",
+      "pt": "Preencha o autor e o título e confirme que o artigo está em acesso aberto.",
+      "sw": "Jaza mwandishi na kichwa, na uthibitishe kuwa makala iko wazi kwa umma."
+    },
+    "mailSubject": {
+      "ru": "Новая публикация для библиотеки ЦПА",
+      "en": "New publication for the CAAS library",
+      "fr": "Nouvelle publication pour la bibliothèque du CEAA",
+      "pt": "Nova publicação para a biblioteca do CEAA",
+      "sw": "Chapisho jipya kwa maktaba ya KTA"
+    },
+    "submitEmail": {
+      "ru": "",
+      "en": "",
+      "fr": "",
+      "pt": "",
+      "sw": ""
     }
   }
 }

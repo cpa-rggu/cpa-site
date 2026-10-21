@@ -1,0 +1,31 @@
+{
+  "items": [
+    {
+      "id": "medushevsky",
+      "initials": {
+        "ru": "НМ",
+        "en": "NM"
+      },
+      "name": {
+        "ru": "Медушевский Николай Андреевич",
+        "en": "Nikolay A. Medushevsky"
+      },
+      "cite": {
+        "ru": "Медушевский Н.А.",
+        "en": "Medushevsky N.A."
+      },
+      "role": {
+        "ru": "Доктор политических наук, профессор",
+        "en": "Doctor of Political Science, Professor",
+        "fr": "Dr. habil. (Political Science), Professor",
+        "pt": "Dr. habil. (Political Science), Professor",
+        "sw": "Dr. habil. (Political Science), Professor"
+      },
+      "affiliation": {
+        "ru": "РГГУ · РУДН имени Патриса Лумумбы",
+        "en": "RSUH · Peoples’ Friendship University of Russia"
+      },
+      "orcid": "https://orcid.org/0000-0003-0475-6713"
+    }
+  ]
+}

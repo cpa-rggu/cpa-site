@@ -1,0 +1,127 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Публикации учёных Центра — Африка. Путь к независимости</title>
+<link rel="icon" type="image/png" href="assets/logo_dark__fc87e939.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Unbounded:wght@400;500;600;800&family=Oswald:wght@600&family=Onest:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap">
+<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="css/pages.css">
+</head>
+<body class="page-pubs">
+<!-- Публикации учёных Центра. Данные — content/publications.json и content/authors.json. -->
+
+<header class="site-header">
+  <div class="wrap header-row">
+    <a href="index.html" class="brand">
+      <span class="logo" data-logo></span>
+      <span class="brand-text">
+        <span class="brand-org" data-t="header.org"></span>
+        <span class="brand-uni" data-t="header.uni"></span>
+      </span>
+    </a>
+    <nav class="nav" data-t-aria="header.navLabel">
+      <a href="index.html#timeline" data-t="header.navChron"></a>
+      <a href="index.html#exhibitions" data-t="header.navExh"></a>
+      <a href="publications.html" aria-current="page" data-t="header.navPub"></a>
+      <a href="index.html#about" data-t="header.navAbout"></a>
+    </nav>
+    <div class="langs" data-langs></div>
+    <button type="button" class="burger" data-burger aria-expanded="false" data-t-aria="header.menu">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#141414" stroke-width="2" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg>
+    </button>
+  </div>
+  <nav class="mobile-menu" data-mobile-menu hidden data-t-aria="header.navLabel">
+    <a href="index.html#timeline" data-t="header.navChron"></a>
+    <a href="index.html#exhibitions" data-t="header.navExh"></a>
+    <a href="publications.html" data-t="header.navPub"></a>
+    <a href="index.html#about" data-t="header.navAbout"></a>
+    <div class="langs langs-dark" data-langs></div>
+  </nav>
+</header>
+
+<main>
+  <section class="pp-head">
+    <div class="wrap pp-head-inner">
+      <div class="pp-head-text">
+        <div class="pp-crumbs"><a href="index.html" data-t="common.home"></a><span>/</span><span data-t="header.navPub"></span></div>
+        <h1 class="pp-h1" data-t="pubpage.h1"></h1>
+        <p class="pp-lead" data-t="pubpage.lead"></p>
+      </div>
+      <div class="pp-stats" data-stats></div>
+    </div>
+  </section>
+
+  <section>
+    <div class="wrap pp-main">
+      <div class="pp-list-col">
+        <div class="pp-filters" role="group" data-t-aria="pubpage.filterLabel" data-filters></div>
+        <div data-list></div>
+      </div>
+      <aside id="authors" class="pp-aside">
+        <div data-authors></div>
+        <a href="#upload" class="pp-add">
+          <span class="pp-add-title" data-t="pubpage.addTitle"></span>
+          <span class="pp-add-text" data-t="pubpage.addText"></span>
+          <span class="pp-add-cta"><span data-t="pubpage.addCta"></span> →</span>
+        </a>
+      </aside>
+    </div>
+  </section>
+
+  <section id="upload" class="pp-upload">
+    <div class="wrap pp-upload-inner">
+      <div class="pp-upload-text">
+        <span class="pp-up-kicker" data-t="pubpage.upKicker"></span>
+        <h2 class="pp-up-title" data-t="pubpage.upTitle"></h2>
+        <p data-t="pubpage.upText"></p>
+        <ol class="pp-steps">
+          <li><span>01</span><span data-t="pubpage.step1"></span></li>
+          <li><span>02</span><span data-t="pubpage.step2"></span></li>
+          <li><span>03</span><span data-t="pubpage.step3"></span></li>
+        </ol>
+      </div>
+      <!-- Форма не пользуется внешними сервисами: она открывает почтовую программу посетителя с готовым письмом
+           на адрес из «Тексты сайта → Публикации (страница) → Почта для заявок». -->
+      <form class="pp-form" data-form novalidate>
+        <div class="pp-status" role="status" data-status hidden></div>
+        <div class="pp-row">
+          <label class="cpa-field"><span data-t="pubpage.fAuthor"></span><input name="author" type="text" autocomplete="name" data-t-ph="pubpage.phAuthor"></label>
+          <label class="cpa-field"><span data-t="pubpage.fYear"></span><input name="year" type="text" inputmode="numeric" placeholder="2025"></label>
+        </div>
+        <label class="cpa-field"><span data-t="pubpage.fTitle"></span><input name="title" type="text" data-t-ph="pubpage.phTitle"></label>
+        <div class="pp-row">
+          <label class="cpa-field"><span data-t="pubpage.fJournal"></span><input name="journal" type="text" data-t-ph="pubpage.phJournal"></label>
+          <label class="cpa-field"><span data-t="pubpage.fDoi"></span><input name="doi" type="text" placeholder="10.24412/…"></label>
+        </div>
+        <label class="cpa-field"><span data-t="pubpage.fAbs"></span><textarea name="abstract" data-t-ph="pubpage.phAbs"></textarea></label>
+        <label class="cpa-field"><span data-t="pubpage.fLink"></span><input name="link" type="url" placeholder="https://cyberleninka.ru/…"></label>
+        <label class="pp-agree"><input name="agree" type="checkbox"><span data-t="pubpage.fAgree"></span></label>
+        <div class="pp-submit-row">
+          <button type="submit" class="pp-submit" data-t="pubpage.submit"></button>
+          <span class="pp-note" data-t="pubpage.mailNote"></span>
+        </div>
+      </form>
+    </div>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <div class="wrap footer-inner">
+    <div class="footer-row">
+      <span data-t="footer.copy"></span>
+      <span data-t="pubpage.credits"></span>
+    </div>
+  </div>
+</footer>
+
+<div class="toast" role="status" aria-live="polite" data-toast hidden></div>
+<noscript><p class="noscript">Для работы сайта нужен JavaScript. / JavaScript is required.</p></noscript>
+
+<script src="js/common.js"></script>
+<script src="js/publications.js"></script>
+</body>
+</html>

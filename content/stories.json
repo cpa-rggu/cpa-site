@@ -1,0 +1,2474 @@
+{
+  "items": [
+    {
+      "id": "aswan",
+      "card": "assets/nasser__ba45b9c9.jpg",
+      "minutes": 6,
+      "hero": {
+        "src": "assets/damburg__35176946.jpg",
+        "position": "center 55%",
+        "color": true
+      },
+      "heroCredit": {
+        "ru": "Фото: P. Idzkiewicz, 2004 · CC BY-SA 1.0",
+        "en": "Photo: P. Idzkiewicz, 2004 · CC BY-SA 1.0",
+        "fr": "Photo : P. Idzkiewicz, 2004 · CC BY-SA 1.0",
+        "pt": "Foto: P. Idzkiewicz, 2004 · CC BY-SA 1.0",
+        "sw": "Picha: P. Idzkiewicz, 2004 · CC BY-SA 1.0"
+      },
+      "meta": {
+        "ru": "ЕГИПЕТ · 1958—1971",
+        "en": "EGYPT · 1958—1971",
+        "fr": "ÉGYPTE · 1958—1971",
+        "pt": "EGITO · 1958—1971",
+        "sw": "MISRI · 1958—1971"
+      },
+      "kicker": {
+        "ru": "СЮЖЕТ · ЕГИПЕТ · 1958—1971",
+        "en": "STORY · EGYPT · 1958—1971",
+        "fr": "RÉCIT · ÉGYPTE · 1958—1971",
+        "pt": "HISTÓRIA · EGITO · 1958—1971",
+        "sw": "SIMULIZI · MISRI · 1958—1971"
+      },
+      "title": {
+        "ru": "Асуанская плотина",
+        "en": "The Aswan High Dam",
+        "fr": "Le haut barrage d’Assouan",
+        "pt": "A Barragem de Assuão",
+        "sw": "Bwawa Kuu la Aswan"
+      },
+      "heroAlt": {
+        "ru": "Асуанская плотина и монумент арабо-советской дружбы",
+        "en": "The Aswan High Dam and the Monument of Arab–Soviet Friendship",
+        "fr": "Le haut barrage d’Assouan et le monument de l’amitié arabo-soviétique",
+        "pt": "A Barragem de Assuão e o monumento à amizade árabe-soviética",
+        "sw": "Bwawa Kuu la Aswan na mnara wa urafiki wa Kiarabu na Kisovyeti"
+      },
+      "lead": {
+        "ru": "Самая известная советская стройка в Африке: как Египет и СССР перекрыли Нил и что из этого вышло.",
+        "en": "The best-known Soviet construction project in Africa: how Egypt and the USSR dammed the Nile, and what came of it.",
+        "fr": "Le plus célèbre chantier soviétique en Afrique : comment l’Égypte et l’URSS ont barré le Nil, et ce qu’il en est résulté.",
+        "pt": "A mais famosa obra soviética em África: como o Egito e a URSS represaram o Nilo e o que daí resultou.",
+        "sw": "Mradi maarufu zaidi wa ujenzi wa Kisovyeti barani Afrika: jinsi Misri na USSR zilivyozuia Mto Nile, na matokeo yake."
+      },
+      "passport": [
+        {
+          "label": {
+            "ru": "СТРАНА",
+            "en": "COUNTRY",
+            "fr": "PAYS",
+            "pt": "PAÍS",
+            "sw": "NCHI"
+          },
+          "value": {
+            "ru": "Египет (с 1958 по 1961 — в составе ОАР)",
+            "en": "Egypt (part of the UAR in 1958–1961)",
+            "fr": "Égypte (au sein de la RAU de 1958 à 1961)",
+            "pt": "Egito (parte da RAU entre 1958 e 1961)",
+            "sw": "Misri (sehemu ya UAR 1958–1961)"
+          }
+        },
+        {
+          "label": {
+            "ru": "ПЕРИОД",
+            "en": "PERIOD",
+            "fr": "PÉRIODE",
+            "pt": "PERÍODO",
+            "sw": "KIPINDI"
+          },
+          "value": {
+            "ru": "1958—1971",
+            "en": "1958—1971",
+            "fr": "1958—1971",
+            "pt": "1958—1971",
+            "sw": "1958—1971"
+          }
+        },
+        {
+          "label": {
+            "ru": "ЛЮДИ",
+            "en": "PEOPLE",
+            "fr": "PERSONNES",
+            "pt": "PESSOAS",
+            "sw": "WATU"
+          },
+          "value": {
+            "ru": "Гамаль Абдель Насер, Никита Хрущёв, советские инженеры «Гидропроекта»",
+            "en": "Gamal Abdel Nasser, Nikita Khrushchev, Soviet engineers of Gidroproekt",
+            "fr": "Gamal Abdel Nasser, Nikita Khrouchtchev, ingénieurs soviétiques de Hydroprojet",
+            "pt": "Gamal Abdel Nasser, Nikita Khrushchov, engenheiros soviéticos do Gidroproekt",
+            "sw": "Gamal Abdel Nasser, Nikita Khrushchev, wahandisi wa Kisovyeti wa Gidroproekt"
+          }
+        },
+        {
+          "label": {
+            "ru": "ЦИФРЫ",
+            "en": "FIGURES",
+            "fr": "CHIFFRES",
+            "pt": "NÚMEROS",
+            "sw": "TAKWIMU"
+          },
+          "value": {
+            "ru": "Высота 111 м, длина гребня около 3,8 км, ГЭС 2,1 ГВт",
+            "en": "Height 111 m, crest about 3.8 km long, 2.1 GW power station",
+            "fr": "Hauteur 111 m, crête d’environ 3,8 km, centrale de 2,1 GW",
+            "pt": "Altura de 111 m, coroamento de cerca de 3,8 km, central de 2,1 GW",
+            "sw": "Urefu wa juu m 111, kingo karibu km 3.8, kituo cha umeme GW 2.1"
+          }
+        }
+      ],
+      "tags": [
+        {
+          "ru": "Стройки",
+          "en": "Construction",
+          "fr": "Chantiers",
+          "pt": "Obras",
+          "sw": "Ujenzi"
+        },
+        {
+          "ru": "Энергетика",
+          "en": "Energy",
+          "fr": "Énergie",
+          "pt": "Energia",
+          "sw": "Nishati"
+        },
+        {
+          "ru": "Советские специалисты",
+          "en": "Soviet specialists",
+          "fr": "Spécialistes soviétiques",
+          "pt": "Especialistas soviéticos",
+          "sw": "Wataalamu wa Kisovyeti"
+        },
+        {
+          "ru": "Египет",
+          "en": "Egypt",
+          "fr": "Égypte",
+          "pt": "Egito",
+          "sw": "Misri"
+        }
+      ],
+      "intro": {
+        "ru": "Плотина должна была спасти Египет от разливов и засух Нила и дать стране электричество. Строили её десять лет — с советскими кредитами, проектом и техникой.",
+        "en": "The dam was meant to save Egypt from the Nile’s floods and droughts and to give the country electricity. It took ten years to build — with Soviet loans, design and machinery.",
+        "fr": "Le barrage devait protéger l’Égypte des crues et des sécheresses du Nil et lui fournir de l’électricité. Sa construction a duré dix ans, avec des crédits, des plans et des machines soviétiques.",
+        "pt": "A barragem devia proteger o Egito das cheias e secas do Nilo e dar eletricidade ao país. A obra durou dez anos — com créditos, projeto e máquinas soviéticas.",
+        "sw": "Bwawa lilikusudiwa kuiokoa Misri na mafuriko na ukame wa Nile na kuipa nchi umeme. Ujenzi wake ulichukua miaka kumi — kwa mikopo, usanifu na mashine za Kisovyeti."
+      },
+      "before": [
+        {
+          "ru": "В 1956 году США и Великобритания отказались финансировать проект. В ответ Гамаль Абдель Насер национализировал Суэцкий канал, а помощь предложил Советский Союз. В декабре 1958 года было подписано соглашение о кредите на первую очередь строительства, проект готовил институт «Гидропроект».",
+          "en": "In 1956 the United States and Britain refused to finance the project. In response Gamal Abdel Nasser nationalised the Suez Canal, and the Soviet Union offered its help. In December 1958 an agreement was signed on a loan for the first stage, and the design was prepared by the Gidroproekt institute.",
+          "fr": "En 1956, les États-Unis et la Grande-Bretagne refusent de financer le projet. En réponse, Gamal Abdel Nasser nationalise le canal de Suez, et l’Union soviétique propose son aide. En décembre 1958 est signé un accord de crédit pour la première tranche ; le projet est confié à l’institut Hydroprojet.",
+          "pt": "Em 1956 os Estados Unidos e a Grã-Bretanha recusaram financiar o projeto. Em resposta, Gamal Abdel Nasser nacionalizou o Canal do Suez, e a União Soviética ofereceu a sua ajuda. Em dezembro de 1958 foi assinado um acordo de crédito para a primeira fase; o projeto foi preparado pelo instituto Gidroproekt.",
+          "sw": "Mwaka 1956 Marekani na Uingereza zilikataa kufadhili mradi. Kwa kujibu, Gamal Abdel Nasser alitaifisha Mfereji wa Suez, na Umoja wa Kisovyeti ukatoa msaada. Desemba 1958 ulisainiwa mkataba wa mkopo kwa awamu ya kwanza, na usanifu ulifanywa na taasisi ya Gidroproekt."
+        },
+        {
+          "ru": "Работы начались 9 января 1960 года. На стройке одновременно трудились тысячи египетских рабочих и сотни советских специалистов: инженеры, экскаваторщики, переводчики, врачи.",
+          "en": "Work began on 9 January 1960. Thousands of Egyptian workers and hundreds of Soviet specialists worked on the site: engineers, excavator operators, interpreters, doctors.",
+          "fr": "Les travaux commencent le 9 janvier 1960. Des milliers d’ouvriers égyptiens et des centaines de spécialistes soviétiques travaillent sur le chantier : ingénieurs, conducteurs d’excavatrices, interprètes, médecins.",
+          "pt": "As obras começaram a 9 de janeiro de 1960. Milhares de operários egípcios e centenas de especialistas soviéticos trabalharam no estaleiro: engenheiros, operadores de escavadoras, intérpretes, médicos.",
+          "sw": "Kazi ilianza tarehe 9 Januari 1960. Maelfu ya wafanyakazi wa Kimisri na mamia ya wataalamu wa Kisovyeti walifanya kazi eneo la ujenzi: wahandisi, waendeshaji wa mitambo, wakalimani, madaktari."
+        }
+      ],
+      "figure": {
+        "item": 1,
+        "caption": {
+          "ru": "Стройплощадка, март 1964",
+          "en": "Construction site, March 1964",
+          "fr": "Le chantier, mars 1964",
+          "pt": "O estaleiro, março de 1964",
+          "sw": "Eneo la ujenzi, Machi 1964"
+        },
+        "credit": {
+          "ru": "Manfred Niermann · CC BY-SA 4.0",
+          "en": "Manfred Niermann · CC BY-SA 4.0",
+          "fr": "Manfred Niermann · CC BY-SA 4.0",
+          "pt": "Manfred Niermann · CC BY-SA 4.0",
+          "sw": "Manfred Niermann · CC BY-SA 4.0"
+        }
+      },
+      "after": [
+        {
+          "ru": "14 мая 1964 года русло Нила перекрыли. На церемонии вместе с Насером был Никита Хрущёв. Строительство закончили в 1970 году, а торжественно плотину открыли 15 января 1971 года, уже после смерти Насера.",
+          "en": "On 14 May 1964 the Nile was diverted. Nikita Khrushchev attended the ceremony together with Nasser. Construction was completed in 1970, and the dam was formally inaugurated on 15 January 1971, after Nasser’s death.",
+          "fr": "Le 14 mai 1964, le cours du Nil est détourné. Nikita Khrouchtchev assiste à la cérémonie aux côtés de Nasser. La construction s’achève en 1970 et le barrage est inauguré officiellement le 15 janvier 1971, après la mort de Nasser.",
+          "pt": "A 14 de maio de 1964 o curso do Nilo foi desviado. Nikita Khrushchov esteve na cerimónia ao lado de Nasser. A construção terminou em 1970 e a barragem foi inaugurada oficialmente a 15 de janeiro de 1971, já depois da morte de Nasser.",
+          "sw": "Tarehe 14 Mei 1964 mkondo wa Nile ulielekezwa upya. Nikita Khrushchev alihudhuria sherehe pamoja na Nasser. Ujenzi ulikamilika mwaka 1970, na bwawa lilifunguliwa rasmi tarehe 15 Januari 1971, baada ya kifo cha Nasser."
+        }
+      ],
+      "quote": {
+        "ru": "[Цитата из документа архива Центра: письмо, дневник или воспоминание участника событий]",
+        "en": "[Quote from a document in the Center’s archive: a letter, diary or memoir of a participant]",
+        "fr": "[Citation d’un document des archives du Centre : lettre, journal ou souvenir d’un témoin]",
+        "pt": "[Citação de um documento do arquivo do Centro: carta, diário ou memória de um participante]",
+        "sw": "[Nukuu kutoka hati ya kumbukumbu za Kituo: barua, shajara au kumbukumbu za mshiriki]"
+      },
+      "quoteBy": {
+        "ru": "[Автор, должность, год] · [шифр документа]",
+        "en": "[Author, position, year] · [document reference]",
+        "fr": "[Auteur, fonction, année] · [cote du document]",
+        "pt": "[Autor, cargo, ano] · [cota do documento]",
+        "sw": "[Mwandishi, cheo, mwaka] · [namba ya hati]"
+      },
+      "closing": {
+        "ru": "У плотины стоит монумент арабо-советской дружбы в форме цветка лотоса. Плотина изменила жизнь всей долины Нила и до сих пор остаётся предметом споров историков и экологов.",
+        "en": "Next to the dam stands the Monument of Arab–Soviet Friendship in the shape of a lotus flower. The dam changed life in the whole Nile valley and is still debated by historians and ecologists.",
+        "fr": "Près du barrage se dresse le monument de l’amitié arabo-soviétique en forme de fleur de lotus. Le barrage a transformé la vie de toute la vallée du Nil et fait encore débat parmi les historiens et les écologues.",
+        "pt": "Junto à barragem ergue-se o monumento à amizade árabe-soviética em forma de flor de lótus. A barragem mudou a vida de todo o vale do Nilo e continua a ser debatida por historiadores e ecologistas.",
+        "sw": "Karibu na bwawa kuna mnara wa urafiki wa Kiarabu na Kisovyeti wenye umbo la ua la yungiyungi. Bwawa lilibadilisha maisha ya bonde zima la Nile na hadi leo linajadiliwa na wanahistoria na wanaikolojia."
+      },
+      "steps": [
+        {
+          "year": "1956",
+          "date": {
+            "ru": "ИЮЛЬ",
+            "en": "JULY",
+            "fr": "JUILLET",
+            "pt": "JULHO",
+            "sw": "JULAI"
+          },
+          "text": {
+            "ru": "США и Великобритания отказываются финансировать плотину. Насер национализирует Суэцкий канал.",
+            "en": "The US and Britain refuse to finance the dam. Nasser nationalises the Suez Canal.",
+            "fr": "Les États-Unis et la Grande-Bretagne refusent de financer le barrage. Nasser nationalise le canal de Suez.",
+            "pt": "Os EUA e a Grã-Bretanha recusam financiar a barragem. Nasser nacionaliza o Canal do Suez.",
+            "sw": "Marekani na Uingereza zinakataa kufadhili bwawa. Nasser anataifisha Mfereji wa Suez."
+          }
+        },
+        {
+          "year": "1958",
+          "date": {
+            "ru": "27 ДЕКАБРЯ",
+            "en": "27 DECEMBER",
+            "fr": "27 DÉCEMBRE",
+            "pt": "27 DE DEZEMBRO",
+            "sw": "27 DESEMBA"
+          },
+          "text": {
+            "ru": "Соглашение с СССР о кредите на первую очередь стройки.",
+            "en": "Agreement with the USSR on a loan for the first stage.",
+            "fr": "Accord de crédit avec l’URSS pour la première tranche.",
+            "pt": "Acordo de crédito com a URSS para a primeira fase.",
+            "sw": "Mkataba wa mkopo na USSR kwa awamu ya kwanza."
+          }
+        },
+        {
+          "year": "1960",
+          "date": {
+            "ru": "9 ЯНВАРЯ",
+            "en": "9 JANUARY",
+            "fr": "9 JANVIER",
+            "pt": "9 DE JANEIRO",
+            "sw": "9 JANUARI"
+          },
+          "text": {
+            "ru": "Начало строительства.",
+            "en": "Construction begins.",
+            "fr": "Début de la construction.",
+            "pt": "Início da construção.",
+            "sw": "Ujenzi unaanza."
+          }
+        },
+        {
+          "year": "1964",
+          "date": {
+            "ru": "14 МАЯ",
+            "en": "14 MAY",
+            "fr": "14 MAI",
+            "pt": "14 DE MAIO",
+            "sw": "14 MEI"
+          },
+          "text": {
+            "ru": "Перекрытие Нила в присутствии Насера и Хрущёва.",
+            "en": "The Nile is diverted in the presence of Nasser and Khrushchev.",
+            "fr": "Détournement du Nil en présence de Nasser et de Khrouchtchev.",
+            "pt": "Desvio do Nilo na presença de Nasser e Khrushchov.",
+            "sw": "Nile inaelekezwa upya mbele ya Nasser na Khrushchev."
+          }
+        },
+        {
+          "year": "1970",
+          "date": {
+            "ru": "ИЮЛЬ",
+            "en": "JULY",
+            "fr": "JUILLET",
+            "pt": "JULHO",
+            "sw": "JULAI"
+          },
+          "text": {
+            "ru": "Строительство завершено.",
+            "en": "Construction completed.",
+            "fr": "Fin de la construction.",
+            "pt": "Construção concluída.",
+            "sw": "Ujenzi unakamilika."
+          }
+        },
+        {
+          "year": "1971",
+          "date": {
+            "ru": "15 ЯНВАРЯ",
+            "en": "15 JANUARY",
+            "fr": "15 JANVIER",
+            "pt": "15 DE JANEIRO",
+            "sw": "15 JANUARI"
+          },
+          "text": {
+            "ru": "Торжественное открытие плотины.",
+            "en": "Formal inauguration of the dam.",
+            "fr": "Inauguration officielle du barrage.",
+            "pt": "Inauguração oficial da barragem.",
+            "sw": "Ufunguzi rasmi wa bwawa."
+          }
+        }
+      ],
+      "items": [
+        {
+          "type": "photo",
+          "src": "assets/aswan__37a9608c.jpg",
+          "code": "CPA-EG-001",
+          "color": false,
+          "title": {
+            "ru": "Строительство плотины, кран над котлованом",
+            "en": "Building the dam: a crane over the pit",
+            "fr": "Construction du barrage : grue au-dessus de la fouille",
+            "pt": "Construção da barragem: grua sobre a escavação",
+            "sw": "Ujenzi wa bwawa: winchi juu ya shimo"
+          },
+          "date": {
+            "ru": "март 1964",
+            "en": "March 1964",
+            "fr": "mars 1964",
+            "pt": "março de 1964",
+            "sw": "Machi 1964"
+          },
+          "credit": {
+            "ru": "Manfred Niermann · Wikimedia Commons · CC BY-SA 4.0",
+            "en": "Manfred Niermann · Wikimedia Commons · CC BY-SA 4.0",
+            "fr": "Manfred Niermann · Wikimedia Commons · CC BY-SA 4.0",
+            "pt": "Manfred Niermann · Wikimedia Commons · CC BY-SA 4.0",
+            "sw": "Manfred Niermann · Wikimedia Commons · CC BY-SA 4.0"
+          }
+        },
+        {
+          "type": "photo",
+          "src": "assets/aswan2__074a0f16.jpg",
+          "code": "CPA-EG-002",
+          "color": false,
+          "title": {
+            "ru": "Стройплощадка с высоты",
+            "en": "The construction site from above",
+            "fr": "Le chantier vu d’en haut",
+            "pt": "O estaleiro visto de cima",
+            "sw": "Eneo la ujenzi kutoka juu"
+          },
+          "date": {
+            "ru": "март 1964",
+            "en": "March 1964",
+            "fr": "mars 1964",
+            "pt": "março de 1964",
+            "sw": "Machi 1964"
+          },
+          "credit": {
+            "ru": "Manfred Niermann · Wikimedia Commons · CC BY-SA 4.0",
+            "en": "Manfred Niermann · Wikimedia Commons · CC BY-SA 4.0",
+            "fr": "Manfred Niermann · Wikimedia Commons · CC BY-SA 4.0",
+            "pt": "Manfred Niermann · Wikimedia Commons · CC BY-SA 4.0",
+            "sw": "Manfred Niermann · Wikimedia Commons · CC BY-SA 4.0"
+          }
+        },
+        {
+          "type": "photo",
+          "src": "assets/nile1964__60dcf7bc.jpg",
+          "code": "CPA-EG-003",
+          "color": false,
+          "title": {
+            "ru": "Насер, Хрущёв, Ареф и ас-Салляль на перекрытии Нила",
+            "en": "Nasser, Khrushchev, Aref and al-Sallal at the diversion of the Nile",
+            "fr": "Nasser, Khrouchtchev, Aref et al-Sallal lors du détournement du Nil",
+            "pt": "Nasser, Khrushchov, Aref e al-Sallal no desvio do Nilo",
+            "sw": "Nasser, Khrushchev, Aref na al-Sallal wakati wa kuelekeza Nile"
+          },
+          "date": {
+            "ru": "14 мая 1964",
+            "en": "14 May 1964",
+            "fr": "14 mai 1964",
+            "pt": "14 de maio de 1964",
+            "sw": "14 Mei 1964"
+          },
+          "credit": {
+            "ru": "Автор неизвестен · Wikimedia Commons · общественное достояние",
+            "en": "Unknown author · Wikimedia Commons · public domain",
+            "fr": "Auteur inconnu · Wikimedia Commons · domaine public",
+            "pt": "Autor desconhecido · Wikimedia Commons · domínio público",
+            "sw": "Mwandishi hajulikani · Wikimedia Commons · kikoa cha umma"
+          }
+        },
+        {
+          "type": "photo",
+          "src": "assets/nasser_khrushchev__52c13865.jpg",
+          "code": "CPA-EG-004",
+          "color": false,
+          "title": {
+            "ru": "Гамаль Абдель Насер и Никита Хрущёв",
+            "en": "Gamal Abdel Nasser and Nikita Khrushchev",
+            "fr": "Gamal Abdel Nasser et Nikita Khrouchtchev",
+            "pt": "Gamal Abdel Nasser e Nikita Khrushchov",
+            "sw": "Gamal Abdel Nasser na Nikita Khrushchev"
+          },
+          "date": {
+            "ru": "[дата уточняется]",
+            "en": "[date to be confirmed]",
+            "fr": "[date à préciser]",
+            "pt": "[data a confirmar]",
+            "sw": "[tarehe itathibitishwa]"
+          },
+          "credit": {
+            "ru": "Wikimedia Commons · общественное достояние",
+            "en": "Wikimedia Commons · public domain",
+            "fr": "Wikimedia Commons · domaine public",
+            "pt": "Wikimedia Commons · domínio público",
+            "sw": "Wikimedia Commons · kikoa cha umma"
+          }
+        },
+        {
+          "type": "photo",
+          "src": "assets/nasser__ba45b9c9.jpg",
+          "code": "CPA-EG-005",
+          "color": false,
+          "title": {
+            "ru": "Насер наблюдает за работами",
+            "en": "Nasser watching the works",
+            "fr": "Nasser observe les travaux",
+            "pt": "Nasser acompanha as obras",
+            "sw": "Nasser akitazama kazi"
+          },
+          "date": {
+            "ru": "1960-е",
+            "en": "1960s",
+            "fr": "années 1960",
+            "pt": "anos 1960",
+            "sw": "miaka ya 1960"
+          },
+          "credit": {
+            "ru": "Автор не указан · Wikimedia Commons · общественное достояние",
+            "en": "Author not credited · Wikimedia Commons · public domain",
+            "fr": "Auteur non crédité · Wikimedia Commons · domaine public",
+            "pt": "Autor não indicado · Wikimedia Commons · domínio público",
+            "sw": "Mwandishi hajatajwa · Wikimedia Commons · kikoa cha umma"
+          }
+        },
+        {
+          "type": "doc",
+          "src": "",
+          "code": "",
+          "color": false,
+          "title": {
+            "ru": "[Соглашение о кредите, декабрь 1958: копия из архива]",
+            "en": "[Loan agreement, December 1958: archive copy]",
+            "fr": "[Accord de crédit, décembre 1958 : copie d’archive]",
+            "pt": "[Acordo de crédito, dezembro de 1958: cópia de arquivo]",
+            "sw": "[Mkataba wa mkopo, Desemba 1958: nakala ya kumbukumbu]"
+          },
+          "date": {
+            "ru": "27 декабря 1958",
+            "en": "27 December 1958",
+            "fr": "27 décembre 1958",
+            "pt": "27 de dezembro de 1958",
+            "sw": "27 Desemba 1958"
+          },
+          "credit": {
+            "ru": "Архив ЦПА",
+            "en": "CAAS archive",
+            "fr": "Archives du CEAA",
+            "pt": "Arquivo do CEAA",
+            "sw": "Kumbukumbu za KTA"
+          }
+        },
+        {
+          "type": "press",
+          "src": "",
+          "code": "",
+          "color": false,
+          "title": {
+            "ru": "[Газетная полоса о перекрытии Нила]",
+            "en": "[Newspaper page on the diversion of the Nile]",
+            "fr": "[Page de journal sur le détournement du Nil]",
+            "pt": "[Página de jornal sobre o desvio do Nilo]",
+            "sw": "[Ukurasa wa gazeti kuhusu kuelekezwa kwa Nile]"
+          },
+          "date": {
+            "ru": "май 1964",
+            "en": "May 1964",
+            "fr": "mai 1964",
+            "pt": "maio de 1964",
+            "sw": "Mei 1964"
+          },
+          "credit": {
+            "ru": "Архив ЦПА",
+            "en": "CAAS archive",
+            "fr": "Archives du CEAA",
+            "pt": "Arquivo do CEAA",
+            "sw": "Kumbukumbu za KTA"
+          }
+        },
+        {
+          "type": "photo",
+          "src": "assets/damwide__1e9571d2.jpg",
+          "code": "MODERN",
+          "color": true,
+          "title": {
+            "ru": "Плотина и монумент дружбы сегодня",
+            "en": "The dam and the friendship monument today",
+            "fr": "Le barrage et le monument de l’amitié aujourd’hui",
+            "pt": "A barragem e o monumento à amizade hoje",
+            "sw": "Bwawa na mnara wa urafiki leo"
+          },
+          "date": {
+            "ru": "2014",
+            "en": "2014",
+            "fr": "2014",
+            "pt": "2014",
+            "sw": "2014"
+          },
+          "credit": {
+            "ru": "Jorge Láscar · Wikimedia Commons · CC BY 2.0",
+            "en": "Jorge Láscar · Wikimedia Commons · CC BY 2.0",
+            "fr": "Jorge Láscar · Wikimedia Commons · CC BY 2.0",
+            "pt": "Jorge Láscar · Wikimedia Commons · CC BY 2.0",
+            "sw": "Jorge Láscar · Wikimedia Commons · CC BY 2.0"
+          }
+        }
+      ],
+      "optics": {
+        "intro": {
+          "ru": "Как о перекрытии Нила в мае 1964 года писали в Москве и в Каире.",
+          "en": "How Moscow and Cairo wrote about the diversion of the Nile in May 1964.",
+          "fr": "Comment Moscou et Le Caire ont parlé du détournement du Nil en mai 1964.",
+          "pt": "Como Moscovo e o Cairo escreveram sobre o desvio do Nilo em maio de 1964.",
+          "sw": "Jinsi Moscow na Cairo zilivyoandika kuhusu kuelekezwa kwa Nile Mei 1964."
+        },
+        "columns": [
+          {
+            "label": {
+              "ru": "СОВЕТСКАЯ ПРЕССА",
+              "en": "SOVIET PRESS",
+              "fr": "PRESSE SOVIÉTIQUE",
+              "pt": "IMPRENSA SOVIÉTICA",
+              "sw": "MAGAZETI YA KISOVYETI"
+            },
+            "scan": {
+              "ru": "[скан полосы: газета, май 1964]",
+              "en": "[page scan: newspaper, May 1964]",
+              "fr": "[page numérisée : journal, mai 1964]",
+              "pt": "[página digitalizada: jornal, maio de 1964]",
+              "sw": "[nakala ya ukurasa: gazeti, Mei 1964]"
+            },
+            "text": {
+              "ru": "[Пересказ и короткая цитата из советской газеты.]",
+              "en": "[Summary and a short quote from a Soviet newspaper.]",
+              "fr": "[Résumé et courte citation d’un journal soviétique.]",
+              "pt": "[Resumo e breve citação de um jornal soviético.]",
+              "sw": "[Muhtasari na nukuu fupi kutoka gazeti la Kisovyeti.]"
+            }
+          },
+          {
+            "label": {
+              "ru": "ЕГИПЕТСКАЯ ПРЕССА",
+              "en": "EGYPTIAN PRESS",
+              "fr": "PRESSE ÉGYPTIENNE",
+              "pt": "IMPRENSA EGÍPCIA",
+              "sw": "MAGAZETI YA MISRI"
+            },
+            "scan": {
+              "ru": "[скан полосы: «Аль-Ахрам», май 1964]",
+              "en": "[page scan: Al-Ahram, May 1964]",
+              "fr": "[page numérisée : Al-Ahram, mai 1964]",
+              "pt": "[página digitalizada: Al-Ahram, maio de 1964]",
+              "sw": "[nakala ya ukurasa: Al-Ahram, Mei 1964]"
+            },
+            "text": {
+              "ru": "[Пересказ и короткая цитата из египетской газеты, с переводом.]",
+              "en": "[Summary and a short quote from an Egyptian newspaper, translated.]",
+              "fr": "[Résumé et courte citation d’un journal égyptien, traduite.]",
+              "pt": "[Resumo e breve citação de um jornal egípcio, traduzida.]",
+              "sw": "[Muhtasari na nukuu fupi kutoka gazeti la Misri, iliyotafsiriwa.]"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "africa",
+      "card": "assets/lumumba__08f72560.jpg",
+      "minutes": 5,
+      "hero": {
+        "src": "assets/lumumba_sign__d68b6115.jpg",
+        "position": "center 35%",
+        "color": false
+      },
+      "heroCredit": {
+        "ru": "Фото: Congopresse, 30 июня 1960 · общественное достояние",
+        "en": "Photo: Congopresse, 30 June 1960 · public domain",
+        "fr": "Photo : Congopresse, 30 juin 1960 · domaine public",
+        "pt": "Foto: Congopresse, 30 de junho de 1960 · domínio público",
+        "sw": "Picha: Congopresse, 30 Juni 1960 · kikoa cha umma"
+      },
+      "meta": {
+        "ru": "1960 · 17 СТРАН",
+        "en": "1960 · 17 COUNTRIES",
+        "fr": "1960 · 17 PAYS",
+        "pt": "1960 · 17 PAÍSES",
+        "sw": "1960 · NCHI 17"
+      },
+      "kicker": {
+        "ru": "СЮЖЕТ · АФРИКА · 1960",
+        "en": "STORY · AFRICA · 1960",
+        "fr": "RÉCIT · AFRIQUE · 1960",
+        "pt": "HISTÓRIA · ÁFRICA · 1960",
+        "sw": "SIMULIZI · AFRIKA · 1960"
+      },
+      "title": {
+        "ru": "Год Африки",
+        "en": "The Year of Africa",
+        "fr": "L’année de l’Afrique",
+        "pt": "O Ano de África",
+        "sw": "Mwaka wa Afrika"
+      },
+      "heroAlt": {
+        "ru": "Патрис Лумумба подписывает акт о независимости Конго",
+        "en": "Patrice Lumumba signs Congo’s act of independence",
+        "fr": "Patrice Lumumba signe l’acte d’indépendance du Congo",
+        "pt": "Patrice Lumumba assina o ato de independência do Congo",
+        "sw": "Patrice Lumumba akisaini hati ya uhuru wa Kongo"
+      },
+      "lead": {
+        "ru": "За один год на карте мира появилось семнадцать новых африканских государств. Москва открыла для их студентов новый университет.",
+        "en": "In a single year seventeen new African states appeared on the world map. Moscow opened a new university for their students.",
+        "fr": "En une seule année, dix-sept nouveaux États africains sont apparus sur la carte du monde. Moscou a ouvert une nouvelle université pour leurs étudiants.",
+        "pt": "Num só ano surgiram no mapa do mundo dezassete novos Estados africanos. Moscovo abriu uma nova universidade para os seus estudantes.",
+        "sw": "Katika mwaka mmoja nchi kumi na saba mpya za Kiafrika zilionekana kwenye ramani ya dunia. Moscow ilifungua chuo kikuu kipya kwa wanafunzi wao."
+      },
+      "passport": [
+        {
+          "label": {
+            "ru": "СТРАНЫ",
+            "en": "COUNTRIES",
+            "fr": "PAYS",
+            "pt": "PAÍSES",
+            "sw": "NCHI"
+          },
+          "value": {
+            "ru": "17 государств, от Камеруна до Мавритании",
+            "en": "17 states, from Cameroon to Mauritania",
+            "fr": "17 États, du Cameroun à la Mauritanie",
+            "pt": "17 Estados, dos Camarões à Mauritânia",
+            "sw": "Nchi 17, kuanzia Kameruni hadi Moritania"
+          }
+        },
+        {
+          "label": {
+            "ru": "ПЕРИОД",
+            "en": "PERIOD",
+            "fr": "PÉRIODE",
+            "pt": "PERÍODO",
+            "sw": "KIPINDI"
+          },
+          "value": {
+            "ru": "1 января — 28 ноября 1960",
+            "en": "1 January — 28 November 1960",
+            "fr": "1er janvier — 28 novembre 1960",
+            "pt": "1 de janeiro — 28 de novembro de 1960",
+            "sw": "1 Januari — 28 Novemba 1960"
+          }
+        },
+        {
+          "label": {
+            "ru": "ЛЮДИ",
+            "en": "PEOPLE",
+            "fr": "PERSONNES",
+            "pt": "PESSOAS",
+            "sw": "WATU"
+          },
+          "value": {
+            "ru": "Патрис Лумумба, Леопольд Седар Сенгор, Модибо Кейта, Ахмед Секу Туре, Кваме Нкрума",
+            "en": "Patrice Lumumba, Léopold Sédar Senghor, Modibo Keïta, Ahmed Sékou Touré, Kwame Nkrumah",
+            "fr": "Patrice Lumumba, Léopold Sédar Senghor, Modibo Keïta, Ahmed Sékou Touré, Kwame Nkrumah",
+            "pt": "Patrice Lumumba, Léopold Sédar Senghor, Modibo Keïta, Ahmed Sékou Touré, Kwame Nkrumah",
+            "sw": "Patrice Lumumba, Léopold Sédar Senghor, Modibo Keïta, Ahmed Sékou Touré, Kwame Nkrumah"
+          }
+        },
+        {
+          "label": {
+            "ru": "ЦИФРЫ",
+            "en": "FIGURES",
+            "fr": "CHIFFRES",
+            "pt": "NÚMEROS",
+            "sw": "TAKWIMU"
+          },
+          "value": {
+            "ru": "14 из 17 стран — бывшие французские владения",
+            "en": "14 of the 17 were former French territories",
+            "fr": "14 des 17 pays étaient d’anciens territoires français",
+            "pt": "14 dos 17 eram antigos territórios franceses",
+            "sw": "14 kati ya 17 zilikuwa maeneo ya zamani ya Ufaransa"
+          }
+        }
+      ],
+      "tags": [
+        {
+          "ru": "Деколонизация",
+          "en": "Decolonisation",
+          "fr": "Décolonisation",
+          "pt": "Descolonização",
+          "sw": "Kuondoa ukoloni"
+        },
+        {
+          "ru": "ООН",
+          "en": "UN",
+          "fr": "ONU",
+          "pt": "ONU",
+          "sw": "UN"
+        },
+        {
+          "ru": "Образование",
+          "en": "Education",
+          "fr": "Éducation",
+          "pt": "Educação",
+          "sw": "Elimu"
+        },
+        {
+          "ru": "Конго",
+          "en": "Congo",
+          "fr": "Congo",
+          "pt": "Congo",
+          "sw": "Kongo"
+        },
+        {
+          "ru": "Сенегал",
+          "en": "Senegal",
+          "fr": "Sénégal",
+          "pt": "Senegal",
+          "sw": "Senegali"
+        }
+      ],
+      "intro": {
+        "ru": "1960 год вошёл в историю как «Год Африки». Независимость получили Камерун, Того, Мадагаскар, Конго, Сомали, Нигерия и ещё одиннадцать стран.",
+        "en": "1960 went down in history as the “Year of Africa”. Cameroon, Togo, Madagascar, Congo, Somalia, Nigeria and eleven more countries became independent.",
+        "fr": "1960 est entrée dans l’histoire comme « l’année de l’Afrique ». Le Cameroun, le Togo, Madagascar, le Congo, la Somalie, le Nigeria et onze autres pays deviennent indépendants.",
+        "pt": "1960 ficou na história como o «Ano de África». Os Camarões, o Togo, Madagáscar, o Congo, a Somália, a Nigéria e mais onze países tornaram-se independentes.",
+        "sw": "Mwaka 1960 uliingia katika historia kama «Mwaka wa Afrika». Kameruni, Togo, Madagaska, Kongo, Somalia, Nigeria na nchi nyingine kumi na moja zilipata uhuru."
+      },
+      "before": [
+        {
+          "ru": "Только в августе флаги подняли девять государств: Дагомея, Нигер, Верхняя Вольта, Берег Слоновой Кости, Чад, Центральноафриканская Республика, Конго (Браззавиль), Габон и Сенегал. Большинство из них были французскими колониями и подопечными территориями.",
+          "en": "In August alone nine states raised their flags: Dahomey, Niger, Upper Volta, Ivory Coast, Chad, the Central African Republic, Congo (Brazzaville), Gabon and Senegal. Most of them had been French colonies and trust territories.",
+          "fr": "Rien qu’en août, neuf États hissent leur drapeau : le Dahomey, le Niger, la Haute-Volta, la Côte d’Ivoire, le Tchad, la République centrafricaine, le Congo (Brazzaville), le Gabon et le Sénégal. La plupart étaient des colonies et des territoires sous tutelle français.",
+          "pt": "Só em agosto, nove Estados hastearam as suas bandeiras: Daomé, Níger, Alto Volta, Costa do Marfim, Chade, República Centro-Africana, Congo (Brazzaville), Gabão e Senegal. A maioria tinha sido colónia ou território sob tutela francesa.",
+          "sw": "Katika mwezi wa Agosti pekee nchi tisa zilipandisha bendera zao: Dahomey, Niger, Volta ya Juu, Ivory Coast, Chadi, Jamhuri ya Afrika ya Kati, Kongo (Brazzaville), Gaboni na Senegali. Nyingi zilikuwa makoloni na maeneo ya udhamini ya Ufaransa."
+        },
+        {
+          "ru": "Самым драматичным стало обретение независимости Бельгийским Конго. 30 июня 1960 года Патрис Лумумба, первый премьер-министр страны, подписал акт о независимости рядом с премьером Бельгии Гастоном Эйскенсом.",
+          "en": "The most dramatic was the independence of the Belgian Congo. On 30 June 1960 Patrice Lumumba, the country’s first prime minister, signed the act of independence next to Belgian Prime Minister Gaston Eyskens.",
+          "fr": "L’indépendance la plus dramatique fut celle du Congo belge. Le 30 juin 1960, Patrice Lumumba, premier Premier ministre du pays, signe l’acte d’indépendance aux côtés du Premier ministre belge Gaston Eyskens.",
+          "pt": "A independência mais dramática foi a do Congo Belga. A 30 de junho de 1960, Patrice Lumumba, primeiro chefe de governo do país, assinou o ato de independência ao lado do primeiro-ministro belga Gaston Eyskens.",
+          "sw": "Uhuru wa kusisimua zaidi ulikuwa wa Kongo ya Kibelgiji. Tarehe 30 Juni 1960 Patrice Lumumba, waziri mkuu wa kwanza wa nchi, alisaini hati ya uhuru pamoja na Waziri Mkuu wa Ubelgiji Gaston Eyskens."
+        }
+      ],
+      "figure": {
+        "item": 0,
+        "caption": {
+          "ru": "Подписание акта о независимости Конго, 30 июня 1960",
+          "en": "Signing Congo’s act of independence, 30 June 1960",
+          "fr": "Signature de l’acte d’indépendance du Congo, 30 juin 1960",
+          "pt": "Assinatura do ato de independência do Congo, 30 de junho de 1960",
+          "sw": "Kusainiwa kwa hati ya uhuru wa Kongo, 30 Juni 1960"
+        },
+        "credit": {
+          "ru": "Congopresse · общественное достояние",
+          "en": "Congopresse · public domain",
+          "fr": "Congopresse · domaine public",
+          "pt": "Congopresse · domínio público",
+          "sw": "Congopresse · kikoa cha umma"
+        }
+      },
+      "after": [
+        {
+          "ru": "В Москве 5 февраля 1960 года был основан Университет дружбы народов для студентов из Азии, Африки и Латинской Америки. В 1961 году, после гибели Лумумбы, университету присвоили его имя.",
+          "en": "In Moscow the Peoples’ Friendship University was founded on 5 February 1960 for students from Asia, Africa and Latin America. In 1961, after Lumumba’s death, it was named after him.",
+          "fr": "À Moscou, l’Université de l’amitié des peuples est fondée le 5 février 1960 pour les étudiants d’Asie, d’Afrique et d’Amérique latine. En 1961, après la mort de Lumumba, elle prend son nom.",
+          "pt": "Em Moscovo, a 5 de fevereiro de 1960, foi fundada a Universidade da Amizade dos Povos para estudantes da Ásia, de África e da América Latina. Em 1961, depois da morte de Lumumba, recebeu o seu nome.",
+          "sw": "Mjini Moscow, tarehe 5 Februari 1960, kilianzishwa Chuo Kikuu cha Urafiki wa Watu kwa wanafunzi kutoka Asia, Afrika na Amerika ya Kusini. Mwaka 1961, baada ya kifo cha Lumumba, kilipewa jina lake."
+        },
+        {
+          "ru": "Осенью 1960 года по инициативе СССР в повестку Генеральной Ассамблеи ООН был внесён вопрос о ликвидации колониализма. 14 декабря Ассамблея приняла Декларацию о предоставлении независимости колониальным странам и народам.",
+          "en": "In the autumn of 1960, on the initiative of the USSR, the question of ending colonialism was put on the agenda of the UN General Assembly. On 14 December the Assembly adopted the Declaration on the Granting of Independence to Colonial Countries and Peoples.",
+          "fr": "À l’automne 1960, à l’initiative de l’URSS, la question de la fin du colonialisme est inscrite à l’ordre du jour de l’Assemblée générale de l’ONU. Le 14 décembre, l’Assemblée adopte la Déclaration sur l’octroi de l’indépendance aux pays et aux peuples coloniaux.",
+          "pt": "No outono de 1960, por iniciativa da URSS, a questão do fim do colonialismo entrou na agenda da Assembleia Geral da ONU. A 14 de dezembro, a Assembleia aprovou a Declaração sobre a Concessão da Independência aos Países e Povos Coloniais.",
+          "sw": "Katika vuli ya 1960, kwa mpango wa USSR, suala la kukomesha ukoloni liliwekwa kwenye ajenda ya Baraza Kuu la Umoja wa Mataifa. Tarehe 14 Desemba Baraza lilipitisha Azimio la Kutoa Uhuru kwa Nchi na Watu wa Makoloni."
+        }
+      ],
+      "quote": {
+        "ru": "[Цитата из документа архива Центра: письмо, дневник или воспоминание участника событий]",
+        "en": "[Quote from a document in the Center’s archive: a letter, diary or memoir of a participant]",
+        "fr": "[Citation d’un document des archives du Centre : lettre, journal ou souvenir d’un témoin]",
+        "pt": "[Citação de um documento do arquivo do Centro: carta, diário ou memória de um participante]",
+        "sw": "[Nukuu kutoka hati ya kumbukumbu za Kituo: barua, shajara au kumbukumbu za mshiriki]"
+      },
+      "quoteBy": {
+        "ru": "[Автор, должность, год] · [шифр документа]",
+        "en": "[Author, position, year] · [document reference]",
+        "fr": "[Auteur, fonction, année] · [cote du document]",
+        "pt": "[Autor, cargo, ano] · [cota do documento]",
+        "sw": "[Mwandishi, cheo, mwaka] · [namba ya hati]"
+      },
+      "closing": {
+        "ru": "Для многих новых государств 1960 год стал не концом, а началом трудного пути: гражданские войны, перевороты и холодная война пришли на континент вместе со свободой.",
+        "en": "For many new states 1960 was not an end but the beginning of a hard road: civil wars, coups and the Cold War came to the continent together with freedom.",
+        "fr": "Pour beaucoup de nouveaux États, 1960 ne fut pas une fin mais le début d’un chemin difficile : guerres civiles, coups d’État et guerre froide arrivèrent sur le continent avec la liberté.",
+        "pt": "Para muitos novos Estados, 1960 não foi um fim mas o início de um caminho difícil: guerras civis, golpes de Estado e a Guerra Fria chegaram ao continente juntamente com a liberdade.",
+        "sw": "Kwa nchi nyingi mpya, 1960 haukuwa mwisho bali mwanzo wa safari ngumu: vita vya wenyewe kwa wenyewe, mapinduzi na Vita Baridi vilifika barani pamoja na uhuru."
+      },
+      "steps": [
+        {
+          "year": "1960",
+          "date": {
+            "ru": "1 ЯНВАРЯ",
+            "en": "1 JANUARY",
+            "fr": "1er JANVIER",
+            "pt": "1 DE JANEIRO",
+            "sw": "1 JANUARI"
+          },
+          "text": {
+            "ru": "Независимость Камеруна открывает «Год Африки».",
+            "en": "Cameroon’s independence opens the “Year of Africa”.",
+            "fr": "L’indépendance du Cameroun ouvre « l’année de l’Afrique ».",
+            "pt": "A independência dos Camarões abre o «Ano de África».",
+            "sw": "Uhuru wa Kameruni unafungua «Mwaka wa Afrika»."
+          }
+        },
+        {
+          "year": "1960",
+          "date": {
+            "ru": "5 ФЕВРАЛЯ",
+            "en": "5 FEBRUARY",
+            "fr": "5 FÉVRIER",
+            "pt": "5 DE FEVEREIRO",
+            "sw": "5 FEBRUARI"
+          },
+          "text": {
+            "ru": "В Москве основан Университет дружбы народов.",
+            "en": "The Peoples’ Friendship University is founded in Moscow.",
+            "fr": "Fondation de l’Université de l’amitié des peuples à Moscou.",
+            "pt": "Fundação da Universidade da Amizade dos Povos em Moscovo.",
+            "sw": "Chuo Kikuu cha Urafiki wa Watu kinaanzishwa Moscow."
+          }
+        },
+        {
+          "year": "1960",
+          "date": {
+            "ru": "30 ИЮНЯ",
+            "en": "30 JUNE",
+            "fr": "30 JUIN",
+            "pt": "30 DE JUNHO",
+            "sw": "30 JUNI"
+          },
+          "text": {
+            "ru": "Независимость Конго, премьер-министр — Патрис Лумумба.",
+            "en": "Independence of Congo; Patrice Lumumba is prime minister.",
+            "fr": "Indépendance du Congo, Patrice Lumumba Premier ministre.",
+            "pt": "Independência do Congo, Patrice Lumumba chefe de governo.",
+            "sw": "Uhuru wa Kongo, Patrice Lumumba waziri mkuu."
+          }
+        },
+        {
+          "year": "1960",
+          "date": {
+            "ru": "АВГУСТ",
+            "en": "AUGUST",
+            "fr": "AOÛT",
+            "pt": "AGOSTO",
+            "sw": "AGOSTI"
+          },
+          "text": {
+            "ru": "За месяц независимость получают девять государств.",
+            "en": "Nine states become independent within a month.",
+            "fr": "Neuf États deviennent indépendants en un mois.",
+            "pt": "Nove Estados tornam-se independentes num só mês.",
+            "sw": "Nchi tisa zinapata uhuru ndani ya mwezi mmoja."
+          }
+        },
+        {
+          "year": "1960",
+          "date": {
+            "ru": "1 ОКТЯБРЯ",
+            "en": "1 OCTOBER",
+            "fr": "1er OCTOBRE",
+            "pt": "1 DE OUTUBRO",
+            "sw": "1 OKTOBA"
+          },
+          "text": {
+            "ru": "Независимость Нигерии, самой населённой страны Африки.",
+            "en": "Independence of Nigeria, Africa’s most populous country.",
+            "fr": "Indépendance du Nigeria, pays le plus peuplé d’Afrique.",
+            "pt": "Independência da Nigéria, o país mais populoso de África.",
+            "sw": "Uhuru wa Nigeria, nchi yenye watu wengi zaidi Afrika."
+          }
+        },
+        {
+          "year": "1960",
+          "date": {
+            "ru": "14 ДЕКАБРЯ",
+            "en": "14 DECEMBER",
+            "fr": "14 DÉCEMBRE",
+            "pt": "14 DE DEZEMBRO",
+            "sw": "14 DESEMBA"
+          },
+          "text": {
+            "ru": "ООН принимает Декларацию о деколонизации.",
+            "en": "The UN adopts the Declaration on decolonisation.",
+            "fr": "L’ONU adopte la Déclaration sur la décolonisation.",
+            "pt": "A ONU aprova a Declaração sobre a descolonização.",
+            "sw": "Umoja wa Mataifa unapitisha Azimio la kuondoa ukoloni."
+          }
+        }
+      ],
+      "items": [
+        {
+          "type": "photo",
+          "src": "assets/lumumba_sign__d68b6115.jpg",
+          "code": "CPA-CD-001",
+          "color": false,
+          "title": {
+            "ru": "Лумумба и Эйскенс подписывают акт о независимости Конго",
+            "en": "Lumumba and Eyskens sign Congo’s act of independence",
+            "fr": "Lumumba et Eyskens signent l’acte d’indépendance du Congo",
+            "pt": "Lumumba e Eyskens assinam o ato de independência do Congo",
+            "sw": "Lumumba na Eyskens wakisaini hati ya uhuru wa Kongo"
+          },
+          "date": {
+            "ru": "30 июня 1960",
+            "en": "30 June 1960",
+            "fr": "30 juin 1960",
+            "pt": "30 de junho de 1960",
+            "sw": "30 Juni 1960"
+          },
+          "credit": {
+            "ru": "Congopresse · Wikimedia Commons · общественное достояние",
+            "en": "Congopresse · Wikimedia Commons · public domain",
+            "fr": "Congopresse · Wikimedia Commons · domaine public",
+            "pt": "Congopresse · Wikimedia Commons · domínio público",
+            "sw": "Congopresse · Wikimedia Commons · kikoa cha umma"
+          }
+        },
+        {
+          "type": "photo",
+          "src": "assets/lumumba__08f72560.jpg",
+          "code": "CPA-CD-002",
+          "color": false,
+          "title": {
+            "ru": "Патрис Лумумба",
+            "en": "Patrice Lumumba",
+            "fr": "Patrice Lumumba",
+            "pt": "Patrice Lumumba",
+            "sw": "Patrice Lumumba"
+          },
+          "date": {
+            "ru": "январь 1960",
+            "en": "January 1960",
+            "fr": "janvier 1960",
+            "pt": "janeiro de 1960",
+            "sw": "Januari 1960"
+          },
+          "credit": {
+            "ru": "Anefo / Nationaal Archief · CC0",
+            "en": "Anefo / Nationaal Archief · CC0",
+            "fr": "Anefo / Nationaal Archief · CC0",
+            "pt": "Anefo / Nationaal Archief · CC0",
+            "sw": "Anefo / Nationaal Archief · CC0"
+          }
+        },
+        {
+          "type": "photo",
+          "src": "assets/lumumba58__4bb218ba.jpg",
+          "code": "CPA-CD-003",
+          "color": false,
+          "title": {
+            "ru": "Патрис Лумумба, газетный портрет",
+            "en": "Patrice Lumumba, newspaper portrait",
+            "fr": "Patrice Lumumba, portrait de presse",
+            "pt": "Patrice Lumumba, retrato de jornal",
+            "sw": "Patrice Lumumba, picha ya gazeti"
+          },
+          "date": {
+            "ru": "1958",
+            "en": "1958",
+            "fr": "1958",
+            "pt": "1958",
+            "sw": "1958"
+          },
+          "credit": {
+            "ru": "Présence Congolaise · общественное достояние",
+            "en": "Présence Congolaise · public domain",
+            "fr": "Présence Congolaise · domaine public",
+            "pt": "Présence Congolaise · domínio público",
+            "sw": "Présence Congolaise · kikoa cha umma"
+          }
+        },
+        {
+          "type": "photo",
+          "src": "assets/senghor__a4d26f07.jpg",
+          "code": "CPA-SN-001",
+          "color": false,
+          "title": {
+            "ru": "Леопольд Седар Сенгор, президент Сенегала",
+            "en": "Léopold Sédar Senghor, President of Senegal",
+            "fr": "Léopold Sédar Senghor, président du Sénégal",
+            "pt": "Léopold Sédar Senghor, presidente do Senegal",
+            "sw": "Léopold Sédar Senghor, Rais wa Senegali"
+          },
+          "date": {
+            "ru": "1961",
+            "en": "1961",
+            "fr": "1961",
+            "pt": "1961",
+            "sw": "1961"
+          },
+          "credit": {
+            "ru": "Bundesarchiv · CC BY-SA 3.0",
+            "en": "Bundesarchiv · CC BY-SA 3.0",
+            "fr": "Bundesarchiv · CC BY-SA 3.0",
+            "pt": "Bundesarchiv · CC BY-SA 3.0",
+            "sw": "Bundesarchiv · CC BY-SA 3.0"
+          }
+        },
+        {
+          "type": "photo",
+          "src": "assets/keita__b2443f87.jpg",
+          "code": "CPA-ML-001",
+          "color": false,
+          "title": {
+            "ru": "Модибо Кейта, президент Мали",
+            "en": "Modibo Keïta, President of Mali",
+            "fr": "Modibo Keïta, président du Mali",
+            "pt": "Modibo Keïta, presidente do Mali",
+            "sw": "Modibo Keïta, Rais wa Mali"
+          },
+          "date": {
+            "ru": "1961",
+            "en": "1961",
+            "fr": "1961",
+            "pt": "1961",
+            "sw": "1961"
+          },
+          "credit": {
+            "ru": "Robert Knudsen, Белый дом · общественное достояние",
+            "en": "Robert Knudsen, White House · public domain",
+            "fr": "Robert Knudsen, Maison-Blanche · domaine public",
+            "pt": "Robert Knudsen, Casa Branca · domínio público",
+            "sw": "Robert Knudsen, Ikulu ya Marekani · kikoa cha umma"
+          }
+        },
+        {
+          "type": "photo",
+          "src": "assets/toure__c34efb03.jpg",
+          "code": "CPA-GN-001",
+          "color": false,
+          "title": {
+            "ru": "Ахмед Секу Туре",
+            "en": "Ahmed Sékou Touré",
+            "fr": "Ahmed Sékou Touré",
+            "pt": "Ahmed Sékou Touré",
+            "sw": "Ahmed Sékou Touré"
+          },
+          "date": {
+            "ru": "1958",
+            "en": "1958",
+            "fr": "1958",
+            "pt": "1958",
+            "sw": "1958"
+          },
+          "credit": {
+            "ru": "Présence Congolaise · общественное достояние",
+            "en": "Présence Congolaise · public domain",
+            "fr": "Présence Congolaise · domaine public",
+            "pt": "Présence Congolaise · domínio público",
+            "sw": "Présence Congolaise · kikoa cha umma"
+          }
+        },
+        {
+          "type": "doc",
+          "src": "assets/stamp__eb9cd20c.jpg",
+          "code": "CPA-PH-001",
+          "color": true,
+          "title": {
+            "ru": "Марка СССР «Патрис Лумумба»",
+            "en": "USSR stamp “Patrice Lumumba”",
+            "fr": "Timbre soviétique « Patrice Lumumba »",
+            "pt": "Selo soviético «Patrice Lumumba»",
+            "sw": "Stempu ya USSR «Patrice Lumumba»"
+          },
+          "date": {
+            "ru": "1961",
+            "en": "1961",
+            "fr": "1961",
+            "pt": "1961",
+            "sw": "1961"
+          },
+          "credit": {
+            "ru": "Почта СССР · общественное достояние",
+            "en": "USSR Post · public domain",
+            "fr": "Poste de l’URSS · domaine public",
+            "pt": "Correios da URSS · domínio público",
+            "sw": "Posta ya USSR · kikoa cha umma"
+          }
+        },
+        {
+          "type": "doc",
+          "src": "",
+          "code": "",
+          "color": false,
+          "title": {
+            "ru": "[Постановление об основании Университета дружбы народов]",
+            "en": "[Decree founding the Peoples’ Friendship University]",
+            "fr": "[Décret de fondation de l’Université de l’amitié des peuples]",
+            "pt": "[Decreto de fundação da Universidade da Amizade dos Povos]",
+            "sw": "[Amri ya kuanzisha Chuo Kikuu cha Urafiki wa Watu]"
+          },
+          "date": {
+            "ru": "5 февраля 1960",
+            "en": "5 February 1960",
+            "fr": "5 février 1960",
+            "pt": "5 de fevereiro de 1960",
+            "sw": "5 Februari 1960"
+          },
+          "credit": {
+            "ru": "Архив ЦПА",
+            "en": "CAAS archive",
+            "fr": "Archives du CEAA",
+            "pt": "Arquivo do CEAA",
+            "sw": "Kumbukumbu za KTA"
+          }
+        },
+        {
+          "type": "press",
+          "src": "",
+          "code": "",
+          "color": false,
+          "title": {
+            "ru": "[Газетная полоса о независимости Конго]",
+            "en": "[Newspaper page on Congo’s independence]",
+            "fr": "[Page de journal sur l’indépendance du Congo]",
+            "pt": "[Página de jornal sobre a independência do Congo]",
+            "sw": "[Ukurasa wa gazeti kuhusu uhuru wa Kongo]"
+          },
+          "date": {
+            "ru": "июль 1960",
+            "en": "July 1960",
+            "fr": "juillet 1960",
+            "pt": "julho de 1960",
+            "sw": "Julai 1960"
+          },
+          "credit": {
+            "ru": "Архив ЦПА",
+            "en": "CAAS archive",
+            "fr": "Archives du CEAA",
+            "pt": "Arquivo do CEAA",
+            "sw": "Kumbukumbu za KTA"
+          }
+        }
+      ],
+      "optics": {
+        "intro": {
+          "ru": "Как о независимости Конго писали в Москве и в Леопольдвиле.",
+          "en": "How Moscow and Léopoldville wrote about Congo’s independence.",
+          "fr": "Comment Moscou et Léopoldville ont parlé de l’indépendance du Congo.",
+          "pt": "Como Moscovo e Léopoldville escreveram sobre a independência do Congo.",
+          "sw": "Jinsi Moscow na Léopoldville zilivyoandika kuhusu uhuru wa Kongo."
+        },
+        "columns": [
+          {
+            "label": {
+              "ru": "СОВЕТСКАЯ ПРЕССА",
+              "en": "SOVIET PRESS",
+              "fr": "PRESSE SOVIÉTIQUE",
+              "pt": "IMPRENSA SOVIÉTICA",
+              "sw": "MAGAZETI YA KISOVYETI"
+            },
+            "scan": {
+              "ru": "[скан полосы: газета, июль 1960]",
+              "en": "[page scan: newspaper, July 1960]",
+              "fr": "[page numérisée : journal, juillet 1960]",
+              "pt": "[página digitalizada: jornal, julho de 1960]",
+              "sw": "[nakala ya ukurasa: gazeti, Julai 1960]"
+            },
+            "text": {
+              "ru": "[Пересказ и короткая цитата из советской газеты.]",
+              "en": "[Summary and a short quote from a Soviet newspaper.]",
+              "fr": "[Résumé et courte citation d’un journal soviétique.]",
+              "pt": "[Resumo e breve citação de um jornal soviético.]",
+              "sw": "[Muhtasari na nukuu fupi kutoka gazeti la Kisovyeti.]"
+            }
+          },
+          {
+            "label": {
+              "ru": "КОНГОЛЕЗСКАЯ ПРЕССА",
+              "en": "CONGOLESE PRESS",
+              "fr": "PRESSE CONGOLAISE",
+              "pt": "IMPRENSA CONGOLESA",
+              "sw": "MAGAZETI YA KONGO"
+            },
+            "scan": {
+              "ru": "[скан полосы: газета Леопольдвиля, июль 1960]",
+              "en": "[page scan: Léopoldville newspaper, July 1960]",
+              "fr": "[page numérisée : journal de Léopoldville, juillet 1960]",
+              "pt": "[página digitalizada: jornal de Léopoldville, julho de 1960]",
+              "sw": "[nakala ya ukurasa: gazeti la Léopoldville, Julai 1960]"
+            },
+            "text": {
+              "ru": "[Пересказ и короткая цитата с переводом с французского.]",
+              "en": "[Summary and a short quote, translated from French.]",
+              "fr": "[Résumé et courte citation en français.]",
+              "pt": "[Resumo e breve citação, traduzida do francês.]",
+              "sw": "[Muhtasari na nukuu fupi, iliyotafsiriwa kutoka Kifaransa.]"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "tanganyika",
+      "card": "assets/nyerere__f97fcc59.jpg",
+      "minutes": 5,
+      "hero": {
+        "src": "assets/tstamp2__8aaddebd.jpg",
+        "position": "center 45%",
+        "color": true
+      },
+      "heroCredit": {
+        "ru": "Марка: Почта Танганьики, 1961 · общественное достояние",
+        "en": "Stamp: Tanganyika Post, 1961 · public domain",
+        "fr": "Timbre : Poste du Tanganyika, 1961 · domaine public",
+        "pt": "Selo: Correios do Tanganica, 1961 · domínio público",
+        "sw": "Stempu: Posta ya Tanganyika, 1961 · kikoa cha umma"
+      },
+      "meta": {
+        "ru": "1961 · ТАНЗАНИЯ",
+        "en": "1961 · TANZANIA",
+        "fr": "1961 · TANZANIE",
+        "pt": "1961 · TANZÂNIA",
+        "sw": "1961 · TANZANIA"
+      },
+      "kicker": {
+        "ru": "СЮЖЕТ · ТАНГАНЬИКА · 1954—1967",
+        "en": "STORY · TANGANYIKA · 1954—1967",
+        "fr": "RÉCIT · TANGANYIKA · 1954—1967",
+        "pt": "HISTÓRIA · TANGANICA · 1954—1967",
+        "sw": "SIMULIZI · TANGANYIKA · 1954—1967"
+      },
+      "title": {
+        "ru": "Ухуру Танганьики",
+        "en": "Tanganyika’s Uhuru",
+        "fr": "L’Uhuru du Tanganyika",
+        "pt": "O Uhuru do Tanganica",
+        "sw": "Uhuru wa Tanganyika"
+      },
+      "heroAlt": {
+        "ru": "Марка Танганьики «Uhuru 9th Dec. 1961»",
+        "en": "Tanganyika stamp “Uhuru 9th Dec. 1961”",
+        "fr": "Timbre du Tanganyika « Uhuru 9th Dec. 1961 »",
+        "pt": "Selo do Tanganica «Uhuru 9th Dec. 1961»",
+        "sw": "Stempu ya Tanganyika «Uhuru 9th Dec. 1961»"
+      },
+      "lead": {
+        "ru": "Страна, получившая свободу без войны, и учитель, ставший её первым президентом.",
+        "en": "A country that won its freedom without war, and the teacher who became its first president.",
+        "fr": "Un pays qui a conquis sa liberté sans guerre, et l’instituteur devenu son premier président.",
+        "pt": "Um país que conquistou a liberdade sem guerra, e o professor que se tornou o seu primeiro presidente.",
+        "sw": "Nchi iliyopata uhuru bila vita, na mwalimu aliyekuwa rais wake wa kwanza."
+      },
+      "passport": [
+        {
+          "label": {
+            "ru": "СТРАНА",
+            "en": "COUNTRY",
+            "fr": "PAYS",
+            "pt": "PAÍS",
+            "sw": "NCHI"
+          },
+          "value": {
+            "ru": "Танганьика, с 1964 года — Танзания",
+            "en": "Tanganyika, from 1964 Tanzania",
+            "fr": "Tanganyika, Tanzanie à partir de 1964",
+            "pt": "Tanganica, a partir de 1964 Tanzânia",
+            "sw": "Tanganyika, tangu 1964 Tanzania"
+          }
+        },
+        {
+          "label": {
+            "ru": "ПЕРИОД",
+            "en": "PERIOD",
+            "fr": "PÉRIODE",
+            "pt": "PERÍODO",
+            "sw": "KIPINDI"
+          },
+          "value": {
+            "ru": "1954—1967",
+            "en": "1954—1967",
+            "fr": "1954—1967",
+            "pt": "1954—1967",
+            "sw": "1954—1967"
+          }
+        },
+        {
+          "label": {
+            "ru": "ЛЮДИ",
+            "en": "PEOPLE",
+            "fr": "PERSONNES",
+            "pt": "PESSOAS",
+            "sw": "WATU"
+          },
+          "value": {
+            "ru": "Джулиус Ньерере («Мвалиму» — учитель), Иэн Маклауд",
+            "en": "Julius Nyerere (“Mwalimu” — the teacher), Iain Macleod",
+            "fr": "Julius Nyerere (« Mwalimu », l’instituteur), Iain Macleod",
+            "pt": "Julius Nyerere («Mwalimu», o professor), Iain Macleod",
+            "sw": "Julius Nyerere («Mwalimu»), Iain Macleod"
+          }
+        },
+        {
+          "label": {
+            "ru": "СИМВОЛ",
+            "en": "SYMBOL",
+            "fr": "SYMBOLE",
+            "pt": "SÍMBOLO",
+            "sw": "ALAMA"
+          },
+          "value": {
+            "ru": "Факел свободы на вершине Килиманджаро",
+            "en": "The freedom torch on the summit of Kilimanjaro",
+            "fr": "La torche de la liberté au sommet du Kilimandjaro",
+            "pt": "A tocha da liberdade no cume do Kilimanjaro",
+            "sw": "Mwenge wa Uhuru juu ya kilele cha Kilimanjaro"
+          }
+        }
+      ],
+      "tags": [
+        {
+          "ru": "Деколонизация",
+          "en": "Decolonisation",
+          "fr": "Décolonisation",
+          "pt": "Descolonização",
+          "sw": "Kuondoa ukoloni"
+        },
+        {
+          "ru": "Суахили",
+          "en": "Swahili",
+          "fr": "Swahili",
+          "pt": "Suaíli",
+          "sw": "Kiswahili"
+        },
+        {
+          "ru": "Уджамаа",
+          "en": "Ujamaa",
+          "fr": "Ujamaa",
+          "pt": "Ujamaa",
+          "sw": "Ujamaa"
+        },
+        {
+          "ru": "Танзания",
+          "en": "Tanzania",
+          "fr": "Tanzanie",
+          "pt": "Tanzânia",
+          "sw": "Tanzania"
+        }
+      ],
+      "intro": {
+        "ru": "«Ухуру» на суахили значит «свобода». Танганьика добилась её 9 декабря 1961 года — мирно, через переговоры и выборы.",
+        "en": "“Uhuru” means “freedom” in Swahili. Tanganyika won it on 9 December 1961 — peacefully, through negotiations and elections.",
+        "fr": "« Uhuru » signifie « liberté » en swahili. Le Tanganyika l’a obtenue le 9 décembre 1961, pacifiquement, par la négociation et les élections.",
+        "pt": "«Uhuru» significa «liberdade» em suaíli. O Tanganica conquistou-a a 9 de dezembro de 1961 — pacificamente, através de negociações e eleições.",
+        "sw": "Tanganyika ilipata uhuru wake tarehe 9 Desemba 1961 — kwa amani, kupitia mazungumzo na uchaguzi."
+      },
+      "before": [
+        {
+          "ru": "В 1954 году бывший школьный учитель Джулиус Ньерере основал Африканский национальный союз Танганьики (ТАНУ). Партия быстро стала массовой и выиграла выборы, которые проводила британская администрация.",
+          "en": "In 1954 the former schoolteacher Julius Nyerere founded the Tanganyika African National Union (TANU). The party quickly became a mass movement and won the elections held by the British administration.",
+          "fr": "En 1954, l’ancien instituteur Julius Nyerere fonde l’Union nationale africaine du Tanganyika (TANU). Le parti devient vite un mouvement de masse et remporte les élections organisées par l’administration britannique.",
+          "pt": "Em 1954 o antigo professor primário Julius Nyerere fundou a União Nacional Africana do Tanganica (TANU). O partido tornou-se rapidamente um movimento de massas e venceu as eleições organizadas pela administração britânica.",
+          "sw": "Mwaka 1954 mwalimu wa zamani Julius Nyerere alianzisha chama cha Tanganyika African National Union (TANU). Chama kilikua haraka kuwa harakati ya umma na kilishinda uchaguzi uliofanywa na utawala wa Kiingereza."
+        },
+        {
+          "ru": "В марте 1961 года на конференции в Дар-эс-Саламе британский министр колоний Иэн Маклауд объявил сроки независимости. В ночь на 9 декабря над страной подняли новый флаг, а на вершине Килиманджаро зажгли «факел Ухуру».",
+          "en": "In March 1961, at a conference in Dar es Salaam, British Colonial Secretary Iain Macleod announced the timetable for independence. On the night of 9 December a new flag was raised over the country, and the “Uhuru torch” was lit on the summit of Kilimanjaro.",
+          "fr": "En mars 1961, lors d’une conférence à Dar es Salaam, le secrétaire britannique aux Colonies Iain Macleod annonce le calendrier de l’indépendance. Dans la nuit du 9 décembre, un nouveau drapeau est hissé et la « torche de l’Uhuru » est allumée au sommet du Kilimandjaro.",
+          "pt": "Em março de 1961, numa conferência em Dar es Salaam, o ministro britânico das Colónias Iain Macleod anunciou o calendário da independência. Na noite de 9 de dezembro foi hasteada uma nova bandeira e no cume do Kilimanjaro acendeu-se a «tocha do Uhuru».",
+          "sw": "Machi 1961, katika mkutano mjini Dar es Salaam, Waziri wa Makoloni wa Uingereza Iain Macleod alitangaza ratiba ya uhuru. Usiku wa tarehe 9 Desemba bendera mpya ilipandishwa, na Mwenge wa Uhuru uliwashwa juu ya kilele cha Kilimanjaro."
+        }
+      ],
+      "figure": {
+        "item": 0,
+        "caption": {
+          "ru": "Иэн Маклауд и Джулиус Ньерере, март 1961",
+          "en": "Iain Macleod and Julius Nyerere, March 1961",
+          "fr": "Iain Macleod et Julius Nyerere, mars 1961",
+          "pt": "Iain Macleod e Julius Nyerere, março de 1961",
+          "sw": "Iain Macleod na Julius Nyerere, Machi 1961"
+        },
+        "credit": {
+          "ru": "Wikimedia Commons · без ограничений",
+          "en": "Wikimedia Commons · no restrictions",
+          "fr": "Wikimedia Commons · sans restriction",
+          "pt": "Wikimedia Commons · sem restrições",
+          "sw": "Wikimedia Commons · bila vikwazo"
+        }
+      },
+      "after": [
+        {
+          "ru": "Через год Танганьика стала республикой, а Ньерере — её президентом. В 1964 году она объединилась с Занзибаром в Объединённую Республику Танзания.",
+          "en": "A year later Tanganyika became a republic with Nyerere as president. In 1964 it united with Zanzibar to form the United Republic of Tanzania.",
+          "fr": "Un an plus tard, le Tanganyika devient une république, avec Nyerere pour président. En 1964, il s’unit à Zanzibar pour former la République-Unie de Tanzanie.",
+          "pt": "Um ano depois o Tanganica tornou-se república, com Nyerere como presidente. Em 1964 uniu-se a Zanzibar, formando a República Unida da Tanzânia.",
+          "sw": "Mwaka mmoja baadaye Tanganyika ikawa jamhuri na Nyerere rais wake. Mwaka 1964 iliungana na Zanzibar na kuunda Jamhuri ya Muungano wa Tanzania."
+        },
+        {
+          "ru": "В 1967 году Арушская декларация провозгласила курс на «уджамаа» — африканский социализм, основанный на деревенской общине. Ньерере продвигал суахили как общий язык страны и сам перевёл на него Шекспира.",
+          "en": "In 1967 the Arusha Declaration proclaimed the course of “ujamaa” — African socialism based on the village community. Nyerere promoted Swahili as the country’s common language and translated Shakespeare into it himself.",
+          "fr": "En 1967, la déclaration d’Arusha proclame la voie de l’« ujamaa », un socialisme africain fondé sur la communauté villageoise. Nyerere fait du swahili la langue commune du pays et y traduit lui-même Shakespeare.",
+          "pt": "Em 1967 a Declaração de Arusha proclamou o caminho do «ujamaa» — um socialismo africano assente na comunidade da aldeia. Nyerere promoveu o suaíli como língua comum do país e traduziu ele próprio Shakespeare para essa língua.",
+          "sw": "Mwaka 1967 Azimio la Arusha lilitangaza njia ya «Ujamaa» — ujamaa wa Kiafrika unaotokana na jumuiya ya kijiji. Nyerere aliendeleza Kiswahili kama lugha ya pamoja ya nchi na yeye mwenyewe alitafsiri Shakespeare kwa Kiswahili."
+        }
+      ],
+      "quote": {
+        "ru": "[Цитата из документа архива Центра: письмо, дневник или воспоминание участника событий]",
+        "en": "[Quote from a document in the Center’s archive: a letter, diary or memoir of a participant]",
+        "fr": "[Citation d’un document des archives du Centre : lettre, journal ou souvenir d’un témoin]",
+        "pt": "[Citação de um documento do arquivo do Centro: carta, diário ou memória de um participante]",
+        "sw": "[Nukuu kutoka hati ya kumbukumbu za Kituo: barua, shajara au kumbukumbu za mshiriki]"
+      },
+      "quoteBy": {
+        "ru": "[Автор, должность, год] · [шифр документа]",
+        "en": "[Author, position, year] · [document reference]",
+        "fr": "[Auteur, fonction, année] · [cote du document]",
+        "pt": "[Autor, cargo, ano] · [cota do documento]",
+        "sw": "[Mwandishi, cheo, mwaka] · [namba ya hati]"
+      },
+      "closing": {
+        "ru": "[Здесь будет блок о связях с СССР: студенты из Танзании в советских вузах, специалисты и делегации, по материалам архива Центра.]",
+        "en": "[A section on links with the USSR will go here: Tanzanian students at Soviet universities, specialists and delegations, based on the Center’s archive.]",
+        "fr": "[Ici viendra une section sur les liens avec l’URSS : étudiants tanzaniens dans les universités soviétiques, spécialistes et délégations, d’après les archives du Centre.]",
+        "pt": "[Aqui ficará uma secção sobre as ligações com a URSS: estudantes tanzanianos em universidades soviéticas, especialistas e delegações, com base no arquivo do Centro.]",
+        "sw": "[Hapa itakuwa sehemu kuhusu uhusiano na USSR: wanafunzi wa Kitanzania katika vyuo vya Kisovyeti, wataalamu na wajumbe, kwa msingi wa kumbukumbu za Kituo.]"
+      },
+      "steps": [
+        {
+          "year": "1954",
+          "date": {
+            "ru": "7 ИЮЛЯ",
+            "en": "7 JULY",
+            "fr": "7 JUILLET",
+            "pt": "7 DE JULHO",
+            "sw": "7 JULAI"
+          },
+          "text": {
+            "ru": "Ньерере основывает партию ТАНУ.",
+            "en": "Nyerere founds TANU.",
+            "fr": "Nyerere fonde la TANU.",
+            "pt": "Nyerere funda a TANU.",
+            "sw": "Nyerere anaanzisha TANU."
+          }
+        },
+        {
+          "year": "1961",
+          "date": {
+            "ru": "МАРТ",
+            "en": "MARCH",
+            "fr": "MARS",
+            "pt": "MARÇO",
+            "sw": "MACHI"
+          },
+          "text": {
+            "ru": "Конференция в Дар-эс-Саламе определяет сроки независимости.",
+            "en": "A conference in Dar es Salaam sets the timetable for independence.",
+            "fr": "Une conférence à Dar es Salaam fixe le calendrier de l’indépendance.",
+            "pt": "Uma conferência em Dar es Salaam fixa o calendário da independência.",
+            "sw": "Mkutano wa Dar es Salaam unaweka ratiba ya uhuru."
+          }
+        },
+        {
+          "year": "1961",
+          "date": {
+            "ru": "9 ДЕКАБРЯ",
+            "en": "9 DECEMBER",
+            "fr": "9 DÉCEMBRE",
+            "pt": "9 DE DEZEMBRO",
+            "sw": "9 DESEMBA"
+          },
+          "text": {
+            "ru": "Независимость Танганьики, факел на Килиманджаро.",
+            "en": "Independence of Tanganyika; the torch on Kilimanjaro.",
+            "fr": "Indépendance du Tanganyika, torche sur le Kilimandjaro.",
+            "pt": "Independência do Tanganica, tocha no Kilimanjaro.",
+            "sw": "Uhuru wa Tanganyika, Mwenge juu ya Kilimanjaro."
+          }
+        },
+        {
+          "year": "1962",
+          "date": {
+            "ru": "9 ДЕКАБРЯ",
+            "en": "9 DECEMBER",
+            "fr": "9 DÉCEMBRE",
+            "pt": "9 DE DEZEMBRO",
+            "sw": "9 DESEMBA"
+          },
+          "text": {
+            "ru": "Танганьика становится республикой, президент — Ньерере.",
+            "en": "Tanganyika becomes a republic with Nyerere as president.",
+            "fr": "Le Tanganyika devient une république, Nyerere président.",
+            "pt": "O Tanganica torna-se república, Nyerere presidente.",
+            "sw": "Tanganyika inakuwa jamhuri, Nyerere rais."
+          }
+        },
+        {
+          "year": "1964",
+          "date": {
+            "ru": "26 АПРЕЛЯ",
+            "en": "26 APRIL",
+            "fr": "26 AVRIL",
+            "pt": "26 DE ABRIL",
+            "sw": "26 APRILI"
+          },
+          "text": {
+            "ru": "Союз с Занзибаром, рождение Танзании.",
+            "en": "Union with Zanzibar: Tanzania is born.",
+            "fr": "Union avec Zanzibar : naissance de la Tanzanie.",
+            "pt": "União com Zanzibar: nasce a Tanzânia.",
+            "sw": "Muungano na Zanzibar: Tanzania inazaliwa."
+          }
+        },
+        {
+          "year": "1967",
+          "date": {
+            "ru": "5 ФЕВРАЛЯ",
+            "en": "5 FEBRUARY",
+            "fr": "5 FÉVRIER",
+            "pt": "5 DE FEVEREIRO",
+            "sw": "5 FEBRUARI"
+          },
+          "text": {
+            "ru": "Арушская декларация и курс на уджамаа.",
+            "en": "The Arusha Declaration and the course of ujamaa.",
+            "fr": "Déclaration d’Arusha et voie de l’ujamaa.",
+            "pt": "Declaração de Arusha e o caminho do ujamaa.",
+            "sw": "Azimio la Arusha na njia ya Ujamaa."
+          }
+        }
+      ],
+      "items": [
+        {
+          "type": "photo",
+          "src": "assets/macleod__e2e29225.jpg",
+          "code": "CPA-TZ-001",
+          "color": false,
+          "title": {
+            "ru": "Иэн Маклауд и Джулиус Ньерере",
+            "en": "Iain Macleod and Julius Nyerere",
+            "fr": "Iain Macleod et Julius Nyerere",
+            "pt": "Iain Macleod e Julius Nyerere",
+            "sw": "Iain Macleod na Julius Nyerere"
+          },
+          "date": {
+            "ru": "март 1961",
+            "en": "March 1961",
+            "fr": "mars 1961",
+            "pt": "março de 1961",
+            "sw": "Machi 1961"
+          },
+          "credit": {
+            "ru": "Wikimedia Commons · без ограничений",
+            "en": "Wikimedia Commons · no restrictions",
+            "fr": "Wikimedia Commons · sans restriction",
+            "pt": "Wikimedia Commons · sem restrições",
+            "sw": "Wikimedia Commons · bila vikwazo"
+          }
+        },
+        {
+          "type": "photo",
+          "src": "assets/nyerere_uk__128b0d89.jpg",
+          "code": "CPA-TZ-002",
+          "color": false,
+          "title": {
+            "ru": "Джулиус Ньерере",
+            "en": "Julius Nyerere",
+            "fr": "Julius Nyerere",
+            "pt": "Julius Nyerere",
+            "sw": "Julius Nyerere"
+          },
+          "date": {
+            "ru": "1958—1961",
+            "en": "1958—1961",
+            "fr": "1958—1961",
+            "pt": "1958—1961",
+            "sw": "1958—1961"
+          },
+          "credit": {
+            "ru": "The National Archives UK · общественное достояние",
+            "en": "The National Archives UK · public domain",
+            "fr": "The National Archives UK · domaine public",
+            "pt": "The National Archives UK · domínio público",
+            "sw": "The National Archives UK · kikoa cha umma"
+          }
+        },
+        {
+          "type": "photo",
+          "src": "assets/nyerere__f97fcc59.jpg",
+          "code": "CPA-TZ-003",
+          "color": false,
+          "title": {
+            "ru": "Президент Ньерере",
+            "en": "President Nyerere",
+            "fr": "Le président Nyerere",
+            "pt": "O presidente Nyerere",
+            "sw": "Rais Nyerere"
+          },
+          "date": {
+            "ru": "апрель 1965",
+            "en": "April 1965",
+            "fr": "avril 1965",
+            "pt": "abril de 1965",
+            "sw": "Aprili 1965"
+          },
+          "credit": {
+            "ru": "Eric Koch / Anefo · CC0",
+            "en": "Eric Koch / Anefo · CC0",
+            "fr": "Eric Koch / Anefo · CC0",
+            "pt": "Eric Koch / Anefo · CC0",
+            "sw": "Eric Koch / Anefo · CC0"
+          }
+        },
+        {
+          "type": "doc",
+          "src": "assets/torchstamp__f51cc9cf.jpg",
+          "code": "CPA-PH-002",
+          "color": true,
+          "title": {
+            "ru": "Марка «Uhuru 9th Dec. 1961»: факел над Килиманджаро",
+            "en": "Stamp “Uhuru 9th Dec. 1961”: torch over Kilimanjaro",
+            "fr": "Timbre « Uhuru 9th Dec. 1961 » : torche au-dessus du Kilimandjaro",
+            "pt": "Selo «Uhuru 9th Dec. 1961»: tocha sobre o Kilimanjaro",
+            "sw": "Stempu «Uhuru 9th Dec. 1961»: Mwenge juu ya Kilimanjaro"
+          },
+          "date": {
+            "ru": "9 декабря 1961",
+            "en": "9 December 1961",
+            "fr": "9 décembre 1961",
+            "pt": "9 de dezembro de 1961",
+            "sw": "9 Desemba 1961"
+          },
+          "credit": {
+            "ru": "Почта Танганьики · общественное достояние",
+            "en": "Tanganyika Post · public domain",
+            "fr": "Poste du Tanganyika · domaine public",
+            "pt": "Correios do Tanganica · domínio público",
+            "sw": "Posta ya Tanganyika · kikoa cha umma"
+          }
+        },
+        {
+          "type": "doc",
+          "src": "assets/tstamp1__c9c49021.jpg",
+          "code": "CPA-PH-003",
+          "color": true,
+          "title": {
+            "ru": "Марка «Uhuru 1961»: урок грамоты",
+            "en": "Stamp “Uhuru 1961”: a literacy lesson",
+            "fr": "Timbre « Uhuru 1961 » : cours d’alphabétisation",
+            "pt": "Selo «Uhuru 1961»: aula de alfabetização",
+            "sw": "Stempu «Uhuru 1961»: somo la kusoma na kuandika"
+          },
+          "date": {
+            "ru": "1961",
+            "en": "1961",
+            "fr": "1961",
+            "pt": "1961",
+            "sw": "1961"
+          },
+          "credit": {
+            "ru": "Почта Танганьики · общественное достояние",
+            "en": "Tanganyika Post · public domain",
+            "fr": "Poste du Tanganyika · domaine public",
+            "pt": "Correios do Tanganica · domínio público",
+            "sw": "Posta ya Tanganyika · kikoa cha umma"
+          }
+        },
+        {
+          "type": "doc",
+          "src": "assets/tstamp2__8aaddebd.jpg",
+          "code": "CPA-PH-004",
+          "color": true,
+          "title": {
+            "ru": "Марка «Uhuru 1961»: трактор в поле",
+            "en": "Stamp “Uhuru 1961”: a tractor in the field",
+            "fr": "Timbre « Uhuru 1961 » : tracteur aux champs",
+            "pt": "Selo «Uhuru 1961»: trator no campo",
+            "sw": "Stempu «Uhuru 1961»: trekta shambani"
+          },
+          "date": {
+            "ru": "1961",
+            "en": "1961",
+            "fr": "1961",
+            "pt": "1961",
+            "sw": "1961"
+          },
+          "credit": {
+            "ru": "Почта Танганьики · общественное достояние",
+            "en": "Tanganyika Post · public domain",
+            "fr": "Poste du Tanganyika · domaine public",
+            "pt": "Correios do Tanganica · domínio público",
+            "sw": "Posta ya Tanganyika · kikoa cha umma"
+          }
+        },
+        {
+          "type": "doc",
+          "src": "",
+          "code": "",
+          "color": false,
+          "title": {
+            "ru": "[Текст Арушской декларации, русский перевод]",
+            "en": "[Text of the Arusha Declaration, Russian translation]",
+            "fr": "[Texte de la déclaration d’Arusha, traduction russe]",
+            "pt": "[Texto da Declaração de Arusha, tradução russa]",
+            "sw": "[Maandishi ya Azimio la Arusha, tafsiri ya Kirusi]"
+          },
+          "date": {
+            "ru": "1967",
+            "en": "1967",
+            "fr": "1967",
+            "pt": "1967",
+            "sw": "1967"
+          },
+          "credit": {
+            "ru": "Архив ЦПА",
+            "en": "CAAS archive",
+            "fr": "Archives du CEAA",
+            "pt": "Arquivo do CEAA",
+            "sw": "Kumbukumbu za KTA"
+          }
+        },
+        {
+          "type": "press",
+          "src": "",
+          "code": "",
+          "color": false,
+          "title": {
+            "ru": "[Газетная полоса о независимости Танганьики]",
+            "en": "[Newspaper page on Tanganyika’s independence]",
+            "fr": "[Page de journal sur l’indépendance du Tanganyika]",
+            "pt": "[Página de jornal sobre a independência do Tanganica]",
+            "sw": "[Ukurasa wa gazeti kuhusu uhuru wa Tanganyika]"
+          },
+          "date": {
+            "ru": "декабрь 1961",
+            "en": "December 1961",
+            "fr": "décembre 1961",
+            "pt": "dezembro de 1961",
+            "sw": "Desemba 1961"
+          },
+          "credit": {
+            "ru": "Архив ЦПА",
+            "en": "CAAS archive",
+            "fr": "Archives du CEAA",
+            "pt": "Arquivo do CEAA",
+            "sw": "Kumbukumbu za KTA"
+          }
+        }
+      ],
+      "optics": {
+        "intro": {
+          "ru": "Как о независимости Танганьики писали в Москве и в Дар-эс-Саламе.",
+          "en": "How Moscow and Dar es Salaam wrote about Tanganyika’s independence.",
+          "fr": "Comment Moscou et Dar es Salaam ont parlé de l’indépendance du Tanganyika.",
+          "pt": "Como Moscovo e Dar es Salaam escreveram sobre a independência do Tanganica.",
+          "sw": "Jinsi Moscow na Dar es Salaam zilivyoandika kuhusu uhuru wa Tanganyika."
+        },
+        "columns": [
+          {
+            "label": {
+              "ru": "СОВЕТСКАЯ ПРЕССА",
+              "en": "SOVIET PRESS",
+              "fr": "PRESSE SOVIÉTIQUE",
+              "pt": "IMPRENSA SOVIÉTICA",
+              "sw": "MAGAZETI YA KISOVYETI"
+            },
+            "scan": {
+              "ru": "[скан полосы: газета, декабрь 1961]",
+              "en": "[page scan: newspaper, December 1961]",
+              "fr": "[page numérisée : journal, décembre 1961]",
+              "pt": "[página digitalizada: jornal, dezembro de 1961]",
+              "sw": "[nakala ya ukurasa: gazeti, Desemba 1961]"
+            },
+            "text": {
+              "ru": "[Пересказ и короткая цитата из советской газеты.]",
+              "en": "[Summary and a short quote from a Soviet newspaper.]",
+              "fr": "[Résumé et courte citation d’un journal soviétique.]",
+              "pt": "[Resumo e breve citação de um jornal soviético.]",
+              "sw": "[Muhtasari na nukuu fupi kutoka gazeti la Kisovyeti.]"
+            }
+          },
+          {
+            "label": {
+              "ru": "ТАНГАНЬИКСКАЯ ПРЕССА",
+              "en": "TANGANYIKAN PRESS",
+              "fr": "PRESSE TANGANYIKAISE",
+              "pt": "IMPRENSA DO TANGANICA",
+              "sw": "MAGAZETI YA TANGANYIKA"
+            },
+            "scan": {
+              "ru": "[скан полосы: газета на суахили, декабрь 1961]",
+              "en": "[page scan: Swahili newspaper, December 1961]",
+              "fr": "[page numérisée : journal en swahili, décembre 1961]",
+              "pt": "[página digitalizada: jornal em suaíli, dezembro de 1961]",
+              "sw": "[nakala ya ukurasa: gazeti la Kiswahili, Desemba 1961]"
+            },
+            "text": {
+              "ru": "[Пересказ и короткая цитата с переводом с суахили.]",
+              "en": "[Summary and a short quote, translated from Swahili.]",
+              "fr": "[Résumé et courte citation, traduite du swahili.]",
+              "pt": "[Resumo e breve citação, traduzida do suaíli.]",
+              "sw": "[Muhtasari na nukuu fupi kutoka gazeti la Kiswahili.]"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "sa",
+      "card": "assets/mandela__6178ec57.jpg",
+      "minutes": 6,
+      "hero": {
+        "src": "assets/signs1976__81cc1ea0.jpg",
+        "position": "center 40%",
+        "color": false
+      },
+      "heroCredit": {
+        "ru": "Фото: восстание в Соуэто, 17 июня 1976 · общественное достояние",
+        "en": "Photo: Soweto uprising, 17 June 1976 · public domain",
+        "fr": "Photo : soulèvement de Soweto, 17 juin 1976 · domaine public",
+        "pt": "Foto: revolta do Soweto, 17 de junho de 1976 · domínio público",
+        "sw": "Picha: maasi ya Soweto, 17 Juni 1976 · kikoa cha umma"
+      },
+      "meta": {
+        "ru": "1994 · ЮАР",
+        "en": "1994 · SOUTH AFRICA",
+        "fr": "1994 · AFRIQUE DU SUD",
+        "pt": "1994 · ÁFRICA DO SUL",
+        "sw": "1994 · AFRIKA KUSINI"
+      },
+      "kicker": {
+        "ru": "СЮЖЕТ · ЮАР · 1948—1994",
+        "en": "STORY · SOUTH AFRICA · 1948—1994",
+        "fr": "RÉCIT · AFRIQUE DU SUD · 1948—1994",
+        "pt": "HISTÓRIA · ÁFRICA DO SUL · 1948—1994",
+        "sw": "SIMULIZI · AFRIKA KUSINI · 1948—1994"
+      },
+      "title": {
+        "ru": "Конец апартеида",
+        "en": "The end of apartheid",
+        "fr": "La fin de l’apartheid",
+        "pt": "O fim do apartheid",
+        "sw": "Mwisho wa ubaguzi wa rangi"
+      },
+      "heroAlt": {
+        "ru": "Плакаты учеников во время восстания в Соуэто",
+        "en": "Students’ placards during the Soweto uprising",
+        "fr": "Pancartes des élèves pendant le soulèvement de Soweto",
+        "pt": "Cartazes dos estudantes durante a revolta do Soweto",
+        "sw": "Mabango ya wanafunzi wakati wa maasi ya Soweto"
+      },
+      "lead": {
+        "ru": "Почти полвека расовой сегрегации, долгая борьба Африканского национального конгресса и первые свободные выборы.",
+        "en": "Almost half a century of racial segregation, the long struggle of the African National Congress and the first free elections.",
+        "fr": "Près d’un demi-siècle de ségrégation raciale, la longue lutte du Congrès national africain et les premières élections libres.",
+        "pt": "Quase meio século de segregação racial, a longa luta do Congresso Nacional Africano e as primeiras eleições livres.",
+        "sw": "Karibu nusu karne ya ubaguzi wa rangi, mapambano marefu ya African National Congress na uchaguzi huru wa kwanza."
+      },
+      "passport": [
+        {
+          "label": {
+            "ru": "СТРАНА",
+            "en": "COUNTRY",
+            "fr": "PAYS",
+            "pt": "PAÍS",
+            "sw": "NCHI"
+          },
+          "value": {
+            "ru": "Южно-Африканская Республика",
+            "en": "Republic of South Africa",
+            "fr": "République d’Afrique du Sud",
+            "pt": "República da África do Sul",
+            "sw": "Jamhuri ya Afrika Kusini"
+          }
+        },
+        {
+          "label": {
+            "ru": "ПЕРИОД",
+            "en": "PERIOD",
+            "fr": "PÉRIODE",
+            "pt": "PERÍODO",
+            "sw": "KIPINDI"
+          },
+          "value": {
+            "ru": "1948—1994",
+            "en": "1948—1994",
+            "fr": "1948—1994",
+            "pt": "1948—1994",
+            "sw": "1948—1994"
+          }
+        },
+        {
+          "label": {
+            "ru": "ЛЮДИ",
+            "en": "PEOPLE",
+            "fr": "PERSONNES",
+            "pt": "PESSOAS",
+            "sw": "WATU"
+          },
+          "value": {
+            "ru": "Нельсон Мандела, Оливер Тамбо, участники Африканского национального конгресса",
+            "en": "Nelson Mandela, Oliver Tambo, members of the African National Congress",
+            "fr": "Nelson Mandela, Oliver Tambo, militants du Congrès national africain",
+            "pt": "Nelson Mandela, Oliver Tambo, militantes do Congresso Nacional Africano",
+            "sw": "Nelson Mandela, Oliver Tambo, wanachama wa African National Congress"
+          }
+        },
+        {
+          "label": {
+            "ru": "ИТОГ",
+            "en": "OUTCOME",
+            "fr": "ISSUE",
+            "pt": "RESULTADO",
+            "sw": "MATOKEO"
+          },
+          "value": {
+            "ru": "27 апреля 1994 года — первые выборы, где голосовали все граждане",
+            "en": "27 April 1994 — the first elections in which all citizens could vote",
+            "fr": "27 avril 1994 — premières élections ouvertes à tous les citoyens",
+            "pt": "27 de abril de 1994 — as primeiras eleições abertas a todos os cidadãos",
+            "sw": "27 Aprili 1994 — uchaguzi wa kwanza ambapo raia wote walipiga kura"
+          }
+        }
+      ],
+      "tags": [
+        {
+          "ru": "Апартеид",
+          "en": "Apartheid",
+          "fr": "Apartheid",
+          "pt": "Apartheid",
+          "sw": "Apartheid"
+        },
+        {
+          "ru": "АНК",
+          "en": "ANC",
+          "fr": "ANC",
+          "pt": "ANC",
+          "sw": "ANC"
+        },
+        {
+          "ru": "Права человека",
+          "en": "Human rights",
+          "fr": "Droits humains",
+          "pt": "Direitos humanos",
+          "sw": "Haki za binadamu"
+        },
+        {
+          "ru": "ЮАР",
+          "en": "South Africa",
+          "fr": "Afrique du Sud",
+          "pt": "África do Sul",
+          "sw": "Afrika Kusini"
+        }
+      ],
+      "intro": {
+        "ru": "Апартеид — система законов, разделявших людей по цвету кожи. Она действовала в ЮАР с 1948 года и закончилась первыми всеобщими выборами в 1994-м.",
+        "en": "Apartheid was a system of laws dividing people by the colour of their skin. It operated in South Africa from 1948 and ended with the first general elections in 1994.",
+        "fr": "L’apartheid était un système de lois qui séparait les personnes selon la couleur de leur peau. Il a été en vigueur en Afrique du Sud à partir de 1948 et a pris fin avec les premières élections au suffrage universel en 1994.",
+        "pt": "O apartheid era um sistema de leis que separava as pessoas pela cor da pele. Vigorou na África do Sul a partir de 1948 e terminou com as primeiras eleições gerais em 1994.",
+        "sw": "Apartheid ulikuwa mfumo wa sheria uliowatenganisha watu kwa rangi ya ngozi. Ulitumika Afrika Kusini tangu 1948 na ulikoma kwa uchaguzi mkuu wa kwanza mwaka 1994."
+      },
+      "before": [
+        {
+          "ru": "Законы апартеида определяли, где человеку жить, учиться, работать и даже купаться. В 1960 году полиция расстреляла демонстрацию в Шарпевиле, а в 1964-м Нельсона Манделу приговорили к пожизненному заключению на процессе в Ривонии.",
+          "en": "Apartheid laws decided where a person could live, study, work and even swim. In 1960 police opened fire on a demonstration in Sharpeville, and in 1964 Nelson Mandela was sentenced to life imprisonment at the Rivonia trial.",
+          "fr": "Les lois de l’apartheid décidaient où l’on pouvait vivre, étudier, travailler et même se baigner. En 1960, la police tire sur une manifestation à Sharpeville ; en 1964, Nelson Mandela est condamné à la prison à vie au procès de Rivonia.",
+          "pt": "As leis do apartheid determinavam onde cada pessoa podia viver, estudar, trabalhar e até tomar banho de mar. Em 1960 a polícia disparou sobre uma manifestação em Sharpeville e em 1964 Nelson Mandela foi condenado a prisão perpétua no processo de Rivonia.",
+          "sw": "Sheria za apartheid ziliamua mahali mtu angeweza kuishi, kusoma, kufanya kazi na hata kuogelea. Mwaka 1960 polisi walifyatulia risasi maandamano huko Sharpeville, na mwaka 1964 Nelson Mandela alihukumiwa kifungo cha maisha katika kesi ya Rivonia."
+        },
+        {
+          "ru": "16 июня 1976 года школьники Соуэто вышли протестовать против обязательного обучения на языке африкаанс. Подавление восстания стоило жизни сотням людей и привлекло к апартеиду внимание всего мира.",
+          "en": "On 16 June 1976 schoolchildren in Soweto protested against compulsory teaching in Afrikaans. The suppression of the uprising cost hundreds of lives and drew the whole world’s attention to apartheid.",
+          "fr": "Le 16 juin 1976, les écoliers de Soweto manifestent contre l’enseignement obligatoire en afrikaans. La répression du soulèvement fait des centaines de morts et attire l’attention du monde entier sur l’apartheid.",
+          "pt": "A 16 de junho de 1976 os estudantes do Soweto protestaram contra o ensino obrigatório em afrikaans. A repressão da revolta custou centenas de vidas e chamou a atenção de todo o mundo para o apartheid.",
+          "sw": "Tarehe 16 Juni 1976 wanafunzi wa Soweto waliandamana kupinga kufundishwa kwa lazima kwa lugha ya Kiafrikana. Ukandamizaji wa maasi uligharimu maisha ya mamia ya watu na ulivuta macho ya dunia nzima kwa apartheid."
+        }
+      ],
+      "figure": {
+        "item": 1,
+        "caption": {
+          "ru": "Протест против апартеида, 1980-е",
+          "en": "Protest against apartheid, 1980s",
+          "fr": "Manifestation contre l’apartheid, années 1980",
+          "pt": "Protesto contra o apartheid, anos 1980",
+          "sw": "Maandamano dhidi ya apartheid, miaka ya 1980"
+        },
+        "credit": {
+          "ru": "Paul Weinberg · CC BY-SA 3.0",
+          "en": "Paul Weinberg · CC BY-SA 3.0",
+          "fr": "Paul Weinberg · CC BY-SA 3.0",
+          "pt": "Paul Weinberg · CC BY-SA 3.0",
+          "sw": "Paul Weinberg · CC BY-SA 3.0"
+        }
+      },
+      "after": [
+        {
+          "ru": "Руководство Африканского национального конгресса во главе с Оливером Тамбо долгие годы работало в эмиграции. Советский Союз поддерживал АНК, а в 1988 году выпустил марку к 70-летию Манделы, который ещё находился в заключении.",
+          "en": "The leadership of the African National Congress, headed by Oliver Tambo, worked in exile for many years. The Soviet Union supported the ANC, and in 1988 it issued a stamp for the 70th birthday of Mandela, who was still in prison.",
+          "fr": "La direction du Congrès national africain, menée par Oliver Tambo, a longtemps travaillé en exil. L’Union soviétique soutenait l’ANC et émit en 1988 un timbre pour les 70 ans de Mandela, alors toujours emprisonné.",
+          "pt": "A direção do Congresso Nacional Africano, liderada por Oliver Tambo, trabalhou durante muitos anos no exílio. A União Soviética apoiava o ANC e em 1988 emitiu um selo pelos 70 anos de Mandela, que ainda estava preso.",
+          "sw": "Uongozi wa African National Congress chini ya Oliver Tambo ulifanya kazi uhamishoni kwa miaka mingi. Umoja wa Kisovyeti uliunga mkono ANC, na mwaka 1988 ulitoa stempu kwa miaka 70 ya Mandela, aliyekuwa bado gerezani."
+        },
+        {
+          "ru": "11 февраля 1990 года Мандела вышел на свободу. 27 апреля 1994 года в ЮАР прошли выборы, в которых впервые могли участвовать все граждане, и 10 мая Мандела стал президентом.",
+          "en": "On 11 February 1990 Mandela was released. On 27 April 1994 South Africa held elections in which all citizens could take part for the first time, and on 10 May Mandela became president.",
+          "fr": "Le 11 février 1990, Mandela est libéré. Le 27 avril 1994 ont lieu des élections auxquelles tous les citoyens peuvent participer pour la première fois, et le 10 mai Mandela devient président.",
+          "pt": "A 11 de fevereiro de 1990 Mandela foi libertado. A 27 de abril de 1994 realizaram-se eleições em que, pela primeira vez, todos os cidadãos puderam votar, e a 10 de maio Mandela tornou-se presidente.",
+          "sw": "Tarehe 11 Februari 1990 Mandela aliachiliwa huru. Tarehe 27 Aprili 1994 Afrika Kusini ilifanya uchaguzi ambao kwa mara ya kwanza raia wote waliweza kushiriki, na tarehe 10 Mei Mandela akawa rais."
+        }
+      ],
+      "quote": {
+        "ru": "[Цитата из документа архива Центра: письмо, дневник или воспоминание участника событий]",
+        "en": "[Quote from a document in the Center’s archive: a letter, diary or memoir of a participant]",
+        "fr": "[Citation d’un document des archives du Centre : lettre, journal ou souvenir d’un témoin]",
+        "pt": "[Citação de um documento do arquivo do Centro: carta, diário ou memória de um participante]",
+        "sw": "[Nukuu kutoka hati ya kumbukumbu za Kituo: barua, shajara au kumbukumbu za mshiriki]"
+      },
+      "quoteBy": {
+        "ru": "[Автор, должность, год] · [шифр документа]",
+        "en": "[Author, position, year] · [document reference]",
+        "fr": "[Auteur, fonction, année] · [cote du document]",
+        "pt": "[Autor, cargo, ano] · [cota do documento]",
+        "sw": "[Mwandishi, cheo, mwaka] · [namba ya hati]"
+      },
+      "closing": {
+        "ru": "[Здесь будет блок о связях с СССР по материалам архива Центра: студенты, делегации АНК в Москве, советская пресса об апартеиде.]",
+        "en": "[A section on links with the USSR will go here, based on the Center’s archive: students, ANC delegations in Moscow, the Soviet press on apartheid.]",
+        "fr": "[Ici viendra une section sur les liens avec l’URSS d’après les archives du Centre : étudiants, délégations de l’ANC à Moscou, presse soviétique sur l’apartheid.]",
+        "pt": "[Aqui ficará uma secção sobre as ligações com a URSS, com base no arquivo do Centro: estudantes, delegações do ANC em Moscovo, a imprensa soviética sobre o apartheid.]",
+        "sw": "[Hapa itakuwa sehemu kuhusu uhusiano na USSR kwa msingi wa kumbukumbu za Kituo: wanafunzi, wajumbe wa ANC mjini Moscow, magazeti ya Kisovyeti kuhusu apartheid.]"
+      },
+      "steps": [
+        {
+          "year": "1948",
+          "date": {
+            "ru": "МАЙ",
+            "en": "MAY",
+            "fr": "MAI",
+            "pt": "MAIO",
+            "sw": "MEI"
+          },
+          "text": {
+            "ru": "Национальная партия приходит к власти и вводит апартеид.",
+            "en": "The National Party comes to power and introduces apartheid.",
+            "fr": "Le Parti national arrive au pouvoir et instaure l’apartheid.",
+            "pt": "O Partido Nacional chega ao poder e institui o apartheid.",
+            "sw": "National Party inaingia madarakani na kuanzisha apartheid."
+          }
+        },
+        {
+          "year": "1960",
+          "date": {
+            "ru": "21 МАРТА",
+            "en": "21 MARCH",
+            "fr": "21 MARS",
+            "pt": "21 DE MARÇO",
+            "sw": "21 MACHI"
+          },
+          "text": {
+            "ru": "Расстрел демонстрации в Шарпевиле.",
+            "en": "The Sharpeville massacre.",
+            "fr": "Massacre de Sharpeville.",
+            "pt": "O massacre de Sharpeville.",
+            "sw": "Mauaji ya Sharpeville."
+          }
+        },
+        {
+          "year": "1964",
+          "date": {
+            "ru": "ИЮНЬ",
+            "en": "JUNE",
+            "fr": "JUIN",
+            "pt": "JUNHO",
+            "sw": "JUNI"
+          },
+          "text": {
+            "ru": "Процесс в Ривонии: Мандела приговорён к пожизненному сроку.",
+            "en": "Rivonia trial: Mandela is sentenced to life.",
+            "fr": "Procès de Rivonia : Mandela condamné à perpétuité.",
+            "pt": "Processo de Rivonia: Mandela condenado a prisão perpétua.",
+            "sw": "Kesi ya Rivonia: Mandela anahukumiwa kifungo cha maisha."
+          }
+        },
+        {
+          "year": "1976",
+          "date": {
+            "ru": "16 ИЮНЯ",
+            "en": "16 JUNE",
+            "fr": "16 JUIN",
+            "pt": "16 DE JUNHO",
+            "sw": "16 JUNI"
+          },
+          "text": {
+            "ru": "Восстание школьников в Соуэто.",
+            "en": "The Soweto schoolchildren’s uprising.",
+            "fr": "Soulèvement des écoliers de Soweto.",
+            "pt": "Revolta dos estudantes do Soweto.",
+            "sw": "Maasi ya wanafunzi wa Soweto."
+          }
+        },
+        {
+          "year": "1990",
+          "date": {
+            "ru": "11 ФЕВРАЛЯ",
+            "en": "11 FEBRUARY",
+            "fr": "11 FÉVRIER",
+            "pt": "11 DE FEVEREIRO",
+            "sw": "11 FEBRUARI"
+          },
+          "text": {
+            "ru": "Нельсон Мандела выходит на свободу.",
+            "en": "Nelson Mandela is released.",
+            "fr": "Nelson Mandela est libéré.",
+            "pt": "Nelson Mandela é libertado.",
+            "sw": "Nelson Mandela anaachiliwa huru."
+          }
+        },
+        {
+          "year": "1994",
+          "date": {
+            "ru": "27 АПРЕЛЯ",
+            "en": "27 APRIL",
+            "fr": "27 AVRIL",
+            "pt": "27 DE ABRIL",
+            "sw": "27 APRILI"
+          },
+          "text": {
+            "ru": "Первые всеобщие выборы. 10 мая Мандела — президент.",
+            "en": "First general elections. On 10 May Mandela becomes president.",
+            "fr": "Premières élections générales. Le 10 mai, Mandela devient président.",
+            "pt": "Primeiras eleições gerais. A 10 de maio Mandela torna-se presidente.",
+            "sw": "Uchaguzi mkuu wa kwanza. Tarehe 10 Mei Mandela anakuwa rais."
+          }
+        }
+      ],
+      "items": [
+        {
+          "type": "photo",
+          "src": "assets/signs1976__81cc1ea0.jpg",
+          "code": "CPA-ZA-001",
+          "color": false,
+          "title": {
+            "ru": "Плакаты учеников в Соуэто",
+            "en": "Students’ placards in Soweto",
+            "fr": "Pancartes des élèves à Soweto",
+            "pt": "Cartazes dos estudantes no Soweto",
+            "sw": "Mabango ya wanafunzi huko Soweto"
+          },
+          "date": {
+            "ru": "17 июня 1976",
+            "en": "17 June 1976",
+            "fr": "17 juin 1976",
+            "pt": "17 de junho de 1976",
+            "sw": "17 Juni 1976"
+          },
+          "credit": {
+            "ru": "Wikimedia Commons · общественное достояние",
+            "en": "Wikimedia Commons · public domain",
+            "fr": "Wikimedia Commons · domaine public",
+            "pt": "Wikimedia Commons · domínio público",
+            "sw": "Wikimedia Commons · kikoa cha umma"
+          }
+        },
+        {
+          "type": "photo",
+          "src": "assets/protest80__831db686.jpg",
+          "code": "CPA-ZA-002",
+          "color": false,
+          "title": {
+            "ru": "Протест против апартеида",
+            "en": "Protest against apartheid",
+            "fr": "Manifestation contre l’apartheid",
+            "pt": "Protesto contra o apartheid",
+            "sw": "Maandamano dhidi ya apartheid"
+          },
+          "date": {
+            "ru": "1980-е",
+            "en": "1980s",
+            "fr": "années 1980",
+            "pt": "anos 1980",
+            "sw": "miaka ya 1980"
+          },
+          "credit": {
+            "ru": "Paul Weinberg · CC BY-SA 3.0",
+            "en": "Paul Weinberg · CC BY-SA 3.0",
+            "fr": "Paul Weinberg · CC BY-SA 3.0",
+            "pt": "Paul Weinberg · CC BY-SA 3.0",
+            "sw": "Paul Weinberg · CC BY-SA 3.0"
+          }
+        },
+        {
+          "type": "photo",
+          "src": "assets/durban__f0c82977.jpg",
+          "code": "CPA-ZA-003",
+          "color": true,
+          "title": {
+            "ru": "Табличка «пляж только для белых», Дурбан",
+            "en": "“Whites only” beach sign, Durban",
+            "fr": "Panneau « plage réservée aux Blancs », Durban",
+            "pt": "Placa «praia só para brancos», Durban",
+            "sw": "Bango la «ufukwe wa wazungu pekee», Durban"
+          },
+          "date": {
+            "ru": "1989",
+            "en": "1989",
+            "fr": "1989",
+            "pt": "1989",
+            "sw": "1989"
+          },
+          "credit": {
+            "ru": "Guinnog · CC BY-SA 3.0",
+            "en": "Guinnog · CC BY-SA 3.0",
+            "fr": "Guinnog · CC BY-SA 3.0",
+            "pt": "Guinnog · CC BY-SA 3.0",
+            "sw": "Guinnog · CC BY-SA 3.0"
+          }
+        },
+        {
+          "type": "photo",
+          "src": "assets/tambo__e8ef45f9.jpg",
+          "code": "CPA-ZA-004",
+          "color": false,
+          "title": {
+            "ru": "Оливер Тамбо, президент АНК",
+            "en": "Oliver Tambo, President of the ANC",
+            "fr": "Oliver Tambo, président de l’ANC",
+            "pt": "Oliver Tambo, presidente do ANC",
+            "sw": "Oliver Tambo, Rais wa ANC"
+          },
+          "date": {
+            "ru": "октябрь 1981",
+            "en": "October 1981",
+            "fr": "octobre 1981",
+            "pt": "outubro de 1981",
+            "sw": "Oktoba 1981"
+          },
+          "credit": {
+            "ru": "Rob Bogaerts / Anefo · CC0",
+            "en": "Rob Bogaerts / Anefo · CC0",
+            "fr": "Rob Bogaerts / Anefo · CC0",
+            "pt": "Rob Bogaerts / Anefo · CC0",
+            "sw": "Rob Bogaerts / Anefo · CC0"
+          }
+        },
+        {
+          "type": "doc",
+          "src": "assets/sovmandela__14a2faf6.jpg",
+          "code": "CPA-PH-005",
+          "color": true,
+          "title": {
+            "ru": "Марка СССР «Нельсон Мандела. Борец за свободу Южной Африки»",
+            "en": "USSR stamp “Nelson Mandela. Fighter for the freedom of South Africa”",
+            "fr": "Timbre soviétique « Nelson Mandela. Combattant pour la liberté de l’Afrique du Sud »",
+            "pt": "Selo soviético «Nelson Mandela. Lutador pela liberdade da África Austral»",
+            "sw": "Stempu ya USSR «Nelson Mandela. Mpiganaji wa uhuru wa Afrika Kusini»"
+          },
+          "date": {
+            "ru": "1988",
+            "en": "1988",
+            "fr": "1988",
+            "pt": "1988",
+            "sw": "1988"
+          },
+          "credit": {
+            "ru": "Почта СССР · общественное достояние",
+            "en": "USSR Post · public domain",
+            "fr": "Poste de l’URSS · domaine public",
+            "pt": "Correios da URSS · domínio público",
+            "sw": "Posta ya USSR · kikoa cha umma"
+          }
+        },
+        {
+          "type": "photo",
+          "src": "assets/london89__b5533e9e.jpg",
+          "code": "CPA-ZA-005",
+          "color": true,
+          "title": {
+            "ru": "Пикет у посольства ЮАР в Лондоне",
+            "en": "Picket at the South African embassy in London",
+            "fr": "Piquet devant l’ambassade sud-africaine à Londres",
+            "pt": "Piquete junto à embaixada sul-africana em Londres",
+            "sw": "Maandamano mbele ya ubalozi wa Afrika Kusini, London"
+          },
+          "date": {
+            "ru": "1989",
+            "en": "1989",
+            "fr": "1989",
+            "pt": "1989",
+            "sw": "1989"
+          },
+          "credit": {
+            "ru": "rahuldlucca · CC BY 2.0",
+            "en": "rahuldlucca · CC BY 2.0",
+            "fr": "rahuldlucca · CC BY 2.0",
+            "pt": "rahuldlucca · CC BY 2.0",
+            "sw": "rahuldlucca · CC BY 2.0"
+          }
+        },
+        {
+          "type": "photo",
+          "src": "assets/mandela__6178ec57.jpg",
+          "code": "CPA-ZA-006",
+          "color": false,
+          "title": {
+            "ru": "Нельсон Мандела голосует",
+            "en": "Nelson Mandela votes",
+            "fr": "Nelson Mandela vote",
+            "pt": "Nelson Mandela vota",
+            "sw": "Nelson Mandela akipiga kura"
+          },
+          "date": {
+            "ru": "апрель 1994",
+            "en": "April 1994",
+            "fr": "avril 1994",
+            "pt": "abril de 1994",
+            "sw": "Aprili 1994"
+          },
+          "credit": {
+            "ru": "Paul Weinberg · CC BY-SA 3.0",
+            "en": "Paul Weinberg · CC BY-SA 3.0",
+            "fr": "Paul Weinberg · CC BY-SA 3.0",
+            "pt": "Paul Weinberg · CC BY-SA 3.0",
+            "sw": "Paul Weinberg · CC BY-SA 3.0"
+          }
+        },
+        {
+          "type": "photo",
+          "src": "assets/inaug__20ccb846.jpg",
+          "code": "CPA-ZA-007",
+          "color": false,
+          "title": {
+            "ru": "На инаугурации Манделы в Претории",
+            "en": "At Mandela’s inauguration in Pretoria",
+            "fr": "À l’investiture de Mandela à Pretoria",
+            "pt": "Na tomada de posse de Mandela em Pretória",
+            "sw": "Kwenye kuapishwa kwa Mandela, Pretoria"
+          },
+          "date": {
+            "ru": "май 1994",
+            "en": "May 1994",
+            "fr": "mai 1994",
+            "pt": "maio de 1994",
+            "sw": "Mei 1994"
+          },
+          "credit": {
+            "ru": "Paul Weinberg · CC BY-SA 3.0",
+            "en": "Paul Weinberg · CC BY-SA 3.0",
+            "fr": "Paul Weinberg · CC BY-SA 3.0",
+            "pt": "Paul Weinberg · CC BY-SA 3.0",
+            "sw": "Paul Weinberg · CC BY-SA 3.0"
+          }
+        },
+        {
+          "type": "press",
+          "src": "",
+          "code": "",
+          "color": false,
+          "title": {
+            "ru": "[Газетная полоса об освобождении Манделы]",
+            "en": "[Newspaper page on Mandela’s release]",
+            "fr": "[Page de journal sur la libération de Mandela]",
+            "pt": "[Página de jornal sobre a libertação de Mandela]",
+            "sw": "[Ukurasa wa gazeti kuhusu kuachiliwa kwa Mandela]"
+          },
+          "date": {
+            "ru": "февраль 1990",
+            "en": "February 1990",
+            "fr": "février 1990",
+            "pt": "fevereiro de 1990",
+            "sw": "Februari 1990"
+          },
+          "credit": {
+            "ru": "Архив ЦПА",
+            "en": "CAAS archive",
+            "fr": "Archives du CEAA",
+            "pt": "Arquivo do CEAA",
+            "sw": "Kumbukumbu za KTA"
+          }
+        }
+      ],
+      "optics": {
+        "intro": {
+          "ru": "Как об освобождении Нельсона Манделы в феврале 1990 года писали в Москве и в Йоханнесбурге.",
+          "en": "How Moscow and Johannesburg wrote about Nelson Mandela’s release in February 1990.",
+          "fr": "Comment Moscou et Johannesburg ont parlé de la libération de Nelson Mandela en février 1990.",
+          "pt": "Como Moscovo e Joanesburgo escreveram sobre a libertação de Nelson Mandela em fevereiro de 1990.",
+          "sw": "Jinsi Moscow na Johannesburg zilivyoandika kuhusu kuachiliwa kwa Nelson Mandela Februari 1990."
+        },
+        "columns": [
+          {
+            "label": {
+              "ru": "СОВЕТСКАЯ ПРЕССА",
+              "en": "SOVIET PRESS",
+              "fr": "PRESSE SOVIÉTIQUE",
+              "pt": "IMPRENSA SOVIÉTICA",
+              "sw": "MAGAZETI YA KISOVYETI"
+            },
+            "scan": {
+              "ru": "[скан полосы: газета, февраль 1990]",
+              "en": "[page scan: newspaper, February 1990]",
+              "fr": "[page numérisée : journal, février 1990]",
+              "pt": "[página digitalizada: jornal, fevereiro de 1990]",
+              "sw": "[nakala ya ukurasa: gazeti, Februari 1990]"
+            },
+            "text": {
+              "ru": "[Пересказ и короткая цитата из советской газеты.]",
+              "en": "[Summary and a short quote from a Soviet newspaper.]",
+              "fr": "[Résumé et courte citation d’un journal soviétique.]",
+              "pt": "[Resumo e breve citação de um jornal soviético.]",
+              "sw": "[Muhtasari na nukuu fupi kutoka gazeti la Kisovyeti.]"
+            }
+          },
+          {
+            "label": {
+              "ru": "ЮЖНОАФРИКАНСКАЯ ПРЕССА",
+              "en": "SOUTH AFRICAN PRESS",
+              "fr": "PRESSE SUD-AFRICAINE",
+              "pt": "IMPRENSA SUL-AFRICANA",
+              "sw": "MAGAZETI YA AFRIKA KUSINI"
+            },
+            "scan": {
+              "ru": "[скан полосы: газета ЮАР, февраль 1990]",
+              "en": "[page scan: South African newspaper, February 1990]",
+              "fr": "[page numérisée : journal sud-africain, février 1990]",
+              "pt": "[página digitalizada: jornal sul-africano, fevereiro de 1990]",
+              "sw": "[nakala ya ukurasa: gazeti la Afrika Kusini, Februari 1990]"
+            },
+            "text": {
+              "ru": "[Пересказ и короткая цитата с переводом.]",
+              "en": "[Summary and a short quote, translated.]",
+              "fr": "[Résumé et courte citation, traduite.]",
+              "pt": "[Resumo e breve citação, traduzida.]",
+              "sw": "[Muhtasari na nukuu fupi, iliyotafsiriwa.]"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

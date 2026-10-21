@@ -143,7 +143,7 @@
         "pt": "Dezassete Estados tornam-se independentes num só ano. Em Moscovo abre a Universidade da Amizade dos Povos, mais tarde com o nome de Patrice Lumumba.",
         "sw": "Nchi kumi na saba zinapata uhuru katika mwaka mmoja. Mjini Moscow kinafunguliwa Chuo Kikuu cha Urafiki wa Watu, baadaye kikapewa jina la Patrice Lumumba."
       },
-      "story": "",
+      "story": "story.html?id=africa",
       "photos": [
         {
           "src": "assets/lumumba_sign__d68b6115.jpg",
@@ -203,7 +203,7 @@
         "pt": "Independência sob a liderança de Julius Nyerere. Em 1964 o Tanganica e Zanzibar unem-se e formam a Tanzânia.",
         "sw": "Uhuru chini ya uongozi wa Julius Nyerere. Mwaka 1964 Tanganyika na Zanzibar zinaungana na kuunda Tanzania."
       },
-      "story": "",
+      "story": "story.html?id=tanganyika",
       "photos": [
         {
           "src": "assets/nyerere_uk__128b0d89.jpg",
@@ -481,7 +481,7 @@
         "pt": "Primeiras eleições gerais na África do Sul. Nelson Mandela torna-se presidente.",
         "sw": "Uchaguzi mkuu wa kwanza nchini Afrika Kusini. Nelson Mandela anakuwa rais."
       },
-      "story": "",
+      "story": "story.html?id=sa",
       "photos": [
         {
           "src": "assets/mandela__6178ec57.jpg",

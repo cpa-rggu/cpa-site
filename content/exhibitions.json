@@ -17,7 +17,251 @@
     "date": "[10.2026 — 12.2026]",
     "photo": "assets/ex_darnm__c8a5aa09.jpg",
     "sample": true,
-    "link": ""
+    "link": "",
+    "id": "dar",
+    "address": {
+      "ru": "[адрес площадки]",
+      "en": "[venue address]",
+      "fr": "[adresse du lieu]",
+      "pt": "[morada do local]",
+      "sw": "[anwani ya ukumbi]"
+    },
+    "hours": {
+      "ru": "[вт–вс, 10:00–18:00]",
+      "en": "[Tue–Sun, 10:00–18:00]",
+      "fr": "[mar.–dim., 10 h–18 h]",
+      "pt": "[ter.–dom., 10h–18h]",
+      "sw": "[Jnn–Jpi, 10:00–18:00]"
+    },
+    "entry": {
+      "ru": "[свободный]",
+      "en": "[free]",
+      "fr": "[libre]",
+      "pt": "[livre]",
+      "sw": "[bure]"
+    },
+    "body": {
+      "ru": "[Здесь будет текст о выставке на этой площадке: чем она отличается, что показывают впервые, кто куратор и с кем сделана.]",
+      "en": "[Text about the exhibition at this venue will go here: what is special about it, what is shown for the first time, who curated it and with whom.]",
+      "fr": "[Ici, un texte sur l’exposition dans ce lieu : sa particularité, ce qui est montré pour la première fois, le commissaire et les partenaires.]",
+      "pt": "[Aqui ficará um texto sobre a exposição neste local: o que a distingue, o que se mostra pela primeira vez, quem é o curador e os parceiros.]",
+      "sw": "[Hapa itakuwa maelezo ya maonyesho katika ukumbi huu: upekee wake, kinachoonyeshwa kwa mara ya kwanza, msimamizi wake na washirika.]"
+    },
+    "stats": [
+      {
+        "value": "[120]",
+        "label": {
+          "ru": "экспонатов",
+          "en": "exhibits",
+          "fr": "objets",
+          "pt": "peças",
+          "sw": "vitu"
+        }
+      },
+      {
+        "value": "[4]",
+        "label": {
+          "ru": "раздела",
+          "en": "sections",
+          "fr": "sections",
+          "pt": "secções",
+          "sw": "sehemu"
+        }
+      },
+      {
+        "value": "[5]",
+        "label": {
+          "ru": "языков",
+          "en": "languages",
+          "fr": "langues",
+          "pt": "línguas",
+          "sw": "lugha"
+        }
+      }
+    ],
+    "sections": [
+      {
+        "story": "aswan",
+        "photo": "assets/aswan__37a9608c.jpg",
+        "years": "1960—1970"
+      },
+      {
+        "story": "africa",
+        "photo": "assets/lumumba__08f72560.jpg",
+        "years": "1960"
+      },
+      {
+        "story": "tanganyika",
+        "photo": "assets/nyerere__f97fcc59.jpg",
+        "years": "1961"
+      },
+      {
+        "story": "sa",
+        "photo": "assets/mandela__6178ec57.jpg",
+        "years": "1990—1994"
+      }
+    ],
+    "gallery": [
+      {
+        "src": "assets/ex_darnm__c8a5aa09.jpg",
+        "caption": {
+          "ru": "Национальный музей, Дар-эс-Салам",
+          "en": "National Museum, Dar es Salaam",
+          "fr": "Musée national, Dar es Salaam",
+          "pt": "Museu Nacional, Dar es Salaam",
+          "sw": "Makumbusho ya Taifa, Dar es Salaam"
+        },
+        "credit": "Jaba1977, CC BY-SA 4.0"
+      },
+      {
+        "src": "assets/ex_dar07__58b92667.jpg",
+        "caption": {
+          "ru": "Зал музея",
+          "en": "Museum hall",
+          "fr": "Salle du musée",
+          "pt": "Sala do museu",
+          "sw": "Ukumbi wa makumbusho"
+        },
+        "credit": "Jaba1977, CC BY-SA 4.0"
+      },
+      {
+        "src": "assets/ex_dar13__ddf7476a.jpg",
+        "caption": {
+          "ru": "Экспозиция",
+          "en": "Display",
+          "fr": "Exposition",
+          "pt": "Exposição",
+          "sw": "Maonyesho"
+        },
+        "credit": "Jaba1977, CC BY-SA 4.0"
+      },
+      {
+        "src": "assets/ex_dar20__72fd0dd4.jpg",
+        "caption": {
+          "ru": "Двор музея",
+          "en": "Museum courtyard",
+          "fr": "Cour du musée",
+          "pt": "Pátio do museu",
+          "sw": "Uwanja wa makumbusho"
+        },
+        "credit": "Jaba1977, CC BY-SA 4.0"
+      }
+    ],
+    "partners": [
+      {
+        "name": {
+          "ru": "[логотип партнёра]",
+          "en": "[partner logo]",
+          "fr": "[logo du partenaire]",
+          "pt": "[logótipo do parceiro]",
+          "sw": "[nembo ya mshirika]"
+        },
+        "logo": ""
+      },
+      {
+        "name": {
+          "ru": "[логотип партнёра]",
+          "en": "[partner logo]",
+          "fr": "[logo du partenaire]",
+          "pt": "[logótipo do parceiro]",
+          "sw": "[nembo ya mshirika]"
+        },
+        "logo": ""
+      },
+      {
+        "name": {
+          "ru": "[логотип партнёра]",
+          "en": "[partner logo]",
+          "fr": "[logo du partenaire]",
+          "pt": "[logótipo do parceiro]",
+          "sw": "[nembo ya mshirika]"
+        },
+        "logo": ""
+      },
+      {
+        "name": {
+          "ru": "[логотип партнёра]",
+          "en": "[partner logo]",
+          "fr": "[logo du partenaire]",
+          "pt": "[logótipo do parceiro]",
+          "sw": "[nembo ya mshirika]"
+        },
+        "logo": ""
+      },
+      {
+        "name": {
+          "ru": "[логотип партнёра]",
+          "en": "[partner logo]",
+          "fr": "[logo du partenaire]",
+          "pt": "[logótipo do parceiro]",
+          "sw": "[nembo ya mshirika]"
+        },
+        "logo": ""
+      },
+      {
+        "name": {
+          "ru": "[логотип партнёра]",
+          "en": "[partner logo]",
+          "fr": "[logo du partenaire]",
+          "pt": "[logótipo do parceiro]",
+          "sw": "[nembo ya mshirika]"
+        },
+        "logo": ""
+      }
+    ],
+    "press": [
+      {
+        "source": {
+          "ru": "[Издание · дата]",
+          "en": "[Outlet · date]",
+          "fr": "[Média · date]",
+          "pt": "[Meio · data]",
+          "sw": "[Chombo · tarehe]"
+        },
+        "title": {
+          "ru": "[Заголовок публикации о выставке]",
+          "en": "[Headline about the exhibition]",
+          "fr": "[Titre d’un article sur l’exposition]",
+          "pt": "[Título de artigo sobre a exposição]",
+          "sw": "[Kichwa cha habari kuhusu maonyesho]"
+        },
+        "link": ""
+      },
+      {
+        "source": {
+          "ru": "[Телеканал · дата]",
+          "en": "[TV channel · date]",
+          "fr": "[Chaîne TV · date]",
+          "pt": "[Canal de TV · data]",
+          "sw": "[Televisheni · tarehe]"
+        },
+        "title": {
+          "ru": "[Сюжет об открытии]",
+          "en": "[Report on the opening]",
+          "fr": "[Reportage sur l’inauguration]",
+          "pt": "[Reportagem sobre a inauguração]",
+          "sw": "[Habari ya ufunguzi]"
+        },
+        "link": ""
+      },
+      {
+        "source": {
+          "ru": "[Портал · дата]",
+          "en": "[Website · date]",
+          "fr": "[Site · date]",
+          "pt": "[Portal · data]",
+          "sw": "[Tovuti · tarehe]"
+        },
+        "title": {
+          "ru": "[Интервью с куратором]",
+          "en": "[Interview with the curator]",
+          "fr": "[Entretien avec le commissaire]",
+          "pt": "[Entrevista com o curador]",
+          "sw": "[Mahojiano na msimamizi]"
+        },
+        "link": ""
+      }
+    ]
   },
   "past": [
     {
@@ -38,7 +282,8 @@
       "date": "[03.2026]",
       "photo": "assets/ex_balme__ef4b2df1.jpg",
       "sample": true,
-      "link": ""
+      "link": "",
+      "id": "balme"
     },
     {
       "city": {
@@ -58,7 +303,8 @@
       "date": "[11.2025]",
       "photo": "assets/ex_mcn__bf719e74.jpg",
       "sample": true,
-      "link": ""
+      "link": "",
+      "id": "mcn"
     },
     {
       "city": {
@@ -78,7 +324,8 @@
       "date": "[06.2025]",
       "photo": "assets/ex_maputo__a0a5f4c2.jpg",
       "sample": true,
-      "link": ""
+      "link": "",
+      "id": "maputo"
     },
     {
       "city": {
@@ -98,7 +345,8 @@
       "date": "[02.2025]",
       "photo": "assets/ex_luanda__db0ac992.jpg",
       "sample": true,
-      "link": ""
+      "link": "",
+      "id": "luanda"
     },
     {
       "city": {
@@ -118,7 +366,8 @@
       "date": "[09.2024]",
       "photo": "assets/ex_nkpark__902dc96f.jpg",
       "sample": true,
-      "link": ""
+      "link": "",
+      "id": "nkpark"
     }
   ]
 }
