@@ -1,0 +1,97 @@
+{
+  "items": [
+    {
+      "id": "somaliland",
+      "featured": true,
+      "year": "2025",
+      "region": "east",
+      "author": {
+        "ru": "Н.А. Медушевский",
+        "en": "N.A. Medushevsky"
+      },
+      "title": {
+        "ru": "Сомалиленд — зона конфликта и перекрёсток региональных интересов",
+        "en": "Somaliland as a conflict area and a crossroads of regional interests"
+      },
+      "journal": {
+        "ru": "Пути к миру и безопасности",
+        "en": "Pathways to Peace and Security"
+      },
+      "issue": "2025, № 2",
+      "pages": "222–236",
+      "doi": "10.20542/2307-1494-2025-2-222-236",
+      "pdf": "assets/pub_somaliland__f3fc25ff.pdf",
+      "cyberleninka": "https://cyberleninka.ru/article/n/somalilend-zona-konflikta-i-perekrestok-regionalnyh-interesov",
+      "keywords": {
+        "ru": "Сомалиленд; Пунтленд; Сомали; Эфиопия; сепаратизм; непризнанное государство; кланы; Маахир; Хатумо",
+        "en": "Somaliland; Puntland; Somalia; Ethiopia; separatism; unrecognized state; clan politics; Maakhir; Khatumo"
+      },
+      "abstract": {
+        "ru": "Статья посвящена проблеме конфликтогенности в Сомалиленде и на сопредельных территориях. В фокусе анализа находятся конфликты, связанные с попыткой создания в составе Сомали таких территориально-политических образований, как Маахир и Хатумо. Основной политический разлом проходит по границе проживания кланов Исаак (Сомалиленд) и Дарод (Пунтленд, Сомалиленд и часть Эфиопии). Эта система локальных конфликтов накладывается на сложные отношения Сомали, Эфиопии и непризнанного государства Сомалиленд, в которые опосредованно втянуты Египет и Турция. Сделан вывод о том, что на современном этапе конфликтное взаимодействие сторон движется по пути эскалации.",
+        "en": "The article examines the potential for conflicts in Somaliland and adjacent areas. The analysis focuses on conflicts associated with attempts to create territorial-political entities such as Maakhir and Khatumo within Somalia. The main political fault line runs along the border between the Isaaq (Somaliland) and Darod (Puntland, Somaliland, and part of Ethiopia) clans. This system of local conflicts overlaps with the complex relations between Somalia, Ethiopia and the unrecognized state of Somaliland, into which Egypt and Turkey are indirectly drawn. It is concluded that the conflict between the parties follows a path of escalation."
+      }
+    },
+    {
+      "id": "ftogo",
+      "featured": true,
+      "year": "2025",
+      "region": "west",
+      "author": {
+        "ru": "Н.А. Медушевский",
+        "en": "N.A. Medushevsky"
+      },
+      "title": {
+        "ru": "Французское Того: от колониализма к независимости",
+        "en": "French Togo: from Colonialism to Independence"
+      },
+      "journal": {
+        "ru": "Клио",
+        "en": "Clio"
+      },
+      "issue": "2025, № 7",
+      "pages": "97–103",
+      "doi": "10.24412/2070-9773-2025-7223-97-103",
+      "pdf": "assets/pub_french_togo__861b0a7d.pdf",
+      "cyberleninka": "https://cyberleninka.ru/article/n/frantsuzskoe-togo-ot-kolonializma-k-nezavisimosti",
+      "keywords": {
+        "ru": "Французское Того; Республика Того; эве; Олимпио; Груницкий; «Женская революция»; Комитет единства Того",
+        "en": "French Togo; Republic of Togo; Ewe; Olympio; Grunitzky; “Women’s Revolution”; Committee of Togolese Unity"
+      },
+      "abstract": {
+        "ru": "Статья посвящена истории Того с 1916 по 1960 г., когда территория имела статус французского протектората и в историографии именуется Французским Того, параллельно с Британским Тоголендом. Процесс трансформации протектората рассматривается в контексте раздела германской колонии, мандата Лиги Наций, Второй мировой войны, независимости соседней Ганы и получения независимости Того в 1960 г. Один из основных акцентов связан с ролью этнического фактора — сообщества эве. Именно политическая мобилизация эве позволила сохранить относительную стабильность территории и сформировать первичную политическую элиту, представленную Сильванусом Олимпио и Николасом Груницким.",
+        "en": "This article examines the history of Togo from 1916 to 1960, when it had the status of a French protectorate, known in historiography as French Togo, with British Togoland existing in parallel. The transformation of the protectorate is considered in the context of the division of the German colony, the League of Nations mandate, the Second World War, the independence of neighbouring Ghana and Togo’s own independence in 1960. One of the main focuses is the role of the ethnic factor represented by the Ewe community. The political mobilisation of the Ewe made it possible to maintain relative stability and to form a primary political elite represented by Sylvanus Olympio and Nicolas Grunitzky."
+      }
+    },
+    {
+      "id": "gtogo",
+      "featured": true,
+      "year": "2025",
+      "region": "west",
+      "author": {
+        "ru": "Н.А. Медушевский",
+        "en": "N.A. Medushevsky"
+      },
+      "title": {
+        "ru": "Германский Тоголенд: возникновение и развитие колонии",
+        "en": "German Togoland: the Emergence and Development of the Colony"
+      },
+      "journal": {
+        "ru": "Клио",
+        "en": "Clio"
+      },
+      "issue": "2025, № 5",
+      "pages": "47–52",
+      "doi": "10.24412/2070-9773-2025-5221-47-52",
+      "pdf": "assets/pub_german_togoland__53a5eecc.pdf",
+      "cyberleninka": "https://cyberleninka.ru/article/n/germanskiy-togolend-vozniknovenie-i-razvitie-kolonii",
+      "keywords": {
+        "ru": "Германский Тоголенд; колониализм; метрополия; христианизация; эве; Бременская миссия",
+        "en": "German Togoland; colonialism; metropolis; Christianization; Ewe; Bremen mission"
+      },
+      "abstract": {
+        "ru": "Колониальная политика Германии XIX–XX вв. представляет интерес не только как часть общей колониальной практики европейских держав, но и как фактор, повлиявший на становление колониальных обществ Африки, позднее ставших независимыми государствами. Колония Германский Тоголенд в очень короткие сроки приобрела статус «образцовой». Тоголенд интересен и с точки зрения трансформационного влияния — в работе с местным населением и развитии образовательных практик. Особое внимание уделено христианизации и деятельности Бременской миссии, которая выразилась в создании школ и письменного языка эве.",
+        "en": "The colonial policy of Germany in the 19th–20th centuries is of interest not only as part of the general colonial practice of European powers, but also as a factor that shaped colonial societies in Africa that later became independent states. The colony of German Togoland acquired the status of a “model” colony in a very short time. Togoland is also of interest in terms of transformational influence — in work with the local population and the development of educational practices. Particular attention is paid to Christianization and the activities of the Bremen mission, expressed in the creation of schools and the written language of Ewe."
+      }
+    }
+  ]
+}

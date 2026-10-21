@@ -1,0 +1,31 @@
+# ЗАГОТОВКА на будущее: автовыкладка сайта на хостинг РГГУ по FTP.
+# Сейчас НЕ используется (сайт живёт на GitHub Pages).
+# Как включить, когда РГГУ даст хостинг:
+#   1. Переименуйте файл в deploy-ftp.yml и положите в папку .github/workflows/ в репозитории.
+#   2. В репозитории: Settings → Secrets and variables → Actions → New repository secret —
+#      добавьте FTP_SERVER, FTP_USERNAME, FTP_PASSWORD (их выдаст IT-служба РГГУ).
+#   3. После каждого сохранения в админке сайт сам скопируется на хостинг РГГУ.
+# Если РГГУ даст только поддомен (например cpa.rggu.ru) без своего хостинга —
+# этот файл не нужен: достаточно файла CNAME и записи DNS (см. ИНСТРУКЦИЯ.md, раздел «Свой адрес»).
+name: Выкладка на хостинг РГГУ
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ secrets.FTP_SERVER }}
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          local-dir: ./
+          server-dir: ./
+          exclude: |
+            **/.git*
+            **/.git*/**
+            tools/**
+            *.md

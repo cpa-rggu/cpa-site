@@ -1,0 +1,424 @@
+{
+  "header": {
+    "org": {
+      "ru": "Центр прикладной африканистики",
+      "en": "Center for Applied African Studies",
+      "fr": "Centre d’études africaines appliquées",
+      "pt": "Centro de Estudos Africanos Aplicados",
+      "sw": "Kituo cha Taaluma za Afrika kwa Vitendo"
+    },
+    "uni": {
+      "ru": "РГГУ",
+      "en": "RSUH",
+      "fr": "RGGU",
+      "pt": "RGGU",
+      "sw": "RGGU"
+    },
+    "abbr": {
+      "ru": "ЦПА",
+      "en": "CAAS",
+      "fr": "CEAA",
+      "pt": "CEAA",
+      "sw": "KTA"
+    },
+    "navLabel": {
+      "ru": "Основное меню",
+      "en": "Main menu",
+      "fr": "Menu principal",
+      "pt": "Menu principal",
+      "sw": "Menyu kuu"
+    },
+    "navChron": {
+      "ru": "Хроника",
+      "en": "Chronicle",
+      "fr": "Chronique",
+      "pt": "Cronologia",
+      "sw": "Historia"
+    },
+    "navExh": {
+      "ru": "Выставки",
+      "en": "Exhibitions",
+      "fr": "Expositions",
+      "pt": "Exposições",
+      "sw": "Maonyesho"
+    },
+    "navPub": {
+      "ru": "Публикации",
+      "en": "Publications",
+      "fr": "Publications",
+      "pt": "Publicações",
+      "sw": "Machapisho"
+    },
+    "navAbout": {
+      "ru": "О Центре",
+      "en": "About the Center",
+      "fr": "Le Centre",
+      "pt": "Sobre o Centro",
+      "sw": "Kuhusu Kituo"
+    },
+    "menu": {
+      "ru": "Меню",
+      "en": "Menu",
+      "fr": "Menu",
+      "pt": "Menu",
+      "sw": "Menyu"
+    }
+  },
+  "hero": {
+    "kicker": {
+      "ru": "Цифровая выставка",
+      "en": "Digital exhibition",
+      "fr": "Exposition numérique",
+      "pt": "Exposição digital",
+      "sw": "Maonyesho ya kidijitali"
+    },
+    "h1a": {
+      "ru": "Африка.",
+      "en": "Africa.",
+      "fr": "L’Afrique.",
+      "pt": "África.",
+      "sw": "Afrika."
+    },
+    "h1b": {
+      "ru": "Путь к независимости",
+      "en": "The road to independence",
+      "fr": "Le chemin de l’indépendance",
+      "pt": "O caminho da independência",
+      "sw": "Njia ya uhuru"
+    },
+    "desc": {
+      "ru": "Национально-освободительное движение в Африке и роль Советского Союза в нём. Архивные фотографии и документы передвижной выставки Центра.",
+      "en": "National liberation movements in Africa and the role of the Soviet Union. Archival photographs and documents from the Center’s travelling exhibition.",
+      "fr": "Les mouvements de libération nationale en Afrique et le rôle de l’Union soviétique. Photographies et documents d’archives de l’exposition itinérante du Centre.",
+      "pt": "Os movimentos de libertação nacional em África e o papel da União Soviética. Fotografias e documentos de arquivo da exposição itinerante do Centro.",
+      "sw": "Harakati za ukombozi wa taifa barani Afrika na nafasi ya Umoja wa Kisovyeti. Picha na nyaraka za kumbukumbu kutoka maonyesho ya kusafiri ya Kituo."
+    },
+    "btnChron": {
+      "ru": "Смотреть хронику",
+      "en": "View the chronicle",
+      "fr": "Voir la chronique",
+      "pt": "Ver a cronologia",
+      "sw": "Tazama historia"
+    },
+    "numLabel": {
+      "ru": "Номер экспоната с выставки",
+      "en": "Exhibit number from the exhibition",
+      "fr": "Numéro de l’objet exposé",
+      "pt": "Número da peça da exposição",
+      "sw": "Namba ya kitu cha maonyesho"
+    },
+    "numPh": {
+      "ru": "Номер экспоната, напр. 03.14",
+      "en": "Exhibit number, e.g. 03.14",
+      "fr": "N° de l’objet, ex. 03.14",
+      "pt": "N.º da peça, ex. 03.14",
+      "sw": "Namba ya kitu, mf. 03.14"
+    },
+    "numShort": {
+      "ru": "№ экспоната",
+      "en": "Exhibit no.",
+      "fr": "N° de l’objet",
+      "pt": "N.º da peça",
+      "sw": "Namba ya kitu"
+    },
+    "open": {
+      "ru": "Открыть",
+      "en": "Open",
+      "fr": "Ouvrir",
+      "pt": "Abrir",
+      "sw": "Fungua"
+    },
+    "qr": {
+      "ru": "Или отсканируйте QR-код на стенде",
+      "en": "Or scan the QR code on the stand",
+      "fr": "Ou scannez le code QR sur le panneau",
+      "pt": "Ou leia o código QR no painel",
+      "sw": "Au changanua msimbo wa QR kwenye ubao"
+    }
+  },
+  "chronicle": {
+    "tlA": {
+      "ru": "Хроника",
+      "en": "Chronicle of",
+      "fr": "Chronique des",
+      "pt": "Cronologia das",
+      "sw": "Historia ya"
+    },
+    "tlB": {
+      "ru": "независимости",
+      "en": "independence",
+      "fr": "indépendances",
+      "pt": "independências",
+      "sw": "uhuru"
+    },
+    "tlHint": {
+      "ru": "Выберите год. Каждая дата открывает раздел с фотографиями и документами из архива Центра.",
+      "en": "Choose a year. Each date opens a section with photographs and documents from the Center’s archive.",
+      "fr": "Choisissez une année. Chaque date ouvre une section avec des photos et des documents des archives du Centre.",
+      "pt": "Escolha um ano. Cada data abre uma secção com fotografias e documentos do arquivo do Centro.",
+      "sw": "Chagua mwaka. Kila tarehe inafungua sehemu yenye picha na nyaraka kutoka kumbukumbu za Kituo."
+    },
+    "swipe": {
+      "ru": "Листайте годы вбок и выбирайте дату.",
+      "en": "Swipe through the years and pick a date.",
+      "fr": "Faites défiler les années et choisissez une date.",
+      "pt": "Deslize pelos anos e escolha uma data.",
+      "sw": "Telezesha miaka kando na uchague tarehe."
+    },
+    "yearsLabel": {
+      "ru": "Годы",
+      "en": "Years",
+      "fr": "Années",
+      "pt": "Anos",
+      "sw": "Miaka"
+    },
+    "photosLabel": {
+      "ru": "Фотографии года",
+      "en": "Photos of the year",
+      "fr": "Photos de l’année",
+      "pt": "Fotos do ano",
+      "sw": "Picha za mwaka"
+    },
+    "cta": {
+      "ru": "Открыть сюжет",
+      "en": "Open the story",
+      "fr": "Ouvrir le récit",
+      "pt": "Abrir a história",
+      "sw": "Fungua simulizi"
+    },
+    "soon": {
+      "ru": "Сюжет готовится",
+      "en": "Story coming soon",
+      "fr": "Récit en préparation",
+      "pt": "História em preparação",
+      "sw": "Simulizi inaandaliwa"
+    }
+  },
+  "exhibitions": {
+    "exh": {
+      "ru": "Выставки",
+      "en": "Exhibitions",
+      "fr": "Expositions",
+      "pt": "Exposições",
+      "sw": "Maonyesho"
+    },
+    "exhHint": {
+      "ru": "Где выставка Центра уже побывала и где её можно увидеть сейчас. Фотоотчёты, партнёры и публикации в прессе.",
+      "en": "Where the Center’s exhibition has been and where you can see it now. Photo reports, partners and press coverage.",
+      "fr": "Où l’exposition du Centre est passée et où la voir aujourd’hui : reportages photo, partenaires et revue de presse.",
+      "pt": "Onde a exposição do Centro já esteve e onde pode ser vista agora: reportagens, parceiros e imprensa.",
+      "sw": "Mahali maonyesho ya Kituo yamefanyika na yanapoweza kuonekana sasa: ripoti za picha, washirika na habari."
+    },
+    "now": {
+      "ru": "СЕЙЧАС",
+      "en": "NOW ON",
+      "fr": "EN COURS",
+      "pt": "AGORA",
+      "sw": "SASA"
+    },
+    "more": {
+      "ru": "Подробнее",
+      "en": "Details",
+      "fr": "Détails",
+      "pt": "Detalhes",
+      "sw": "Maelezo"
+    },
+    "sample": {
+      "ru": "ПРИМЕР",
+      "en": "SAMPLE",
+      "fr": "EXEMPLE",
+      "pt": "EXEMPLO",
+      "sw": "MFANO"
+    },
+    "report": {
+      "ru": "Фотоотчёт",
+      "en": "Photo report",
+      "fr": "Reportage photo",
+      "pt": "Reportagem fotográfica",
+      "sw": "Ripoti ya picha"
+    },
+    "hostTitle": {
+      "ru": "Ваш город?",
+      "en": "Your city?",
+      "fr": "Votre ville ?",
+      "pt": "A sua cidade?",
+      "sw": "Mji wako?"
+    },
+    "hostText": {
+      "ru": "Привезём выставку в ваш университет, музей или культурный центр.",
+      "en": "We can bring the exhibition to your university, museum or cultural centre.",
+      "fr": "Nous pouvons présenter l’exposition dans votre université, votre musée ou votre centre culturel.",
+      "pt": "Podemos levar a exposição à sua universidade, museu ou centro cultural.",
+      "sw": "Tunaweza kuleta maonyesho katika chuo kikuu, makumbusho au kituo chako cha utamaduni."
+    },
+    "host": {
+      "ru": "Провести выставку у себя",
+      "en": "Host the exhibition",
+      "fr": "Accueillir l’exposition",
+      "pt": "Acolher a exposição",
+      "sw": "Andaa maonyesho kwako"
+    },
+    "lPartners": {
+      "ru": "ДЛЯ ПАРТНЁРОВ",
+      "en": "FOR PARTNERS",
+      "fr": "PARTENAIRES",
+      "pt": "PARCEIROS",
+      "sw": "KWA WASHIRIKA"
+    }
+  },
+  "publications": {
+    "pubKicker": {
+      "ru": "НОВОЕ В БИБЛИОТЕКЕ",
+      "en": "NEW IN THE LIBRARY",
+      "fr": "NOUVEAU DANS LA BIBLIOTHÈQUE",
+      "pt": "NOVIDADES NA BIBLIOTECA",
+      "sw": "MPYA KWENYE MAKTABA"
+    },
+    "pubH": {
+      "ru": "Публикации учёных Центра",
+      "en": "Publications by the Center’s scholars",
+      "fr": "Publications des chercheurs du Centre",
+      "pt": "Publicações dos investigadores do Centro",
+      "sw": "Machapisho ya wataalamu wa Kituo"
+    },
+    "pubHint": {
+      "ru": "Статьи сотрудников и участников Центра в открытом доступе.",
+      "en": "Open-access articles by the Center’s staff and members.",
+      "fr": "Articles en libre accès des membres du Centre.",
+      "pt": "Artigos em acesso aberto dos membros do Centro.",
+      "sw": "Makala za wanachama wa Kituo zilizo wazi kwa umma."
+    },
+    "pubRead": {
+      "ru": "Читать PDF",
+      "en": "Read PDF",
+      "fr": "Lire le PDF",
+      "pt": "Ler PDF",
+      "sw": "Soma PDF"
+    },
+    "pubAll": {
+      "ru": "Все публикации",
+      "en": "All publications",
+      "fr": "Toutes les publications",
+      "pt": "Todas as publicações",
+      "sw": "Machapisho yote"
+    },
+    "pubAdd": {
+      "ru": "Учёным Центра: добавить статью",
+      "en": "Center scholars: add an article",
+      "fr": "Chercheurs du Centre : ajouter un article",
+      "pt": "Investigadores do Centro: adicionar artigo",
+      "sw": "Wataalamu wa Kituo: ongeza makala"
+    },
+    "regionWest": {
+      "ru": "Западная Африка",
+      "en": "West Africa",
+      "fr": "Afrique de l’Ouest",
+      "pt": "África Ocidental",
+      "sw": "Afrika Magharibi"
+    },
+    "regionEast": {
+      "ru": "Восточная Африка",
+      "en": "East Africa",
+      "fr": "Afrique de l’Est",
+      "pt": "África Oriental",
+      "sw": "Afrika Mashariki"
+    }
+  },
+  "about": {
+    "about": {
+      "ru": "О Центре",
+      "en": "About the Center",
+      "fr": "Le Centre",
+      "pt": "Sobre o Centro",
+      "sw": "Kuhusu Kituo"
+    },
+    "aboutText": {
+      "ru": "Центр прикладной африканистики РГГУ — [2–3 предложения: с какого года работает, чем занимается, какие выставки и исследования уже сделаны].",
+      "en": "The Center for Applied African Studies at RSUH — [2–3 sentences: when it was founded, what it does, which exhibitions and research it has done].",
+      "fr": "Le Centre d’études africaines appliquées de la RGGU — [2–3 phrases : date de création, activités, expositions et recherches réalisées].",
+      "pt": "O Centro de Estudos Africanos Aplicados da RGGU — [2–3 frases: quando foi criado, o que faz, que exposições e investigações já realizou].",
+      "sw": "Kituo cha Taaluma za Afrika kwa Vitendo cha RGGU — [sentensi 2–3: kilianzishwa lini, kinafanya nini, maonyesho na tafiti zipi zimefanyika]."
+    },
+    "lEmail": {
+      "ru": "ПОЧТА",
+      "en": "EMAIL",
+      "fr": "E-MAIL",
+      "pt": "E-MAIL",
+      "sw": "BARUA PEPE"
+    },
+    "vEmail": {
+      "ru": "[email центра]",
+      "en": "[Center email]",
+      "fr": "[e-mail du Centre]",
+      "pt": "[e-mail do Centro]",
+      "sw": "[barua pepe ya Kituo]"
+    },
+    "lPhone": {
+      "ru": "ТЕЛЕФОН",
+      "en": "PHONE",
+      "fr": "TÉLÉPHONE",
+      "pt": "TELEFONE",
+      "sw": "SIMU"
+    },
+    "vPhone": {
+      "ru": "[телефон]",
+      "en": "[phone]",
+      "fr": "[téléphone]",
+      "pt": "[telefone]",
+      "sw": "[simu]"
+    },
+    "lAddr": {
+      "ru": "АДРЕС",
+      "en": "ADDRESS",
+      "fr": "ADRESSE",
+      "pt": "MORADA",
+      "sw": "ANWANI"
+    },
+    "vAddr": {
+      "ru": "[адрес Центра в РГГУ]",
+      "en": "[Center address at RSUH]",
+      "fr": "[adresse du Centre à la RGGU]",
+      "pt": "[morada do Centro na RGGU]",
+      "sw": "[anwani ya Kituo, RGGU]"
+    }
+  },
+  "footer": {
+    "copy": {
+      "ru": "© [год] Центр прикладной африканистики РГГУ",
+      "en": "© [year] Center for Applied African Studies, RSUH",
+      "fr": "© [année] Centre d’études africaines appliquées, RGGU",
+      "pt": "© [ano] Centro de Estudos Africanos Aplicados, RGGU",
+      "sw": "© [mwaka] Kituo cha Taaluma za Afrika kwa Vitendo, RGGU"
+    },
+    "credits": {
+      "ru": "Фото в макете: Wikimedia Commons (Anefo / Nationaal Archief, The National Archives UK, Почта СССР и др.)",
+      "en": "Photos in this mock-up: Wikimedia Commons (Anefo / Nationaal Archief, The National Archives UK, USSR Post and others)",
+      "fr": "Photos de la maquette : Wikimedia Commons (Anefo / Nationaal Archief, The National Archives UK, Poste de l’URSS, etc.)",
+      "pt": "Fotos da maqueta: Wikimedia Commons (Anefo / Nationaal Archief, The National Archives UK, Correios da URSS e outros)",
+      "sw": "Picha za mfano: Wikimedia Commons (Anefo / Nationaal Archief, The National Archives UK, Posta ya USSR na wengine)"
+    },
+    "creditsShort": {
+      "ru": "Фото в макете: Wikimedia Commons",
+      "en": "Photos in this mock-up: Wikimedia Commons",
+      "fr": "Photos de la maquette : Wikimedia Commons",
+      "pt": "Fotos da maqueta: Wikimedia Commons",
+      "sw": "Picha za mfano: Wikimedia Commons"
+    },
+    "creditsTitle": {
+      "ru": "Источники фотографий",
+      "en": "Photo credits",
+      "fr": "Crédits photo",
+      "pt": "Créditos das fotos",
+      "sw": "Vyanzo vya picha"
+    }
+  },
+  "system": {
+    "soonNotice": {
+      "ru": "Этот раздел появится на следующем этапе работы над сайтом.",
+      "en": "This section will be added at the next stage of the website.",
+      "fr": "Cette rubrique sera ajoutée lors de la prochaine étape du site.",
+      "pt": "Esta secção será acrescentada na próxima fase do site.",
+      "sw": "Sehemu hii itaongezwa katika hatua inayofuata ya tovuti."
+    }
+  }
+}

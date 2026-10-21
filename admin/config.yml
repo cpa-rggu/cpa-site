@@ -1,0 +1,843 @@
+# ВНИМАНИЕ: файл создан скриптом tools/make-cms-config.ps1 — правьте скрипт и запускайте его заново.
+# Админка: Sveltia CMS (https://sveltiacms.app). Совместима с Decap CMS.
+backend:
+  name: github
+  repo: ProjectClaudeUhuru/cpa-site
+  branch: main
+  commit_messages:
+    create: 'Админка: создано «{{slug}}»'
+    update: 'Админка: обновлено «{{slug}}»'
+    delete: 'Админка: удалено «{{slug}}»'
+    uploadMedia: 'Админка: загружен файл {{path}}'
+    deleteMedia: 'Админка: удалён файл {{path}}'
+# Все фото и PDF лежат в папке assets; в JSON путь записывается как assets/имя-файла
+media_folder: assets
+public_folder: assets
+collections:
+  - name: chronicle
+    label: 'Хроника'
+    description: 'Годы на главной: место, заголовок, текст и фотографии. Порядок в списке = порядок вкладок.'
+    format: json
+    editor: { preview: false }
+    files:
+      - name: chronicle
+        label: 'Хроника независимости'
+        file: content/chronicle.json
+        fields:
+          - name: items
+            label: 'Годы'
+            widget: list
+            summary: '{{fields.year}}'
+            label_singular: 'год'
+            fields:
+              - { name: year, label: 'Год', widget: string }
+              - name: place
+                label: 'Место (подпись под годом)'
+                widget: object
+                fields:
+                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: en, label: 'English', widget: string, required: false }
+                  - { name: fr, label: 'Français', widget: string, required: false }
+                  - { name: pt, label: 'Português', widget: string, required: false }
+                  - { name: sw, label: 'Kiswahili', widget: string, required: false }
+              - name: title
+                label: 'Заголовок'
+                widget: object
+                fields:
+                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: en, label: 'English', widget: string, required: false }
+                  - { name: fr, label: 'Français', widget: string, required: false }
+                  - { name: pt, label: 'Português', widget: string, required: false }
+                  - { name: sw, label: 'Kiswahili', widget: string, required: false }
+              - name: text
+                label: 'Текст'
+                widget: object
+                fields:
+                  - { name: ru, label: 'Русский', widget: text, required: true }
+                  - { name: en, label: 'English', widget: text, required: false }
+                  - { name: fr, label: 'Français', widget: text, required: false }
+                  - { name: pt, label: 'Português', widget: text, required: false }
+                  - { name: sw, label: 'Kiswahili', widget: text, required: false }
+              - { name: story, label: 'Ссылка на сюжет', widget: string, required: false, hint: 'Пока пусто — на сайте будет «Сюжет готовится». Когда появится страница сюжета, впишите её адрес.' }
+              - name: photos
+                label: 'Фотографии (первая — главная)'
+                widget: list
+                summary: '{{fields.src}}'
+                label_singular: 'фото'
+                fields:
+                  - { name: src, label: 'Фото', widget: image }
+                  - { name: color, label: 'Показывать в цвете (марки, медали)', widget: boolean, default: false, required: false }
+                  - name: caption
+                    label: 'Подпись'
+                    widget: object
+                    fields:
+                      - { name: ru, label: 'Русский', widget: string, required: true }
+                      - { name: en, label: 'English', widget: string, required: false }
+                      - { name: fr, label: 'Français', widget: string, required: false }
+                      - { name: pt, label: 'Português', widget: string, required: false }
+                      - { name: sw, label: 'Kiswahili', widget: string, required: false }
+  - name: exhibitions
+    label: 'Выставки'
+    description: 'Баннер «Сейчас» и карточки прошедших выставок.'
+    format: json
+    editor: { preview: false }
+    files:
+      - name: exhibitions
+        label: 'Выставки'
+        file: content/exhibitions.json
+        fields:
+          - name: current
+            label: 'Сейчас (большой баннер)'
+            widget: object
+            fields:
+              - name: city
+                label: 'Город, страна'
+                widget: object
+                fields:
+                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: en, label: 'English', widget: string, required: false }
+                  - { name: fr, label: 'Français', widget: string, required: false }
+                  - { name: pt, label: 'Português', widget: string, required: false }
+                  - { name: sw, label: 'Kiswahili', widget: string, required: false }
+              - name: venue
+                label: 'Площадка'
+                widget: object
+                fields:
+                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: en, label: 'English', widget: string, required: false }
+                  - { name: fr, label: 'Français', widget: string, required: false }
+                  - { name: pt, label: 'Português', widget: string, required: false }
+                  - { name: sw, label: 'Kiswahili', widget: string, required: false }
+              - { name: date, label: 'Даты', widget: string, hint: 'Например: 10.2026 — 12.2026. Пока даты не подтверждены — в квадратных скобках.' }
+              - { name: photo, label: 'Фото', widget: image }
+              - { name: sample, label: 'Пометка «ПРИМЕР» (данные ещё не настоящие)', widget: boolean, default: true, required: false }
+              - { name: link, label: 'Ссылка на страницу выставки', widget: string, required: false, hint: 'Пока пусто — страница выставки появится на следующем этапе.' }
+          - name: past
+            label: 'Прошедшие выставки (новые — сверху)'
+            widget: list
+            summary: '{{fields.date}}'
+            label_singular: 'выставку'
+            fields:
+              - name: city
+                label: 'Город, страна'
+                widget: object
+                fields:
+                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: en, label: 'English', widget: string, required: false }
+                  - { name: fr, label: 'Français', widget: string, required: false }
+                  - { name: pt, label: 'Português', widget: string, required: false }
+                  - { name: sw, label: 'Kiswahili', widget: string, required: false }
+              - name: venue
+                label: 'Площадка'
+                widget: object
+                fields:
+                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: en, label: 'English', widget: string, required: false }
+                  - { name: fr, label: 'Français', widget: string, required: false }
+                  - { name: pt, label: 'Português', widget: string, required: false }
+                  - { name: sw, label: 'Kiswahili', widget: string, required: false }
+              - { name: date, label: 'Даты', widget: string, hint: 'Например: 10.2026 — 12.2026. Пока даты не подтверждены — в квадратных скобках.' }
+              - { name: photo, label: 'Фото', widget: image }
+              - { name: sample, label: 'Пометка «ПРИМЕР» (данные ещё не настоящие)', widget: boolean, default: true, required: false }
+              - { name: link, label: 'Ссылка на страницу выставки', widget: string, required: false, hint: 'Пока пусто — страница выставки появится на следующем этапе.' }
+  - name: publications
+    label: 'Публикации'
+    description: 'Статьи учёных Центра. На главной показываются первые три с галочкой «На главной».'
+    format: json
+    editor: { preview: false }
+    files:
+      - name: publications
+        label: 'Публикации'
+        file: content/publications.json
+        fields:
+          - name: items
+            label: 'Статьи (новые — сверху)'
+            widget: list
+            summary: '{{fields.year}} · {{fields.id}}'
+            label_singular: 'статью'
+            fields:
+              - { name: id, label: 'Короткий код статьи (латиницей, без пробелов)', widget: string, hint: 'Например: somaliland. Нужен для будущей страницы публикаций.' }
+              - { name: featured, label: 'На главной', widget: boolean, default: true, required: false }
+              - { name: year, label: 'Год', widget: string }
+              - { name: region, label: 'Регион', widget: select, options: [{ label: 'Западная Африка', value: west }, { label: 'Восточная Африка', value: east }] }
+              - name: author
+                label: 'Автор'
+                hint: 'Так, как подписывать на сайте: «Н.А. Медушевский» / «N.A. Medushevsky».'
+                widget: object
+                fields:
+                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: en, label: 'English', widget: string, required: false }
+              - name: title
+                label: 'Название статьи'
+                hint: 'Русское название и авторский английский вариант. Для FR/PT/SW сайт показывает английский.'
+                widget: object
+                fields:
+                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: en, label: 'English', widget: string, required: false }
+              - name: journal
+                label: 'Журнал'
+                hint: 'Без кавычек и номера: Клио / Clio.'
+                widget: object
+                fields:
+                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: en, label: 'English', widget: string, required: false }
+              - { name: issue, label: 'Год и номер выпуска', widget: string, hint: 'Например: 2025, № 7' }
+              - { name: pages, label: 'Страницы', widget: string, required: false }
+              - { name: doi, label: 'DOI', widget: string, required: false, hint: 'Только сам номер, например 10.24412/2070-9773-2025-7223-97-103' }
+              - { name: pdf, label: 'PDF статьи', widget: file, required: false }
+              - { name: cyberleninka, label: 'Ссылка на КиберЛенинку', widget: string, required: false }
+              - name: keywords
+                label: 'Ключевые слова (через точку с запятой)'
+                widget: object
+                fields:
+                  - { name: ru, label: 'Русский', widget: text, required: true }
+                  - { name: en, label: 'English', widget: text, required: false }
+              - name: abstract
+                label: 'Аннотация'
+                hint: 'Авторская аннотация — не переписывать по смыслу.'
+                widget: object
+                fields:
+                  - { name: ru, label: 'Русский', widget: text, required: true }
+                  - { name: en, label: 'English', widget: text, required: false }
+  - name: hero
+    label: 'Обложка (фото на орбитах)'
+    description: 'Фотографии, которые летают по орбитам на первом экране, и их подписи.'
+    format: json
+    editor: { preview: false }
+    files:
+      - name: orbits
+        label: 'Фото на обложке'
+        file: content/orbits.json
+        fields:
+          - name: orbit
+            label: 'Фото на орбитах (по кругу сменяют друг друга)'
+            widget: list
+            summary: '{{fields.src}}'
+            label_singular: 'фото'
+            fields:
+              - { name: src, label: 'Фото', widget: image }
+              - name: caption
+                label: 'Подпись'
+                widget: object
+                fields:
+                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: en, label: 'English', widget: string, required: false }
+                  - { name: fr, label: 'Français', widget: string, required: false }
+                  - { name: pt, label: 'Português', widget: string, required: false }
+                  - { name: sw, label: 'Kiswahili', widget: string, required: false }
+          - name: still
+            label: 'Неподвижная раскладка (для посетителей с отключённой анимацией), до 10 фото'
+            widget: list
+            summary: '{{fields.src}}'
+            label_singular: 'фото'
+            max: 10
+            fields:
+              - { name: src, label: 'Фото', widget: image }
+              - name: caption
+                label: 'Подпись'
+                widget: object
+                fields:
+                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: en, label: 'English', widget: string, required: false }
+                  - { name: fr, label: 'Français', widget: string, required: false }
+                  - { name: pt, label: 'Português', widget: string, required: false }
+                  - { name: sw, label: 'Kiswahili', widget: string, required: false }
+  - name: texts
+    label: 'Тексты сайта'
+    description: 'Надписи, кнопки, заголовки, контакты — на пяти языках. Квадратные скобки [...] — заглушки, их заполнит Центр.'
+    format: json
+    editor: { preview: false }
+    files:
+      - name: ui
+        label: 'Тексты интерфейса и контакты'
+        file: content/ui.json
+        fields:
+          - name: header
+            label: 'Шапка и меню'
+            widget: object
+            collapsed: true
+            fields:
+              - name: org
+                label: 'Название Центра'
+                widget: object
+                fields:
+                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: en, label: 'English', widget: string, required: false }
+                  - { name: fr, label: 'Français', widget: string, required: false }
+                  - { name: pt, label: 'Português', widget: string, required: false }
+                  - { name: sw, label: 'Kiswahili', widget: string, required: false }
+              - name: uni
+                label: 'Университет'
+                widget: object
+                fields:
+                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: en, label: 'English', widget: string, required: false }
+                  - { name: fr, label: 'Français', widget: string, required: false }
+                  - { name: pt, label: 'Português', widget: string, required: false }
+                  - { name: sw, label: 'Kiswahili', widget: string, required: false }
+              - name: abbr
+                label: 'Сокращение'
+                widget: object
+                fields:
+                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: en, label: 'English', widget: string, required: false }
+                  - { name: fr, label: 'Français', widget: string, required: false }
+                  - { name: pt, label: 'Português', widget: string, required: false }
+                  - { name: sw, label: 'Kiswahili', widget: string, required: false }
+              - name: navLabel
+                label: 'Подпись меню (для незрячих)'
+                widget: object
+                fields:
+                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: en, label: 'English', widget: string, required: false }
+                  - { name: fr, label: 'Français', widget: string, required: false }
+                  - { name: pt, label: 'Português', widget: string, required: false }
+                  - { name: sw, label: 'Kiswahili', widget: string, required: false }
+              - name: navChron
+                label: 'Пункт меню «Хроника»'
+                widget: object
+                fields:
+                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: en, label: 'English', widget: string, required: false }
+                  - { name: fr, label: 'Français', widget: string, required: false }
+                  - { name: pt, label: 'Português', widget: string, required: false }
+                  - { name: sw, label: 'Kiswahili', widget: string, required: false }
+              - name: navExh
+                label: 'Пункт меню «Выставки»'
+                widget: object
+                fields:
+                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: en, label: 'English', widget: string, required: false }
+                  - { name: fr, label: 'Français', widget: string, required: false }
+                  - { name: pt, label: 'Português', widget: string, required: false }
+                  - { name: sw, label: 'Kiswahili', widget: string, required: false }
+              - name: navPub
+                label: 'Пункт меню «Публикации»'
+                widget: object
+                fields:
+                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: en, label: 'English', widget: string, required: false }
+                  - { name: fr, label: 'Français', widget: string, required: false }
+                  - { name: pt, label: 'Português', widget: string, required: false }
+                  - { name: sw, label: 'Kiswahili', widget: string, required: false }
+              - name: navAbout
+                label: 'Пункт меню «О Центре»'
+                widget: object
+                fields:
+                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: en, label: 'English', widget: string, required: false }
+                  - { name: fr, label: 'Français', widget: string, required: false }
+                  - { name: pt, label: 'Português', widget: string, required: false }
+                  - { name: sw, label: 'Kiswahili', widget: string, required: false }
+              - name: menu
+                label: 'Кнопка «Меню» (телефон)'
+                widget: object
+                fields:
+                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: en, label: 'English', widget: string, required: false }
+                  - { name: fr, label: 'Français', widget: string, required: false }
+                  - { name: pt, label: 'Português', widget: string, required: false }
+                  - { name: sw, label: 'Kiswahili', widget: string, required: false }
+          - name: hero
+            label: 'Обложка'
+            widget: object
+            collapsed: true
+            fields:
+              - name: kicker
+                label: 'Надпись над заголовком'
+                widget: object
+                fields:
+                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: en, label: 'English', widget: string, required: false }
+                  - { name: fr, label: 'Français', widget: string, required: false }
+                  - { name: pt, label: 'Português', widget: string, required: false }
+                  - { name: sw, label: 'Kiswahili', widget: string, required: false }
+              - name: h1a
+                label: 'Заголовок, строка 1'
+                widget: object
+                fields:
+                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: en, label: 'English', widget: string, required: false }
+                  - { name: fr, label: 'Français', widget: string, required: false }
+                  - { name: pt, label: 'Português', widget: string, required: false }
+                  - { name: sw, label: 'Kiswahili', widget: string, required: false }
+              - name: h1b
+                label: 'Заголовок, строка 2'
+                widget: object
+                fields:
+                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: en, label: 'English', widget: string, required: false }
+                  - { name: fr, label: 'Français', widget: string, required: false }
+                  - { name: pt, label: 'Português', widget: string, required: false }
+                  - { name: sw, label: 'Kiswahili', widget: string, required: false }
+              - name: desc
+                label: 'Описание'
+                widget: object
+                fields:
+                  - { name: ru, label: 'Русский', widget: text, required: true }
+                  - { name: en, label: 'English', widget: text, required: false }
+                  - { name: fr, label: 'Français', widget: text, required: false }
+                  - { name: pt, label: 'Português', widget: text, required: false }
+                  - { name: sw, label: 'Kiswahili', widget: text, required: false }
+              - name: btnChron
+                label: 'Кнопка «Смотреть хронику»'
+                widget: object
+                fields:
+                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: en, label: 'English', widget: string, required: false }
+                  - { name: fr, label: 'Français', widget: string, required: false }
+                  - { name: pt, label: 'Português', widget: string, required: false }
+                  - { name: sw, label: 'Kiswahili', widget: string, required: false }
+              - name: numLabel
+                label: 'Подпись поля номера (для незрячих)'
+                widget: object
+                fields:
+                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: en, label: 'English', widget: string, required: false }
+                  - { name: fr, label: 'Français', widget: string, required: false }
+                  - { name: pt, label: 'Português', widget: string, required: false }
+                  - { name: sw, label: 'Kiswahili', widget: string, required: false }
+              - name: numPh
+                label: 'Подсказка в поле номера'
+                widget: object
+                fields:
+                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: en, label: 'English', widget: string, required: false }
+                  - { name: fr, label: 'Français', widget: string, required: false }
+                  - { name: pt, label: 'Português', widget: string, required: false }
+                  - { name: sw, label: 'Kiswahili', widget: string, required: false }
+              - name: numShort
+                label: 'Подсказка в поле номера (телефон)'
+                widget: object
+                fields:
+                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: en, label: 'English', widget: string, required: false }
+                  - { name: fr, label: 'Français', widget: string, required: false }
+                  - { name: pt, label: 'Português', widget: string, required: false }
+                  - { name: sw, label: 'Kiswahili', widget: string, required: false }
+              - name: open
+                label: 'Кнопка «Открыть»'
+                widget: object
+                fields:
+                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: en, label: 'English', widget: string, required: false }
+                  - { name: fr, label: 'Français', widget: string, required: false }
+                  - { name: pt, label: 'Português', widget: string, required: false }
+                  - { name: sw, label: 'Kiswahili', widget: string, required: false }
+              - name: qr
+                label: 'Строка про QR-код (телефон)'
+                widget: object
+                fields:
+                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: en, label: 'English', widget: string, required: false }
+                  - { name: fr, label: 'Français', widget: string, required: false }
+                  - { name: pt, label: 'Português', widget: string, required: false }
+                  - { name: sw, label: 'Kiswahili', widget: string, required: false }
+          - name: chronicle
+            label: 'Хроника'
+            widget: object
+            collapsed: true
+            fields:
+              - name: tlA
+                label: 'Заголовок, строка 1'
+                widget: object
+                fields:
+                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: en, label: 'English', widget: string, required: false }
+                  - { name: fr, label: 'Français', widget: string, required: false }
+                  - { name: pt, label: 'Português', widget: string, required: false }
+                  - { name: sw, label: 'Kiswahili', widget: string, required: false }
+              - name: tlB
+                label: 'Заголовок, строка 2'
+                widget: object
+                fields:
+                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: en, label: 'English', widget: string, required: false }
+                  - { name: fr, label: 'Français', widget: string, required: false }
+                  - { name: pt, label: 'Português', widget: string, required: false }
+                  - { name: sw, label: 'Kiswahili', widget: string, required: false }
+              - name: tlHint
+                label: 'Пояснение (компьютер)'
+                widget: object
+                fields:
+                  - { name: ru, label: 'Русский', widget: text, required: true }
+                  - { name: en, label: 'English', widget: text, required: false }
+                  - { name: fr, label: 'Français', widget: text, required: false }
+                  - { name: pt, label: 'Português', widget: text, required: false }
+                  - { name: sw, label: 'Kiswahili', widget: text, required: false }
+              - name: swipe
+                label: 'Пояснение (телефон)'
+                widget: object
+                fields:
+                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: en, label: 'English', widget: string, required: false }
+                  - { name: fr, label: 'Français', widget: string, required: false }
+                  - { name: pt, label: 'Português', widget: string, required: false }
+                  - { name: sw, label: 'Kiswahili', widget: string, required: false }
+              - name: yearsLabel
+                label: 'Подпись вкладок годов (для незрячих)'
+                widget: object
+                fields:
+                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: en, label: 'English', widget: string, required: false }
+                  - { name: fr, label: 'Français', widget: string, required: false }
+                  - { name: pt, label: 'Português', widget: string, required: false }
+                  - { name: sw, label: 'Kiswahili', widget: string, required: false }
+              - name: photosLabel
+                label: 'Подпись миниатюр (для незрячих)'
+                widget: object
+                fields:
+                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: en, label: 'English', widget: string, required: false }
+                  - { name: fr, label: 'Français', widget: string, required: false }
+                  - { name: pt, label: 'Português', widget: string, required: false }
+                  - { name: sw, label: 'Kiswahili', widget: string, required: false }
+              - name: cta
+                label: 'Ссылка «Открыть сюжет»'
+                widget: object
+                fields:
+                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: en, label: 'English', widget: string, required: false }
+                  - { name: fr, label: 'Français', widget: string, required: false }
+                  - { name: pt, label: 'Português', widget: string, required: false }
+                  - { name: sw, label: 'Kiswahili', widget: string, required: false }
+              - name: soon
+                label: 'Надпись «Сюжет готовится»'
+                widget: object
+                fields:
+                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: en, label: 'English', widget: string, required: false }
+                  - { name: fr, label: 'Français', widget: string, required: false }
+                  - { name: pt, label: 'Português', widget: string, required: false }
+                  - { name: sw, label: 'Kiswahili', widget: string, required: false }
+          - name: exhibitions
+            label: 'Выставки'
+            widget: object
+            collapsed: true
+            fields:
+              - name: exh
+                label: 'Заголовок'
+                widget: object
+                fields:
+                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: en, label: 'English', widget: string, required: false }
+                  - { name: fr, label: 'Français', widget: string, required: false }
+                  - { name: pt, label: 'Português', widget: string, required: false }
+                  - { name: sw, label: 'Kiswahili', widget: string, required: false }
+              - name: exhHint
+                label: 'Пояснение'
+                widget: object
+                fields:
+                  - { name: ru, label: 'Русский', widget: text, required: true }
+                  - { name: en, label: 'English', widget: text, required: false }
+                  - { name: fr, label: 'Français', widget: text, required: false }
+                  - { name: pt, label: 'Português', widget: text, required: false }
+                  - { name: sw, label: 'Kiswahili', widget: text, required: false }
+              - name: now
+                label: 'Метка «Сейчас»'
+                widget: object
+                fields:
+                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: en, label: 'English', widget: string, required: false }
+                  - { name: fr, label: 'Français', widget: string, required: false }
+                  - { name: pt, label: 'Português', widget: string, required: false }
+                  - { name: sw, label: 'Kiswahili', widget: string, required: false }
+              - name: more
+                label: '«Подробнее»'
+                widget: object
+                fields:
+                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: en, label: 'English', widget: string, required: false }
+                  - { name: fr, label: 'Français', widget: string, required: false }
+                  - { name: pt, label: 'Português', widget: string, required: false }
+                  - { name: sw, label: 'Kiswahili', widget: string, required: false }
+              - name: sample
+                label: 'Метка «ПРИМЕР»'
+                widget: object
+                fields:
+                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: en, label: 'English', widget: string, required: false }
+                  - { name: fr, label: 'Français', widget: string, required: false }
+                  - { name: pt, label: 'Português', widget: string, required: false }
+                  - { name: sw, label: 'Kiswahili', widget: string, required: false }
+              - name: report
+                label: '«Фотоотчёт»'
+                widget: object
+                fields:
+                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: en, label: 'English', widget: string, required: false }
+                  - { name: fr, label: 'Français', widget: string, required: false }
+                  - { name: pt, label: 'Português', widget: string, required: false }
+                  - { name: sw, label: 'Kiswahili', widget: string, required: false }
+              - name: hostTitle
+                label: 'Карточка: заголовок «Ваш город?»'
+                widget: object
+                fields:
+                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: en, label: 'English', widget: string, required: false }
+                  - { name: fr, label: 'Français', widget: string, required: false }
+                  - { name: pt, label: 'Português', widget: string, required: false }
+                  - { name: sw, label: 'Kiswahili', widget: string, required: false }
+              - name: hostText
+                label: 'Карточка: текст'
+                widget: object
+                fields:
+                  - { name: ru, label: 'Русский', widget: text, required: true }
+                  - { name: en, label: 'English', widget: text, required: false }
+                  - { name: fr, label: 'Français', widget: text, required: false }
+                  - { name: pt, label: 'Português', widget: text, required: false }
+                  - { name: sw, label: 'Kiswahili', widget: text, required: false }
+              - name: host
+                label: 'Кнопка «Провести выставку у себя»'
+                widget: object
+                fields:
+                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: en, label: 'English', widget: string, required: false }
+                  - { name: fr, label: 'Français', widget: string, required: false }
+                  - { name: pt, label: 'Português', widget: string, required: false }
+                  - { name: sw, label: 'Kiswahili', widget: string, required: false }
+              - name: lPartners
+                label: 'Метка «Для партнёров»'
+                widget: object
+                fields:
+                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: en, label: 'English', widget: string, required: false }
+                  - { name: fr, label: 'Français', widget: string, required: false }
+                  - { name: pt, label: 'Português', widget: string, required: false }
+                  - { name: sw, label: 'Kiswahili', widget: string, required: false }
+          - name: publications
+            label: 'Публикации'
+            widget: object
+            collapsed: true
+            fields:
+              - name: pubKicker
+                label: 'Надпись над заголовком'
+                widget: object
+                fields:
+                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: en, label: 'English', widget: string, required: false }
+                  - { name: fr, label: 'Français', widget: string, required: false }
+                  - { name: pt, label: 'Português', widget: string, required: false }
+                  - { name: sw, label: 'Kiswahili', widget: string, required: false }
+              - name: pubH
+                label: 'Заголовок'
+                widget: object
+                fields:
+                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: en, label: 'English', widget: string, required: false }
+                  - { name: fr, label: 'Français', widget: string, required: false }
+                  - { name: pt, label: 'Português', widget: string, required: false }
+                  - { name: sw, label: 'Kiswahili', widget: string, required: false }
+              - name: pubHint
+                label: 'Пояснение'
+                widget: object
+                fields:
+                  - { name: ru, label: 'Русский', widget: text, required: true }
+                  - { name: en, label: 'English', widget: text, required: false }
+                  - { name: fr, label: 'Français', widget: text, required: false }
+                  - { name: pt, label: 'Português', widget: text, required: false }
+                  - { name: sw, label: 'Kiswahili', widget: text, required: false }
+              - name: pubRead
+                label: 'Кнопка «Читать PDF»'
+                widget: object
+                fields:
+                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: en, label: 'English', widget: string, required: false }
+                  - { name: fr, label: 'Français', widget: string, required: false }
+                  - { name: pt, label: 'Português', widget: string, required: false }
+                  - { name: sw, label: 'Kiswahili', widget: string, required: false }
+              - name: pubAll
+                label: 'Кнопка «Все публикации»'
+                widget: object
+                fields:
+                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: en, label: 'English', widget: string, required: false }
+                  - { name: fr, label: 'Français', widget: string, required: false }
+                  - { name: pt, label: 'Português', widget: string, required: false }
+                  - { name: sw, label: 'Kiswahili', widget: string, required: false }
+              - name: pubAdd
+                label: 'Кнопка «Добавить статью»'
+                widget: object
+                fields:
+                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: en, label: 'English', widget: string, required: false }
+                  - { name: fr, label: 'Français', widget: string, required: false }
+                  - { name: pt, label: 'Português', widget: string, required: false }
+                  - { name: sw, label: 'Kiswahili', widget: string, required: false }
+              - name: regionWest
+                label: 'Регион «Западная Африка»'
+                widget: object
+                fields:
+                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: en, label: 'English', widget: string, required: false }
+                  - { name: fr, label: 'Français', widget: string, required: false }
+                  - { name: pt, label: 'Português', widget: string, required: false }
+                  - { name: sw, label: 'Kiswahili', widget: string, required: false }
+              - name: regionEast
+                label: 'Регион «Восточная Африка»'
+                widget: object
+                fields:
+                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: en, label: 'English', widget: string, required: false }
+                  - { name: fr, label: 'Français', widget: string, required: false }
+                  - { name: pt, label: 'Português', widget: string, required: false }
+                  - { name: sw, label: 'Kiswahili', widget: string, required: false }
+          - name: about
+            label: 'О Центре и контакты'
+            widget: object
+            collapsed: true
+            fields:
+              - name: about
+                label: 'Заголовок'
+                widget: object
+                fields:
+                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: en, label: 'English', widget: string, required: false }
+                  - { name: fr, label: 'Français', widget: string, required: false }
+                  - { name: pt, label: 'Português', widget: string, required: false }
+                  - { name: sw, label: 'Kiswahili', widget: string, required: false }
+              - name: aboutText
+                label: 'Текст о Центре'
+                widget: object
+                fields:
+                  - { name: ru, label: 'Русский', widget: text, required: true }
+                  - { name: en, label: 'English', widget: text, required: false }
+                  - { name: fr, label: 'Français', widget: text, required: false }
+                  - { name: pt, label: 'Português', widget: text, required: false }
+                  - { name: sw, label: 'Kiswahili', widget: text, required: false }
+              - name: lEmail
+                label: 'Метка «Почта»'
+                widget: object
+                fields:
+                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: en, label: 'English', widget: string, required: false }
+                  - { name: fr, label: 'Français', widget: string, required: false }
+                  - { name: pt, label: 'Português', widget: string, required: false }
+                  - { name: sw, label: 'Kiswahili', widget: string, required: false }
+              - name: vEmail
+                label: 'Адрес почты (одинаковый во всех языках)'
+                widget: object
+                fields:
+                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: en, label: 'English', widget: string, required: false }
+                  - { name: fr, label: 'Français', widget: string, required: false }
+                  - { name: pt, label: 'Português', widget: string, required: false }
+                  - { name: sw, label: 'Kiswahili', widget: string, required: false }
+              - name: lPhone
+                label: 'Метка «Телефон»'
+                widget: object
+                fields:
+                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: en, label: 'English', widget: string, required: false }
+                  - { name: fr, label: 'Français', widget: string, required: false }
+                  - { name: pt, label: 'Português', widget: string, required: false }
+                  - { name: sw, label: 'Kiswahili', widget: string, required: false }
+              - name: vPhone
+                label: 'Телефон'
+                widget: object
+                fields:
+                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: en, label: 'English', widget: string, required: false }
+                  - { name: fr, label: 'Français', widget: string, required: false }
+                  - { name: pt, label: 'Português', widget: string, required: false }
+                  - { name: sw, label: 'Kiswahili', widget: string, required: false }
+              - name: lAddr
+                label: 'Метка «Адрес»'
+                widget: object
+                fields:
+                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: en, label: 'English', widget: string, required: false }
+                  - { name: fr, label: 'Français', widget: string, required: false }
+                  - { name: pt, label: 'Português', widget: string, required: false }
+                  - { name: sw, label: 'Kiswahili', widget: string, required: false }
+              - name: vAddr
+                label: 'Адрес'
+                widget: object
+                fields:
+                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: en, label: 'English', widget: string, required: false }
+                  - { name: fr, label: 'Français', widget: string, required: false }
+                  - { name: pt, label: 'Português', widget: string, required: false }
+                  - { name: sw, label: 'Kiswahili', widget: string, required: false }
+          - name: footer
+            label: 'Подвал'
+            widget: object
+            collapsed: true
+            fields:
+              - name: copy
+                label: 'Копирайт'
+                widget: object
+                fields:
+                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: en, label: 'English', widget: string, required: false }
+                  - { name: fr, label: 'Français', widget: string, required: false }
+                  - { name: pt, label: 'Português', widget: string, required: false }
+                  - { name: sw, label: 'Kiswahili', widget: string, required: false }
+              - name: credits
+                label: 'Строка об источниках фото (компьютер)'
+                widget: object
+                fields:
+                  - { name: ru, label: 'Русский', widget: text, required: true }
+                  - { name: en, label: 'English', widget: text, required: false }
+                  - { name: fr, label: 'Français', widget: text, required: false }
+                  - { name: pt, label: 'Português', widget: text, required: false }
+                  - { name: sw, label: 'Kiswahili', widget: text, required: false }
+              - name: creditsShort
+                label: 'Строка об источниках фото (телефон)'
+                widget: object
+                fields:
+                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: en, label: 'English', widget: string, required: false }
+                  - { name: fr, label: 'Français', widget: string, required: false }
+                  - { name: pt, label: 'Português', widget: string, required: false }
+                  - { name: sw, label: 'Kiswahili', widget: string, required: false }
+              - name: creditsTitle
+                label: 'Заголовок списка «Источники фотографий»'
+                widget: object
+                fields:
+                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: en, label: 'English', widget: string, required: false }
+                  - { name: fr, label: 'Français', widget: string, required: false }
+                  - { name: pt, label: 'Português', widget: string, required: false }
+                  - { name: sw, label: 'Kiswahili', widget: string, required: false }
+          - name: system
+            label: 'Служебные сообщения'
+            widget: object
+            collapsed: true
+            fields:
+              - name: soonNotice
+                label: 'Сообщение «Раздел появится на следующем этапе»'
+                widget: object
+                fields:
+                  - { name: ru, label: 'Русский', widget: text, required: true }
+                  - { name: en, label: 'English', widget: text, required: false }
+                  - { name: fr, label: 'Français', widget: text, required: false }
+                  - { name: pt, label: 'Português', widget: text, required: false }
+                  - { name: sw, label: 'Kiswahili', widget: text, required: false }
+  - name: credits
+    label: 'Источники фото'
+    description: 'Автор и лицензия каждого фото (Wikimedia Commons и др.). Показываются в подвале сайта.'
+    format: json
+    editor: { preview: false }
+    files:
+      - name: credits
+        label: 'Источники фото'
+        file: content/credits.json
+        fields:
+          - name: items
+            label: 'Фото'
+            widget: list
+            summary: '{{fields.src}}'
+            label_singular: 'фото'
+            fields:
+              - { name: src, label: 'Фото', widget: image }
+              - name: credit
+                label: 'Автор · источник · лицензия'
+                hint: 'Например: Paul Weinberg · CC BY-SA 3.0'
+                widget: object
+                fields:
+                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: en, label: 'English', widget: string, required: false }
+                  - { name: fr, label: 'Français', widget: string, required: false }
+                  - { name: pt, label: 'Português', widget: string, required: false }
+                  - { name: sw, label: 'Kiswahili', widget: string, required: false }

@@ -1,0 +1,522 @@
+{
+  "items": [
+    {
+      "year": "1957",
+      "place": {
+        "ru": "Гана",
+        "en": "Ghana",
+        "fr": "Ghana",
+        "pt": "Gana",
+        "sw": "Ghana"
+      },
+      "title": {
+        "ru": "Первая независимая страна Тропической Африки",
+        "en": "The first independent country of Tropical Africa",
+        "fr": "Premier pays indépendant d’Afrique tropicale",
+        "pt": "O primeiro país independente da África tropical",
+        "sw": "Nchi ya kwanza huru ya Afrika ya Kitropiki"
+      },
+      "text": {
+        "ru": "Золотой Берег становится Ганой во главе с Кваме Нкрумой. С этого начинается волна деколонизации к югу от Сахары.",
+        "en": "The Gold Coast becomes Ghana, led by Kwame Nkrumah. This starts the wave of decolonisation south of the Sahara.",
+        "fr": "La Côte-de-l’Or devient le Ghana, dirigé par Kwame Nkrumah. Ainsi commence la vague de décolonisation au sud du Sahara.",
+        "pt": "A Costa do Ouro torna-se o Gana, liderado por Kwame Nkrumah. Começa a vaga de descolonização a sul do Sara.",
+        "sw": "Pwani ya Dhahabu inakuwa Ghana chini ya uongozi wa Kwame Nkrumah. Hapa linaanza wimbi la kuondoa ukoloni kusini mwa Sahara."
+      },
+      "story": "",
+      "photos": [
+        {
+          "src": "assets/nkrumah__045f515d.jpg",
+          "color": false,
+          "caption": {
+            "ru": "Кваме Нкрума",
+            "en": "Kwame Nkrumah",
+            "fr": "Kwame Nkrumah",
+            "pt": "Kwame Nkrumah",
+            "sw": "Kwame Nkrumah"
+          }
+        },
+        {
+          "src": "assets/ghstamp57__b6b277a0.jpg",
+          "color": true,
+          "caption": {
+            "ru": "Марка «Независимость Ганы, 6 марта 1957»",
+            "en": "Stamp “Ghana Independence, 6 March 1957”",
+            "fr": "Timbre « Indépendance du Ghana, 6 mars 1957 »",
+            "pt": "Selo «Independência do Gana, 6 de março de 1957»",
+            "sw": "Stempu «Uhuru wa Ghana, 6 Machi 1957»"
+          }
+        },
+        {
+          "src": "assets/arch1962__0a8c7eb2.jpg",
+          "color": true,
+          "caption": {
+            "ru": "Арка независимости в Аккре, 1962",
+            "en": "Independence Arch, Accra, 1962",
+            "fr": "Arc de l’Indépendance, Accra, 1962",
+            "pt": "Arco da Independência, Acra, 1962",
+            "sw": "Tao la Uhuru, Accra, 1962"
+          }
+        }
+      ]
+    },
+    {
+      "year": "1958",
+      "place": {
+        "ru": "Гвинея",
+        "en": "Guinea",
+        "fr": "Guinée",
+        "pt": "Guiné",
+        "sw": "Gine"
+      },
+      "title": {
+        "ru": "«Нет» Франции",
+        "en": "“No” to France",
+        "fr": "Le « non » à la France",
+        "pt": "O «não» à França",
+        "sw": "«Hapana» kwa Ufaransa"
+      },
+      "text": {
+        "ru": "На референдуме Гвинея отказывается войти во Французское сообщество и сразу получает независимость. Лидер страны — Ахмед Секу Туре.",
+        "en": "In a referendum Guinea refuses to join the French Community and becomes independent at once. Its leader is Ahmed Sékou Touré.",
+        "fr": "Par référendum, la Guinée refuse d’entrer dans la Communauté française et devient aussitôt indépendante. Son dirigeant est Ahmed Sékou Touré.",
+        "pt": "Em referendo, a Guiné recusa integrar a Comunidade Francesa e torna-se imediatamente independente. O seu líder é Ahmed Sékou Touré.",
+        "sw": "Katika kura ya maoni Gine inakataa kujiunga na Jumuiya ya Ufaransa na inapata uhuru mara moja. Kiongozi wake ni Ahmed Sékou Touré."
+      },
+      "story": "",
+      "photos": [
+        {
+          "src": "assets/toure__c34efb03.jpg",
+          "color": false,
+          "caption": {
+            "ru": "Ахмед Секу Туре, 1958",
+            "en": "Ahmed Sékou Touré, 1958",
+            "fr": "Ahmed Sékou Touré, 1958",
+            "pt": "Ahmed Sékou Touré, 1958",
+            "sw": "Ahmed Sékou Touré, 1958"
+          }
+        },
+        {
+          "src": "assets/kt1__27e4d926.jpg",
+          "color": false,
+          "caption": {
+            "ru": "Секу Туре в Вашингтоне, 1962",
+            "en": "Sékou Touré in Washington, 1962",
+            "fr": "Sékou Touré à Washington, 1962",
+            "pt": "Sékou Touré em Washington, 1962",
+            "sw": "Sékou Touré mjini Washington, 1962"
+          }
+        },
+        {
+          "src": "assets/toure62__6a410b87.jpg",
+          "color": true,
+          "caption": {
+            "ru": "Ахмед Секу Туре, 1962",
+            "en": "Ahmed Sékou Touré, 1962",
+            "fr": "Ahmed Sékou Touré, 1962",
+            "pt": "Ahmed Sékou Touré, 1962",
+            "sw": "Ahmed Sékou Touré, 1962"
+          }
+        }
+      ]
+    },
+    {
+      "year": "1960",
+      "place": {
+        "ru": "17 стран",
+        "en": "17 countries",
+        "fr": "17 pays",
+        "pt": "17 países",
+        "sw": "Nchi 17"
+      },
+      "title": {
+        "ru": "Год Африки",
+        "en": "The Year of Africa",
+        "fr": "L’année de l’Afrique",
+        "pt": "O Ano de África",
+        "sw": "Mwaka wa Afrika"
+      },
+      "text": {
+        "ru": "За один год независимость получают семнадцать государств. В Москве открывается Университет дружбы народов, будущий УДН имени Патриса Лумумбы.",
+        "en": "Seventeen states gain independence in a single year. In Moscow the Peoples’ Friendship University opens, later named after Patrice Lumumba.",
+        "fr": "Dix-sept États accèdent à l’indépendance en une seule année. À Moscou ouvre l’Université de l’amitié des peuples, future université Patrice-Lumumba.",
+        "pt": "Dezassete Estados tornam-se independentes num só ano. Em Moscovo abre a Universidade da Amizade dos Povos, mais tarde com o nome de Patrice Lumumba.",
+        "sw": "Nchi kumi na saba zinapata uhuru katika mwaka mmoja. Mjini Moscow kinafunguliwa Chuo Kikuu cha Urafiki wa Watu, baadaye kikapewa jina la Patrice Lumumba."
+      },
+      "story": "",
+      "photos": [
+        {
+          "src": "assets/lumumba_sign__d68b6115.jpg",
+          "color": false,
+          "caption": {
+            "ru": "Подписание акта о независимости Конго, 30 июня 1960",
+            "en": "Signing of Congo’s independence, 30 June 1960",
+            "fr": "Signature de l’indépendance du Congo, 30 juin 1960",
+            "pt": "Assinatura da independência do Congo, 30 de junho de 1960",
+            "sw": "Kutiwa saini kwa uhuru wa Kongo, 30 Juni 1960"
+          }
+        },
+        {
+          "src": "assets/lumumba__08f72560.jpg",
+          "color": false,
+          "caption": {
+            "ru": "Патрис Лумумба, 1960",
+            "en": "Patrice Lumumba, 1960",
+            "fr": "Patrice Lumumba, 1960",
+            "pt": "Patrice Lumumba, 1960",
+            "sw": "Patrice Lumumba, 1960"
+          }
+        },
+        {
+          "src": "assets/stamp__eb9cd20c.jpg",
+          "color": false,
+          "caption": {
+            "ru": "Марка СССР «Патрис Лумумба», 1961",
+            "en": "USSR stamp “Patrice Lumumba”, 1961",
+            "fr": "Timbre soviétique « Patrice Lumumba », 1961",
+            "pt": "Selo soviético «Patrice Lumumba», 1961",
+            "sw": "Stempu ya USSR «Patrice Lumumba», 1961"
+          }
+        }
+      ]
+    },
+    {
+      "year": "1961",
+      "place": {
+        "ru": "Танганьика",
+        "en": "Tanganyika",
+        "fr": "Tanganyika",
+        "pt": "Tanganica",
+        "sw": "Tanganyika"
+      },
+      "title": {
+        "ru": "Ухуру Танганьики",
+        "en": "Tanganyika’s Uhuru",
+        "fr": "L’Uhuru du Tanganyika",
+        "pt": "O Uhuru do Tanganica",
+        "sw": "Uhuru wa Tanganyika"
+      },
+      "text": {
+        "ru": "Независимость во главе с Джулиусом Ньерере. В 1964 году Танганьика и Занзибар объединятся в Танзанию.",
+        "en": "Independence under Julius Nyerere. In 1964 Tanganyika and Zanzibar unite to form Tanzania.",
+        "fr": "L’indépendance sous la direction de Julius Nyerere. En 1964, le Tanganyika et Zanzibar s’unissent pour former la Tanzanie.",
+        "pt": "Independência sob a liderança de Julius Nyerere. Em 1964 o Tanganica e Zanzibar unem-se e formam a Tanzânia.",
+        "sw": "Uhuru chini ya uongozi wa Julius Nyerere. Mwaka 1964 Tanganyika na Zanzibar zinaungana na kuunda Tanzania."
+      },
+      "story": "",
+      "photos": [
+        {
+          "src": "assets/nyerere_uk__128b0d89.jpg",
+          "color": false,
+          "caption": {
+            "ru": "Джулиус Ньерере",
+            "en": "Julius Nyerere",
+            "fr": "Julius Nyerere",
+            "pt": "Julius Nyerere",
+            "sw": "Julius Nyerere"
+          }
+        },
+        {
+          "src": "assets/torchstamp__f51cc9cf.jpg",
+          "color": true,
+          "caption": {
+            "ru": "Марка «Uhuru 9th Dec. 1961»",
+            "en": "Stamp “Uhuru 9th Dec. 1961”",
+            "fr": "Timbre « Uhuru 9th Dec. 1961 »",
+            "pt": "Selo «Uhuru 9th Dec. 1961»",
+            "sw": "Stempu «Uhuru 9th Dec. 1961»"
+          }
+        },
+        {
+          "src": "assets/macleod__e2e29225.jpg",
+          "color": false,
+          "caption": {
+            "ru": "Маклауд и Ньерере, март 1961",
+            "en": "Macleod and Nyerere, March 1961",
+            "fr": "Macleod et Nyerere, mars 1961",
+            "pt": "Macleod e Nyerere, março de 1961",
+            "sw": "Macleod na Nyerere, Machi 1961"
+          }
+        }
+      ]
+    },
+    {
+      "year": "1962",
+      "place": {
+        "ru": "Алжир",
+        "en": "Algeria",
+        "fr": "Algérie",
+        "pt": "Argélia",
+        "sw": "Aljeria"
+      },
+      "title": {
+        "ru": "Конец долгой войны",
+        "en": "The end of a long war",
+        "fr": "La fin d’une longue guerre",
+        "pt": "O fim de uma longa guerra",
+        "sw": "Mwisho wa vita virefu"
+      },
+      "text": {
+        "ru": "После войны, начавшейся в 1954 году, Алжир становится независимым государством.",
+        "en": "After the war that began in 1954, Algeria becomes an independent state.",
+        "fr": "Après la guerre commencée en 1954, l’Algérie devient un État indépendant.",
+        "pt": "Depois da guerra iniciada em 1954, a Argélia torna-se um Estado independente.",
+        "sw": "Baada ya vita vilivyoanza mwaka 1954, Aljeria inakuwa nchi huru."
+      },
+      "story": "",
+      "photos": [
+        {
+          "src": "assets/algeria__419bb019.jpg",
+          "color": false,
+          "caption": {
+            "ru": "Бойцы ФНО со знаменем",
+            "en": "FLN fighters with the flag",
+            "fr": "Combattants du FLN avec le drapeau",
+            "pt": "Combatentes da FLN com a bandeira",
+            "sw": "Wapiganaji wa FLN na bendera"
+          }
+        },
+        {
+          "src": "assets/benbella__237550c0.jpg",
+          "color": false,
+          "caption": {
+            "ru": "Ахмед Бен Белла, первый президент Алжира",
+            "en": "Ahmed Ben Bella, first president of Algeria",
+            "fr": "Ahmed Ben Bella, premier président de l’Algérie",
+            "pt": "Ahmed Ben Bella, primeiro presidente da Argélia",
+            "sw": "Ahmed Ben Bella, rais wa kwanza wa Aljeria"
+          }
+        },
+        {
+          "src": "assets/bbkhider__b812b03c.jpg",
+          "color": false,
+          "caption": {
+            "ru": "Бен Белла, Хидер и Аит Ахмед",
+            "en": "Ben Bella, Khider and Aït Ahmed",
+            "fr": "Ben Bella, Khider et Aït Ahmed",
+            "pt": "Ben Bella, Khider e Aït Ahmed",
+            "sw": "Ben Bella, Khider na Aït Ahmed"
+          }
+        }
+      ]
+    },
+    {
+      "year": "1975",
+      "place": {
+        "ru": "Ангола, Мозамбик",
+        "en": "Angola, Mozambique",
+        "fr": "Angola, Mozambique",
+        "pt": "Angola, Moçambique",
+        "sw": "Angola, Msumbiji"
+      },
+      "title": {
+        "ru": "Распад португальской империи",
+        "en": "The fall of the Portuguese empire",
+        "fr": "La chute de l’empire portugais",
+        "pt": "O fim do império português",
+        "sw": "Kuanguka kwa dola la Ureno"
+      },
+      "text": {
+        "ru": "После «революции гвоздик» в Португалии независимость получают её африканские колонии.",
+        "en": "After the Carnation Revolution in Portugal, its African colonies gain independence.",
+        "fr": "Après la révolution des Œillets au Portugal, ses colonies africaines deviennent indépendantes.",
+        "pt": "Depois da Revolução dos Cravos em Portugal, as suas colónias africanas tornam-se independentes.",
+        "sw": "Baada ya Mapinduzi ya Mikarafuu nchini Ureno, makoloni yake ya Afrika yanapata uhuru."
+      },
+      "story": "",
+      "photos": [
+        {
+          "src": "assets/neto2__56cea6f5.jpg",
+          "color": false,
+          "caption": {
+            "ru": "Агостиньо Нето на пресс-конференции",
+            "en": "Agostinho Neto at a press conference",
+            "fr": "Agostinho Neto en conférence de presse",
+            "pt": "Agostinho Neto numa conferência de imprensa",
+            "sw": "Agostinho Neto kwenye mkutano na waandishi wa habari"
+          }
+        },
+        {
+          "src": "assets/machel__6fb572e4.jpg",
+          "color": false,
+          "caption": {
+            "ru": "Самора Машел",
+            "en": "Samora Machel",
+            "fr": "Samora Machel",
+            "pt": "Samora Machel",
+            "sw": "Samora Machel"
+          }
+        },
+        {
+          "src": "assets/machel66__548bc0bc.jpg",
+          "color": false,
+          "caption": {
+            "ru": "Конференция с участием Саморы Машела, 1966",
+            "en": "Conference with Samora Machel, 1966",
+            "fr": "Conférence avec Samora Machel, 1966",
+            "pt": "Conferência com Samora Machel, 1966",
+            "sw": "Mkutano pamoja na Samora Machel, 1966"
+          }
+        }
+      ]
+    },
+    {
+      "year": "1980",
+      "place": {
+        "ru": "Зимбабве",
+        "en": "Zimbabwe",
+        "fr": "Zimbabwe",
+        "pt": "Zimbabué",
+        "sw": "Zimbabwe"
+      },
+      "title": {
+        "ru": "Зимбабве",
+        "en": "Zimbabwe",
+        "fr": "Zimbabwe",
+        "pt": "Zimbabué",
+        "sw": "Zimbabwe"
+      },
+      "text": {
+        "ru": "Бывшая Южная Родезия становится независимой Республикой Зимбабве.",
+        "en": "Former Southern Rhodesia becomes the independent Republic of Zimbabwe.",
+        "fr": "L’ancienne Rhodésie du Sud devient la République indépendante du Zimbabwe.",
+        "pt": "A antiga Rodésia do Sul torna-se a República independente do Zimbabué.",
+        "sw": "Rhodesia ya Kusini ya zamani inakuwa Jamhuri huru ya Zimbabwe."
+      },
+      "story": "",
+      "photos": [
+        {
+          "src": "assets/mugabe80__72e56814.jpg",
+          "color": false,
+          "caption": {
+            "ru": "Роберт Мугабе, премьер-министр Зимбабве, 1980",
+            "en": "Robert Mugabe, Prime Minister of Zimbabwe, 1980",
+            "fr": "Robert Mugabe, Premier ministre du Zimbabwe, 1980",
+            "pt": "Robert Mugabe, primeiro-ministro do Zimbabué, 1980",
+            "sw": "Robert Mugabe, Waziri Mkuu wa Zimbabwe, 1980"
+          }
+        },
+        {
+          "src": "assets/zimmedal__c1d8b5ef.jpg",
+          "color": true,
+          "caption": {
+            "ru": "Медаль независимости Зимбабве, 1980",
+            "en": "Zimbabwe Independence Medal, 1980",
+            "fr": "Médaille de l’indépendance du Zimbabwe, 1980",
+            "pt": "Medalha da independência do Zimbabué, 1980",
+            "sw": "Nishani ya uhuru wa Zimbabwe, 1980"
+          }
+        }
+      ]
+    },
+    {
+      "year": "1990",
+      "place": {
+        "ru": "Намибия",
+        "en": "Namibia",
+        "fr": "Namibie",
+        "pt": "Namíbia",
+        "sw": "Namibia"
+      },
+      "title": {
+        "ru": "Намибия",
+        "en": "Namibia",
+        "fr": "Namibie",
+        "pt": "Namíbia",
+        "sw": "Namibia"
+      },
+      "text": {
+        "ru": "Последняя колония на континенте получает независимость от ЮАР.",
+        "en": "The continent’s last colony gains independence from South Africa.",
+        "fr": "La dernière colonie du continent obtient son indépendance de l’Afrique du Sud.",
+        "pt": "A última colónia do continente torna-se independente da África do Sul.",
+        "sw": "Koloni la mwisho barani linapata uhuru kutoka Afrika Kusini."
+      },
+      "story": "",
+      "photos": [
+        {
+          "src": "assets/nujoma__0eb7bd68.jpg",
+          "color": false,
+          "caption": {
+            "ru": "Сэм Нуйома",
+            "en": "Sam Nujoma",
+            "fr": "Sam Nujoma",
+            "pt": "Sam Nujoma",
+            "sw": "Sam Nujoma"
+          }
+        },
+        {
+          "src": "assets/untag__3524d954.jpg",
+          "color": true,
+          "caption": {
+            "ru": "Машина миссии ООН UNTAG, Намибия, 1989",
+            "en": "UN UNTAG mission vehicle, Namibia, 1989",
+            "fr": "Véhicule de la mission de l’ONU GANUPT, Namibie, 1989",
+            "pt": "Viatura da missão da ONU UNTAG, Namíbia, 1989",
+            "sw": "Gari la ujumbe wa UN UNTAG, Namibia, 1989"
+          }
+        }
+      ]
+    },
+    {
+      "year": "1994",
+      "place": {
+        "ru": "ЮАР",
+        "en": "South Africa",
+        "fr": "Afrique du Sud",
+        "pt": "África do Sul",
+        "sw": "Afrika Kusini"
+      },
+      "title": {
+        "ru": "Конец апартеида",
+        "en": "The end of apartheid",
+        "fr": "La fin de l’apartheid",
+        "pt": "O fim do apartheid",
+        "sw": "Mwisho wa ubaguzi wa rangi"
+      },
+      "text": {
+        "ru": "Первые всеобщие выборы в ЮАР. Президентом становится Нельсон Мандела.",
+        "en": "South Africa’s first general elections. Nelson Mandela becomes president.",
+        "fr": "Premières élections au suffrage universel en Afrique du Sud. Nelson Mandela devient président.",
+        "pt": "Primeiras eleições gerais na África do Sul. Nelson Mandela torna-se presidente.",
+        "sw": "Uchaguzi mkuu wa kwanza nchini Afrika Kusini. Nelson Mandela anakuwa rais."
+      },
+      "story": "",
+      "photos": [
+        {
+          "src": "assets/mandela__6178ec57.jpg",
+          "color": false,
+          "caption": {
+            "ru": "Нельсон Мандела голосует, 1994",
+            "en": "Nelson Mandela votes, 1994",
+            "fr": "Nelson Mandela vote, 1994",
+            "pt": "Nelson Mandela vota, 1994",
+            "sw": "Nelson Mandela akipiga kura, 1994"
+          }
+        },
+        {
+          "src": "assets/inaug__20ccb846.jpg",
+          "color": false,
+          "caption": {
+            "ru": "На инаугурации Манделы, май 1994",
+            "en": "At Mandela’s inauguration, May 1994",
+            "fr": "À l’investiture de Mandela, mai 1994",
+            "pt": "Na tomada de posse de Mandela, maio de 1994",
+            "sw": "Kwenye kuapishwa kwa Mandela, Mei 1994"
+          }
+        },
+        {
+          "src": "assets/sovmandela__14a2faf6.jpg",
+          "color": true,
+          "caption": {
+            "ru": "Марка СССР «Нельсон Мандела», 1988",
+            "en": "USSR stamp “Nelson Mandela”, 1988",
+            "fr": "Timbre soviétique « Nelson Mandela », 1988",
+            "pt": "Selo soviético «Nelson Mandela», 1988",
+            "sw": "Stempu ya USSR «Nelson Mandela», 1988"
+          }
+        }
+      ]
+    }
+  ]
+}

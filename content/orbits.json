@@ -1,0 +1,356 @@
+{
+  "orbit": [
+    {
+      "src": "assets/nkrumah__045f515d.jpg",
+      "caption": {
+        "ru": "Кваме Нкрума",
+        "en": "Kwame Nkrumah",
+        "fr": "Kwame Nkrumah",
+        "pt": "Kwame Nkrumah",
+        "sw": "Kwame Nkrumah"
+      }
+    },
+    {
+      "src": "assets/lumumba__08f72560.jpg",
+      "caption": {
+        "ru": "Патрис Лумумба, 1960",
+        "en": "Patrice Lumumba, 1960",
+        "fr": "Patrice Lumumba, 1960",
+        "pt": "Patrice Lumumba, 1960",
+        "sw": "Patrice Lumumba, 1960"
+      }
+    },
+    {
+      "src": "assets/nyerere__f97fcc59.jpg",
+      "caption": {
+        "ru": "Джулиус Ньерере, 1965",
+        "en": "Julius Nyerere, 1965",
+        "fr": "Julius Nyerere, 1965",
+        "pt": "Julius Nyerere, 1965",
+        "sw": "Julius Nyerere, 1965"
+      }
+    },
+    {
+      "src": "assets/toure__c34efb03.jpg",
+      "caption": {
+        "ru": "Ахмед Секу Туре, 1958",
+        "en": "Ahmed Sékou Touré, 1958",
+        "fr": "Ahmed Sékou Touré, 1958",
+        "pt": "Ahmed Sékou Touré, 1958",
+        "sw": "Ahmed Sékou Touré, 1958"
+      }
+    },
+    {
+      "src": "assets/mandela__6178ec57.jpg",
+      "caption": {
+        "ru": "Нельсон Мандела, 1994",
+        "en": "Nelson Mandela, 1994",
+        "fr": "Nelson Mandela, 1994",
+        "pt": "Nelson Mandela, 1994",
+        "sw": "Nelson Mandela, 1994"
+      }
+    },
+    {
+      "src": "assets/neto__425643c0.jpg",
+      "caption": {
+        "ru": "Агостиньо Нето, 1975",
+        "en": "Agostinho Neto, 1975",
+        "fr": "Agostinho Neto, 1975",
+        "pt": "Agostinho Neto, 1975",
+        "sw": "Agostinho Neto, 1975"
+      }
+    },
+    {
+      "src": "assets/machel__6fb572e4.jpg",
+      "caption": {
+        "ru": "Самора Машел",
+        "en": "Samora Machel",
+        "fr": "Samora Machel",
+        "pt": "Samora Machel",
+        "sw": "Samora Machel"
+      }
+    },
+    {
+      "src": "assets/nasser__ba45b9c9.jpg",
+      "caption": {
+        "ru": "Насер в Асуане",
+        "en": "Nasser at Aswan",
+        "fr": "Nasser à Assouan",
+        "pt": "Nasser em Assuão",
+        "sw": "Nasser mjini Aswan"
+      }
+    },
+    {
+      "src": "assets/aswan__37a9608c.jpg",
+      "caption": {
+        "ru": "Асуанская плотина, 1964",
+        "en": "Aswan High Dam, 1964",
+        "fr": "Barrage d’Assouan, 1964",
+        "pt": "Barragem de Assuão, 1964",
+        "sw": "Bwawa la Aswan, 1964"
+      }
+    },
+    {
+      "src": "assets/benbella__237550c0.jpg",
+      "caption": {
+        "ru": "Ахмед Бен Белла",
+        "en": "Ahmed Ben Bella",
+        "fr": "Ahmed Ben Bella",
+        "pt": "Ahmed Ben Bella",
+        "sw": "Ahmed Ben Bella"
+      }
+    },
+    {
+      "src": "assets/senghor__a4d26f07.jpg",
+      "caption": {
+        "ru": "Леопольд Седар Сенгор",
+        "en": "Léopold Sédar Senghor",
+        "fr": "Léopold Sédar Senghor",
+        "pt": "Léopold Sédar Senghor",
+        "sw": "Léopold Sédar Senghor"
+      }
+    },
+    {
+      "src": "assets/keita__b2443f87.jpg",
+      "caption": {
+        "ru": "Модибо Кейта",
+        "en": "Modibo Keïta",
+        "fr": "Modibo Keïta",
+        "pt": "Modibo Keïta",
+        "sw": "Modibo Keïta"
+      }
+    },
+    {
+      "src": "assets/tambo__e8ef45f9.jpg",
+      "caption": {
+        "ru": "Оливер Тамбо",
+        "en": "Oliver Tambo",
+        "fr": "Oliver Tambo",
+        "pt": "Oliver Tambo",
+        "sw": "Oliver Tambo"
+      }
+    },
+    {
+      "src": "assets/nujoma__0eb7bd68.jpg",
+      "caption": {
+        "ru": "Сэм Нуйома",
+        "en": "Sam Nujoma",
+        "fr": "Sam Nujoma",
+        "pt": "Sam Nujoma",
+        "sw": "Sam Nujoma"
+      }
+    },
+    {
+      "src": "assets/mugabe80__72e56814.jpg",
+      "caption": {
+        "ru": "Роберт Мугабе, 1980",
+        "en": "Robert Mugabe, 1980",
+        "fr": "Robert Mugabe, 1980",
+        "pt": "Robert Mugabe, 1980",
+        "sw": "Robert Mugabe, 1980"
+      }
+    },
+    {
+      "src": "assets/macleod__e2e29225.jpg",
+      "caption": {
+        "ru": "Маклауд и Ньерере, 1961",
+        "en": "Macleod and Nyerere, 1961",
+        "fr": "Macleod et Nyerere, 1961",
+        "pt": "Macleod e Nyerere, 1961",
+        "sw": "Macleod na Nyerere, 1961"
+      }
+    },
+    {
+      "src": "assets/kt1__27e4d926.jpg",
+      "caption": {
+        "ru": "Секу Туре в Вашингтоне, 1962",
+        "en": "Sékou Touré in Washington, 1962",
+        "fr": "Sékou Touré à Washington, 1962",
+        "pt": "Sékou Touré em Washington, 1962",
+        "sw": "Sékou Touré mjini Washington, 1962"
+      }
+    },
+    {
+      "src": "assets/lumumba_sign__d68b6115.jpg",
+      "caption": {
+        "ru": "Конго, 30 июня 1960",
+        "en": "Congo, 30 June 1960",
+        "fr": "Congo, 30 juin 1960",
+        "pt": "Congo, 30 de junho de 1960",
+        "sw": "Kongo, 30 Juni 1960"
+      }
+    },
+    {
+      "src": "assets/algeria__419bb019.jpg",
+      "caption": {
+        "ru": "Бойцы ФНО",
+        "en": "FLN fighters",
+        "fr": "Combattants du FLN",
+        "pt": "Combatentes da FLN",
+        "sw": "Wapiganaji wa FLN"
+      }
+    },
+    {
+      "src": "assets/inaug__20ccb846.jpg",
+      "caption": {
+        "ru": "Инаугурация Манделы, 1994",
+        "en": "Mandela’s inauguration, 1994",
+        "fr": "Investiture de Mandela, 1994",
+        "pt": "Posse de Mandela, 1994",
+        "sw": "Kuapishwa kwa Mandela, 1994"
+      }
+    },
+    {
+      "src": "assets/bbkhider__b812b03c.jpg",
+      "caption": {
+        "ru": "Лидеры ФНО",
+        "en": "FLN leaders",
+        "fr": "Dirigeants du FLN",
+        "pt": "Líderes da FLN",
+        "sw": "Viongozi wa FLN"
+      }
+    },
+    {
+      "src": "assets/neto2__56cea6f5.jpg",
+      "caption": {
+        "ru": "Агостиньо Нето",
+        "en": "Agostinho Neto",
+        "fr": "Agostinho Neto",
+        "pt": "Agostinho Neto",
+        "sw": "Agostinho Neto"
+      }
+    },
+    {
+      "src": "assets/machel66__548bc0bc.jpg",
+      "caption": {
+        "ru": "Самора Машел, 1966",
+        "en": "Samora Machel, 1966",
+        "fr": "Samora Machel, 1966",
+        "pt": "Samora Machel, 1966",
+        "sw": "Samora Machel, 1966"
+      }
+    },
+    {
+      "src": "assets/nyerere_uk__128b0d89.jpg",
+      "caption": {
+        "ru": "Джулиус Ньерере",
+        "en": "Julius Nyerere",
+        "fr": "Julius Nyerere",
+        "pt": "Julius Nyerere",
+        "sw": "Julius Nyerere"
+      }
+    },
+    {
+      "src": "assets/toure62__6a410b87.jpg",
+      "caption": {
+        "ru": "Секу Туре, 1962",
+        "en": "Sékou Touré, 1962",
+        "fr": "Sékou Touré, 1962",
+        "pt": "Sékou Touré, 1962",
+        "sw": "Sékou Touré, 1962"
+      }
+    }
+  ],
+  "still": [
+    {
+      "src": "assets/nkrumah__045f515d.jpg",
+      "caption": {
+        "ru": "Кваме Нкрума",
+        "en": "Kwame Nkrumah",
+        "fr": "Kwame Nkrumah",
+        "pt": "Kwame Nkrumah",
+        "sw": "Kwame Nkrumah"
+      }
+    },
+    {
+      "src": "assets/aswan__37a9608c.jpg",
+      "caption": {
+        "ru": "Асуанская плотина, 1964",
+        "en": "Aswan High Dam, 1964",
+        "fr": "Barrage d’Assouan, 1964",
+        "pt": "Barragem de Assuão, 1964",
+        "sw": "Bwawa la Aswan, 1964"
+      }
+    },
+    {
+      "src": "assets/lumumba__08f72560.jpg",
+      "caption": {
+        "ru": "Патрис Лумумба, 1960",
+        "en": "Patrice Lumumba, 1960",
+        "fr": "Patrice Lumumba, 1960",
+        "pt": "Patrice Lumumba, 1960",
+        "sw": "Patrice Lumumba, 1960"
+      }
+    },
+    {
+      "src": "assets/nyerere__f97fcc59.jpg",
+      "caption": {
+        "ru": "Джулиус Ньерере, 1965",
+        "en": "Julius Nyerere, 1965",
+        "fr": "Julius Nyerere, 1965",
+        "pt": "Julius Nyerere, 1965",
+        "sw": "Julius Nyerere, 1965"
+      }
+    },
+    {
+      "src": "assets/ghanastamp__16cd82b3.jpg",
+      "caption": {
+        "ru": "Марка «Независимость Ганы», 1957",
+        "en": "Ghana Independence stamp, 1957",
+        "fr": "Timbre de l’indépendance du Ghana, 1957",
+        "pt": "Selo da independência do Gana, 1957",
+        "sw": "Stempu ya uhuru wa Ghana, 1957"
+      }
+    },
+    {
+      "src": "assets/nasser__ba45b9c9.jpg",
+      "caption": {
+        "ru": "Насер на стройке в Асуане",
+        "en": "Nasser at the Aswan construction site",
+        "fr": "Nasser sur le chantier d’Assouan",
+        "pt": "Nasser nas obras de Assuão",
+        "sw": "Nasser kwenye ujenzi wa Aswan"
+      }
+    },
+    {
+      "src": "assets/toure__c34efb03.jpg",
+      "caption": {
+        "ru": "Ахмед Секу Туре, 1958",
+        "en": "Ahmed Sékou Touré, 1958",
+        "fr": "Ahmed Sékou Touré, 1958",
+        "pt": "Ahmed Sékou Touré, 1958",
+        "sw": "Ahmed Sékou Touré, 1958"
+      }
+    },
+    {
+      "src": "assets/stamp__eb9cd20c.jpg",
+      "caption": {
+        "ru": "Марка СССР «Патрис Лумумба», 1961",
+        "en": "USSR stamp “Patrice Lumumba”, 1961",
+        "fr": "Timbre soviétique « Patrice Lumumba », 1961",
+        "pt": "Selo soviético «Patrice Lumumba», 1961",
+        "sw": "Stempu ya USSR «Patrice Lumumba», 1961"
+      }
+    },
+    {
+      "src": "assets/mandela__6178ec57.jpg",
+      "caption": {
+        "ru": "Нельсон Мандела голосует, 1994",
+        "en": "Nelson Mandela votes, 1994",
+        "fr": "Nelson Mandela vote, 1994",
+        "pt": "Nelson Mandela vota, 1994",
+        "sw": "Nelson Mandela akipiga kura, 1994"
+      }
+    },
+    {
+      "src": "assets/neto__425643c0.jpg",
+      "caption": {
+        "ru": "Агостиньо Нето, 1975",
+        "en": "Agostinho Neto, 1975",
+        "fr": "Agostinho Neto, 1975",
+        "pt": "Agostinho Neto, 1975",
+        "sw": "Agostinho Neto, 1975"
+      }
+    }
+  ]
+}

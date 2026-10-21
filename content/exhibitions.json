@@ -1,0 +1,124 @@
+{
+  "current": {
+    "city": {
+      "ru": "Дар-эс-Салам, Танзания",
+      "en": "Dar es Salaam, Tanzania",
+      "fr": "Dar es Salaam, Tanzanie",
+      "pt": "Dar es Salaam, Tanzânia",
+      "sw": "Dar es Salaam, Tanzania"
+    },
+    "venue": {
+      "ru": "Национальный музей Танзании",
+      "en": "National Museum of Tanzania",
+      "fr": "Musée national de Tanzanie",
+      "pt": "Museu Nacional da Tanzânia",
+      "sw": "Makumbusho ya Taifa ya Tanzania"
+    },
+    "date": "[10.2026 — 12.2026]",
+    "photo": "assets/ex_darnm__c8a5aa09.jpg",
+    "sample": true,
+    "link": ""
+  },
+  "past": [
+    {
+      "city": {
+        "ru": "Аккра, Гана",
+        "en": "Accra, Ghana",
+        "fr": "Accra, Ghana",
+        "pt": "Acra, Gana",
+        "sw": "Accra, Ghana"
+      },
+      "venue": {
+        "ru": "Библиотека Балме, Университет Ганы",
+        "en": "Balme Library, University of Ghana",
+        "fr": "Bibliothèque Balme, Université du Ghana",
+        "pt": "Biblioteca Balme, Universidade do Gana",
+        "sw": "Maktaba ya Balme, Chuo Kikuu cha Ghana"
+      },
+      "date": "[03.2026]",
+      "photo": "assets/ex_balme__ef4b2df1.jpg",
+      "sample": true,
+      "link": ""
+    },
+    {
+      "city": {
+        "ru": "Дакар, Сенегал",
+        "en": "Dakar, Senegal",
+        "fr": "Dakar, Sénégal",
+        "pt": "Dacar, Senegal",
+        "sw": "Dakar, Senegali"
+      },
+      "venue": {
+        "ru": "Музей чёрных цивилизаций",
+        "en": "Museum of Black Civilisations",
+        "fr": "Musée des civilisations noires",
+        "pt": "Museu das Civilizações Negras",
+        "sw": "Makumbusho ya Ustaarabu wa Watu Weusi"
+      },
+      "date": "[11.2025]",
+      "photo": "assets/ex_mcn__bf719e74.jpg",
+      "sample": true,
+      "link": ""
+    },
+    {
+      "city": {
+        "ru": "Мапуту, Мозамбик",
+        "en": "Maputo, Mozambique",
+        "fr": "Maputo, Mozambique",
+        "pt": "Maputo, Moçambique",
+        "sw": "Maputo, Msumbiji"
+      },
+      "venue": {
+        "ru": "Музей естественной истории",
+        "en": "Natural History Museum",
+        "fr": "Musée d’histoire naturelle",
+        "pt": "Museu de História Natural",
+        "sw": "Makumbusho ya Historia ya Asili"
+      },
+      "date": "[06.2025]",
+      "photo": "assets/ex_maputo__a0a5f4c2.jpg",
+      "sample": true,
+      "link": ""
+    },
+    {
+      "city": {
+        "ru": "Луанда, Ангола",
+        "en": "Luanda, Angola",
+        "fr": "Luanda, Angola",
+        "pt": "Luanda, Angola",
+        "sw": "Luanda, Angola"
+      },
+      "venue": {
+        "ru": "Набережная Маржинал, выставка под открытым небом",
+        "en": "Marginal waterfront, open-air exhibition",
+        "fr": "Front de mer de la Marginal, exposition en plein air",
+        "pt": "Marginal de Luanda, exposição ao ar livre",
+        "sw": "Ufukwe wa Marginal, maonyesho ya wazi"
+      },
+      "date": "[02.2025]",
+      "photo": "assets/ex_luanda__db0ac992.jpg",
+      "sample": true,
+      "link": ""
+    },
+    {
+      "city": {
+        "ru": "Аккра, Гана",
+        "en": "Accra, Ghana",
+        "fr": "Accra, Ghana",
+        "pt": "Acra, Gana",
+        "sw": "Accra, Ghana"
+      },
+      "venue": {
+        "ru": "Мемориальный парк Кваме Нкрумы",
+        "en": "Kwame Nkrumah Memorial Park",
+        "fr": "Parc commémoratif Kwame Nkrumah",
+        "pt": "Parque Memorial Kwame Nkrumah",
+        "sw": "Bustani ya Kumbukumbu ya Kwame Nkrumah"
+      },
+      "date": "[09.2024]",
+      "photo": "assets/ex_nkpark__902dc96f.jpg",
+      "sample": true,
+      "link": ""
+    }
+  ]
+}
