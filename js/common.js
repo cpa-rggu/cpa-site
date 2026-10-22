@@ -77,6 +77,9 @@
     document.documentElement.lang = CPA.state.lang;
     $$('[data-t]').forEach(function (el) { el.textContent = t(el.getAttribute('data-t')); });
     $$('[data-t-aria]').forEach(function (el) { el.setAttribute('aria-label', t(el.getAttribute('data-t-aria'))); });
+    // ссылки, адрес которых задаётся в админке (например, «Положение»), и строки, которые прячутся, если поле пустое
+    $$('[data-t-href]').forEach(function (el) { el.setAttribute('href', t(el.getAttribute('data-t-href')) || '#'); });
+    $$('[data-hide-empty]').forEach(function (el) { el.hidden = !t(el.getAttribute('data-hide-empty')).trim(); });
     $$('[data-t-ph]').forEach(function (el) {
       var key = (MOBILE.matches && el.getAttribute('data-t-ph-mobile')) || el.getAttribute('data-t-ph');
       el.setAttribute('placeholder', t(key));

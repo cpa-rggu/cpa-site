@@ -364,10 +364,41 @@
     },
     "aboutText": {
       "ru": "Центр прикладной африканистики РГГУ — это междисциплинарное учебно-научное подразделение, имеющее своей целью реализацию прикладных проектов, связанных с вопросами развития африканских стран и российско-африканского сотрудничества в образовательной и гуманитарной сферах.",
-      "en": "The RSUH Centre for Applied African Studies is an interdisciplinary educational and research unit aimed at implementing applied projects related to the development of African countries and Russian‑African cooperation in the educational and humanitarian spheres.",
-      "fr": "Le Centre d’africanistique appliquée de l’RSUH est une unité éducative et scientifique interdisciplinaire dont l’objectif est de mettre en œuvre des projets appliqués liés au développement des pays africains et à la coopération russo‑africaine dans les domaines éducatif et humanitaire.",
-      "pt": "O Centro de Africanística Aplicada da RSUH é uma unidade educacional e científica interdisciplinar cujo objetivo é implementar projetos aplicados relacionados ao desenvolvimento dos países africanos e à cooperação russo‑africana nas esferas educacional e humanitária.",
-      "sw": "Kitengo cha Africanistika ya Matumizi ya RSUH ni kitengo cha elimu na utafiti wa sehemu mbili (na zaidi) ambacho inakusudi kuteja projekti za matumizi ya hali ya kawaida zinazohusiana na kuendelea ya nchi za Afrika na ushirikiano wa Urusi na Afrika katika maeneo ya elimu na ya kujenga maisha."
+      "en": "The Center for Applied African Studies at RSUH is an interdisciplinary teaching and research unit. Its aim is to carry out applied projects related to the development of African countries and to Russian–African cooperation in education and the humanitarian sphere.",
+      "fr": "Le Centre d’études africaines appliquées de la RGGU est une unité interdisciplinaire d’enseignement et de recherche. Il a pour mission de mener des projets appliqués liés au développement des pays africains et à la coopération russo-africaine dans les domaines éducatif et humanitaire.",
+      "pt": "O Centro de Estudos Africanos Aplicados da RGGU é uma unidade interdisciplinar de ensino e investigação. Tem como objetivo realizar projetos aplicados relacionados com o desenvolvimento dos países africanos e com a cooperação russo-africana nas esferas educativa e humanitária.",
+      "sw": "Kituo cha Taaluma za Afrika kwa Vitendo cha RGGU ni kitengo cha kufundisha na kufanya utafiti kinachounganisha taaluma mbalimbali. Lengo lake ni kutekeleza miradi ya vitendo inayohusu maendeleo ya nchi za Afrika na ushirikiano kati ya Urusi na Afrika katika nyanja za elimu na za kibinadamu."
+    },
+    "lDirector": {
+      "ru": "ДИРЕКТОР",
+      "en": "DIRECTOR",
+      "fr": "DIRECTEUR",
+      "pt": "DIRETOR",
+      "sw": "MKURUGENZI"
+    },
+    "vDirector": {
+      "ru": "Зотин Александр Николаевич",
+      "en": "Alexander Nikolaevich Zotin",
+      "fr": "Alexandre Nikolaïevitch Zotine",
+      "pt": "Aleksandr Nikolaevich Zotin",
+      "sw": "Alexander Nikolaevich Zotin"
+    },
+    "lDoc": {
+      "ru": "ПОЛОЖЕНИЕ",
+      "en": "REGULATIONS",
+      "fr": "RÈGLEMENT",
+      "pt": "REGULAMENTO",
+      "sw": "KANUNI"
+    },
+    "vDoc": {
+      "ru": "Положение (PDF)",
+      "en": "Regulations (PDF, in Russian)",
+      "fr": "Règlement (PDF, en russe)",
+      "pt": "Regulamento (PDF, em russo)",
+      "sw": "Kanuni (PDF, kwa Kirusi)"
+    },
+    "docUrl": {
+      "ru": "https://www.rsuh.ru/upload/main/pol/education/Inst_evraz_i_vost_issl_16042025.pdf"
     },
     "lEmail": {
       "ru": "ПОЧТА",

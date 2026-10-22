@@ -1524,6 +1524,53 @@ collections:
                   - { name: fr, label: 'Français', widget: text, required: false }
                   - { name: pt, label: 'Português', widget: text, required: false }
                   - { name: sw, label: 'Kiswahili', widget: text, required: false }
+              - name: lDirector
+                label: 'Метка «Директор»'
+                widget: object
+                fields:
+                  - { name: ru, label: 'Русский', widget: string, required: false }
+                  - { name: en, label: 'English', widget: string, required: false }
+                  - { name: fr, label: 'Français', widget: string, required: false }
+                  - { name: pt, label: 'Português', widget: string, required: false }
+                  - { name: sw, label: 'Kiswahili', widget: string, required: false }
+              - name: vDirector
+                label: 'Директор (ФИО; пусто — строка не показывается)'
+                widget: object
+                required: false
+                fields:
+                  - { name: ru, label: 'Русский', widget: string, required: false }
+                  - { name: en, label: 'English', widget: string, required: false }
+                  - { name: fr, label: 'Français', widget: string, required: false }
+                  - { name: pt, label: 'Português', widget: string, required: false }
+                  - { name: sw, label: 'Kiswahili', widget: string, required: false }
+              - name: lDoc
+                label: 'Метка «Положение»'
+                widget: object
+                fields:
+                  - { name: ru, label: 'Русский', widget: string, required: false }
+                  - { name: en, label: 'English', widget: string, required: false }
+                  - { name: fr, label: 'Français', widget: string, required: false }
+                  - { name: pt, label: 'Português', widget: string, required: false }
+                  - { name: sw, label: 'Kiswahili', widget: string, required: false }
+              - name: vDoc
+                label: 'Текст ссылки на положение'
+                widget: object
+                fields:
+                  - { name: ru, label: 'Русский', widget: string, required: false }
+                  - { name: en, label: 'English', widget: string, required: false }
+                  - { name: fr, label: 'Français', widget: string, required: false }
+                  - { name: pt, label: 'Português', widget: string, required: false }
+                  - { name: sw, label: 'Kiswahili', widget: string, required: false }
+              - name: docUrl
+                label: 'Адрес положения (ссылка на PDF; пусто — строка не показывается)'
+                widget: object
+                required: false
+                fields:
+                  - { name: ru, label: 'Русский', widget: string, required: false }
+                  - { name: en, label: 'English', widget: string, required: false }
+                  - { name: fr, label: 'Français', widget: string, required: false }
+                  - { name: pt, label: 'Português', widget: string, required: false }
+                  - { name: sw, label: 'Kiswahili', widget: string, required: false }
               - name: lEmail
                 label: 'Метка «Почта»'
                 widget: object
