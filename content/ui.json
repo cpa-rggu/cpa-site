@@ -414,11 +414,11 @@
   },
   "footer": {
     "copy": {
-      "ru": "© [год] Центр прикладной африканистики РГГУ",
-      "en": "© [year] Center for Applied African Studies, RSUH",
-      "fr": "© [année] Centre d’études africaines appliquées, RGGU",
-      "pt": "© [ano] Centro de Estudos Africanos Aplicados, RGGU",
-      "sw": "© [mwaka] Kituo cha Taaluma za Afrika kwa Vitendo, RGGU"
+      "ru": "© 2026 Центр прикладной африканистики РГГУ",
+      "en": "© 2026 Center for Applied African Studies, RSUH",
+      "fr": "© 2026 Centre d’études africaines appliquées, RGGU",
+      "pt": "© 2026 Centro de Estudos Africanos Aplicados, RGGU",
+      "sw": "© 2026 Kituo cha Taaluma za Afrika kwa Vitendo, RGGU"
     },
     "credits": {
       "ru": "Фото в макете: Wikimedia Commons (Anefo / Nationaal Archief, The National Archives UK, Почта СССР и др.)",
