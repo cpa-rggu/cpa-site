@@ -17,8 +17,9 @@ function Q([string]$s) { "'" + $s.Replace("'", "''") + "'" }
 
 $LANGS = @(('ru', 'Русский'), ('en', 'English'), ('fr', 'Français'), ('pt', 'Português'), ('sw', 'Kiswahili'))
 
-# Поле на 5 языках: группа с подполями ru/en/fr/pt/sw. Обязателен только русский.
-# $optional — поле может быть пустым и по-русски (например, пометка только для других языков)
+# Поле на 5 языках: группа с подполями ru/en/fr/pt/sw. Все языки необязательные:
+# если перевода нет, сайт покажет английский, затем русский вариант.
+# $optional — сама группа тоже может быть пустой (например, пометка только для других языков)
 function Tr([int]$ind, [string]$name, [string]$label, [string]$widget = 'string', [string]$hint = '', [string[]]$only = $null, [bool]$optional = $false) {
   $p = ' ' * $ind
   if (-not $only) { $only = $LANGS | % { $_[0] } }
@@ -30,8 +31,7 @@ function Tr([int]$ind, [string]$name, [string]$label, [string]$widget = 'string'
   W "$p  fields:"
   foreach ($l in $LANGS) {
     if ($only -notcontains $l[0]) { continue }
-    $req = if ($l[0] -eq 'ru' -and -not $optional) { 'true' } else { 'false' }
-    W "$p    - { name: $($l[0]), label: $(Q $l[1]), widget: $widget, required: $req }"
+    W "$p    - { name: $($l[0]), label: $(Q $l[1]), widget: $widget, required: false }"
   }
 }
 function F([int]$ind, [string]$name, [string]$label, [string]$widget, [string]$extra = '') {
@@ -54,8 +54,7 @@ function TrList([int]$ind, [string]$name, [string]$label, [string]$single, [stri
   W "$p    widget: object"
   W "$p    fields:"
   foreach ($l in $LANGS) {
-    $req = if ($l[0] -eq 'ru') { 'true' } else { 'false' }
-    W "$p      - { name: $($l[0]), label: $(Q $l[1]), widget: $widget, required: $req }"
+    W "$p      - { name: $($l[0]), label: $(Q $l[1]), widget: $widget, required: false }"
   }
 }
 # Начало вложенного списка / группы полей

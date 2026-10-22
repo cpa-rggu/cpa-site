@@ -35,7 +35,7 @@ collections:
                 label: 'Место (подпись под годом)'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -44,7 +44,7 @@ collections:
                 label: 'Заголовок'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -53,7 +53,7 @@ collections:
                 label: 'Текст'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: text, required: true }
+                  - { name: ru, label: 'Русский', widget: text, required: false }
                   - { name: en, label: 'English', widget: text, required: false }
                   - { name: fr, label: 'Français', widget: text, required: false }
                   - { name: pt, label: 'Português', widget: text, required: false }
@@ -71,7 +71,7 @@ collections:
                     label: 'Подпись'
                     widget: object
                     fields:
-                      - { name: ru, label: 'Русский', widget: string, required: true }
+                      - { name: ru, label: 'Русский', widget: string, required: false }
                       - { name: en, label: 'English', widget: string, required: false }
                       - { name: fr, label: 'Français', widget: string, required: false }
                       - { name: pt, label: 'Português', widget: string, required: false }
@@ -95,7 +95,7 @@ collections:
                 label: 'Город, страна'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -104,7 +104,7 @@ collections:
                 label: 'Площадка'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -117,7 +117,7 @@ collections:
                 label: 'Страница: адрес площадки'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -126,7 +126,7 @@ collections:
                 label: 'Страница: часы работы'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -135,7 +135,7 @@ collections:
                 label: 'Страница: вход (свободный, по билетам…)'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -144,7 +144,7 @@ collections:
                 label: 'Страница: текст о выставке на этой площадке'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: text, required: true }
+                  - { name: ru, label: 'Русский', widget: text, required: false }
                   - { name: en, label: 'English', widget: text, required: false }
                   - { name: fr, label: 'Français', widget: text, required: false }
                   - { name: pt, label: 'Português', widget: text, required: false }
@@ -161,7 +161,7 @@ collections:
                     label: 'Подпись'
                     widget: object
                     fields:
-                      - { name: ru, label: 'Русский', widget: string, required: true }
+                      - { name: ru, label: 'Русский', widget: string, required: false }
                       - { name: en, label: 'English', widget: string, required: false }
                       - { name: fr, label: 'Français', widget: string, required: false }
                       - { name: pt, label: 'Português', widget: string, required: false }
@@ -188,7 +188,7 @@ collections:
                     label: 'Подпись'
                     widget: object
                     fields:
-                      - { name: ru, label: 'Русский', widget: string, required: true }
+                      - { name: ru, label: 'Русский', widget: string, required: false }
                       - { name: en, label: 'English', widget: string, required: false }
                       - { name: fr, label: 'Français', widget: string, required: false }
                       - { name: pt, label: 'Português', widget: string, required: false }
@@ -205,7 +205,7 @@ collections:
                     label: 'Название'
                     widget: object
                     fields:
-                      - { name: ru, label: 'Русский', widget: string, required: true }
+                      - { name: ru, label: 'Русский', widget: string, required: false }
                       - { name: en, label: 'English', widget: string, required: false }
                       - { name: fr, label: 'Français', widget: string, required: false }
                       - { name: pt, label: 'Português', widget: string, required: false }
@@ -222,7 +222,7 @@ collections:
                     label: 'Издание и дата'
                     widget: object
                     fields:
-                      - { name: ru, label: 'Русский', widget: string, required: true }
+                      - { name: ru, label: 'Русский', widget: string, required: false }
                       - { name: en, label: 'English', widget: string, required: false }
                       - { name: fr, label: 'Français', widget: string, required: false }
                       - { name: pt, label: 'Português', widget: string, required: false }
@@ -231,7 +231,7 @@ collections:
                     label: 'Заголовок'
                     widget: object
                     fields:
-                      - { name: ru, label: 'Русский', widget: string, required: true }
+                      - { name: ru, label: 'Русский', widget: string, required: false }
                       - { name: en, label: 'English', widget: string, required: false }
                       - { name: fr, label: 'Français', widget: string, required: false }
                       - { name: pt, label: 'Português', widget: string, required: false }
@@ -248,7 +248,7 @@ collections:
                 label: 'Город, страна'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -257,7 +257,7 @@ collections:
                 label: 'Площадка'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -270,7 +270,7 @@ collections:
                 label: 'Страница: адрес площадки'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -279,7 +279,7 @@ collections:
                 label: 'Страница: часы работы'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -288,7 +288,7 @@ collections:
                 label: 'Страница: вход (свободный, по билетам…)'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -297,7 +297,7 @@ collections:
                 label: 'Страница: текст о выставке на этой площадке'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: text, required: true }
+                  - { name: ru, label: 'Русский', widget: text, required: false }
                   - { name: en, label: 'English', widget: text, required: false }
                   - { name: fr, label: 'Français', widget: text, required: false }
                   - { name: pt, label: 'Português', widget: text, required: false }
@@ -314,7 +314,7 @@ collections:
                     label: 'Подпись'
                     widget: object
                     fields:
-                      - { name: ru, label: 'Русский', widget: string, required: true }
+                      - { name: ru, label: 'Русский', widget: string, required: false }
                       - { name: en, label: 'English', widget: string, required: false }
                       - { name: fr, label: 'Français', widget: string, required: false }
                       - { name: pt, label: 'Português', widget: string, required: false }
@@ -341,7 +341,7 @@ collections:
                     label: 'Подпись'
                     widget: object
                     fields:
-                      - { name: ru, label: 'Русский', widget: string, required: true }
+                      - { name: ru, label: 'Русский', widget: string, required: false }
                       - { name: en, label: 'English', widget: string, required: false }
                       - { name: fr, label: 'Français', widget: string, required: false }
                       - { name: pt, label: 'Português', widget: string, required: false }
@@ -358,7 +358,7 @@ collections:
                     label: 'Название'
                     widget: object
                     fields:
-                      - { name: ru, label: 'Русский', widget: string, required: true }
+                      - { name: ru, label: 'Русский', widget: string, required: false }
                       - { name: en, label: 'English', widget: string, required: false }
                       - { name: fr, label: 'Français', widget: string, required: false }
                       - { name: pt, label: 'Português', widget: string, required: false }
@@ -375,7 +375,7 @@ collections:
                     label: 'Издание и дата'
                     widget: object
                     fields:
-                      - { name: ru, label: 'Русский', widget: string, required: true }
+                      - { name: ru, label: 'Русский', widget: string, required: false }
                       - { name: en, label: 'English', widget: string, required: false }
                       - { name: fr, label: 'Français', widget: string, required: false }
                       - { name: pt, label: 'Português', widget: string, required: false }
@@ -384,7 +384,7 @@ collections:
                     label: 'Заголовок'
                     widget: object
                     fields:
-                      - { name: ru, label: 'Русский', widget: string, required: true }
+                      - { name: ru, label: 'Русский', widget: string, required: false }
                       - { name: en, label: 'English', widget: string, required: false }
                       - { name: fr, label: 'Français', widget: string, required: false }
                       - { name: pt, label: 'Português', widget: string, required: false }
@@ -416,21 +416,21 @@ collections:
                 hint: 'Так, как подписывать на сайте: «Н.А. Медушевский» / «N.A. Medushevsky».'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
               - name: title
                 label: 'Название статьи'
                 hint: 'Русское название и авторский английский вариант. Для FR/PT/SW сайт показывает английский.'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
               - name: journal
                 label: 'Журнал'
                 hint: 'Без кавычек и номера: Клио / Clio.'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
               - { name: issue, label: 'Год и номер выпуска', widget: string, hint: 'Например: 2025, № 7' }
               - { name: pages, label: 'Страницы', widget: string, required: false }
@@ -441,14 +441,14 @@ collections:
                 label: 'Ключевые слова (через точку с запятой)'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: text, required: true }
+                  - { name: ru, label: 'Русский', widget: text, required: false }
                   - { name: en, label: 'English', widget: text, required: false }
               - name: abstract
                 label: 'Аннотация'
                 hint: 'Авторская аннотация — не переписывать по смыслу.'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: text, required: true }
+                  - { name: ru, label: 'Русский', widget: text, required: false }
                   - { name: en, label: 'English', widget: text, required: false }
   - name: authors
     label: 'Авторы'
@@ -471,26 +471,26 @@ collections:
                 label: 'Инициалы в квадрате'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
               - name: name
                 label: 'Полное имя'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
               - name: cite
                 label: 'Имя для «Как цитировать»'
                 hint: 'Например: Медушевский Н.А. / Medushevsky N.A.'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
               - name: role
                 label: 'Учёная степень, должность'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -499,7 +499,7 @@ collections:
                 label: 'Место работы'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
               - { name: orcid, label: 'Ссылка ORCID', widget: string, required: false }
   - name: stories
@@ -532,7 +532,7 @@ collections:
                 label: 'Подпись к фото обложки (автор, лицензия)'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -541,7 +541,7 @@ collections:
                 label: 'Короткая метка для карточки (СТРАНА · ГОДЫ)'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -550,7 +550,7 @@ collections:
                 label: 'Надпись над заголовком'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -559,7 +559,7 @@ collections:
                 label: 'Заголовок'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -568,7 +568,7 @@ collections:
                 label: 'Описание фото обложки (для незрячих)'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -577,7 +577,7 @@ collections:
                 label: 'Подзаголовок'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: text, required: true }
+                  - { name: ru, label: 'Русский', widget: text, required: false }
                   - { name: en, label: 'English', widget: text, required: false }
                   - { name: fr, label: 'Français', widget: text, required: false }
                   - { name: pt, label: 'Português', widget: text, required: false }
@@ -593,7 +593,7 @@ collections:
                     label: 'Название строки (СТРАНА, ПЕРИОД…)'
                     widget: object
                     fields:
-                      - { name: ru, label: 'Русский', widget: string, required: true }
+                      - { name: ru, label: 'Русский', widget: string, required: false }
                       - { name: en, label: 'English', widget: string, required: false }
                       - { name: fr, label: 'Français', widget: string, required: false }
                       - { name: pt, label: 'Português', widget: string, required: false }
@@ -602,7 +602,7 @@ collections:
                     label: 'Значение'
                     widget: object
                     fields:
-                      - { name: ru, label: 'Русский', widget: string, required: true }
+                      - { name: ru, label: 'Русский', widget: string, required: false }
                       - { name: en, label: 'English', widget: string, required: false }
                       - { name: fr, label: 'Français', widget: string, required: false }
                       - { name: pt, label: 'Português', widget: string, required: false }
@@ -618,7 +618,7 @@ collections:
                   label: 'тему'
                   widget: object
                   fields:
-                    - { name: ru, label: 'Русский', widget: string, required: true }
+                    - { name: ru, label: 'Русский', widget: string, required: false }
                     - { name: en, label: 'English', widget: string, required: false }
                     - { name: fr, label: 'Français', widget: string, required: false }
                     - { name: pt, label: 'Português', widget: string, required: false }
@@ -627,7 +627,7 @@ collections:
                 label: 'Вступление (крупным шрифтом)'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: text, required: true }
+                  - { name: ru, label: 'Русский', widget: text, required: false }
                   - { name: en, label: 'English', widget: text, required: false }
                   - { name: fr, label: 'Français', widget: text, required: false }
                   - { name: pt, label: 'Português', widget: text, required: false }
@@ -643,7 +643,7 @@ collections:
                   label: 'абзац'
                   widget: object
                   fields:
-                    - { name: ru, label: 'Русский', widget: text, required: true }
+                    - { name: ru, label: 'Русский', widget: text, required: false }
                     - { name: en, label: 'English', widget: text, required: false }
                     - { name: fr, label: 'Français', widget: text, required: false }
                     - { name: pt, label: 'Português', widget: text, required: false }
@@ -657,7 +657,7 @@ collections:
                     label: 'Подпись'
                     widget: object
                     fields:
-                      - { name: ru, label: 'Русский', widget: string, required: true }
+                      - { name: ru, label: 'Русский', widget: string, required: false }
                       - { name: en, label: 'English', widget: string, required: false }
                       - { name: fr, label: 'Français', widget: string, required: false }
                       - { name: pt, label: 'Português', widget: string, required: false }
@@ -666,7 +666,7 @@ collections:
                     label: 'Автор и лицензия'
                     widget: object
                     fields:
-                      - { name: ru, label: 'Русский', widget: string, required: true }
+                      - { name: ru, label: 'Русский', widget: string, required: false }
                       - { name: en, label: 'English', widget: string, required: false }
                       - { name: fr, label: 'Français', widget: string, required: false }
                       - { name: pt, label: 'Português', widget: string, required: false }
@@ -682,7 +682,7 @@ collections:
                   label: 'абзац'
                   widget: object
                   fields:
-                    - { name: ru, label: 'Русский', widget: text, required: true }
+                    - { name: ru, label: 'Русский', widget: text, required: false }
                     - { name: en, label: 'English', widget: text, required: false }
                     - { name: fr, label: 'Français', widget: text, required: false }
                     - { name: pt, label: 'Português', widget: text, required: false }
@@ -691,7 +691,7 @@ collections:
                 label: 'Цитата'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: text, required: true }
+                  - { name: ru, label: 'Русский', widget: text, required: false }
                   - { name: en, label: 'English', widget: text, required: false }
                   - { name: fr, label: 'Français', widget: text, required: false }
                   - { name: pt, label: 'Português', widget: text, required: false }
@@ -700,7 +700,7 @@ collections:
                 label: 'Автор цитаты и шифр документа'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -709,7 +709,7 @@ collections:
                 label: 'Заключительный абзац'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: text, required: true }
+                  - { name: ru, label: 'Русский', widget: text, required: false }
                   - { name: en, label: 'English', widget: text, required: false }
                   - { name: fr, label: 'Français', widget: text, required: false }
                   - { name: pt, label: 'Português', widget: text, required: false }
@@ -726,7 +726,7 @@ collections:
                     label: 'Дата (ИЮЛЬ, 27 ДЕКАБРЯ…)'
                     widget: object
                     fields:
-                      - { name: ru, label: 'Русский', widget: string, required: true }
+                      - { name: ru, label: 'Русский', widget: string, required: false }
                       - { name: en, label: 'English', widget: string, required: false }
                       - { name: fr, label: 'Français', widget: string, required: false }
                       - { name: pt, label: 'Português', widget: string, required: false }
@@ -735,7 +735,7 @@ collections:
                     label: 'Что произошло'
                     widget: object
                     fields:
-                      - { name: ru, label: 'Русский', widget: text, required: true }
+                      - { name: ru, label: 'Русский', widget: text, required: false }
                       - { name: en, label: 'English', widget: text, required: false }
                       - { name: fr, label: 'Français', widget: text, required: false }
                       - { name: pt, label: 'Português', widget: text, required: false }
@@ -755,7 +755,7 @@ collections:
                     label: 'Название'
                     widget: object
                     fields:
-                      - { name: ru, label: 'Русский', widget: string, required: true }
+                      - { name: ru, label: 'Русский', widget: string, required: false }
                       - { name: en, label: 'English', widget: string, required: false }
                       - { name: fr, label: 'Français', widget: string, required: false }
                       - { name: pt, label: 'Português', widget: string, required: false }
@@ -764,7 +764,7 @@ collections:
                     label: 'Дата'
                     widget: object
                     fields:
-                      - { name: ru, label: 'Русский', widget: string, required: true }
+                      - { name: ru, label: 'Русский', widget: string, required: false }
                       - { name: en, label: 'English', widget: string, required: false }
                       - { name: fr, label: 'Français', widget: string, required: false }
                       - { name: pt, label: 'Português', widget: string, required: false }
@@ -773,7 +773,7 @@ collections:
                     label: 'Источник (автор, лицензия)'
                     widget: object
                     fields:
-                      - { name: ru, label: 'Русский', widget: string, required: true }
+                      - { name: ru, label: 'Русский', widget: string, required: false }
                       - { name: en, label: 'English', widget: string, required: false }
                       - { name: fr, label: 'Français', widget: string, required: false }
                       - { name: pt, label: 'Português', widget: string, required: false }
@@ -786,7 +786,7 @@ collections:
                     label: 'Пояснение'
                     widget: object
                     fields:
-                      - { name: ru, label: 'Русский', widget: text, required: true }
+                      - { name: ru, label: 'Русский', widget: text, required: false }
                       - { name: en, label: 'English', widget: text, required: false }
                       - { name: fr, label: 'Français', widget: text, required: false }
                       - { name: pt, label: 'Português', widget: text, required: false }
@@ -802,7 +802,7 @@ collections:
                         label: 'Заголовок (СОВЕТСКАЯ ПРЕССА…)'
                         widget: object
                         fields:
-                          - { name: ru, label: 'Русский', widget: string, required: true }
+                          - { name: ru, label: 'Русский', widget: string, required: false }
                           - { name: en, label: 'English', widget: string, required: false }
                           - { name: fr, label: 'Français', widget: string, required: false }
                           - { name: pt, label: 'Português', widget: string, required: false }
@@ -811,7 +811,7 @@ collections:
                         label: 'Подпись к скану'
                         widget: object
                         fields:
-                          - { name: ru, label: 'Русский', widget: string, required: true }
+                          - { name: ru, label: 'Русский', widget: string, required: false }
                           - { name: en, label: 'English', widget: string, required: false }
                           - { name: fr, label: 'Français', widget: string, required: false }
                           - { name: pt, label: 'Português', widget: string, required: false }
@@ -820,7 +820,7 @@ collections:
                         label: 'Текст'
                         widget: object
                         fields:
-                          - { name: ru, label: 'Русский', widget: text, required: true }
+                          - { name: ru, label: 'Русский', widget: text, required: false }
                           - { name: en, label: 'English', widget: text, required: false }
                           - { name: fr, label: 'Français', widget: text, required: false }
                           - { name: pt, label: 'Português', widget: text, required: false }
@@ -846,7 +846,7 @@ collections:
                 label: 'Тип (ФОТОГРАФИЯ, ПОЧТОВАЯ МАРКА…)'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -855,7 +855,7 @@ collections:
                 label: 'Название'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -864,7 +864,7 @@ collections:
                 label: 'Место'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -873,7 +873,7 @@ collections:
                 label: 'Дата'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -882,7 +882,7 @@ collections:
                 label: 'Автор'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -891,7 +891,7 @@ collections:
                 label: 'Источник и лицензия'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -913,7 +913,7 @@ collections:
                     label: 'Текст ссылки'
                     widget: object
                     fields:
-                      - { name: ru, label: 'Русский', widget: string, required: true }
+                      - { name: ru, label: 'Русский', widget: string, required: false }
                       - { name: en, label: 'English', widget: string, required: false }
                       - { name: fr, label: 'Français', widget: string, required: false }
                       - { name: pt, label: 'Português', widget: string, required: false }
@@ -924,7 +924,7 @@ collections:
                 label: 'Описание'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: text, required: true }
+                  - { name: ru, label: 'Русский', widget: text, required: false }
                   - { name: en, label: 'English', widget: text, required: false }
                   - { name: fr, label: 'Français', widget: text, required: false }
                   - { name: pt, label: 'Português', widget: text, required: false }
@@ -933,7 +933,7 @@ collections:
                 label: 'История из архива Центра'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: text, required: true }
+                  - { name: ru, label: 'Русский', widget: text, required: false }
                   - { name: en, label: 'English', widget: text, required: false }
                   - { name: fr, label: 'Français', widget: text, required: false }
                   - { name: pt, label: 'Português', widget: text, required: false }
@@ -949,7 +949,7 @@ collections:
                     label: 'Вкладка (Советская пресса…)'
                     widget: object
                     fields:
-                      - { name: ru, label: 'Русский', widget: string, required: true }
+                      - { name: ru, label: 'Русский', widget: string, required: false }
                       - { name: en, label: 'English', widget: string, required: false }
                       - { name: fr, label: 'Français', widget: string, required: false }
                       - { name: pt, label: 'Português', widget: string, required: false }
@@ -958,7 +958,7 @@ collections:
                     label: 'Подпись к скану'
                     widget: object
                     fields:
-                      - { name: ru, label: 'Русский', widget: string, required: true }
+                      - { name: ru, label: 'Русский', widget: string, required: false }
                       - { name: en, label: 'English', widget: string, required: false }
                       - { name: fr, label: 'Français', widget: string, required: false }
                       - { name: pt, label: 'Português', widget: string, required: false }
@@ -967,7 +967,7 @@ collections:
                     label: 'Текст'
                     widget: object
                     fields:
-                      - { name: ru, label: 'Русский', widget: text, required: true }
+                      - { name: ru, label: 'Русский', widget: text, required: false }
                       - { name: en, label: 'English', widget: text, required: false }
                       - { name: fr, label: 'Français', widget: text, required: false }
                       - { name: pt, label: 'Português', widget: text, required: false }
@@ -998,7 +998,7 @@ collections:
                 label: 'Подпись'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1015,7 +1015,7 @@ collections:
                 label: 'Подпись'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1039,7 +1039,7 @@ collections:
                 label: 'Название Центра'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1048,7 +1048,7 @@ collections:
                 label: 'Университет'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1057,7 +1057,7 @@ collections:
                 label: 'Сокращение'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1066,7 +1066,7 @@ collections:
                 label: 'Подпись меню (для незрячих)'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1075,7 +1075,7 @@ collections:
                 label: 'Пункт меню «Хроника»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1084,7 +1084,7 @@ collections:
                 label: 'Пункт меню «Выставки»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1093,7 +1093,7 @@ collections:
                 label: 'Пункт меню «Публикации»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1102,7 +1102,7 @@ collections:
                 label: 'Пункт меню «О Центре»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1111,7 +1111,7 @@ collections:
                 label: 'Пункт меню «Архив» (на странице сюжета)'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1120,7 +1120,7 @@ collections:
                 label: 'Кнопка «Меню» (телефон)'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1134,7 +1134,7 @@ collections:
                 label: '«Главная» (в навигации)'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1143,7 +1143,7 @@ collections:
                 label: '«На главную»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1152,7 +1152,7 @@ collections:
                 label: 'Подпись навигации «Путь» (для незрячих)'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1166,7 +1166,7 @@ collections:
                 label: 'Надпись над заголовком'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1175,7 +1175,7 @@ collections:
                 label: 'Заголовок, строка 1'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1184,7 +1184,7 @@ collections:
                 label: 'Заголовок, строка 2'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1193,7 +1193,7 @@ collections:
                 label: 'Описание'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: text, required: true }
+                  - { name: ru, label: 'Русский', widget: text, required: false }
                   - { name: en, label: 'English', widget: text, required: false }
                   - { name: fr, label: 'Français', widget: text, required: false }
                   - { name: pt, label: 'Português', widget: text, required: false }
@@ -1202,7 +1202,7 @@ collections:
                 label: 'Кнопка «Смотреть хронику»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1211,7 +1211,7 @@ collections:
                 label: 'Подпись поля номера (для незрячих)'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1220,7 +1220,7 @@ collections:
                 label: 'Подсказка в поле номера'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1229,7 +1229,7 @@ collections:
                 label: 'Подсказка в поле номера (телефон)'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1238,7 +1238,7 @@ collections:
                 label: 'Кнопка «Открыть»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1247,7 +1247,7 @@ collections:
                 label: 'Строка про QR-код (телефон)'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1261,7 +1261,7 @@ collections:
                 label: 'Заголовок, строка 1'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1270,7 +1270,7 @@ collections:
                 label: 'Заголовок, строка 2'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1279,7 +1279,7 @@ collections:
                 label: 'Пояснение (компьютер)'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: text, required: true }
+                  - { name: ru, label: 'Русский', widget: text, required: false }
                   - { name: en, label: 'English', widget: text, required: false }
                   - { name: fr, label: 'Français', widget: text, required: false }
                   - { name: pt, label: 'Português', widget: text, required: false }
@@ -1288,7 +1288,7 @@ collections:
                 label: 'Пояснение (телефон)'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1297,7 +1297,7 @@ collections:
                 label: 'Подпись вкладок годов (для незрячих)'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1306,7 +1306,7 @@ collections:
                 label: 'Подпись миниатюр (для незрячих)'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1315,7 +1315,7 @@ collections:
                 label: 'Ссылка «Открыть сюжет»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1324,7 +1324,7 @@ collections:
                 label: 'Надпись «Сюжет готовится»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1338,7 +1338,7 @@ collections:
                 label: 'Заголовок'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1347,7 +1347,7 @@ collections:
                 label: 'Пояснение'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: text, required: true }
+                  - { name: ru, label: 'Русский', widget: text, required: false }
                   - { name: en, label: 'English', widget: text, required: false }
                   - { name: fr, label: 'Français', widget: text, required: false }
                   - { name: pt, label: 'Português', widget: text, required: false }
@@ -1356,7 +1356,7 @@ collections:
                 label: 'Метка «Сейчас»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1365,7 +1365,7 @@ collections:
                 label: '«Подробнее»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1374,7 +1374,7 @@ collections:
                 label: 'Метка «ПРИМЕР»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1383,7 +1383,7 @@ collections:
                 label: '«Фотоотчёт»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1392,7 +1392,7 @@ collections:
                 label: 'Карточка: заголовок «Ваш город?»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1401,7 +1401,7 @@ collections:
                 label: 'Карточка: текст'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: text, required: true }
+                  - { name: ru, label: 'Русский', widget: text, required: false }
                   - { name: en, label: 'English', widget: text, required: false }
                   - { name: fr, label: 'Français', widget: text, required: false }
                   - { name: pt, label: 'Português', widget: text, required: false }
@@ -1410,7 +1410,7 @@ collections:
                 label: 'Кнопка «Провести выставку у себя»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1419,7 +1419,7 @@ collections:
                 label: 'Метка «Для партнёров»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1433,7 +1433,7 @@ collections:
                 label: 'Надпись над заголовком'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1442,7 +1442,7 @@ collections:
                 label: 'Заголовок'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1451,7 +1451,7 @@ collections:
                 label: 'Пояснение'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: text, required: true }
+                  - { name: ru, label: 'Русский', widget: text, required: false }
                   - { name: en, label: 'English', widget: text, required: false }
                   - { name: fr, label: 'Français', widget: text, required: false }
                   - { name: pt, label: 'Português', widget: text, required: false }
@@ -1460,7 +1460,7 @@ collections:
                 label: 'Кнопка «Читать PDF»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1469,7 +1469,7 @@ collections:
                 label: 'Кнопка «Все публикации»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1478,7 +1478,7 @@ collections:
                 label: 'Кнопка «Добавить статью»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1487,7 +1487,7 @@ collections:
                 label: 'Регион «Западная Африка»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1496,7 +1496,7 @@ collections:
                 label: 'Регион «Восточная Африка»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1510,7 +1510,7 @@ collections:
                 label: 'Заголовок'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1519,7 +1519,7 @@ collections:
                 label: 'Текст о Центре'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: text, required: true }
+                  - { name: ru, label: 'Русский', widget: text, required: false }
                   - { name: en, label: 'English', widget: text, required: false }
                   - { name: fr, label: 'Français', widget: text, required: false }
                   - { name: pt, label: 'Português', widget: text, required: false }
@@ -1528,7 +1528,7 @@ collections:
                 label: 'Метка «Почта»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1537,7 +1537,7 @@ collections:
                 label: 'Адрес почты (одинаковый во всех языках)'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1546,7 +1546,7 @@ collections:
                 label: 'Метка «Телефон»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1555,7 +1555,7 @@ collections:
                 label: 'Телефон'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1564,7 +1564,7 @@ collections:
                 label: 'Метка «Адрес»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1573,7 +1573,7 @@ collections:
                 label: 'Адрес'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1587,7 +1587,7 @@ collections:
                 label: 'Копирайт'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1596,7 +1596,7 @@ collections:
                 label: 'Строка об источниках фото (компьютер)'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: text, required: true }
+                  - { name: ru, label: 'Русский', widget: text, required: false }
                   - { name: en, label: 'English', widget: text, required: false }
                   - { name: fr, label: 'Français', widget: text, required: false }
                   - { name: pt, label: 'Português', widget: text, required: false }
@@ -1605,7 +1605,7 @@ collections:
                 label: 'Строка об источниках фото (телефон)'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1614,7 +1614,7 @@ collections:
                 label: 'Заголовок списка «Источники фотографий»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1628,7 +1628,7 @@ collections:
                 label: '«СЮЖЕТ» в навигации'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1637,7 +1637,7 @@ collections:
                 label: '«МАТЕРИАЛОВ»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1646,7 +1646,7 @@ collections:
                 label: '«~{n} МИН ЧТЕНИЯ» ({n} — число)'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1655,7 +1655,7 @@ collections:
                 label: '«ОБНОВЛЕНО [ДАТА]»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1664,7 +1664,7 @@ collections:
                 label: '«ПАСПОРТ СЮЖЕТА»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1673,7 +1673,7 @@ collections:
                 label: '«ТЕМЫ»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1682,7 +1682,7 @@ collections:
                 label: 'Кнопка «Смотреть материалы»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1691,7 +1691,7 @@ collections:
                 label: 'Кнопка «Скачать для исследования»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1700,7 +1700,7 @@ collections:
                 label: '«Открыть фото крупно» (для незрячих)'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1709,7 +1709,7 @@ collections:
                 label: 'Заголовок «Хронология»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1718,7 +1718,7 @@ collections:
                 label: 'Заголовок «Материалы сюжета»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1727,7 +1727,7 @@ collections:
                 label: '«Тип материала» (для незрячих)'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1736,7 +1736,7 @@ collections:
                 label: 'Фильтр «Все»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1745,7 +1745,7 @@ collections:
                 label: 'Фильтр «Фото»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1754,7 +1754,7 @@ collections:
                 label: 'Фильтр «Документы»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1763,7 +1763,7 @@ collections:
                 label: 'Фильтр «Пресса»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1772,7 +1772,7 @@ collections:
                 label: '«[скан из архива Центра]»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1781,7 +1781,7 @@ collections:
                 label: 'Заголовок «Две оптики»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1790,7 +1790,7 @@ collections:
                 label: 'Заголовок «Другие сюжеты»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1799,7 +1799,7 @@ collections:
                 label: '«Просмотр материала» (для незрячих)'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1808,7 +1808,7 @@ collections:
                 label: '«Закрыть»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1817,7 +1817,7 @@ collections:
                 label: '«Предыдущий»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1826,7 +1826,7 @@ collections:
                 label: '«Следующий»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1835,7 +1835,7 @@ collections:
                 label: '«ДАТА»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1844,7 +1844,7 @@ collections:
                 label: '«ШИФР»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1853,7 +1853,7 @@ collections:
                 label: '«ИСТОЧНИК»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1862,7 +1862,7 @@ collections:
                 label: 'Метка «ФОТО»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1871,7 +1871,7 @@ collections:
                 label: 'Метка «ДОКУМЕНТ»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1880,7 +1880,7 @@ collections:
                 label: 'Метка «ПРЕССА»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1889,7 +1889,7 @@ collections:
                 label: '«[пример]» после шифра'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1898,7 +1898,7 @@ collections:
                 label: '«[шифр]»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1907,7 +1907,7 @@ collections:
                 label: '«СОВРЕМЕННОЕ ФОТО»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1916,7 +1916,7 @@ collections:
                 label: 'Строка в подвале'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1925,7 +1925,7 @@ collections:
                 label: '«Сюжет не найден»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1939,7 +1939,7 @@ collections:
                 label: '«ЭКСПОНАТ»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1948,7 +1948,7 @@ collections:
                 label: 'Штамп «АРХИВ ЦПА» на фото'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1957,7 +1957,7 @@ collections:
                 label: '«МЕСТО»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1966,7 +1966,7 @@ collections:
                 label: '«ДАТА»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1975,7 +1975,7 @@ collections:
                 label: '«АВТОР»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1984,7 +1984,7 @@ collections:
                 label: '«ИСТОЧНИК»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -1993,7 +1993,7 @@ collections:
                 label: 'Кнопка «Слушать историю»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -2002,7 +2002,7 @@ collections:
                 label: '«Две оптики» (для незрячих)'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -2011,7 +2011,7 @@ collections:
                 label: '«ДВЕ ОПТИКИ · КАК ОБ ЭТОМ ПИСАЛИ»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -2020,7 +2020,7 @@ collections:
                 label: 'Заголовок «Рядом на выставке»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -2029,7 +2029,7 @@ collections:
                 label: '«Экспонаты» (для незрячих)'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -2038,7 +2038,7 @@ collections:
                 label: '«НАЗАД»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -2047,7 +2047,7 @@ collections:
                 label: '«ДАЛЕЕ»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -2056,7 +2056,7 @@ collections:
                 label: 'Сообщение «Экспонат не найден»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: text, required: true }
+                  - { name: ru, label: 'Русский', widget: text, required: false }
                   - { name: en, label: 'English', widget: text, required: false }
                   - { name: fr, label: 'Français', widget: text, required: false }
                   - { name: pt, label: 'Português', widget: text, required: false }
@@ -2070,7 +2070,7 @@ collections:
                 label: '«ВЫСТАВКА»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -2079,7 +2079,7 @@ collections:
                 label: '«СЕЙЧАС»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -2088,7 +2088,7 @@ collections:
                 label: '«ДАТЫ»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -2097,7 +2097,7 @@ collections:
                 label: '«АДРЕС»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -2106,7 +2106,7 @@ collections:
                 label: '«ЧАСЫ»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -2115,7 +2115,7 @@ collections:
                 label: '«ВХОД»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -2124,7 +2124,7 @@ collections:
                 label: 'Заголовок «О выставке»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -2133,7 +2133,7 @@ collections:
                 label: 'Общий текст о выставке'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: text, required: true }
+                  - { name: ru, label: 'Русский', widget: text, required: false }
                   - { name: en, label: 'English', widget: text, required: false }
                   - { name: fr, label: 'Français', widget: text, required: false }
                   - { name: pt, label: 'Português', widget: text, required: false }
@@ -2142,7 +2142,7 @@ collections:
                 label: 'Заголовок «Разделы выставки»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -2151,7 +2151,7 @@ collections:
                 label: 'Пояснение к разделам'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: text, required: true }
+                  - { name: ru, label: 'Русский', widget: text, required: false }
                   - { name: en, label: 'English', widget: text, required: false }
                   - { name: fr, label: 'Français', widget: text, required: false }
                   - { name: pt, label: 'Português', widget: text, required: false }
@@ -2160,7 +2160,7 @@ collections:
                 label: '«РАЗДЕЛ»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -2169,7 +2169,7 @@ collections:
                 label: '«Открыть сюжет»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -2178,7 +2178,7 @@ collections:
                 label: 'Заголовок «Фоторепортаж»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -2187,7 +2187,7 @@ collections:
                 label: '«Предыдущее фото»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -2196,7 +2196,7 @@ collections:
                 label: '«Следующее фото»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -2205,7 +2205,7 @@ collections:
                 label: 'Заголовок «Партнёры»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -2214,7 +2214,7 @@ collections:
                 label: 'Заголовок «Пресса»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -2223,7 +2223,7 @@ collections:
                 label: 'Заголовок «Другие выставки»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -2232,7 +2232,7 @@ collections:
                 label: 'Строка в подвале'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -2241,7 +2241,7 @@ collections:
                 label: '«Выставка не найдена»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -2265,7 +2265,7 @@ collections:
                 label: 'Заголовок'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -2274,7 +2274,7 @@ collections:
                 label: 'Подзаголовок'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: text, required: true }
+                  - { name: ru, label: 'Русский', widget: text, required: false }
                   - { name: en, label: 'English', widget: text, required: false }
                   - { name: fr, label: 'Français', widget: text, required: false }
                   - { name: pt, label: 'Português', widget: text, required: false }
@@ -2283,7 +2283,7 @@ collections:
                 label: '«публикации»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -2292,7 +2292,7 @@ collections:
                 label: '«автор»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -2301,7 +2301,7 @@ collections:
                 label: '«журнала»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -2310,7 +2310,7 @@ collections:
                 label: '«Регион» (для незрячих)'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -2319,7 +2319,7 @@ collections:
                 label: 'Фильтр «Все»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -2328,7 +2328,7 @@ collections:
                 label: '«с.» (страницы)'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -2337,7 +2337,7 @@ collections:
                 label: 'Кнопка «Аннотация»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -2346,7 +2346,7 @@ collections:
                 label: 'Кнопка «Скрыть аннотацию»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -2355,7 +2355,7 @@ collections:
                 label: '«АННОТАЦИЯ»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -2374,7 +2374,7 @@ collections:
                 label: 'Кнопка «PDF»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -2383,7 +2383,7 @@ collections:
                 label: 'Кнопка «КиберЛенинка»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -2392,7 +2392,7 @@ collections:
                 label: '«КАК ЦИТИРОВАТЬ»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -2401,7 +2401,7 @@ collections:
                 label: '«АВТОРЫ ЦЕНТРА»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -2410,7 +2410,7 @@ collections:
                 label: '«публикации» (в карточке автора)'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -2419,7 +2419,7 @@ collections:
                 label: 'Карточка «Вы учёный Центра?»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -2428,7 +2428,7 @@ collections:
                 label: 'Текст карточки'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: text, required: true }
+                  - { name: ru, label: 'Русский', widget: text, required: false }
                   - { name: en, label: 'English', widget: text, required: false }
                   - { name: fr, label: 'Français', widget: text, required: false }
                   - { name: pt, label: 'Português', widget: text, required: false }
@@ -2437,7 +2437,7 @@ collections:
                 label: '«Добавить статью»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -2446,7 +2446,7 @@ collections:
                 label: 'Форма: надпись над заголовком'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -2455,7 +2455,7 @@ collections:
                 label: 'Форма: заголовок'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -2464,7 +2464,7 @@ collections:
                 label: 'Форма: пояснение'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: text, required: true }
+                  - { name: ru, label: 'Русский', widget: text, required: false }
                   - { name: en, label: 'English', widget: text, required: false }
                   - { name: fr, label: 'Français', widget: text, required: false }
                   - { name: pt, label: 'Português', widget: text, required: false }
@@ -2473,7 +2473,7 @@ collections:
                 label: 'Шаг 1'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -2482,7 +2482,7 @@ collections:
                 label: 'Шаг 2'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -2491,7 +2491,7 @@ collections:
                 label: 'Шаг 3'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -2500,7 +2500,7 @@ collections:
                 label: 'Поле «АВТОР»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -2509,7 +2509,7 @@ collections:
                 label: 'Подсказка в поле автора'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -2518,7 +2518,7 @@ collections:
                 label: 'Поле «ГОД»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -2527,7 +2527,7 @@ collections:
                 label: 'Поле «НАЗВАНИЕ»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -2536,7 +2536,7 @@ collections:
                 label: 'Подсказка в поле названия'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -2545,7 +2545,7 @@ collections:
                 label: 'Поле «ЖУРНАЛ»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -2554,7 +2554,7 @@ collections:
                 label: 'Подсказка в поле журнала'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -2563,7 +2563,7 @@ collections:
                 label: 'Поле «DOI»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -2572,7 +2572,7 @@ collections:
                 label: 'Поле «АННОТАЦИЯ»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -2581,7 +2581,7 @@ collections:
                 label: 'Подсказка в поле аннотации'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -2590,7 +2590,7 @@ collections:
                 label: 'Поле «ССЫЛКА НА PDF»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -2599,7 +2599,7 @@ collections:
                 label: 'Галочка «Статья в открытом доступе…»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: text, required: true }
+                  - { name: ru, label: 'Русский', widget: text, required: false }
                   - { name: en, label: 'English', widget: text, required: false }
                   - { name: fr, label: 'Français', widget: text, required: false }
                   - { name: pt, label: 'Português', widget: text, required: false }
@@ -2608,7 +2608,7 @@ collections:
                 label: 'Кнопка «Отправить на проверку»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -2617,7 +2617,7 @@ collections:
                 label: 'Пояснение под кнопкой'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: text, required: true }
+                  - { name: ru, label: 'Русский', widget: text, required: false }
                   - { name: en, label: 'English', widget: text, required: false }
                   - { name: fr, label: 'Français', widget: text, required: false }
                   - { name: pt, label: 'Português', widget: text, required: false }
@@ -2626,7 +2626,7 @@ collections:
                 label: 'Сообщение «Адрес для заявок не указан»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: text, required: true }
+                  - { name: ru, label: 'Русский', widget: text, required: false }
                   - { name: en, label: 'English', widget: text, required: false }
                   - { name: fr, label: 'Français', widget: text, required: false }
                   - { name: pt, label: 'Português', widget: text, required: false }
@@ -2635,7 +2635,7 @@ collections:
                 label: 'Сообщение «Заполните поля»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: text, required: true }
+                  - { name: ru, label: 'Русский', widget: text, required: false }
                   - { name: en, label: 'English', widget: text, required: false }
                   - { name: fr, label: 'Français', widget: text, required: false }
                   - { name: pt, label: 'Português', widget: text, required: false }
@@ -2644,7 +2644,7 @@ collections:
                 label: 'Сообщение после отправки'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: text, required: true }
+                  - { name: ru, label: 'Русский', widget: text, required: false }
                   - { name: en, label: 'English', widget: text, required: false }
                   - { name: fr, label: 'Français', widget: text, required: false }
                   - { name: pt, label: 'Português', widget: text, required: false }
@@ -2653,7 +2653,7 @@ collections:
                 label: 'Тема письма'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -2662,7 +2662,7 @@ collections:
                 label: 'Строка в подвале'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -2676,7 +2676,7 @@ collections:
                 label: 'Сообщение «Раздел появится на следующем этапе»'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: text, required: true }
+                  - { name: ru, label: 'Русский', widget: text, required: false }
                   - { name: en, label: 'English', widget: text, required: false }
                   - { name: fr, label: 'Français', widget: text, required: false }
                   - { name: pt, label: 'Português', widget: text, required: false }
@@ -2703,7 +2703,7 @@ collections:
                 hint: 'Например: Paul Weinberg · CC BY-SA 3.0'
                 widget: object
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
