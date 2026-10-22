@@ -56,19 +56,42 @@
       "pt": "Sobre o Centro",
       "sw": "Kuhusu Kituo"
     },
-    "menu": {
-      "ru": "Меню",
-      "en": "Menu",
-      "fr": "Menu",
-      "pt": "Menu",
-      "sw": "Menyu"
-    },
     "navArch": {
       "ru": "Архив",
       "en": "Archive",
       "fr": "Archives",
       "pt": "Arquivo",
       "sw": "Kumbukumbu"
+    },
+    "menu": {
+      "ru": "Меню",
+      "en": "Menu",
+      "fr": "Menu",
+      "pt": "Menu",
+      "sw": "Menyu"
+    }
+  },
+  "common": {
+    "home": {
+      "ru": "Главная",
+      "en": "Home",
+      "fr": "Accueil",
+      "pt": "Início",
+      "sw": "Mwanzo"
+    },
+    "toHome": {
+      "ru": "На главную",
+      "en": "Home",
+      "fr": "Accueil",
+      "pt": "Início",
+      "sw": "Mwanzo"
+    },
+    "breadcrumb": {
+      "ru": "Путь",
+      "en": "Breadcrumb",
+      "fr": "Fil d’Ariane",
+      "pt": "Navegação",
+      "sw": "Njia"
     }
   },
   "hero": {
@@ -340,11 +363,11 @@
       "sw": "Kuhusu Kituo"
     },
     "aboutText": {
-      "ru": "Центр прикладной африканистики РГГУ — [2–3 предложения: с какого года работает, чем занимается, какие выставки и исследования уже сделаны].",
-      "en": "The Center for Applied African Studies at RSUH — [2–3 sentences: when it was founded, what it does, which exhibitions and research it has done].",
-      "fr": "Le Centre d’études africaines appliquées de la RGGU — [2–3 phrases : date de création, activités, expositions et recherches réalisées].",
-      "pt": "O Centro de Estudos Africanos Aplicados da RGGU — [2–3 frases: quando foi criado, o que faz, que exposições e investigações já realizou].",
-      "sw": "Kituo cha Taaluma za Afrika kwa Vitendo cha RGGU — [sentensi 2–3: kilianzishwa lini, kinafanya nini, maonyesho na tafiti zipi zimefanyika]."
+      "ru": "Центр прикладной африканистики РГГУ — это междисциплинарное учебно-научное подразделение, имеющее своей целью реализацию прикладных проектов, связанных с вопросами развития африканских стран и российско-африканского сотрудничества в образовательной и гуманитарной сферах.",
+      "en": "The RSUH Centre for Applied African Studies is an interdisciplinary educational and research unit aimed at implementing applied projects related to the development of African countries and Russian‑African cooperation in the educational and humanitarian spheres.",
+      "fr": "Le Centre d’africanistique appliquée de l’RSUH est une unité éducative et scientifique interdisciplinaire dont l’objectif est de mettre en œuvre des projets appliqués liés au développement des pays africains et à la coopération russo‑africaine dans les domaines éducatif et humanitaire.",
+      "pt": "O Centro de Africanística Aplicada da RSUH é uma unidade educacional e científica interdisciplinar cujo objetivo é implementar projetos aplicados relacionados ao desenvolvimento dos países africanos e à cooperação russo‑africana nas esferas educacional e humanitária.",
+      "sw": "Kitengo cha Africanistika ya Matumizi ya RSUH ni kitengo cha elimu na utafiti wa sehemu mbili (na zaidi) ambacho inakusudi kuteja projekti za matumizi ya hali ya kawaida zinazohusiana na kuendelea ya nchi za Afrika na ushirikiano wa Urusi na Afrika katika maeneo ya elimu na ya kujenga maisha."
     },
     "lEmail": {
       "ru": "ПОЧТА",
@@ -417,38 +440,6 @@
       "fr": "Crédits photo",
       "pt": "Créditos das fotos",
       "sw": "Vyanzo vya picha"
-    }
-  },
-  "system": {
-    "soonNotice": {
-      "ru": "Этот раздел появится на следующем этапе работы над сайтом.",
-      "en": "This section will be added at the next stage of the website.",
-      "fr": "Cette rubrique sera ajoutée lors de la prochaine étape du site.",
-      "pt": "Esta secção será acrescentada na próxima fase do site.",
-      "sw": "Sehemu hii itaongezwa katika hatua inayofuata ya tovuti."
-    }
-  },
-  "common": {
-    "home": {
-      "ru": "Главная",
-      "en": "Home",
-      "fr": "Accueil",
-      "pt": "Início",
-      "sw": "Mwanzo"
-    },
-    "toHome": {
-      "ru": "На главную",
-      "en": "Home",
-      "fr": "Accueil",
-      "pt": "Início",
-      "sw": "Mwanzo"
-    },
-    "breadcrumb": {
-      "ru": "Путь",
-      "en": "Breadcrumb",
-      "fr": "Fil d’Ariane",
-      "pt": "Navegação",
-      "sw": "Njia"
     }
   },
   "story": {
@@ -934,6 +925,13 @@
     }
   },
   "pubpage": {
+    "submitEmail": {
+      "ru": "",
+      "en": "",
+      "fr": "",
+      "pt": "",
+      "sw": ""
+    },
     "h1": {
       "ru": "Публикации учёных Центра",
       "en": "Publications by the Center’s scholars",
@@ -947,6 +945,27 @@
       "fr": "Articles des membres du Centre d’études africaines appliquées : histoire du colonialisme et de la décolonisation, conflits et politique en Afrique aujourd’hui.",
       "pt": "Artigos dos membros do Centro de Estudos Africanos Aplicados: história do colonialismo e da descolonização, conflitos e política atuais em África.",
       "sw": "Makala za wanachama wa Kituo cha Taaluma za Afrika kwa Vitendo: historia ya ukoloni na kuondoa ukoloni, migogoro na siasa za sasa barani Afrika."
+    },
+    "stPubs": {
+      "ru": "публикации",
+      "en": "publications",
+      "fr": "publications",
+      "pt": "publicações",
+      "sw": "machapisho"
+    },
+    "stAuthors": {
+      "ru": "автор",
+      "en": "author",
+      "fr": "auteur",
+      "pt": "autor",
+      "sw": "mwandishi"
+    },
+    "stJournals": {
+      "ru": "журнала",
+      "en": "journals",
+      "fr": "revues",
+      "pt": "revistas",
+      "sw": "majarida"
     },
     "filterLabel": {
       "ru": "Регион",
@@ -993,9 +1012,9 @@
     "absNote": {
       "ru": "",
       "en": "",
-      "fr": " · ARTICLE EN RUSSE, RÉSUMÉ DE L’AUTEUR EN ANGLAIS",
-      "pt": " · ARTIGO EM RUSSO, RESUMO DO AUTOR EM INGLÊS",
-      "sw": " · MAKALA KWA KIRUSI, MUHTASARI WA MWANDISHI KWA KIINGEREZA"
+      "fr": "· ARTICLE EN RUSSE, RÉSUMÉ DE L’AUTEUR EN ANGLAIS",
+      "pt": "· ARTIGO EM RUSSO, RESUMO DO AUTOR EM INGLÊS",
+      "sw": "· MAKALA KWA KIRUSI, MUHTASARI WA MWANDISHI KWA KIINGEREZA"
     },
     "pdf": {
       "ru": "PDF",
@@ -1074,6 +1093,27 @@
       "pt": "Carregue um artigo publicado em acesso aberto. Um moderador do Centro verificará os dados e publicá-lo-á na biblioteca.",
       "sw": "Pakia makala iliyochapishwa wazi kwa umma. Msimamizi wa Kituo atakagua taarifa na kuichapisha kwenye maktaba."
     },
+    "step1": {
+      "ru": "Заполните данные статьи и прикрепите PDF",
+      "en": "Fill in the article details and attach the PDF",
+      "fr": "Renseignez l’article et joignez le PDF",
+      "pt": "Preencha os dados do artigo e anexe o PDF",
+      "sw": "Jaza taarifa za makala na uambatishe PDF"
+    },
+    "step2": {
+      "ru": "Модератор Центра проверит публикацию",
+      "en": "A Center moderator reviews the publication",
+      "fr": "Un modérateur du Centre vérifie la publication",
+      "pt": "Um moderador do Centro verifica a publicação",
+      "sw": "Msimamizi wa Kituo anakagua chapisho"
+    },
+    "step3": {
+      "ru": "Статья появится в списке и на главной",
+      "en": "The article appears in the list and on the home page",
+      "fr": "L’article apparaît dans la liste et sur l’accueil",
+      "pt": "O artigo aparece na lista e na página inicial",
+      "sw": "Makala inaonekana kwenye orodha na ukurasa mkuu"
+    },
     "fAuthor": {
       "ru": "АВТОР",
       "en": "AUTHOR",
@@ -1144,6 +1184,13 @@
       "pt": "Algumas frases sobre o artigo",
       "sw": "Sentensi chache kuhusu makala"
     },
+    "fLink": {
+      "ru": "ССЫЛКА НА PDF ИЛИ КИБЕРЛЕНИНКУ",
+      "en": "LINK TO THE PDF OR CYBERLENINKA",
+      "fr": "LIEN VERS LE PDF OU CYBERLENINKA",
+      "pt": "LIGAÇÃO PARA O PDF OU CYBERLENINKA",
+      "sw": "KIUNGO CHA PDF AU CYBERLENINKA"
+    },
     "fAgree": {
       "ru": "Статья находится в открытом доступе, и я её автор или соавтор",
       "en": "The article is open access and I am its author or co-author",
@@ -1157,62 +1204,6 @@
       "fr": "Envoyer pour vérification",
       "pt": "Enviar para verificação",
       "sw": "Tuma kwa ukaguzi"
-    },
-    "credits": {
-      "ru": "Статьи: КиберЛенинка, открытый доступ",
-      "en": "Articles: CyberLeninka, open access",
-      "fr": "Articles : CyberLeninka, libre accès",
-      "pt": "Artigos: CyberLeninka, acesso aberto",
-      "sw": "Makala: CyberLeninka, wazi kwa umma"
-    },
-    "stPubs": {
-      "ru": "публикации",
-      "en": "publications",
-      "fr": "publications",
-      "pt": "publicações",
-      "sw": "machapisho"
-    },
-    "stAuthors": {
-      "ru": "автор",
-      "en": "author",
-      "fr": "auteur",
-      "pt": "autor",
-      "sw": "mwandishi"
-    },
-    "stJournals": {
-      "ru": "журнала",
-      "en": "journals",
-      "fr": "revues",
-      "pt": "revistas",
-      "sw": "majarida"
-    },
-    "step1": {
-      "ru": "Заполните данные статьи и прикрепите PDF",
-      "en": "Fill in the article details and attach the PDF",
-      "fr": "Renseignez l’article et joignez le PDF",
-      "pt": "Preencha os dados do artigo e anexe o PDF",
-      "sw": "Jaza taarifa za makala na uambatishe PDF"
-    },
-    "step2": {
-      "ru": "Модератор Центра проверит публикацию",
-      "en": "A Center moderator reviews the publication",
-      "fr": "Un modérateur du Centre vérifie la publication",
-      "pt": "Um moderador do Centro verifica a publicação",
-      "sw": "Msimamizi wa Kituo anakagua chapisho"
-    },
-    "step3": {
-      "ru": "Статья появится в списке и на главной",
-      "en": "The article appears in the list and on the home page",
-      "fr": "L’article apparaît dans la liste et sur l’accueil",
-      "pt": "O artigo aparece na lista e na página inicial",
-      "sw": "Makala inaonekana kwenye orodha na ukurasa mkuu"
-    },
-    "fLink": {
-      "ru": "ССЫЛКА НА PDF ИЛИ КИБЕРЛЕНИНКУ",
-      "en": "LINK TO THE PDF OR CYBERLENINKA",
-      "fr": "LIEN VERS LE PDF OU CYBERLENINKA",
-      "pt": "LIGAÇÃO PARA O PDF OU CYBERLENINKA",
-      "sw": "KIUNGO CHA PDF AU CYBERLENINKA"
     },
     "mailNote": {
       "ru": "По кнопке откроется ваша почта с готовым письмом. Файл PDF можно приложить к нему.",
@@ -1228,19 +1219,19 @@
       "pt": "O endereço para envio ainda não foi indicado — o formulário funcionará em breve.",
       "sw": "Anwani ya kupokea maombi bado haijawekwa — fomu itafanya kazi hivi karibuni."
     },
-    "sentMsg": {
-      "ru": "Письмо подготовлено в вашей почте. Отправьте его — после проверки статья появится в библиотеке.",
-      "en": "The message is ready in your email app. Send it, and after review the article will appear in the library.",
-      "fr": "Le message est prêt dans votre messagerie. Envoyez-le : après vérification, l’article apparaîtra dans la bibliothèque.",
-      "pt": "A mensagem está pronta no seu e-mail. Envie-a: depois da verificação, o artigo aparecerá na biblioteca.",
-      "sw": "Ujumbe uko tayari kwenye barua pepe yako. Utume, na baada ya ukaguzi makala itaonekana kwenye maktaba."
-    },
     "needAgree": {
       "ru": "Заполните автора и название и подтвердите, что статья в открытом доступе.",
       "en": "Please fill in the author and title and confirm that the article is open access.",
       "fr": "Indiquez l’auteur et le titre et confirmez que l’article est en libre accès.",
       "pt": "Preencha o autor e o título e confirme que o artigo está em acesso aberto.",
       "sw": "Jaza mwandishi na kichwa, na uthibitishe kuwa makala iko wazi kwa umma."
+    },
+    "sentMsg": {
+      "ru": "Письмо подготовлено в вашей почте. Отправьте его — после проверки статья появится в библиотеке.",
+      "en": "The message is ready in your email app. Send it, and after review the article will appear in the library.",
+      "fr": "Le message est prêt dans votre messagerie. Envoyez-le : après vérification, l’article apparaîtra dans la bibliothèque.",
+      "pt": "A mensagem está pronta no seu e-mail. Envie-a: depois da verificação, o artigo aparecerá na biblioteca.",
+      "sw": "Ujumbe uko tayari kwenye barua pepe yako. Utume, na baada ya ukaguzi makala itaonekana kwenye maktaba."
     },
     "mailSubject": {
       "ru": "Новая публикация для библиотеки ЦПА",
@@ -1249,12 +1240,21 @@
       "pt": "Nova publicação para a biblioteca do CEAA",
       "sw": "Chapisho jipya kwa maktaba ya KTA"
     },
-    "submitEmail": {
-      "ru": "",
-      "en": "",
-      "fr": "",
-      "pt": "",
-      "sw": ""
+    "credits": {
+      "ru": "Статьи: КиберЛенинка, открытый доступ",
+      "en": "Articles: CyberLeninka, open access",
+      "fr": "Articles : CyberLeninka, libre accès",
+      "pt": "Artigos: CyberLeninka, acesso aberto",
+      "sw": "Makala: CyberLeninka, wazi kwa umma"
+    }
+  },
+  "system": {
+    "soonNotice": {
+      "ru": "Этот раздел появится на следующем этапе работы над сайтом.",
+      "en": "This section will be added at the next stage of the website.",
+      "fr": "Cette rubrique sera ajoutée lors de la prochaine étape du site.",
+      "pt": "Esta secção será acrescentada na próxima fase do site.",
+      "sw": "Sehemu hii itaongezwa katika hatua inayofuata ya tovuti."
     }
   }
 }
