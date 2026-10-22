@@ -182,11 +182,11 @@
       "sw": "uhuru"
     },
     "tlHint": {
-      "ru": "Выберите год. Каждая дата открывает раздел с фотографиями и документами из архива Центра.",
-      "en": "Choose a year. Each date opens a section with photographs and documents from the Center’s archive.",
-      "fr": "Choisissez une année. Chaque date ouvre une section avec des photos et des documents des archives du Centre.",
-      "pt": "Escolha um ano. Cada data abre uma secção com fotografias e documentos do arquivo do Centro.",
-      "sw": "Chagua mwaka. Kila tarehe inafungua sehemu yenye picha na nyaraka kutoka kumbukumbu za Kituo."
+      "ru": "",
+      "en": "",
+      "fr": "",
+      "pt": "",
+      "sw": ""
     },
     "swipe": {
       "ru": "Листайте годы вбок и выбирайте дату.",
