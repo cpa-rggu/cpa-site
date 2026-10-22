@@ -405,11 +405,11 @@
       "sw": "ANWANI"
     },
     "vAddr": {
-      "ru": "[адрес Центра в РГГУ]",
-      "en": "[Center address at RSUH]",
-      "fr": "[adresse du Centre à la RGGU]",
-      "pt": "[morada do Centro na RGGU]",
-      "sw": "[anwani ya Kituo, RGGU]"
+      "ru": "Москва, Миусская пл., д.6, к.3, каб. 404",
+      "en": "Moscow, Miusskaya Square, 6, building 3, office 404.",
+      "fr": "Moscou, place Miousskaïa, 6, bâtiment 3, bureau 404.",
+      "pt": "Moscovo, Praça Miusskaya, 6, prédio 3, escritório 404.",
+      "sw": "Mosko, nafasi ya Miusskaya, nyumba 6, jengo 3, ofisi 404."
     }
   },
   "footer": {
