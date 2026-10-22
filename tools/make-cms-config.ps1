@@ -18,17 +18,19 @@ function Q([string]$s) { "'" + $s.Replace("'", "''") + "'" }
 $LANGS = @(('ru', 'Русский'), ('en', 'English'), ('fr', 'Français'), ('pt', 'Português'), ('sw', 'Kiswahili'))
 
 # Поле на 5 языках: группа с подполями ru/en/fr/pt/sw. Обязателен только русский.
-function Tr([int]$ind, [string]$name, [string]$label, [string]$widget = 'string', [string]$hint = '', [string[]]$only = $null) {
+# $optional — поле может быть пустым и по-русски (например, пометка только для других языков)
+function Tr([int]$ind, [string]$name, [string]$label, [string]$widget = 'string', [string]$hint = '', [string[]]$only = $null, [bool]$optional = $false) {
   $p = ' ' * $ind
   if (-not $only) { $only = $LANGS | % { $_[0] } }
   W "$p- name: $name"
   W "$p  label: $(Q $label)"
   if ($hint) { W "$p  hint: $(Q $hint)" }
   W "$p  widget: object"
+  if ($optional) { W "$p  required: false" }
   W "$p  fields:"
   foreach ($l in $LANGS) {
     if ($only -notcontains $l[0]) { continue }
-    $req = if ($l[0] -eq 'ru') { 'true' } else { 'false' }
+    $req = if ($l[0] -eq 'ru' -and -not $optional) { 'true' } else { 'false' }
     W "$p    - { name: $($l[0]), label: $(Q $l[1]), widget: $widget, required: $req }"
   }
 }
@@ -361,7 +363,7 @@ $UI = [ordered]@{
   story = @('Страница сюжета', [ordered]@{ story = '«СЮЖЕТ» в навигации'; items = '«МАТЕРИАЛОВ»'; read = '«~{n} МИН ЧТЕНИЯ» ({n} — число)'; updated = '«ОБНОВЛЕНО [ДАТА]»'; passport = '«ПАСПОРТ СЮЖЕТА»'; topics = '«ТЕМЫ»'; seeMat = 'Кнопка «Смотреть материалы»'; download = 'Кнопка «Скачать для исследования»'; zoom = '«Открыть фото крупно» (для незрячих)'; timeline = 'Заголовок «Хронология»'; matTitle = 'Заголовок «Материалы сюжета»'; filterLabel = '«Тип материала» (для незрячих)'; fAll = 'Фильтр «Все»'; fPhoto = 'Фильтр «Фото»'; fDoc = 'Фильтр «Документы»'; fPress = 'Фильтр «Пресса»'; scan = '«[скан из архива Центра]»'; optics = 'Заголовок «Две оптики»'; other = 'Заголовок «Другие сюжеты»'; viewer = '«Просмотр материала» (для незрячих)'; close = '«Закрыть»'; prev = '«Предыдущий»'; next = '«Следующий»'; lbDate = '«ДАТА»'; lbCode = '«ШИФР»'; lbSrc = '«ИСТОЧНИК»'; kPhoto = 'Метка «ФОТО»'; kDoc = 'Метка «ДОКУМЕНТ»'; kPress = 'Метка «ПРЕССА»'; sample = '«[пример]» после шифра'; ref = '«[шифр]»'; modern = '«СОВРЕМЕННОЕ ФОТО»'; credits = 'Строка в подвале'; notFound = '«Сюжет не найден»' })
   exhibit = @('Страница экспоната (QR)', [ordered]@{ word = '«ЭКСПОНАТ»'; stamp = 'Штамп «АРХИВ ЦПА» на фото'; lPlace = '«МЕСТО»'; lDate = '«ДАТА»'; lAuthor = '«АВТОР»'; lSource = '«ИСТОЧНИК»'; listen = 'Кнопка «Слушать историю»'; optics = '«Две оптики» (для незрячих)'; opticsHead = '«ДВЕ ОПТИКИ · КАК ОБ ЭТОМ ПИСАЛИ»'; near = 'Заголовок «Рядом на выставке»'; navLabel = '«Экспонаты» (для незрячих)'; prev = '«НАЗАД»'; next = '«ДАЛЕЕ»'; notFound = 'Сообщение «Экспонат не найден»|text' })
   exhibition = @('Страница выставки', [ordered]@{ word = '«ВЫСТАВКА»'; now = '«СЕЙЧАС»'; lDates = '«ДАТЫ»'; lPlace = '«АДРЕС»'; lHours = '«ЧАСЫ»'; lEntry = '«ВХОД»'; aboutH = 'Заголовок «О выставке»'; lead = 'Общий текст о выставке|text'; sectH = 'Заголовок «Разделы выставки»'; sectHint = 'Пояснение к разделам|text'; hall = '«РАЗДЕЛ»'; open = '«Открыть сюжет»'; photoH = 'Заголовок «Фоторепортаж»'; prev = '«Предыдущее фото»'; next = '«Следующее фото»'; partnersH = 'Заголовок «Партнёры»'; pressH = 'Заголовок «Пресса»'; otherH = 'Заголовок «Другие выставки»'; credits = 'Строка в подвале'; notFound = '«Выставка не найдена»' })
-  pubpage = @('Страница публикаций и форма', [ordered]@{ submitEmail = 'ПОЧТА ДЛЯ ЗАЯВОК (куда приходят письма из формы; пусто — почта Центра из «О Центре»)'; h1 = 'Заголовок'; lead = 'Подзаголовок|text'; stPubs = '«публикации»'; stAuthors = '«автор»'; stJournals = '«журнала»'; filterLabel = '«Регион» (для незрячих)'; fAll = 'Фильтр «Все»'; pages = '«с.» (страницы)'; abs = 'Кнопка «Аннотация»'; absHide = 'Кнопка «Скрыть аннотацию»'; absHead = '«АННОТАЦИЯ»'; absNote = 'Пометка для FR/PT/SW «статья на русском…»'; pdf = 'Кнопка «PDF»'; cl = 'Кнопка «КиберЛенинка»'; cite = '«КАК ЦИТИРОВАТЬ»'; authorsHead = '«АВТОРЫ ЦЕНТРА»'; count1 = '«публикации» (в карточке автора)'; addTitle = 'Карточка «Вы учёный Центра?»'; addText = 'Текст карточки|text'; addCta = '«Добавить статью»'; upKicker = 'Форма: надпись над заголовком'; upTitle = 'Форма: заголовок'; upText = 'Форма: пояснение|text'; step1 = 'Шаг 1'; step2 = 'Шаг 2'; step3 = 'Шаг 3'; fAuthor = 'Поле «АВТОР»'; phAuthor = 'Подсказка в поле автора'; fYear = 'Поле «ГОД»'; fTitle = 'Поле «НАЗВАНИЕ»'; phTitle = 'Подсказка в поле названия'; fJournal = 'Поле «ЖУРНАЛ»'; phJournal = 'Подсказка в поле журнала'; fDoi = 'Поле «DOI»'; fAbs = 'Поле «АННОТАЦИЯ»'; phAbs = 'Подсказка в поле аннотации'; fLink = 'Поле «ССЫЛКА НА PDF»'; fAgree = 'Галочка «Статья в открытом доступе…»|text'; submit = 'Кнопка «Отправить на проверку»'; mailNote = 'Пояснение под кнопкой|text'; noEmail = 'Сообщение «Адрес для заявок не указан»|text'; needAgree = 'Сообщение «Заполните поля»|text'; sentMsg = 'Сообщение после отправки|text'; mailSubject = 'Тема письма'; credits = 'Строка в подвале' })
+  pubpage = @('Страница публикаций и форма', [ordered]@{ submitEmail = 'ПОЧТА ДЛЯ ЗАЯВОК (куда приходят письма из формы; пусто — почта Центра из «О Центре»)||opt'; h1 = 'Заголовок'; lead = 'Подзаголовок|text'; stPubs = '«публикации»'; stAuthors = '«автор»'; stJournals = '«журнала»'; filterLabel = '«Регион» (для незрячих)'; fAll = 'Фильтр «Все»'; pages = '«с.» (страницы)'; abs = 'Кнопка «Аннотация»'; absHide = 'Кнопка «Скрыть аннотацию»'; absHead = '«АННОТАЦИЯ»'; absNote = 'Пометка для FR/PT/SW «статья на русском…» (по-русски пусто)||opt'; pdf = 'Кнопка «PDF»'; cl = 'Кнопка «КиберЛенинка»'; cite = '«КАК ЦИТИРОВАТЬ»'; authorsHead = '«АВТОРЫ ЦЕНТРА»'; count1 = '«публикации» (в карточке автора)'; addTitle = 'Карточка «Вы учёный Центра?»'; addText = 'Текст карточки|text'; addCta = '«Добавить статью»'; upKicker = 'Форма: надпись над заголовком'; upTitle = 'Форма: заголовок'; upText = 'Форма: пояснение|text'; step1 = 'Шаг 1'; step2 = 'Шаг 2'; step3 = 'Шаг 3'; fAuthor = 'Поле «АВТОР»'; phAuthor = 'Подсказка в поле автора'; fYear = 'Поле «ГОД»'; fTitle = 'Поле «НАЗВАНИЕ»'; phTitle = 'Подсказка в поле названия'; fJournal = 'Поле «ЖУРНАЛ»'; phJournal = 'Подсказка в поле журнала'; fDoi = 'Поле «DOI»'; fAbs = 'Поле «АННОТАЦИЯ»'; phAbs = 'Подсказка в поле аннотации'; fLink = 'Поле «ССЫЛКА НА PDF»'; fAgree = 'Галочка «Статья в открытом доступе…»|text'; submit = 'Кнопка «Отправить на проверку»'; mailNote = 'Пояснение под кнопкой|text'; noEmail = 'Сообщение «Адрес для заявок не указан»|text'; needAgree = 'Сообщение «Заполните поля»|text'; sentMsg = 'Сообщение после отправки|text'; mailSubject = 'Тема письма'; credits = 'Строка в подвале' })
   system = @('Служебные сообщения', [ordered]@{ soonNotice = 'Сообщение «Раздел появится на следующем этапе»|text' })
 }
 W '  - name: texts'
@@ -382,9 +384,11 @@ foreach ($g in $UI.Keys) {
   W '            fields:'
   $keys = $UI[$g][1]
   foreach ($k in $keys.Keys) {
+    # «Подпись|text|opt»: text — многострочное поле, opt — можно оставить пустым и по-русски
     $parts = $keys[$k].Split('|')
-    $w = if ($parts.Length -gt 1) { $parts[1] } else { 'string' }
-    Tr 14 $k $parts[0] $w
+    $w = if ($parts.Length -gt 1 -and $parts[1]) { $parts[1] } else { 'string' }
+    $opt = $parts -contains 'opt'
+    Tr 14 $k $parts[0] $w '' $null $opt
   }
 }
 

@@ -2254,8 +2254,9 @@ collections:
               - name: submitEmail
                 label: 'ПОЧТА ДЛЯ ЗАЯВОК (куда приходят письма из формы; пусто — почта Центра из «О Центре»)'
                 widget: object
+                required: false
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
@@ -2360,10 +2361,11 @@ collections:
                   - { name: pt, label: 'Português', widget: string, required: false }
                   - { name: sw, label: 'Kiswahili', widget: string, required: false }
               - name: absNote
-                label: 'Пометка для FR/PT/SW «статья на русском…»'
+                label: 'Пометка для FR/PT/SW «статья на русском…» (по-русски пусто)'
                 widget: object
+                required: false
                 fields:
-                  - { name: ru, label: 'Русский', widget: string, required: true }
+                  - { name: ru, label: 'Русский', widget: string, required: false }
                   - { name: en, label: 'English', widget: string, required: false }
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
