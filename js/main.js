@@ -174,19 +174,6 @@
     }).join('');
   }
 
-  // ---------- подвал: источники фото ----------
-  function renderCredits() {
-    var caps = {};
-    (data.chronicle.items || []).forEach(function (y) { (y.photos || []).forEach(function (p) { if (!caps[p.src]) caps[p.src] = p.caption; }); });
-    (data.orbits.orbit || []).concat(data.orbits.still || []).forEach(function (p) { if (!caps[p.src]) caps[p.src] = p.caption; });
-    var ex = data.exhibitions;
-    [ex.current].concat(ex.past || []).forEach(function (s) { if (s && !caps[s.photo]) caps[s.photo] = { ru: tx(s.venue) + ', ' + tx(s.city), en: '' }; });
-    $('[data-credits]').innerHTML = (data.credits.items || []).map(function (c) {
-      var name = tx(caps[c.src]) || c.src.split('/').pop();
-      return '<li><b>' + esc(name) + '</b> — ' + esc(tx(c.credit)) + '</li>';
-    }).join('');
-  }
-
   function render() {
     document.title = t('hero.h1a') + ' ' + t('hero.h1b') + ' — ' + t('header.org') + ' ' + t('header.uni');
     var band = (t('header.org') + ' ' + t('header.uni')).toUpperCase();
@@ -198,7 +185,6 @@
     renderStage();
     renderExhibitions();
     renderPublications();
-    renderCredits();
   }
 
   function ready() {
@@ -219,7 +205,7 @@
   }
 
   CPA.start({
-    content: ['chronicle', 'orbits', 'exhibitions', 'publications', 'credits'],
+    content: ['chronicle', 'orbits', 'exhibitions', 'publications'],
     ready: ready,
     render: render,
     breakpoint: function () { if ((CPA.MOBILE.matches ? 'm' : 'd') !== orbitMode) buildOrbits(); }

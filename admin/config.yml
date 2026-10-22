@@ -1592,33 +1592,6 @@ collections:
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
                   - { name: sw, label: 'Kiswahili', widget: string, required: false }
-              - name: credits
-                label: 'Строка об источниках фото (компьютер)'
-                widget: object
-                fields:
-                  - { name: ru, label: 'Русский', widget: text, required: false }
-                  - { name: en, label: 'English', widget: text, required: false }
-                  - { name: fr, label: 'Français', widget: text, required: false }
-                  - { name: pt, label: 'Português', widget: text, required: false }
-                  - { name: sw, label: 'Kiswahili', widget: text, required: false }
-              - name: creditsShort
-                label: 'Строка об источниках фото (телефон)'
-                widget: object
-                fields:
-                  - { name: ru, label: 'Русский', widget: string, required: false }
-                  - { name: en, label: 'English', widget: string, required: false }
-                  - { name: fr, label: 'Français', widget: string, required: false }
-                  - { name: pt, label: 'Português', widget: string, required: false }
-                  - { name: sw, label: 'Kiswahili', widget: string, required: false }
-              - name: creditsTitle
-                label: 'Заголовок списка «Источники фотографий»'
-                widget: object
-                fields:
-                  - { name: ru, label: 'Русский', widget: string, required: false }
-                  - { name: en, label: 'English', widget: string, required: false }
-                  - { name: fr, label: 'Français', widget: string, required: false }
-                  - { name: pt, label: 'Português', widget: string, required: false }
-                  - { name: sw, label: 'Kiswahili', widget: string, required: false }
           - name: story
             label: 'Страница сюжета'
             widget: object
@@ -1905,15 +1878,6 @@ collections:
                   - { name: sw, label: 'Kiswahili', widget: string, required: false }
               - name: modern
                 label: '«СОВРЕМЕННОЕ ФОТО»'
-                widget: object
-                fields:
-                  - { name: ru, label: 'Русский', widget: string, required: false }
-                  - { name: en, label: 'English', widget: string, required: false }
-                  - { name: fr, label: 'Français', widget: string, required: false }
-                  - { name: pt, label: 'Português', widget: string, required: false }
-                  - { name: sw, label: 'Kiswahili', widget: string, required: false }
-              - name: credits
-                label: 'Строка в подвале'
                 widget: object
                 fields:
                   - { name: ru, label: 'Русский', widget: string, required: false }
@@ -2221,15 +2185,6 @@ collections:
                   - { name: sw, label: 'Kiswahili', widget: string, required: false }
               - name: otherH
                 label: 'Заголовок «Другие выставки»'
-                widget: object
-                fields:
-                  - { name: ru, label: 'Русский', widget: string, required: false }
-                  - { name: en, label: 'English', widget: string, required: false }
-                  - { name: fr, label: 'Français', widget: string, required: false }
-                  - { name: pt, label: 'Português', widget: string, required: false }
-                  - { name: sw, label: 'Kiswahili', widget: string, required: false }
-              - name: credits
-                label: 'Строка в подвале'
                 widget: object
                 fields:
                   - { name: ru, label: 'Русский', widget: string, required: false }
@@ -2681,30 +2636,3 @@ collections:
                   - { name: fr, label: 'Français', widget: text, required: false }
                   - { name: pt, label: 'Português', widget: text, required: false }
                   - { name: sw, label: 'Kiswahili', widget: text, required: false }
-  - name: credits
-    label: 'Источники фото'
-    description: 'Автор и лицензия каждого фото (Wikimedia Commons и др.). Показываются в подвале сайта.'
-    format: json
-    editor: { preview: false }
-    files:
-      - name: credits
-        label: 'Источники фото'
-        file: content/credits.json
-        fields:
-          - name: items
-            label: 'Фото'
-            widget: list
-            summary: '{{fields.src}}'
-            label_singular: 'фото'
-            fields:
-              - { name: src, label: 'Фото', widget: image }
-              - name: credit
-                label: 'Автор · источник · лицензия'
-                hint: 'Например: Paul Weinberg · CC BY-SA 3.0'
-                widget: object
-                fields:
-                  - { name: ru, label: 'Русский', widget: string, required: false }
-                  - { name: en, label: 'English', widget: string, required: false }
-                  - { name: fr, label: 'Français', widget: string, required: false }
-                  - { name: pt, label: 'Português', widget: string, required: false }
-                  - { name: sw, label: 'Kiswahili', widget: string, required: false }
