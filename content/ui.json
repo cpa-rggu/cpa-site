@@ -377,11 +377,11 @@
       "sw": "BARUA PEPE"
     },
     "vEmail": {
-      "ru": "[email центра]",
-      "en": "[Center email]",
-      "fr": "[e-mail du Centre]",
-      "pt": "[e-mail do Centro]",
-      "sw": "[barua pepe ya Kituo]"
+      "ru": "zotin.an@rggu.ru",
+      "en": "zotin.an@rggu.ru",
+      "fr": "zotin.an@rggu.ru",
+      "pt": "zotin.an@rggu.ru",
+      "sw": "zotin.an@rggu.ru"
     },
     "lPhone": {
       "ru": "ТЕЛЕФОН",
@@ -391,11 +391,11 @@
       "sw": "SIMU"
     },
     "vPhone": {
-      "ru": "[телефон]",
-      "en": "[phone]",
-      "fr": "[téléphone]",
-      "pt": "[telefone]",
-      "sw": "[simu]"
+      "ru": "8 (495) 250-62-00",
+      "en": "8 (495) 250-62-00",
+      "fr": "8 (495) 250-62-00",
+      "pt": "8 (495) 250-62-00",
+      "sw": "8 (495) 250-62-00"
     },
     "lAddr": {
       "ru": "АДРЕС",
