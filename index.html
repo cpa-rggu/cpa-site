@@ -11,7 +11,7 @@
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Unbounded:wght@400;500;600;800&family=Oswald:wght@600&family=Onest:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap">
 <link rel="stylesheet" href="css/style.css">
 </head>
-<body>
+<body data-page="home">
 <!--
   Тексты на странице не пишутся здесь: их подставляет js/main.js из файлов content/*.json.
   Поэтому меняйте тексты в админке (/admin) или прямо в JSON-файлах.
@@ -26,24 +26,16 @@
         <span class="brand-uni" data-t="header.uni"></span>
       </span>
     </a>
-    <nav class="nav" data-t-aria="header.navLabel">
-      <a href="#timeline" data-t="header.navChron"></a>
-      <a href="#exhibitions" data-t="header.navExh"></a>
-      <a href="#publications" data-t="header.navPub"></a>
-      <a href="#about" data-t="header.navAbout"></a>
-    </nav>
-    <div class="langs" data-langs></div>
+    <nav class="nav" data-nav></nav>
+    <div class="lang-dd" data-lang-dd></div>
     <button type="button" class="burger" data-burger aria-expanded="false" data-t-aria="header.menu">
       <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#141414" stroke-width="2" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg>
     </button>
   </div>
-  <nav class="mobile-menu" data-mobile-menu hidden data-t-aria="header.navLabel">
-    <a href="#timeline" data-t="header.navChron"></a>
-    <a href="#exhibitions" data-t="header.navExh"></a>
-    <a href="#publications" data-t="header.navPub"></a>
-    <a href="#about" data-t="header.navAbout"></a>
+  <div class="mobile-menu" data-mobile-menu hidden>
+    <nav class="mobile-nav" data-nav></nav>
     <div class="langs langs-dark" data-langs></div>
-  </nav>
+  </div>
 </header>
 
 <main>
@@ -80,8 +72,8 @@
       <p class="section-hint hint-desktop" data-t="chronicle.tlHint"></p>
       <p class="section-hint hint-mobile" data-t="chronicle.swipe"></p>
     </div>
-    <div class="years" role="tablist" data-years data-t-aria="chronicle.yearsLabel"></div>
-    <div class="tl-stage" data-tl-stage></div>
+    <div class="years noscroll" role="tablist" data-years data-t-aria="chronicle.yearsLabel"></div>
+    <div class="tl-stage" data-tl-stage data-swipe="tl"></div>
   </div>
 </section>
 
@@ -91,7 +83,8 @@
     <p class="section-hint" data-t="exhibitions.exhHint"></p>
   </div>
   <div data-ex-now></div>
-  <div class="ex-grid" data-ex-grid></div>
+  <span class="swipe-hint"><span data-t="common.swipe"></span> →</span>
+  <div class="ex-grid noscroll" data-ex-grid></div>
   <a href="#about" class="host-card host-mobile" data-host-link>
     <span class="host-title" data-t="exhibitions.hostTitle"></span>
     <span class="host-text" data-t="exhibitions.hostText"></span>

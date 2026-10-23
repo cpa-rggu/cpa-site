@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Магистерская программа — Африка. Путь к независимости</title>
+<link rel="icon" type="image/png" href="assets/logo_dark__fc87e939.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Unbounded:wght@400;500;600;800&family=Oswald:wght@600&family=Onest:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap">
+<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="css/pages.css">
+</head>
+<body class="page-master" data-page="master">
+<!-- Магистерская программа. Тексты — content/master.json (раздел «Магистратура» в админке), надписи — content/ui.json → masterpage. -->
+
+<header class="site-header">
+  <div class="wrap header-row">
+    <a href="index.html" class="brand">
+      <span class="logo" data-logo></span>
+      <span class="brand-text">
+        <span class="brand-org" data-t="header.org"></span>
+        <span class="brand-uni" data-t="header.uni"></span>
+      </span>
+    </a>
+    <nav class="nav" data-nav></nav>
+    <div class="lang-dd" data-lang-dd></div>
+    <button type="button" class="burger" data-burger aria-expanded="false" data-t-aria="header.menu">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#141414" stroke-width="2" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg>
+    </button>
+  </div>
+  <div class="mobile-menu" data-mobile-menu hidden>
+    <nav class="mobile-nav" data-nav></nav>
+    <div class="langs langs-dark" data-langs></div>
+  </div>
+</header>
+
+<main data-master></main>
+
+<footer class="site-footer">
+  <div class="wrap footer-inner">
+    <div class="footer-row">
+      <span data-t="footer.copy"></span>
+    </div>
+  </div>
+</footer>
+
+<div class="toast" role="status" aria-live="polite" data-toast hidden></div>
+<noscript><p class="noscript">Для работы сайта нужен JavaScript. / JavaScript is required.</p></noscript>
+
+<script src="js/common.js"></script>
+<script src="js/master.js"></script>
+</body>
+</html>

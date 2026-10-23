@@ -1,0 +1,682 @@
+{
+  "heroPhoto": "assets/news_dar3.jpg",
+  "photoCaption": {
+    "ru": "Дар-эс-Салам, 28.10.2024 · Фото: rsuh.ru",
+    "en": "Dar es Salaam, 28.10.2024 · Photo: rsuh.ru",
+    "fr": "Dar es Salaam, 28.10.2024 · Photo : rsuh.ru",
+    "pt": "Dar es Salaam, 28.10.2024 · Foto: rsuh.ru",
+    "sw": "Dar es Salaam, 28.10.2024 · Picha: rsuh.ru"
+  },
+  "h1": {
+    "ru": "Международный учебно-научный центр прикладной африканистики",
+    "en": "International Educational and Research Center for Applied African Studies",
+    "fr": "Centre international d’enseignement et de recherche en études africaines appliquées",
+    "pt": "Centro Internacional de Ensino e Investigação em Estudos Africanos Aplicados",
+    "sw": "Kituo cha Kimataifa cha Elimu na Utafiti wa Taaluma za Afrika kwa Vitendo"
+  },
+  "lead": {
+    "ru": "Научное подразделение Российского государственного гуманитарного университета. Изучаем образовательное и гуманитарное развитие Африки и служим площадкой для двустороннего и многостороннего диалога, обменов и обучения.",
+    "en": "A research unit of the Russian State University for the Humanities. We study the educational and humanitarian development of Africa and serve as a platform for bilateral and multilateral dialogue, exchange and training.",
+    "fr": "Unité de recherche de l’Université d’État des sciences humaines de Russie. Nous étudions le développement éducatif et humanitaire de l’Afrique et offrons une plateforme de dialogue bilatéral et multilatéral, d’échanges et de formation.",
+    "pt": "Unidade de investigação da Universidade Estatal Russa de Humanidades. Estudamos o desenvolvimento educativo e humanitário de África e somos uma plataforma de diálogo bilateral e multilateral, intercâmbio e formação.",
+    "sw": "Kitengo cha utafiti cha Chuo Kikuu cha Kitaifa cha Urusi cha Sayansi ya Kibinadamu. Tunachunguza maendeleo ya elimu na ya kibinadamu barani Afrika na kutoa jukwaa la majadiliano, mabadilishano na mafunzo."
+  },
+  "facts": [
+    {
+      "value": "2020",
+      "label": {
+        "ru": "год основания Центра",
+        "en": "year the Center was founded",
+        "fr": "année de création du Centre",
+        "pt": "ano de fundação do Centro",
+        "sw": "mwaka Kituo kilipoanzishwa"
+      }
+    },
+    {
+      "value": "8",
+      "label": {
+        "ru": "городов, где показана выставка",
+        "en": "cities that have hosted the exhibition",
+        "fr": "villes ayant accueilli l’exposition",
+        "pt": "cidades que receberam a exposição",
+        "sw": "miji iliyoandaa maonyesho"
+      }
+    },
+    {
+      "value": "3",
+      "label": {
+        "ru": "направления исследований",
+        "en": "research areas",
+        "fr": "axes de recherche",
+        "pt": "linhas de investigação",
+        "sw": "maeneo ya utafiti"
+      }
+    }
+  ],
+  "mission": {
+    "ru": "Содействовать культурному и гуманитарному развитию в Африке путём расширения взаимопонимания.",
+    "en": "To promote cultural and humanitarian development in Africa by broadening mutual understanding.",
+    "fr": "Contribuer au développement culturel et humanitaire de l’Afrique en élargissant la compréhension mutuelle.",
+    "pt": "Promover o desenvolvimento cultural e humanitário em África, alargando a compreensão mútua.",
+    "sw": "Kuchangia maendeleo ya kitamaduni na ya kibinadamu barani Afrika kwa kupanua maelewano."
+  },
+  "missionText": [
+    {
+      "ru": "Центр служит площадкой для диалога и долгосрочных партнёрств, стремится изменить восприятие Африки в мире и расширить знания об африканских диаспорах.",
+      "en": "The Center is a platform for dialogue and long-term partnerships. It seeks to change how Africa is perceived in the world and to expand knowledge of African diasporas.",
+      "fr": "Le Centre est une plateforme de dialogue et de partenariats durables. Il cherche à changer la perception de l’Afrique dans le monde et à mieux faire connaître les diasporas africaines.",
+      "pt": "O Centro é uma plataforma de diálogo e de parcerias duradouras. Procura mudar a perceção de África no mundo e aprofundar o conhecimento sobre as diásporas africanas.",
+      "sw": "Kituo ni jukwaa la majadiliano na ushirikiano wa muda mrefu. Kinalenga kubadilisha jinsi Afrika inavyotazamwa duniani na kupanua maarifa kuhusu jamii za Waafrika walio ughaibuni."
+    },
+    {
+      "ru": "Главный публичный проект Центра — архивно-документальная выставка о помощи СССР и России африканским странам в борьбе за независимость. С 2023 года она показана в Зимбабве, Мозамбике, Танзании, ЮАР, Калининграде и Туле.",
+      "en": "The Center’s main public project is an archival exhibition on the assistance of the USSR and Russia to African countries in their struggle for independence. Since 2023 it has been shown in Zimbabwe, Mozambique, Tanzania, South Africa, Kaliningrad and Tula.",
+      "fr": "Le principal projet public du Centre est une exposition d’archives sur l’aide de l’URSS et de la Russie aux pays africains dans leur lutte pour l’indépendance. Depuis 2023, elle a été présentée au Zimbabwe, au Mozambique, en Tanzanie, en Afrique du Sud, à Kaliningrad et à Toula.",
+      "pt": "O principal projeto público do Centro é uma exposição de arquivo sobre a ajuda da URSS e da Rússia aos países africanos na luta pela independência. Desde 2023 foi apresentada no Zimbabué, em Moçambique, na Tanzânia, na África do Sul, em Kaliningrado e em Tula.",
+      "sw": "Mradi mkuu wa umma wa Kituo ni maonyesho ya nyaraka za kumbukumbu kuhusu msaada wa USSR na Urusi kwa nchi za Afrika katika mapambano ya uhuru. Tangu 2023 yameonyeshwa Zimbabwe, Msumbiji, Tanzania, Afrika Kusini, Kaliningrad na Tula."
+    }
+  ],
+  "activities": [
+    {
+      "photo": "assets/news_pres1.jpg",
+      "title": {
+        "ru": "Курсы для студентов",
+        "en": "Courses for students",
+        "fr": "Cours pour étudiants",
+        "pt": "Cursos para estudantes",
+        "sw": "Kozi kwa wanafunzi"
+      },
+      "text": {
+        "ru": "Готовим учебные курсы для российских и африканских студентов и магистерскую программу.",
+        "en": "We prepare courses for Russian and African students and a master’s programme.",
+        "fr": "Nous préparons des cours pour étudiants russes et africains ainsi qu’un programme de master.",
+        "pt": "Preparamos cursos para estudantes russos e africanos e um programa de mestrado.",
+        "sw": "Tunaandaa kozi kwa wanafunzi wa Urusi na Afrika pamoja na programu ya uzamili."
+      }
+    },
+    {
+      "photo": "assets/news_unisa2.jpg",
+      "title": {
+        "ru": "Конференции",
+        "en": "Conferences",
+        "fr": "Conférences",
+        "pt": "Conferências",
+        "sw": "Makongamano"
+      },
+      "text": {
+        "ru": "Проводим научные конференции по африканистике, эксперты Центра читают лекции в университетах Африки.",
+        "en": "We hold academic conferences on African studies; the Center’s experts lecture at African universities.",
+        "fr": "Nous organisons des conférences d’études africaines ; nos experts donnent des cours dans des universités africaines.",
+        "pt": "Organizamos conferências de estudos africanos; os nossos especialistas dão aulas em universidades africanas.",
+        "sw": "Tunaandaa makongamano ya taaluma za Afrika; wataalamu wetu hufundisha katika vyuo vikuu vya Afrika."
+      }
+    },
+    {
+      "photo": "assets/news_unisa0.jpg",
+      "title": {
+        "ru": "Сетевой университет",
+        "en": "Network university",
+        "fr": "Université en réseau",
+        "pt": "Universidade em rede",
+        "sw": "Chuo kikuu cha mtandao"
+      },
+      "text": {
+        "ru": "Участвуем в консорциуме Российско-Африканского сетевого университета, заключаем соглашения с вузами.",
+        "en": "We take part in the Russian-African Network University consortium and sign agreements with universities.",
+        "fr": "Nous participons au consortium de l’Université en réseau Russie-Afrique et signons des accords avec des universités.",
+        "pt": "Participamos no consórcio da Universidade em Rede Rússia-África e celebramos acordos com universidades.",
+        "sw": "Tunashiriki katika muungano wa Chuo Kikuu cha Mtandao cha Urusi na Afrika na kusaini makubaliano na vyuo."
+      }
+    },
+    {
+      "photo": "assets/news_jhb5.jpg",
+      "title": {
+        "ru": "Выставки и просвещение",
+        "en": "Exhibitions and outreach",
+        "fr": "Expositions",
+        "pt": "Exposições",
+        "sw": "Maonyesho"
+      },
+      "text": {
+        "ru": "Возим по России и Африке выставку о помощи СССР и России в борьбе за независимость.",
+        "en": "We take the exhibition on Soviet and Russian support for African independence around Russia and Africa.",
+        "fr": "Nous présentons en Russie et en Afrique l’exposition sur le soutien soviétique et russe aux indépendances.",
+        "pt": "Levamos pela Rússia e por África a exposição sobre o apoio soviético e russo às independências.",
+        "sw": "Tunapeleka Urusi na Afrika maonyesho kuhusu msaada wa Kisovyeti na Urusi kwa uhuru wa Afrika."
+      }
+    }
+  ],
+  "directions": [
+    {
+      "title": {
+        "ru": "Социально-демографическое развитие",
+        "en": "Socio-demographic development",
+        "fr": "Développement socio-démographique",
+        "pt": "Desenvolvimento sociodemográfico",
+        "sw": "Maendeleo ya kijamii na kidemografia"
+      },
+      "items": [
+        {
+          "ru": "Высокая рождаемость и доступ к образованию",
+          "en": "High birth rates and access to education",
+          "fr": "Forte natalité et accès à l’éducation",
+          "pt": "Natalidade elevada e acesso à educação",
+          "sw": "Kiwango kikubwa cha uzazi na upatikanaji wa elimu"
+        },
+        {
+          "ru": "Урбанизация африканских стран",
+          "en": "Urbanisation of African countries",
+          "fr": "Urbanisation des pays africains",
+          "pt": "Urbanização dos países africanos",
+          "sw": "Ukuaji wa miji katika nchi za Afrika"
+        },
+        {
+          "ru": "Политические институты и их устойчивость",
+          "en": "Political institutions and their stability",
+          "fr": "Institutions politiques et leur stabilité",
+          "pt": "Instituições políticas e a sua estabilidade",
+          "sw": "Taasisi za kisiasa na uthabiti wake"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Права человека",
+        "en": "Human rights",
+        "fr": "Droits de l’homme",
+        "pt": "Direitos humanos",
+        "sw": "Haki za binadamu"
+      },
+      "items": [
+        {
+          "ru": "Применима ли концепция прав человека в Африке",
+          "en": "Does the concept of human rights apply in Africa?",
+          "fr": "Le concept des droits de l’homme s’applique-t-il en Afrique ?",
+          "pt": "O conceito de direitos humanos aplica-se em África?",
+          "sw": "Je, dhana ya haki za binadamu inatumika Afrika?"
+        },
+        {
+          "ru": "Универсализм и релятивизм",
+          "en": "Universalism and relativism",
+          "fr": "Universalisme et relativisme",
+          "pt": "Universalismo e relativismo",
+          "sw": "Ulimwengu-wote na uhusianishi"
+        },
+        {
+          "ru": "Вклад Африки в международную правозащитную деятельность",
+          "en": "Africa’s contribution to international human rights work",
+          "fr": "Apport de l’Afrique à l’action internationale pour les droits de l’homme",
+          "pt": "Contributo de África para os direitos humanos a nível internacional",
+          "sw": "Mchango wa Afrika katika kazi ya kimataifa ya haki za binadamu"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Образование и культура",
+        "en": "Education and culture",
+        "fr": "Éducation et culture",
+        "pt": "Educação e cultura",
+        "sw": "Elimu na utamaduni"
+      },
+      "items": [
+        {
+          "ru": "Образование в Африке",
+          "en": "Education in Africa",
+          "fr": "L’éducation en Afrique",
+          "pt": "Educação em África",
+          "sw": "Elimu barani Afrika"
+        },
+        {
+          "ru": "Женщины, мир и безопасность",
+          "en": "Women, peace and security",
+          "fr": "Femmes, paix et sécurité",
+          "pt": "Mulheres, paz e segurança",
+          "sw": "Wanawake, amani na usalama"
+        },
+        {
+          "ru": "Образование и государственное управление",
+          "en": "Education and governance",
+          "fr": "Éducation et gouvernance",
+          "pt": "Educação e governação",
+          "sw": "Elimu na utawala"
+        },
+        {
+          "ru": "Культурное наследие малых народов Африки",
+          "en": "Cultural heritage of Africa’s smaller peoples",
+          "fr": "Patrimoine culturel des petits peuples d’Afrique",
+          "pt": "Património cultural dos pequenos povos africanos",
+          "sw": "Urithi wa kitamaduni wa jamii ndogo za Afrika"
+        },
+        {
+          "ru": "Современное африканское искусство",
+          "en": "Contemporary African art",
+          "fr": "Art africain contemporain",
+          "pt": "Arte africana contemporânea",
+          "sw": "Sanaa ya kisasa ya Kiafrika"
+        }
+      ]
+    }
+  ],
+  "leads": [
+    {
+      "photo": "assets/person_zotin.jpg",
+      "tag": {
+        "ru": "ДИРЕКТОР",
+        "en": "DIRECTOR",
+        "fr": "DIRECTEUR",
+        "pt": "DIRETOR",
+        "sw": "MKURUGENZI"
+      },
+      "name": {
+        "ru": "Зотин Александр Николаевич",
+        "en": "Alexander Nikolaevich Zotin",
+        "fr": "Alexander Nikolaevich Zotin",
+        "pt": "Alexander Nikolaevich Zotin",
+        "sw": "Alexander Nikolaevich Zotin"
+      },
+      "role": {
+        "ru": "Директор МУНЦ прикладной африканистики",
+        "en": "Director of the Center for Applied African Studies",
+        "fr": "Directeur du Centre d’études africaines appliquées",
+        "pt": "Diretor do Centro de Estudos Africanos Aplicados",
+        "sw": "Mkurugenzi wa Kituo cha Taaluma za Afrika kwa Vitendo"
+      },
+      "degree": {
+        "ru": "Кандидат политических наук",
+        "en": "PhD in Political Science",
+        "fr": "Docteur en science politique",
+        "pt": "Doutor em Ciência Política",
+        "sw": "Shahada ya uzamivu katika sayansi ya siasa"
+      },
+      "bio": {
+        "ru": "Открывал выставки Центра в Танзании, Зимбабве, Туле и Йоханнесбурге.",
+        "en": "Opened the Center’s exhibitions in Tanzania, Zimbabwe, Tula and Johannesburg.",
+        "fr": "A inauguré les expositions du Centre en Tanzanie, au Zimbabwe, à Toula et à Johannesburg.",
+        "pt": "Inaugurou as exposições do Centro na Tanzânia, no Zimbabué, em Tula e em Joanesburgo.",
+        "sw": "Alifungua maonyesho ya Kituo Tanzania, Zimbabwe, Tula na Johannesburg."
+      }
+    },
+    {
+      "photo": "assets/person_borisov.jpg",
+      "tag": {
+        "ru": "ЗАМЕСТИТЕЛЬ ДИРЕКТОРА",
+        "en": "DEPUTY DIRECTOR",
+        "fr": "DIRECTEUR ADJOINT",
+        "pt": "DIRETOR ADJUNTO",
+        "sw": "NAIBU MKURUGENZI"
+      },
+      "name": {
+        "ru": "Борисов Дмитрий Владимирович",
+        "en": "Dmitry Vladimirovich Borisov",
+        "fr": "Dmitry Vladimirovich Borisov",
+        "pt": "Dmitry Vladimirovich Borisov",
+        "sw": "Dmitry Vladimirovich Borisov"
+      },
+      "role": {
+        "ru": "Заместитель директора МУНЦ прикладной африканистики",
+        "en": "Deputy Director of the Center for Applied African Studies",
+        "fr": "Directeur adjoint du Centre d’études africaines appliquées",
+        "pt": "Diretor adjunto do Centro de Estudos Africanos Aplicados",
+        "sw": "Naibu Mkurugenzi wa Kituo cha Taaluma za Afrika kwa Vitendo"
+      },
+      "degree": {
+        "ru": "[Учёная степень]",
+        "en": "[Academic degree]",
+        "fr": "[Grade universitaire]",
+        "pt": "[Grau académico]",
+        "sw": "[Shahada ya kitaaluma]"
+      },
+      "bio": {
+        "ru": "Входил в делегации Центра в Булавайо и Йоханнесбурге.",
+        "en": "Member of the Center’s delegations to Bulawayo and Johannesburg.",
+        "fr": "Membre des délégations du Centre à Bulawayo et à Johannesburg.",
+        "pt": "Integrou as delegações do Centro a Bulawayo e a Joanesburgo.",
+        "sw": "Alikuwa katika ujumbe wa Kituo huko Bulawayo na Johannesburg."
+      }
+    }
+  ],
+  "experts": [
+    {
+      "initials": {
+        "ru": "ДЗ",
+        "en": "DZ",
+        "fr": "DZ",
+        "pt": "DZ",
+        "sw": "DZ"
+      },
+      "name": {
+        "ru": "Дарья Зеленова",
+        "en": "Daria Zelenova",
+        "fr": "Daria Zelenova",
+        "pt": "Daria Zelenova",
+        "sw": "Daria Zelenova"
+      },
+      "role": {
+        "ru": "Эксперт Центра, к.полит.н.; заведующая Центром изучения африканской стратегии БРИКС Института Африки РАН",
+        "en": "Center expert, PhD in Political Science; head of the Center for African BRICS Strategy Studies, Institute for African Studies RAS",
+        "fr": "Experte du Centre, docteure en science politique ; directrice du Centre d’études de la stratégie africaine des BRICS, Institut de l’Afrique (ASR)",
+        "pt": "Especialista do Centro, doutora em Ciência Política; dirige o Centro de Estudos da Estratégia Africana dos BRICS, Instituto de África (ACR)",
+        "sw": "Mtaalamu wa Kituo, shahada ya uzamivu katika sayansi ya siasa; mkuu wa Kituo cha Mkakati wa Afrika katika BRICS, Taasisi ya Afrika (RAS)"
+      },
+      "linkText": {
+        "ru": "Лекция в УНИСА",
+        "en": "Lecture at UNISA",
+        "fr": "Conférence à l’UNISA",
+        "pt": "Palestra na UNISA",
+        "sw": "Mhadhara UNISA"
+      },
+      "link": "news.html?id=unisa"
+    },
+    {
+      "initials": {
+        "ru": "НМ",
+        "en": "NM",
+        "fr": "NM",
+        "pt": "NM",
+        "sw": "NM"
+      },
+      "name": {
+        "ru": "Медушевский Николай Андреевич",
+        "en": "Nikolay Andreevich Medushevsky",
+        "fr": "Nikolaï Andreïevitch Medouchevski",
+        "pt": "Nikolai Andreievitch Medushevski",
+        "sw": "Nikolay Andreevich Medushevsky"
+      },
+      "role": {
+        "ru": "Профессор, д.полит.н.; возглавлял Центр в 2021 году; Сомалиленд, Того, деколонизация",
+        "en": "Professor, Doctor of Political Science; headed the Center in 2021; Somaliland, Togo, decolonisation",
+        "fr": "Professeur, docteur d’État en science politique ; a dirigé le Centre en 2021 ; Somaliland, Togo, décolonisation",
+        "pt": "Professor, doutor em Ciência Política; dirigiu o Centro em 2021; Somalilândia, Togo, descolonização",
+        "sw": "Profesa, daktari wa sayansi ya siasa; aliongoza Kituo mwaka 2021; Somaliland, Togo, kuondoa ukoloni"
+      },
+      "linkText": {
+        "ru": "3 публикации",
+        "en": "3 publications",
+        "fr": "3 publications",
+        "pt": "3 publicações",
+        "sw": "Machapisho 3"
+      },
+      "link": "publications.html"
+    }
+  ],
+  "milestones": [
+    {
+      "date": {
+        "ru": "НОЯБРЬ 2020",
+        "en": "NOVEMBER 2020",
+        "fr": "NOVEMBRE 2020",
+        "pt": "NOVEMBRO DE 2020",
+        "sw": "NOVEMBA 2020"
+      },
+      "title": {
+        "ru": "Основание Центра",
+        "en": "The Center is founded",
+        "fr": "Création du Centre",
+        "pt": "Fundação do Centro",
+        "sw": "Kituo kinaanzishwa"
+      },
+      "place": {
+        "ru": "Москва, РГГУ",
+        "en": "Moscow, RSUH",
+        "fr": "Moscou, RGGU",
+        "pt": "Moscovo, RGGU",
+        "sw": "Moscow, RGGU"
+      }
+    },
+    {
+      "date": {
+        "ru": "1 АПРЕЛЯ 2021",
+        "en": "1 APRIL 2021",
+        "fr": "1er AVRIL 2021",
+        "pt": "1 DE ABRIL DE 2021",
+        "sw": "1 APRILI 2021"
+      },
+      "title": {
+        "ru": "Презентация Центра и магистерской программы",
+        "en": "Presentation of the Center and its master’s programme",
+        "fr": "Présentation du Centre et du master",
+        "pt": "Apresentação do Centro e do mestrado",
+        "sw": "Uzinduzi wa Kituo na programu ya uzamili"
+      },
+      "place": {
+        "ru": "Москва, РГГУ",
+        "en": "Moscow, RSUH",
+        "fr": "Moscou, RGGU",
+        "pt": "Moscovo, RGGU",
+        "sw": "Moscow, RGGU"
+      }
+    },
+    {
+      "date": {
+        "ru": "19 АПРЕЛЯ 2021",
+        "en": "19 APRIL 2021",
+        "fr": "19 AVRIL 2021",
+        "pt": "19 DE ABRIL DE 2021",
+        "sw": "19 APRILI 2021"
+      },
+      "title": {
+        "ru": "Конференция «Современная Африка: риски и вызовы»",
+        "en": "Conference “Modern Africa: risks and challenges”",
+        "fr": "Conférence « L’Afrique contemporaine : risques et défis »",
+        "pt": "Conferência «África contemporânea: riscos e desafios»",
+        "sw": "Kongamano «Afrika ya kisasa: hatari na changamoto»"
+      },
+      "place": {
+        "ru": "Более 30 участников",
+        "en": "Over 30 participants",
+        "fr": "Plus de 30 participants",
+        "pt": "Mais de 30 participantes",
+        "sw": "Washiriki zaidi ya 30"
+      }
+    },
+    {
+      "date": {
+        "ru": "ДЕКАБРЬ 2023",
+        "en": "DECEMBER 2023",
+        "fr": "DÉCEMBRE 2023",
+        "pt": "DEZEMBRO DE 2023",
+        "sw": "DESEMBA 2023"
+      },
+      "title": {
+        "ru": "Первая выставка в Африке",
+        "en": "First exhibition in Africa",
+        "fr": "Première exposition en Afrique",
+        "pt": "Primeira exposição em África",
+        "sw": "Maonyesho ya kwanza barani Afrika"
+      },
+      "place": {
+        "ru": "Хараре, Зимбабве",
+        "en": "Harare, Zimbabwe",
+        "fr": "Harare, Zimbabwe",
+        "pt": "Harare, Zimbabué",
+        "sw": "Harare, Zimbabwe"
+      }
+    },
+    {
+      "date": {
+        "ru": "ИЮЛЬ 2024",
+        "en": "JULY 2024",
+        "fr": "JUILLET 2024",
+        "pt": "JULHO DE 2024",
+        "sw": "JULAI 2024"
+      },
+      "title": {
+        "ru": "Выставка в Мозамбике",
+        "en": "Exhibition in Mozambique",
+        "fr": "Exposition au Mozambique",
+        "pt": "Exposição em Moçambique",
+        "sw": "Maonyesho nchini Msumbiji"
+      },
+      "place": {
+        "ru": "Мапуту",
+        "en": "Maputo",
+        "fr": "Maputo",
+        "pt": "Maputo",
+        "sw": "Maputo"
+      }
+    },
+    {
+      "date": {
+        "ru": "4 ОКТЯБРЯ 2024",
+        "en": "4 OCTOBER 2024",
+        "fr": "4 OCTOBRE 2024",
+        "pt": "4 DE OUTUBRO DE 2024",
+        "sw": "4 OKTOBA 2024"
+      },
+      "title": {
+        "ru": "Выставка в БФУ им. И. Канта",
+        "en": "Exhibition at the Immanuel Kant Baltic Federal University",
+        "fr": "Exposition à l’Université fédérale balte Emmanuel-Kant",
+        "pt": "Exposição na Universidade Federal Báltica Immanuel Kant",
+        "sw": "Maonyesho katika Chuo Kikuu cha Baltiki (Immanuel Kant)"
+      },
+      "place": {
+        "ru": "Калининград",
+        "en": "Kaliningrad",
+        "fr": "Kaliningrad",
+        "pt": "Kaliningrado",
+        "sw": "Kaliningrad"
+      }
+    },
+    {
+      "date": {
+        "ru": "28 ОКТЯБРЯ 2024",
+        "en": "28 OCTOBER 2024",
+        "fr": "28 OCTOBRE 2024",
+        "pt": "28 DE OUTUBRO DE 2024",
+        "sw": "28 OKTOBA 2024"
+      },
+      "title": {
+        "ru": "Выставка в Танзании",
+        "en": "Exhibition in Tanzania",
+        "fr": "Exposition en Tanzanie",
+        "pt": "Exposição na Tanzânia",
+        "sw": "Maonyesho nchini Tanzania"
+      },
+      "place": {
+        "ru": "Дар-эс-Салам",
+        "en": "Dar es Salaam",
+        "fr": "Dar es Salaam",
+        "pt": "Dar es Salaam",
+        "sw": "Dar es Salaam"
+      }
+    },
+    {
+      "date": {
+        "ru": "31 ОКТЯБРЯ 2024",
+        "en": "31 OCTOBER 2024",
+        "fr": "31 OCTOBRE 2024",
+        "pt": "31 DE OUTUBRO DE 2024",
+        "sw": "31 OKTOBA 2024"
+      },
+      "title": {
+        "ru": "Расширенная выставка",
+        "en": "Expanded exhibition",
+        "fr": "Exposition élargie",
+        "pt": "Exposição alargada",
+        "sw": "Maonyesho yaliyopanuliwa"
+      },
+      "place": {
+        "ru": "Булавайо, Зимбабве",
+        "en": "Bulawayo, Zimbabwe",
+        "fr": "Bulawayo, Zimbabwe",
+        "pt": "Bulawayo, Zimbabué",
+        "sw": "Bulawayo, Zimbabwe"
+      }
+    },
+    {
+      "date": {
+        "ru": "10 ДЕКАБРЯ 2024",
+        "en": "10 DECEMBER 2024",
+        "fr": "10 DÉCEMBRE 2024",
+        "pt": "10 DE DEZEMBRO DE 2024",
+        "sw": "10 DESEMBA 2024"
+      },
+      "title": {
+        "ru": "Выставка в ТГПУ им. Л. Н. Толстого",
+        "en": "Exhibition at Tula Pedagogical University",
+        "fr": "Exposition à l’Université pédagogique de Toula",
+        "pt": "Exposição na Universidade Pedagógica de Tula",
+        "sw": "Maonyesho katika Chuo Kikuu cha Ualimu cha Tula"
+      },
+      "place": {
+        "ru": "Тула",
+        "en": "Tula",
+        "fr": "Toula",
+        "pt": "Tula",
+        "sw": "Tula"
+      }
+    },
+    {
+      "date": {
+        "ru": "9 ИЮНЯ 2025",
+        "en": "9 JUNE 2025",
+        "fr": "9 JUIN 2025",
+        "pt": "9 DE JUNHO DE 2025",
+        "sw": "9 JUNI 2025"
+      },
+      "title": {
+        "ru": "Лекция в Университете Южной Африки",
+        "en": "Lecture at the University of South Africa",
+        "fr": "Conférence à l’Université d’Afrique du Sud",
+        "pt": "Palestra na Universidade da África do Sul",
+        "sw": "Mhadhara katika Chuo Kikuu cha Afrika Kusini"
+      },
+      "place": {
+        "ru": "Претория, УНИСА",
+        "en": "Pretoria, UNISA",
+        "fr": "Pretoria, UNISA",
+        "pt": "Pretória, UNISA",
+        "sw": "Pretoria, UNISA"
+      }
+    },
+    {
+      "date": {
+        "ru": "СЕНТЯБРЬ 2025",
+        "en": "SEPTEMBER 2025",
+        "fr": "SEPTEMBRE 2025",
+        "pt": "SETEMBRO DE 2025",
+        "sw": "SEPTEMBA 2025"
+      },
+      "title": {
+        "ru": "Первая выставка в ЮАР",
+        "en": "First exhibition in South Africa",
+        "fr": "Première exposition en Afrique du Sud",
+        "pt": "Primeira exposição na África do Sul",
+        "sw": "Maonyesho ya kwanza Afrika Kusini"
+      },
+      "place": {
+        "ru": "Кейптаун, Музей Роббен-Айленд",
+        "en": "Cape Town, Robben Island Museum",
+        "fr": "Le Cap, musée de Robben Island",
+        "pt": "Cidade do Cabo, Museu de Robben Island",
+        "sw": "Cape Town, Makumbusho ya Kisiwa cha Robben"
+      }
+    },
+    {
+      "date": {
+        "ru": "23 ОКТЯБРЯ 2025",
+        "en": "23 OCTOBER 2025",
+        "fr": "23 OCTOBRE 2025",
+        "pt": "23 DE OUTUBRO DE 2025",
+        "sw": "23 OKTOBA 2025"
+      },
+      "title": {
+        "ru": "Выставка о борьбе с апартеидом",
+        "en": "Exhibition on the struggle against apartheid",
+        "fr": "Exposition sur la lutte contre l’apartheid",
+        "pt": "Exposição sobre a luta contra o apartheid",
+        "sw": "Maonyesho kuhusu mapambano dhidi ya ubaguzi wa rangi"
+      },
+      "place": {
+        "ru": "Йоханнесбург",
+        "en": "Johannesburg",
+        "fr": "Johannesburg",
+        "pt": "Joanesburgo",
+        "sw": "Johannesburg"
+      }
+    }
+  ],
+  "pageUrl": "https://www.rsuh.ru/education/african-studies/about.php"
+}

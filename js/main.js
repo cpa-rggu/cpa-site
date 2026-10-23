@@ -82,7 +82,7 @@
       var bar = btn.parentNode;
       if (bar.scrollWidth > bar.clientWidth) {
         var left = btn.offsetLeft - bar.offsetLeft;
-        if (left < bar.scrollLeft || left + btn.offsetWidth > bar.scrollLeft + bar.clientWidth) bar.scrollLeft = left - 16;
+        if (left < bar.scrollLeft || left + btn.offsetWidth > bar.scrollLeft + bar.clientWidth) bar.scrollLeft = Math.min(left - 16, bar.scrollWidth - bar.clientWidth);
       }
     }
     renderStage();
@@ -129,14 +129,14 @@
   }
 
   // ---------- выставки ----------
-  function exLink(s) { return s.link || ('exhibition.html?id=' + encodeURIComponent(s.id || '')); }
   function renderExhibitions() {
     var ex = data.exhibitions, now = ex.current;
+    var exLink = CPA.exLink;
     $('[data-ex-now]').innerHTML = now && now.city ? (
       '<a class="ex-now" href="' + esc(exLink(now)) + '">' +
         '<img src="' + esc(now.photo) + '" alt="' + esc(tx(now.venue)) + '">' +
         '<div class="ex-now-card">' +
-          '<span class="tags"><span class="tag">' + esc(t('exhibitions.now')) + '</span>' + (now.sample ? '<span class="tag tag-sample">' + esc(t('exhibitions.sample')) + '</span>' : '') + '</span>' +
+          '<span class="tags"><span class="tag">' + esc(t('exhibitions.now')) + '</span>' + (now.tag && now.tag !== 'photo' && CPA.exTag(now) ? '<span class="tag tag-sample">' + esc(CPA.exTag(now)) + '</span>' : '') + '</span>' +
           '<span class="ex-now-city">' + esc(tx(now.city)) + '</span>' +
           '<span class="ex-now-venue">' + esc(tx(now.venue)) + '</span>' +
           '<span class="ex-now-foot"><span>' + esc(now.date) + '</span><span class="more">' + esc(t('exhibitions.more')) + ' →</span></span>' +
@@ -144,7 +144,7 @@
     var cards = (ex.past || []).map(function (s, i) {
       return '<a class="ex-card" href="' + esc(exLink(s)) + '">' +
         '<div class="ex-card-img"><img src="' + esc(s.photo) + '" alt="' + esc(tx(s.venue)) + '" loading="lazy">' +
-          (s.sample ? '<span class="sample">' + esc(t('exhibitions.sample')) + '</span>' : '') + '</div>' +
+          (CPA.exTag(s) ? '<span class="sample">' + esc(CPA.exTag(s)) + '</span>' : '') + '</div>' +
         '<div class="ex-card-meta"><span>№ ' + pad2(i + 1) + '</span><span>' + esc(s.date) + '</span></div>' +
         '<span class="ex-card-city">' + esc(tx(s.city)) + '</span>' +
         '<span class="ex-card-venue">' + esc(tx(s.venue)) + '</span>' +
@@ -196,6 +196,12 @@
       if (tb) { state.photo = +tb.getAttribute('data-photo'); renderStage(true); }
     });
     document.addEventListener('keydown', tabKeys);
+    // На телефоне карточку хроники можно смахнуть влево/вправо — меняется год
+    CPA.onSwipe('[data-swipe="tl"]', function (dir) {
+      if (!CPA.MOBILE.matches) return;
+      var n = data.chronicle.items.length;
+      selectYear((state.year + dir + n) % n);
+    });
     // Поле «номер экспоната» ведёт на страницу экспоната
     $('[data-numform]').addEventListener('submit', function (e) {
       e.preventDefault();

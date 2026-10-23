@@ -11,7 +11,7 @@
 <link rel="stylesheet" href="css/style.css">
 <link rel="stylesheet" href="css/pages.css">
 </head>
-<body class="page-story">
+<body class="page-story" data-page="story">
 <!-- Сюжет: какой именно — задаёт адрес story.html?id=aswan|africa|tanganyika|sa. Тексты — content/stories.json. -->
 
 <header class="site-header">
@@ -23,26 +23,16 @@
         <span class="brand-uni" data-t="header.uni"></span>
       </span>
     </a>
-    <nav class="nav" data-t-aria="header.navLabel">
-      <a href="index.html#timeline" data-t="header.navChron"></a>
-      <a href="#materials" data-t="header.navArch"></a>
-      <a href="index.html#exhibitions" data-t="header.navExh"></a>
-      <a href="publications.html" data-t="header.navPub"></a>
-      <a href="index.html#about" data-t="header.navAbout"></a>
-    </nav>
-    <div class="langs" data-langs></div>
+    <nav class="nav" data-nav></nav>
+    <div class="lang-dd" data-lang-dd></div>
     <button type="button" class="burger" data-burger aria-expanded="false" data-t-aria="header.menu">
       <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#141414" stroke-width="2" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg>
     </button>
   </div>
-  <nav class="mobile-menu" data-mobile-menu hidden data-t-aria="header.navLabel">
-    <a href="index.html#timeline" data-t="header.navChron"></a>
-    <a href="#materials" data-t="header.navArch"></a>
-    <a href="index.html#exhibitions" data-t="header.navExh"></a>
-    <a href="publications.html" data-t="header.navPub"></a>
-    <a href="index.html#about" data-t="header.navAbout"></a>
+  <div class="mobile-menu" data-mobile-menu hidden>
+    <nav class="mobile-nav" data-nav></nav>
     <div class="langs langs-dark" data-langs></div>
-  </nav>
+  </div>
 </header>
 
 <main data-story></main>

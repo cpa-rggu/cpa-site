@@ -1,0 +1,384 @@
+{
+  "heroPhoto": "assets/news_unisa2.jpg",
+  "kicker": {
+    "ru": "МАГИСТРАТУРА · 58.04.01 ВОСТОКОВЕДЕНИЕ И АФРИКАНИСТИКА",
+    "en": "MASTER’S · 58.04.01 ORIENTAL AND AFRICAN STUDIES",
+    "fr": "MASTER · 58.04.01 ÉTUDES ORIENTALES ET AFRICAINES",
+    "pt": "MESTRADO · 58.04.01 ESTUDOS ORIENTAIS E AFRICANOS",
+    "sw": "UZAMILI · 58.04.01 TAALUMA ZA MASHARIKI NA AFRIKA"
+  },
+  "h1": {
+    "ru": "Современная Африка: устойчивое развитие и гуманитарное сотрудничество с Россией",
+    "en": "Modern Africa: Sustainable Development and Humanitarian Cooperation with Russia",
+    "fr": "L’Afrique contemporaine : développement durable et coopération humanitaire avec la Russie",
+    "pt": "África contemporânea: desenvolvimento sustentável e cooperação humanitária com a Rússia",
+    "sw": "Afrika ya kisasa: maendeleo endelevu na ushirikiano wa kibinadamu na Urusi"
+  },
+  "lead": {
+    "ru": "Программа факультета востоковедения и социально-коммуникативных наук РГГУ готовит специалистов для российской международной политики на африканском направлении.",
+    "en": "A programme of the RSUH Faculty of Oriental Studies and Social Communication that trains specialists for Russia’s international policy towards Africa.",
+    "fr": "Un programme de la Faculté d’études orientales et de communication sociale de la RGGU qui forme des spécialistes de la politique internationale russe en Afrique.",
+    "pt": "Programa da Faculdade de Estudos Orientais e Comunicação Social da RGGU que forma especialistas para a política internacional da Rússia em África.",
+    "sw": "Programu ya Kitivo cha Taaluma za Mashariki na Mawasiliano ya Kijamii cha RGGU inayoandaa wataalamu wa sera ya kimataifa ya Urusi kuhusu Afrika."
+  },
+  "applyUrl": "https://priem.rggu.ru/magistr.php?ELEMENT_ID=797602",
+  "heroCaption": {
+    "ru": "Данные: priem.rggu.ru · Фото: лекция эксперта Центра в УНИСА, 2025 · rsuh.ru",
+    "en": "Data: priem.rggu.ru · Photo: lecture by a Center expert at UNISA, 2025 · rsuh.ru",
+    "fr": "Données : priem.rggu.ru · Photo : conférence d’une experte du Centre à l’UNISA, 2025 · rsuh.ru",
+    "pt": "Dados: priem.rggu.ru · Foto: palestra de uma especialista do Centro na UNISA, 2025 · rsuh.ru",
+    "sw": "Data: priem.rggu.ru · Picha: mhadhara wa mtaalamu wa Kituo UNISA, 2025 · rsuh.ru"
+  },
+  "facts": [
+    {
+      "label": {
+        "ru": "СРОК",
+        "en": "DURATION",
+        "fr": "DURÉE",
+        "pt": "DURAÇÃO",
+        "sw": "MUDA"
+      },
+      "value": {
+        "ru": "2 года",
+        "en": "2 years",
+        "fr": "2 ans",
+        "pt": "2 anos",
+        "sw": "Miaka 2"
+      },
+      "wide": false
+    },
+    {
+      "label": {
+        "ru": "ФОРМА",
+        "en": "MODE",
+        "fr": "FORMAT",
+        "pt": "REGIME",
+        "sw": "MFUMO"
+      },
+      "value": {
+        "ru": "Очно",
+        "en": "Full-time",
+        "fr": "Présentiel",
+        "pt": "Presencial",
+        "sw": "Ana kwa ana"
+      },
+      "wide": false
+    },
+    {
+      "label": {
+        "ru": "КВАЛИФИКАЦИЯ",
+        "en": "DEGREE",
+        "fr": "DIPLÔME",
+        "pt": "GRAU",
+        "sw": "SHAHADA"
+      },
+      "value": {
+        "ru": "Магистр",
+        "en": "Master",
+        "fr": "Master",
+        "pt": "Mestre",
+        "sw": "Uzamili"
+      },
+      "wide": false
+    },
+    {
+      "label": {
+        "ru": "ВСТУПИТЕЛЬНЫЙ ЭКЗАМЕН",
+        "en": "ENTRANCE EXAM",
+        "fr": "EXAMEN D’ENTRÉE",
+        "pt": "EXAME DE ACESSO",
+        "sw": "MTIHANI WA KUJIUNGA"
+      },
+      "value": {
+        "ru": "История стран Африки",
+        "en": "History of African countries",
+        "fr": "Histoire des pays africains",
+        "pt": "História dos países africanos",
+        "sw": "Historia ya nchi za Afrika"
+      },
+      "wide": true
+    },
+    {
+      "label": {
+        "ru": "ЯЗЫК · ОБУЧЕНИЕ С НУЛЯ",
+        "en": "LANGUAGE · FROM SCRATCH",
+        "fr": "LANGUE · DÉBUTANTS",
+        "pt": "LÍNGUA · DO ZERO",
+        "sw": "LUGHA · KUANZIA MWANZO"
+      },
+      "value": {
+        "ru": "Арабский или суахили",
+        "en": "Arabic or Swahili",
+        "fr": "Arabe ou swahili",
+        "pt": "Árabe ou suaíli",
+        "sw": "Kiarabu au Kiswahili"
+      },
+      "wide": true
+    }
+  ],
+  "studyText": {
+    "ru": "Экономика, политика, история, культура, религии и демография стран Африки, региональные и международные организации. Нажмите на модуль, чтобы раскрыть список.",
+    "en": "Economics, politics, history, culture, religions and demography of African countries, regional and international organisations. Tap a module to see its courses.",
+    "fr": "Économie, politique, histoire, culture, religions et démographie des pays africains, organisations régionales et internationales. Cliquez sur un module pour voir les cours.",
+    "pt": "Economia, política, história, cultura, religiões e demografia dos países africanos, organizações regionais e internacionais. Clique num módulo para ver as disciplinas.",
+    "sw": "Uchumi, siasa, historia, utamaduni, dini na demografia ya nchi za Afrika, mashirika ya kikanda na ya kimataifa. Bofya moduli kuona masomo yake."
+  },
+  "modules": [
+    {
+      "title": {
+        "ru": "Экономика и политика",
+        "en": "Economics and politics",
+        "fr": "Économie et politique",
+        "pt": "Economia e política",
+        "sw": "Uchumi na siasa"
+      },
+      "items": [
+        {
+          "ru": "Экономика стран Африки",
+          "en": "Economics of African countries",
+          "fr": "Économie des pays africains",
+          "pt": "Economia dos países africanos",
+          "sw": "Uchumi wa nchi za Afrika"
+        },
+        {
+          "ru": "Общественно-политические системы стран Африки",
+          "en": "Socio-political systems of African countries",
+          "fr": "Systèmes sociopolitiques des pays africains",
+          "pt": "Sistemas sociopolíticos dos países africanos",
+          "sw": "Mifumo ya kijamii na kisiasa ya nchi za Afrika"
+        },
+        {
+          "ru": "Военная политика в странах Африки",
+          "en": "Military policy in African countries",
+          "fr": "Politique militaire des pays africains",
+          "pt": "Política militar nos países africanos",
+          "sw": "Sera za kijeshi katika nchi za Afrika"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Право",
+        "en": "Law",
+        "fr": "Droit",
+        "pt": "Direito",
+        "sw": "Sheria"
+      },
+      "items": [
+        {
+          "ru": "Трансформация правовых систем африканских стран в условиях глобализации",
+          "en": "Transformation of legal systems in African countries under globalisation",
+          "fr": "Transformation des systèmes juridiques africains à l’ère de la mondialisation",
+          "pt": "Transformação dos sistemas jurídicos africanos na era da globalização",
+          "sw": "Mabadiliko ya mifumo ya sheria ya nchi za Afrika katika utandawazi"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "История",
+        "en": "History",
+        "fr": "Histoire",
+        "pt": "História",
+        "sw": "Historia"
+      },
+      "items": [
+        {
+          "ru": "Политическая историография современной Африки",
+          "en": "Political historiography of modern Africa",
+          "fr": "Historiographie politique de l’Afrique contemporaine",
+          "pt": "Historiografia política da África contemporânea",
+          "sw": "Historia ya kisiasa ya Afrika ya kisasa"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Демография и экология",
+        "en": "Demography and environment",
+        "fr": "Démographie et environnement",
+        "pt": "Demografia e ambiente",
+        "sw": "Demografia na mazingira"
+      },
+      "items": [
+        {
+          "ru": "Государственная демографическая и миграционная политика в Восточной Африке",
+          "en": "State demographic and migration policy in East Africa",
+          "fr": "Politique démographique et migratoire en Afrique de l’Est",
+          "pt": "Política demográfica e migratória na África Oriental",
+          "sw": "Sera ya serikali ya demografia na uhamiaji Afrika Mashariki"
+        },
+        {
+          "ru": "Природные ресурсы и экологический вопрос в Восточной Африке",
+          "en": "Natural resources and the environmental question in East Africa",
+          "fr": "Ressources naturelles et question environnementale en Afrique de l’Est",
+          "pt": "Recursos naturais e questão ambiental na África Oriental",
+          "sw": "Maliasili na suala la mazingira Afrika Mashariki"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Конфликты и интеграция",
+        "en": "Conflict and integration",
+        "fr": "Conflits et intégration",
+        "pt": "Conflitos e integração",
+        "sw": "Migogoro na mtangamano"
+      },
+      "items": [
+        {
+          "ru": "Этнополитические конфликты и их урегулирование",
+          "en": "Ethno-political conflicts and their settlement",
+          "fr": "Conflits ethnopolitiques et leur règlement",
+          "pt": "Conflitos etnopolíticos e a sua resolução",
+          "sw": "Migogoro ya kikabila na kisiasa na utatuzi wake"
+        },
+        {
+          "ru": "Интеграционные и трансрегиональные проекты в Африке южнее Сахары",
+          "en": "Integration and trans-regional projects in sub-Saharan Africa",
+          "fr": "Projets d’intégration et transrégionaux en Afrique subsaharienne",
+          "pt": "Projetos de integração e transregionais na África Subsariana",
+          "sw": "Miradi ya mtangamano na ya kikanda kusini mwa Sahara"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Язык",
+        "en": "Language",
+        "fr": "Langue",
+        "pt": "Língua",
+        "sw": "Lugha"
+      },
+      "items": [
+        {
+          "ru": "Современный арабский язык или суахили — на выбор",
+          "en": "Modern Arabic or Swahili — your choice",
+          "fr": "Arabe moderne ou swahili, au choix",
+          "pt": "Árabe moderno ou suaíli, à escolha",
+          "sw": "Kiarabu cha kisasa au Kiswahili — kwa kuchagua"
+        },
+        {
+          "ru": "Знание языка при поступлении не требуется: обучение с нуля",
+          "en": "No prior knowledge of the language is required: you learn it from scratch",
+          "fr": "Aucune connaissance préalable de la langue n’est requise : apprentissage dès le début",
+          "pt": "Não é preciso saber a língua: aprende-se do zero",
+          "sw": "Hakuna haja ya kujua lugha kabla: unajifunza kuanzia mwanzo"
+        }
+      ]
+    }
+  ],
+  "aboutLead": {
+    "ru": "Программа готовит специалистов для инновационного развития российской международной политики — прежде всего во взаимодействии с африканскими странами и народами.",
+    "en": "The programme trains specialists for the innovative development of Russia’s international policy — above all in its engagement with African countries and peoples.",
+    "fr": "Le programme forme des spécialistes pour le développement innovant de la politique internationale russe, avant tout dans ses relations avec les pays et les peuples africains.",
+    "pt": "O programa forma especialistas para o desenvolvimento inovador da política internacional da Rússia, sobretudo na relação com os países e povos africanos.",
+    "sw": "Programu inaandaa wataalamu kwa maendeleo bunifu ya sera ya kimataifa ya Urusi — hasa katika uhusiano na nchi na watu wa Afrika."
+  },
+  "aboutText": [
+    {
+      "ru": "Магистранты изучают экономику, политику, историю, культуру, религии и демографию Африки, а также региональные и международные организации и логистические системы, на которых строится это взаимодействие. Обязательная часть — современный арабский язык или суахили. Знать язык заранее не нужно: его изучают с нуля.",
+      "en": "Students study the economics, politics, history, culture, religions and demography of Africa, as well as the regional and international organisations and logistics systems on which this engagement rests. Modern Arabic or Swahili is a required part of the programme. You do not need to know the language beforehand: it is taught from scratch.",
+      "fr": "Les étudiants étudient l’économie, la politique, l’histoire, la culture, les religions et la démographie de l’Afrique, ainsi que les organisations régionales et internationales et les systèmes logistiques sur lesquels reposent ces relations. L’arabe moderne ou le swahili est obligatoire. Inutile de connaître la langue au départ : elle est enseignée dès le début.",
+      "pt": "Os estudantes estudam a economia, a política, a história, a cultura, as religiões e a demografia de África, bem como as organizações regionais e internacionais e os sistemas logísticos em que assenta esta relação. O árabe moderno ou o suaíli é obrigatório. Não é preciso saber a língua antes: ensina-se do zero.",
+      "sw": "Wanafunzi hujifunza uchumi, siasa, historia, utamaduni, dini na demografia ya Afrika, pamoja na mashirika ya kikanda na ya kimataifa na mifumo ya usafirishaji inayotegemewa na uhusiano huu. Kiarabu cha kisasa au Kiswahili ni lazima. Si lazima kujua lugha kabla: inafundishwa kuanzia mwanzo."
+    },
+    {
+      "ru": "Обучение завершается защитой выпускной квалификационной работы.",
+      "en": "The programme ends with the defence of a master’s thesis.",
+      "fr": "La formation se termine par la soutenance d’un mémoire de master.",
+      "pt": "O curso termina com a defesa de uma dissertação de mestrado.",
+      "sw": "Masomo yanamalizika kwa utetezi wa tasnifu ya uzamili."
+    }
+  ],
+  "teachers": [
+    {
+      "ru": "А. В. Коротаев",
+      "en": "A. V. Korotaev",
+      "fr": "A. V. Korotaïev",
+      "pt": "A. V. Korotaev",
+      "sw": "A. V. Korotaev"
+    },
+    {
+      "ru": "Н. А. Медушевский",
+      "en": "N. A. Medushevsky",
+      "fr": "N. A. Medouchevski",
+      "pt": "N. A. Medushevski",
+      "sw": "N. A. Medushevsky"
+    },
+    {
+      "ru": "Е. С. Мелкумян",
+      "en": "E. S. Melkumyan",
+      "fr": "E. S. Melkoumian",
+      "pt": "E. S. Melkumian",
+      "sw": "E. S. Melkumyan"
+    }
+  ],
+  "partners": {
+    "ru": "Университеты Египта, Туниса и Зимбабве, Посольство Арабской Республики Египет, Институт востоковедения РАН, Институт Африки РАН, Российско-Арабский деловой совет, Минэкономразвития России, РСМД, Российско-Африканский форум, российский и международный бизнес.",
+    "en": "Universities of Egypt, Tunisia and Zimbabwe, the Embassy of the Arab Republic of Egypt, the Institute of Oriental Studies RAS, the Institute for African Studies RAS, the Russian-Arab Business Council, the Ministry of Economic Development of Russia, RIAC, the Russia–Africa Forum, Russian and international business.",
+    "fr": "Universités d’Égypte, de Tunisie et du Zimbabwe, ambassade de la République arabe d’Égypte, Institut d’études orientales et Institut de l’Afrique de l’Académie des sciences de Russie, Conseil d’affaires russo-arabe, ministère russe du Développement économique, RIAC, Forum Russie–Afrique, entreprises russes et internationales.",
+    "pt": "Universidades do Egito, da Tunísia e do Zimbabué, Embaixada da República Árabe do Egito, Instituto de Estudos Orientais e Instituto de África da Academia de Ciências da Rússia, Conselho Empresarial Russo-Árabe, Ministério do Desenvolvimento Económico da Rússia, RIAC, Fórum Rússia–África, empresas russas e internacionais.",
+    "sw": "Vyuo vikuu vya Misri, Tunisia na Zimbabwe, Ubalozi wa Jamhuri ya Kiarabu ya Misri, Taasisi ya Taaluma za Mashariki na Taasisi ya Afrika ya Chuo cha Sayansi cha Urusi, Baraza la Biashara la Urusi na Waarabu, Wizara ya Maendeleo ya Uchumi ya Urusi, RIAC, Jukwaa la Urusi na Afrika, biashara za Urusi na za kimataifa."
+  },
+  "careerUrl": "https://priem.rggu.ru/upload/main/priem24/maps/Востоковедение%20и%20Африканистика.pdf",
+  "admText": {
+    "ru": "Нужен диплом бакалавра или специалиста. Вступительное испытание — экзамен «История стран Африки». Знание арабского или суахили не требуется.",
+    "en": "You need a bachelor’s or specialist degree. The entrance exam is History of African countries. No knowledge of Arabic or Swahili is required.",
+    "fr": "Il faut une licence ou un diplôme de spécialiste. L’examen d’entrée porte sur l’histoire des pays africains. Aucune connaissance de l’arabe ou du swahili n’est requise.",
+    "pt": "É necessário um diploma de bacharelato ou de especialista. O exame de acesso é História dos países africanos. Não é preciso saber árabe nem suaíli.",
+    "sw": "Unahitaji shahada ya kwanza au ya mtaalamu. Mtihani wa kujiunga ni Historia ya nchi za Afrika. Kujua Kiarabu au Kiswahili hakuhitajiki."
+  },
+  "examUrl": "https://priem.rggu.ru/upload/main/priem23/prog/Вопросы_для_экзамена_магистратура_по_ВиА_Африка.pdf",
+  "steps": [
+    {
+      "title": {
+        "ru": "Подать документы",
+        "en": "Submit documents",
+        "fr": "Déposer le dossier",
+        "pt": "Entregar documentos",
+        "sw": "Wasilisha nyaraka"
+      },
+      "text": {
+        "ru": "Онлайн или в приёмной комиссии РГГУ. Сроки — в правилах приёма на сайте priem.rggu.ru.",
+        "en": "Online or at the RSUH admissions office. Deadlines are in the admission rules on priem.rggu.ru.",
+        "fr": "En ligne ou au service des admissions de la RGGU. Les dates figurent dans le règlement d’admission sur priem.rggu.ru.",
+        "pt": "Online ou nos serviços de admissão da RGGU. Os prazos constam das regras de admissão em priem.rggu.ru.",
+        "sw": "Mtandaoni au katika ofisi ya udahili ya RGGU. Tarehe ziko katika kanuni za udahili kwenye priem.rggu.ru."
+      }
+    },
+    {
+      "title": {
+        "ru": "Сдать экзамен",
+        "en": "Take the exam",
+        "fr": "Passer l’examen",
+        "pt": "Fazer o exame",
+        "sw": "Fanya mtihani"
+      },
+      "text": {
+        "ru": "Вступительное испытание «История стран Африки». Вопросы опубликованы заранее.",
+        "en": "Entrance exam “History of African countries”. The questions are published in advance.",
+        "fr": "Épreuve « Histoire des pays africains ». Les questions sont publiées à l’avance.",
+        "pt": "Prova «História dos países africanos». As perguntas são publicadas com antecedência.",
+        "sw": "Mtihani «Historia ya nchi za Afrika». Maswali huchapishwa mapema."
+      }
+    },
+    {
+      "title": {
+        "ru": "Зачисление",
+        "en": "Enrolment",
+        "fr": "Inscription",
+        "pt": "Matrícula",
+        "sw": "Kudahiliwa"
+      },
+      "text": {
+        "ru": "По итогам конкурса. [Даты зачисления]",
+        "en": "Based on the competition results. [Enrolment dates]",
+        "fr": "Selon les résultats du concours. [Dates d’inscription]",
+        "pt": "De acordo com os resultados do concurso. [Datas de matrícula]",
+        "sw": "Kulingana na matokeo ya ushindani. [Tarehe za kudahiliwa]"
+      }
+    }
+  ],
+  "phone": "+7 (495) 250-61-18"
+}

@@ -1,0 +1,823 @@
+{
+  "items": [
+    {
+      "id": "jhb",
+      "category": "exh",
+      "date": "25.10.2025",
+      "iso": "2025-10-25",
+      "pinned": false,
+      "cover": "assets/news_jhb2.jpg",
+      "hero": "assets/news_jhb4.jpg",
+      "gallery": [
+        "assets/news_jhb1.jpg",
+        "assets/news_jhb3.jpg",
+        "assets/news_jhb5.jpg",
+        "assets/news_jhb6.jpg",
+        "assets/news_jhb2.jpg"
+      ],
+      "source": "https://www.rsuh.ru/news/indexpage/v-yokhannesburge-otkrylas-vystavka-rggu-o-roli-sssr-i-rossii-v-borbe-s-aparteidom/",
+      "title": {
+        "ru": "В Йоханнесбурге открылась выставка РГГУ о роли СССР и России в борьбе с апартеидом",
+        "en": "RSUH exhibition on the role of the USSR and Russia in the struggle against apartheid opens in Johannesburg",
+        "fr": "À Johannesburg, une exposition de la RGGU sur le rôle de l’URSS et de la Russie dans la lutte contre l’apartheid",
+        "pt": "Exposição da RGGU sobre o papel da URSS e da Rússia na luta contra o apartheid abre em Joanesburgo",
+        "sw": "Maonyesho ya RGGU kuhusu nafasi ya USSR na Urusi katika mapambano dhidi ya ubaguzi wa rangi yafunguliwa Johannesburg"
+      },
+      "lead": {
+        "ru": "23 октября в Chief Albert Luthuli House открылась выставка «Солидарность в борьбе против апартеида» — при участии руководства АНК и Посольства России в ЮАР.",
+        "en": "On 23 October the exhibition “Solidarity in the Struggle against Apartheid” opened at Chief Albert Luthuli House with the ANC leadership and the Russian Embassy in South Africa.",
+        "fr": "Le 23 octobre, l’exposition « Solidarité dans la lutte contre l’apartheid » a été inaugurée à la Chief Albert Luthuli House avec la direction de l’ANC et l’ambassade de Russie.",
+        "pt": "A 23 de outubro, a exposição «Solidariedade na luta contra o apartheid» foi inaugurada na Chief Albert Luthuli House com a direção do ANC e a Embaixada da Rússia.",
+        "sw": "Tarehe 23 Oktoba maonyesho «Mshikamano katika mapambano dhidi ya ubaguzi wa rangi» yalifunguliwa katika Chief Albert Luthuli House mbele ya uongozi wa ANC na Ubalozi wa Urusi."
+      },
+      "place": {
+        "ru": "Йоханнесбург, ЮАР",
+        "en": "Johannesburg, South Africa",
+        "fr": "Johannesburg, Afrique du Sud",
+        "pt": "Joanesburgo, África do Sul",
+        "sw": "Johannesburg, Afrika Kusini"
+      },
+      "credit": {
+        "ru": "Текст и фото: Департамент коммуникаций РГГУ",
+        "en": "Text and photos: RSUH Communications Department",
+        "fr": "Texte et photos : Département de la communication de la RGGU",
+        "pt": "Texto e fotos: Departamento de Comunicação da RGGU",
+        "sw": "Maandishi na picha: Idara ya Mawasiliano ya RGGU"
+      },
+      "body": [
+        {
+          "ru": "23 октября 2025 года в Йоханнесбурге (ЮАР), в здании имени Альберта Лутули (Chief Albert Luthuli House), открылась выставка РГГУ «Солидарность в борьбе против апартеида: Советский Союз и национально-освободительные движения юга Африки». Мероприятие было организовано при участии руководства Африканского национального конгресса (АНК), Посольства Российской Федерации в Южно-Африканской Республике и членов дипломатического корпуса.",
+          "en": "On 23 October 2025 the RSUH exhibition “Solidarity in the Struggle against Apartheid: the Soviet Union and the National Liberation Movements of Southern Africa” opened in Johannesburg, South Africa, at Chief Albert Luthuli House. The event was organised with the participation of the leadership of the African National Congress (ANC), the Embassy of the Russian Federation in South Africa and members of the diplomatic corps.",
+          "fr": "Le 23 octobre 2025, l’exposition de la RGGU « Solidarité dans la lutte contre l’apartheid : l’Union soviétique et les mouvements de libération nationale d’Afrique australe » a été inaugurée à Johannesburg, à la Chief Albert Luthuli House, en présence de la direction du Congrès national africain (ANC), de l’ambassade de la Fédération de Russie en Afrique du Sud et de membres du corps diplomatique.",
+          "pt": "A 23 de outubro de 2025, a exposição da RGGU «Solidariedade na luta contra o apartheid: a União Soviética e os movimentos de libertação nacional da África Austral» foi inaugurada em Joanesburgo, na Chief Albert Luthuli House, com a participação da direção do Congresso Nacional Africano (ANC), da Embaixada da Federação da Rússia na África do Sul e de membros do corpo diplomático.",
+          "sw": "Tarehe 23 Oktoba 2025, maonyesho ya RGGU «Mshikamano katika mapambano dhidi ya ubaguzi wa rangi: Umoja wa Kisovyeti na harakati za ukombozi wa kitaifa kusini mwa Afrika» yalifunguliwa Johannesburg, katika jengo la Chief Albert Luthuli House, kwa ushiriki wa uongozi wa African National Congress (ANC), Ubalozi wa Shirikisho la Urusi nchini Afrika Kusini na wanadiplomasia."
+        },
+        {
+          "ru": "Экспозиция была подготовлена РГГУ при поддержке Министерства науки и высшего образования России и в рамках сотрудничества с музеем Роббен Айленд и Обществом друзей Кубы в ЮАР. В работу над выставкой, которая представляет собой визуализированный междисциплинарный проект, были вовлечены Центр прикладной африканистики, Музейный центр (директор И. В. Баканова), Учебный центр «Арт-дизайн» (директор Г. В. Волкова; дизайнер Е. А. Ененко), Факультет архивоведения и документоведения (декан Ф. Г. Тараторкин), Институт массмедиа (директор В. П. Флярковский) и другие подразделения РГГУ.",
+          "en": "The exhibition was prepared by RSUH with the support of the Russian Ministry of Science and Higher Education, in cooperation with the Robben Island Museum and the Friends of Cuba Society in South Africa. This visual interdisciplinary project involved the Center for Applied African Studies, the Museum Centre (director I. V. Bakanova), the Art-Design Training Centre (director G. V. Volkova; designer E. A. Enenko), the Faculty of Archival Studies and Document Management (dean F. G. Taratorkin), the Institute of Mass Media (director V. P. Flyarkovsky) and other RSUH units.",
+          "fr": "L’exposition a été préparée par la RGGU avec le soutien du ministère russe de la Science et de l’Enseignement supérieur, en coopération avec le musée de Robben Island et la Société des amis de Cuba en Afrique du Sud. Ce projet visuel interdisciplinaire a mobilisé le Centre d’études africaines appliquées, le Centre muséal (directrice I. V. Bakanova), le Centre de formation « Art-design » (directrice G. V. Volkova ; designer E. A. Enenko), la Faculté d’archivistique et de documentation (doyen F. G. Taratorkine), l’Institut des médias (directeur V. P. Fliarkovski) et d’autres départements de la RGGU.",
+          "pt": "A exposição foi preparada pela RGGU com o apoio do Ministério da Ciência e do Ensino Superior da Rússia, em cooperação com o Museu de Robben Island e a Sociedade dos Amigos de Cuba na África do Sul. Neste projeto visual interdisciplinar participaram o Centro de Estudos Africanos Aplicados, o Centro Museológico (diretora I. V. Bakanova), o Centro de Formação «Arte-Design» (diretora G. V. Volkova; designer E. A. Enenko), a Faculdade de Arquivística e Documentação (decano F. G. Taratorkin), o Instituto de Media (diretor V. P. Fliarkovski) e outros departamentos da RGGU.",
+          "sw": "Maonyesho yaliandaliwa na RGGU kwa msaada wa Wizara ya Sayansi na Elimu ya Juu ya Urusi, kwa ushirikiano na Makumbusho ya Kisiwa cha Robben na Jumuiya ya Marafiki wa Cuba nchini Afrika Kusini. Katika mradi huu wa taaluma mbalimbali walishiriki Kituo cha Taaluma za Afrika kwa Vitendo, Kituo cha Makumbusho (mkurugenzi I. V. Bakanova), Kituo cha Mafunzo «Sanaa na Ubunifu» (mkurugenzi G. V. Volkova; mbunifu E. A. Enenko), Kitivo cha Nyaraka (mkuu F. G. Taratorkin), Taasisi ya Vyombo vya Habari (mkurugenzi V. P. Flyarkovsky) na idara nyingine za RGGU."
+        },
+        {
+          "ru": "Руководитель проекта — и. о. проректора по международному сотрудничеству Вера Заботкина. В состав делегации РГГУ вошли директор Центра африканистики Александр Зотин, его заместитель Дмитрий Борисов и эксперт центра Дарья Зеленова.",
+          "en": "The project was led by Acting Vice-Rector for International Cooperation Vera Zabotkina. The RSUH delegation included the director of the Center for African Studies Alexander Zotin, his deputy Dmitry Borisov and the Center’s expert Daria Zelenova.",
+          "fr": "Le projet est dirigé par Vera Zabotkina, prorectrice par intérim aux relations internationales. La délégation de la RGGU comprenait le directeur du Centre d’études africaines Alexandre Zotine, son adjoint Dmitri Borissov et l’experte du Centre Daria Zelenova.",
+          "pt": "O projeto é coordenado pela vice-reitora interina para a cooperação internacional, Vera Zabotkina. A delegação da RGGU incluiu o diretor do Centro de Estudos Africanos, Alexander Zotin, o seu adjunto Dmitri Borisov e a especialista do Centro Daria Zelenova.",
+          "sw": "Kiongozi wa mradi ni kaimu makamu mkuu wa chuo kwa ushirikiano wa kimataifa, Vera Zabotkina. Ujumbe wa RGGU ulijumuisha mkurugenzi wa Kituo cha Taaluma za Afrika Alexander Zotin, naibu wake Dmitry Borisov na mtaalamu wa Kituo Daria Zelenova."
+        },
+        {
+          "ru": "В экспозиции были задействованы материалы государственных и частных архивов России и ЮАР. Проект был поддержан Союзом ветеранов Анголы, предоставившим для выставки уникальные архивные фотографии, и Институтом Африки РАН.",
+          "en": "The exhibition draws on materials from state and private archives in Russia and South Africa. The project was supported by the Union of Angola Veterans, which provided unique archival photographs, and by the Institute for African Studies of the Russian Academy of Sciences.",
+          "fr": "L’exposition s’appuie sur des documents d’archives publiques et privées de Russie et d’Afrique du Sud. Le projet a été soutenu par l’Union des vétérans d’Angola, qui a fourni des photographies d’archives uniques, et par l’Institut de l’Afrique de l’Académie des sciences de Russie.",
+          "pt": "A exposição reúne materiais de arquivos públicos e privados da Rússia e da África do Sul. O projeto contou com o apoio da União dos Veteranos de Angola, que cedeu fotografias de arquivo únicas, e do Instituto de África da Academia de Ciências da Rússia.",
+          "sw": "Maonyesho yanatumia nyaraka kutoka kumbukumbu za serikali na binafsi za Urusi na Afrika Kusini. Mradi uliungwa mkono na Umoja wa Maveterani wa Angola, uliotoa picha za kipekee za kumbukumbu, na Taasisi ya Afrika ya Chuo cha Sayansi cha Urusi."
+        },
+        {
+          "ru": "Серия выставок, посвящённых вкладу СССР в освободительную борьбу народов Африки, стартовала в Зимбабве в 2023 году, а первая выставка на территории ЮАР была открыта в сентябре 2025 года в Музее Роббен-Айленд в Кейптауне. Мероприятие в Йоханнесбурге посетили руководители АНК, в частности, экс вице-президент ЮАР Фумзиле Мламбо-Нгкука, Послы Кубы и Венесуэлы в ЮАР, ветераны борьбы с апартеидом, представители прессы.",
+          "en": "The series of exhibitions on the Soviet contribution to the liberation struggle of African peoples began in Zimbabwe in 2023, and the first exhibition in South Africa opened in September 2025 at the Robben Island Museum in Cape Town. The Johannesburg event was attended by ANC leaders, including former Deputy President of South Africa Phumzile Mlambo-Ngcuka, the ambassadors of Cuba and Venezuela to South Africa, veterans of the anti-apartheid struggle and the press.",
+          "fr": "La série d’expositions consacrée à la contribution de l’URSS à la lutte de libération des peuples africains a commencé au Zimbabwe en 2023 ; la première exposition en Afrique du Sud a ouvert en septembre 2025 au musée de Robben Island, au Cap. À Johannesburg étaient présents des dirigeants de l’ANC, dont l’ancienne vice-présidente Phumzile Mlambo-Ngcuka, les ambassadeurs de Cuba et du Venezuela, des vétérans de la lutte contre l’apartheid et la presse.",
+          "pt": "A série de exposições sobre o contributo da URSS para a luta de libertação dos povos africanos começou no Zimbabué em 2023, e a primeira exposição na África do Sul abriu em setembro de 2025 no Museu de Robben Island, na Cidade do Cabo. Em Joanesburgo estiveram dirigentes do ANC, entre eles a antiga vice-presidente Phumzile Mlambo-Ngcuka, os embaixadores de Cuba e da Venezuela, veteranos da luta contra o apartheid e jornalistas.",
+          "sw": "Mfululizo wa maonyesho kuhusu mchango wa USSR katika mapambano ya ukombozi wa watu wa Afrika ulianza Zimbabwe mwaka 2023, na maonyesho ya kwanza nchini Afrika Kusini yalifunguliwa Septemba 2025 katika Makumbusho ya Kisiwa cha Robben, Cape Town. Johannesburg walihudhuria viongozi wa ANC, akiwemo Makamu wa Rais wa zamani Phumzile Mlambo-Ngcuka, mabalozi wa Cuba na Venezuela, maveterani wa mapambano dhidi ya ubaguzi wa rangi na waandishi wa habari."
+        },
+        {
+          "ru": "Посол Российской Федерации в ЮАР Роман Амбаров выступил с приветственным словом, подчеркнув традиционно дружеские связи между Москвой и Африканским национальным конгрессом.",
+          "en": "Russian Ambassador to South Africa Roman Ambarov gave a welcome address, stressing the traditionally friendly ties between Moscow and the African National Congress.",
+          "fr": "L’ambassadeur de Russie en Afrique du Sud, Roman Ambarov, a souligné dans son discours les liens d’amitié traditionnels entre Moscou et le Congrès national africain.",
+          "pt": "O embaixador da Rússia na África do Sul, Roman Ambarov, sublinhou os laços tradicionais de amizade entre Moscovo e o Congresso Nacional Africano.",
+          "sw": "Balozi wa Urusi nchini Afrika Kusini Roman Ambarov alitoa hotuba ya ukaribisho, akisisitiza urafiki wa jadi kati ya Moscow na African National Congress."
+        },
+        {
+          "ru": "В своём выступлении профессор Вера Заботкина подчеркнула, что выставка является уникальным проектом, направленным на сохранение исторической памяти, укрепление связей между Россией и ЮАР, основанных на давней истории солидарности в борьбе с колониализмом и апартеидом.",
+          "en": "In her speech Professor Vera Zabotkina emphasised that the exhibition is a unique project aimed at preserving historical memory and strengthening ties between Russia and South Africa rooted in a long history of solidarity against colonialism and apartheid.",
+          "fr": "La professeure Vera Zabotkina a souligné que l’exposition est un projet unique visant à préserver la mémoire historique et à renforcer les liens entre la Russie et l’Afrique du Sud, fondés sur une longue histoire de solidarité contre le colonialisme et l’apartheid.",
+          "pt": "A professora Vera Zabotkina destacou que a exposição é um projeto único, destinado a preservar a memória histórica e a reforçar os laços entre a Rússia e a África do Sul, assentes numa longa história de solidariedade contra o colonialismo e o apartheid.",
+          "sw": "Profesa Vera Zabotkina alisisitiza kwamba maonyesho ni mradi wa kipekee unaolenga kuhifadhi kumbukumbu za kihistoria na kuimarisha uhusiano kati ya Urusi na Afrika Kusini, unaojengwa juu ya historia ndefu ya mshikamano dhidi ya ukoloni na ubaguzi wa rangi."
+        },
+        {
+          "ru": "Директор центра африканистики РГГУ Александр Зотин отметил важность сохранения исторической правды, при этом подчеркнул, что часто она стирается из памяти поколений — например, в знаменитом Музее апартеида в Йоханнесбурге фактически отсутствует отображение роли СССР и России в борьбе с апартеидом в ЮАР.",
+          "en": "Alexander Zotin, director of the RSUH Center for African Studies, spoke of the importance of preserving historical truth, noting that it often fades from the memory of generations: the famous Apartheid Museum in Johannesburg, for example, has practically no display on the role of the USSR and Russia in the struggle against apartheid.",
+          "fr": "Le directeur du Centre, Alexandre Zotine, a insisté sur l’importance de préserver la vérité historique, qui s’efface souvent de la mémoire des générations : le célèbre musée de l’Apartheid de Johannesburg, par exemple, ne présente pratiquement pas le rôle de l’URSS et de la Russie dans la lutte contre l’apartheid.",
+          "pt": "O diretor do Centro, Alexander Zotin, falou da importância de preservar a verdade histórica, que muitas vezes se apaga da memória das gerações: o famoso Museu do Apartheid de Joanesburgo, por exemplo, praticamente não mostra o papel da URSS e da Rússia na luta contra o apartheid.",
+          "sw": "Mkurugenzi wa Kituo Alexander Zotin alieleza umuhimu wa kuhifadhi ukweli wa kihistoria, unaosahaulika mara nyingi: kwa mfano, katika Makumbusho maarufu ya Ubaguzi wa Rangi ya Johannesburg nafasi ya USSR na Urusi katika mapambano hayo karibu haionyeshwi."
+        },
+        {
+          "ru": "Эксперт центра африканистики РГГУ и заведующая Центром изучения африканской стратегии БРИКС Института Африки РАН Дарья Зеленова ознакомила гостей с тематической основой выставки.",
+          "en": "Daria Zelenova, an expert of the Center and head of the Center for African BRICS Strategy Studies at the Institute for African Studies, introduced the guests to the themes of the exhibition.",
+          "fr": "Daria Zelenova, experte du Centre et directrice du Centre d’études de la stratégie africaine des BRICS à l’Institut de l’Afrique, a présenté aux invités les thèmes de l’exposition.",
+          "pt": "Daria Zelenova, especialista do Centro e diretora do Centro de Estudos da Estratégia Africana dos BRICS no Instituto de África, apresentou aos convidados os temas da exposição.",
+          "sw": "Daria Zelenova, mtaalamu wa Kituo na mkuu wa Kituo cha Mkakati wa Afrika katika BRICS katika Taasisi ya Afrika, aliwaeleza wageni mada za maonyesho."
+        }
+      ]
+    },
+    {
+      "id": "unisa",
+      "category": "sci",
+      "date": "20.06.2025",
+      "iso": "2025-06-20",
+      "pinned": false,
+      "cover": "assets/news_unisa1.jpg",
+      "hero": "assets/news_unisa2.jpg",
+      "gallery": [
+        "assets/news_unisa1.jpg",
+        "assets/news_unisa0.jpg"
+      ],
+      "source": "https://www.rsuh.ru/news/mezhdunarodnyy-uchebno-nauchnyy-tsentr-prikladnoy-afrikanistiki/ekspert-tsentra-afrikanistiki-rggu-vystupila-s-lektsiey-v-universitete-yuzhnoy-afriki/",
+      "title": {
+        "ru": "Эксперт Центра африканистики РГГУ выступила с лекцией в Университете Южной Африки",
+        "en": "RSUH Center for African Studies expert gives a lecture at the University of South Africa",
+        "fr": "Une experte du Centre d’études africaines de la RGGU donne une conférence à l’Université d’Afrique du Sud",
+        "pt": "Especialista do Centro de Estudos Africanos da RGGU dá palestra na Universidade da África do Sul",
+        "sw": "Mtaalamu wa Kituo cha Taaluma za Afrika cha RGGU atoa mhadhara katika Chuo Kikuu cha Afrika Kusini"
+      },
+      "lead": {
+        "ru": "Д. А. Зеленова прочитала в УНИСА лекцию об африканской агентности в БРИКС.",
+        "en": "D. A. Zelenova lectured at UNISA on African agency in BRICS.",
+        "fr": "D. A. Zelenova a parlé à l’UNISA de l’agentivité africaine au sein des BRICS.",
+        "pt": "D. A. Zelenova falou na UNISA sobre a agência africana nos BRICS.",
+        "sw": "D. A. Zelenova alitoa mhadhara UNISA kuhusu nafasi ya Afrika ndani ya BRICS."
+      },
+      "place": {
+        "ru": "Претория, ЮАР",
+        "en": "Pretoria, South Africa",
+        "fr": "Pretoria, Afrique du Sud",
+        "pt": "Pretória, África do Sul",
+        "sw": "Pretoria, Afrika Kusini"
+      },
+      "credit": {
+        "ru": "Текст и фото: Дарья Зеленова",
+        "en": "Text and photos: Daria Zelenova",
+        "fr": "Texte et photos : Daria Zelenova",
+        "pt": "Texto e fotos: Daria Zelenova",
+        "sw": "Maandishi na picha: Daria Zelenova"
+      },
+      "body": [
+        {
+          "ru": "9 июня 2025 г. в Университете Южной Африки (УНИСА) с лекцией «Усиливая африканскую агентность в БРИКС: может ли участие африканских стран в объединении укрепить многополярность?» выступила к.полит.н., эксперт Центра африканистики РГГУ, заведующая Центром изучения африканской стратегии БРИКС Института Африки РАН Д.А. Зеленова.",
+          "en": "On 9 June 2025 D. A. Zelenova, PhD in Political Science, an expert of the RSUH Center for African Studies and head of the Center for African BRICS Strategy Studies at the Institute for African Studies RAS, gave a lecture at the University of South Africa (UNISA) entitled “Enhancing African agency in BRICS: can African participation in the association strengthen multipolarity?”.",
+          "fr": "Le 9 juin 2025, D. A. Zelenova, docteure en science politique, experte du Centre d’études africaines de la RGGU et directrice du Centre d’études de la stratégie africaine des BRICS à l’Institut de l’Afrique, a donné à l’Université d’Afrique du Sud (UNISA) une conférence intitulée « Renforcer l’agentivité africaine au sein des BRICS : la participation africaine peut-elle consolider la multipolarité ? ».",
+          "pt": "A 9 de junho de 2025, D. A. Zelenova, doutora em Ciência Política, especialista do Centro de Estudos Africanos da RGGU e diretora do Centro de Estudos da Estratégia Africana dos BRICS no Instituto de África, deu na Universidade da África do Sul (UNISA) a palestra «Reforçar a agência africana nos BRICS: pode a participação africana fortalecer a multipolaridade?».",
+          "sw": "Tarehe 9 Juni 2025, D. A. Zelenova, mwenye shahada ya uzamivu katika sayansi ya siasa, mtaalamu wa Kituo cha Taaluma za Afrika cha RGGU na mkuu wa Kituo cha Mkakati wa Afrika katika BRICS katika Taasisi ya Afrika, alitoa mhadhara katika Chuo Kikuu cha Afrika Kusini (UNISA) kuhusu mada «Kuimarisha nafasi ya Afrika katika BRICS: je, ushiriki wa nchi za Afrika unaweza kuimarisha ulimwengu wa nguvu nyingi?»."
+        },
+        {
+          "ru": "Лекция прошла в рамках подписания соглашения о взаимном сотрудничестве между РГГУ и Университетом Южной Африки. Д.А. Зеленова отметила ключевую роль Южно-Африканской Республики как проводника панафриканистской повестки в мировой политике. Кроме того, эксперт Центра африканистики РГГУ представила инициативы и проекты периода председательства России в БРИКС, нацеленные на укрепление африканской субъектности и суверенитета.",
+          "en": "The lecture took place as part of the signing of a cooperation agreement between RSUH and the University of South Africa. Zelenova highlighted South Africa’s key role as a promoter of the pan-African agenda in world politics. She also presented initiatives and projects of Russia’s BRICS chairmanship aimed at strengthening African agency and sovereignty.",
+          "fr": "La conférence a eu lieu à l’occasion de la signature d’un accord de coopération entre la RGGU et l’UNISA. Daria Zelenova a souligné le rôle clé de l’Afrique du Sud comme porteuse de l’agenda panafricain dans la politique mondiale et a présenté les initiatives de la présidence russe des BRICS visant à renforcer l’agentivité et la souveraineté africaines.",
+          "pt": "A palestra decorreu no âmbito da assinatura de um acordo de cooperação entre a RGGU e a UNISA. Daria Zelenova destacou o papel da África do Sul como promotora da agenda pan-africana na política mundial e apresentou as iniciativas da presidência russa dos BRICS para reforçar a agência e a soberania africanas.",
+          "sw": "Mhadhara ulifanyika wakati wa kusaini makubaliano ya ushirikiano kati ya RGGU na UNISA. Daria Zelenova alisisitiza nafasi muhimu ya Afrika Kusini katika kuendeleza ajenda ya Umajumui wa Afrika duniani, na alieleza miradi ya uenyekiti wa Urusi katika BRICS inayolenga kuimarisha uhuru na sauti ya Afrika."
+        },
+        {
+          "ru": "Перед студентами также выступил профессор Боитмело Сенокоане, исполнительный директор департамента по институциональному продвижению, и Нкосинати Мабилане, президент студенческого совета УНИСА. По завершении выступлений состоялась продолжительная сессия вопросов и ответов под модерацией профессора истории Сифисо М. Ндлову. Участники дискуссии продемонстрировали высокий уровень знаний международной повестки и выразили заинтересованность в дальнейшем изучении российско-африканских внешнеполитических связей.",
+          "en": "The students were also addressed by Professor Boitumelo Senokoane, executive director of the Department of Institutional Advancement, and Nkosinathi Mabilane, president of the UNISA Student Representative Council. The talks were followed by a long question-and-answer session moderated by history professor Sifiso M. Ndlovu. The participants showed a deep knowledge of the international agenda and expressed interest in further study of Russian–African foreign policy ties.",
+          "fr": "Les étudiants ont également entendu le professeur Boitumelo Senokoane, directeur exécutif du département de la promotion institutionnelle, et Nkosinathi Mabilane, président du conseil étudiant de l’UNISA. Une longue séance de questions-réponses a suivi, animée par le professeur d’histoire Sifiso M. Ndlovu. Les participants ont montré une excellente connaissance de l’actualité internationale et leur intérêt pour l’étude des relations russo-africaines.",
+          "pt": "Os estudantes ouviram também o professor Boitumelo Senokoane, diretor executivo do departamento de promoção institucional, e Nkosinathi Mabilane, presidente do conselho de estudantes da UNISA. Seguiu-se uma longa sessão de perguntas e respostas moderada pelo professor de história Sifiso M. Ndlovu, em que os participantes mostraram grande conhecimento da agenda internacional e interesse pelas relações russo-africanas.",
+          "sw": "Wanafunzi pia walihutubiwa na Profesa Boitumelo Senokoane, mkurugenzi mtendaji wa idara ya maendeleo ya taasisi, na Nkosinathi Mabilane, rais wa baraza la wanafunzi wa UNISA. Kisha kulikuwa na kipindi kirefu cha maswali na majibu kilichoongozwa na profesa wa historia Sifiso M. Ndlovu, ambapo washiriki walionyesha ujuzi mkubwa wa masuala ya kimataifa na nia ya kujifunza zaidi kuhusu uhusiano wa Urusi na Afrika."
+        }
+      ]
+    },
+    {
+      "id": "ladanka",
+      "category": "stud",
+      "date": "17.06.2025",
+      "iso": "2025-06-17",
+      "pinned": false,
+      "cover": "assets/news_lad0.jpg",
+      "hero": "assets/news_lad0.jpg",
+      "gallery": [],
+      "source": "https://www.rsuh.ru/news/student-news/rggu-prinyal-uchastie-v-blagotvoritelnom-proekte-ladanka-zashchita-voina/",
+      "title": {
+        "ru": "РГГУ принял участие в благотворительном проекте «Ладанка — защита воина»",
+        "en": "RSUH takes part in the charity project “Ladanka — Protection for a Soldier”",
+        "fr": "La RGGU participe au projet caritatif « Ladanka — protection du soldat »",
+        "pt": "RGGU participa no projeto solidário «Ladanka — proteção do soldado»",
+        "sw": "RGGU yashiriki katika mradi wa hisani «Ladanka — ulinzi wa askari»"
+      },
+      "lead": {
+        "ru": "Студенты и преподаватели факультета истории искусства присоединились к патриотической акции накануне Дня России.",
+        "en": "Students and teachers of the Faculty of Art History joined a patriotic campaign on the eve of Russia Day.",
+        "fr": "Étudiants et enseignants de la Faculté d’histoire de l’art ont rejoint une action patriotique à la veille de la Journée de la Russie.",
+        "pt": "Estudantes e docentes da Faculdade de História da Arte juntaram-se a uma ação patriótica na véspera do Dia da Rússia.",
+        "sw": "Wanafunzi na walimu wa Kitivo cha Historia ya Sanaa walijiunga na kampeni ya kizalendo kabla ya Siku ya Urusi."
+      },
+      "place": {
+        "ru": "Москва",
+        "en": "Moscow",
+        "fr": "Moscou",
+        "pt": "Moscovo",
+        "sw": "Moscow"
+      },
+      "credit": {
+        "ru": "Текст и фото: Департамент по работе с молодежью",
+        "en": "Text and photos: Youth Affairs Department",
+        "fr": "Texte et photos : Département de la jeunesse",
+        "pt": "Texto e fotos: Departamento da Juventude",
+        "sw": "Maandishi na picha: Idara ya Vijana"
+      },
+      "body": [
+        {
+          "ru": "В преддверии значимого для всей страны праздника — Дня России — студенты и преподаватели факультета истории искусства Российского государственного гуманитарного университета стали участниками патриотической акции «Ладанка — защита воина».",
+          "en": "On the eve of Russia Day, a holiday important for the whole country, students and teachers of the Faculty of Art History of the Russian State University for the Humanities took part in the patriotic campaign “Ladanka — Protection for a Soldier”.",
+          "fr": "À la veille de la Journée de la Russie, les étudiants et enseignants de la Faculté d’histoire de l’art de la RGGU ont participé à l’action patriotique « Ladanka — protection du soldat ».",
+          "pt": "Na véspera do Dia da Rússia, estudantes e docentes da Faculdade de História da Arte da RGGU participaram na ação patriótica «Ladanka — proteção do soldado».",
+          "sw": "Kabla ya Siku ya Urusi, wanafunzi na walimu wa Kitivo cha Historia ya Sanaa cha RGGU walishiriki katika kampeni ya kizalendo «Ladanka — ulinzi wa askari»."
+        },
+        {
+          "ru": "Инициатором мероприятия выступил Российский биотехнологический университет при содействии Благотворительного фонда поддержки православных проектов и других общественных объединений.",
+          "en": "The event was initiated by the Russian Biotechnological University with the help of the Charitable Foundation for the Support of Orthodox Projects and other public associations.",
+          "fr": "L’initiative revenait à l’Université russe de biotechnologie, avec l’aide de la Fondation caritative de soutien aux projets orthodoxes et d’autres associations.",
+          "pt": "A iniciativa partiu da Universidade Russa de Biotecnologia, com o apoio da Fundação de Apoio a Projetos Ortodoxos e de outras associações.",
+          "sw": "Kampeni ilianzishwa na Chuo Kikuu cha Bioteknolojia cha Urusi kwa msaada wa Mfuko wa Hisani wa Miradi ya Kiorthodoksi na vyama vingine vya kijamii."
+        },
+        {
+          "ru": "Торжественное открытие было проникнуто духом патриотизма. Исполнение песен о России способствовало созданию особой, объединяющей атмосферы. Ярким моментом программы стало выступление Ю.Ю. Назаренко-Благой — известной российской актрисы театра и кино, поэтессы, члена Союза писателей России и Гильдии актёров кино.",
+          "en": "The opening ceremony was filled with a patriotic spirit. Songs about Russia created a special, unifying atmosphere. A highlight of the programme was a performance by Yu. Yu. Nazarenko-Blagaya, a well-known Russian stage and film actress, poet and member of the Union of Writers of Russia and the Guild of Film Actors.",
+          "fr": "La cérémonie d’ouverture était empreinte de patriotisme ; des chansons sur la Russie ont créé une atmosphère fédératrice. Moment fort du programme : la prestation de Iou. Iou. Nazarenko-Blagaïa, actrice de théâtre et de cinéma, poétesse, membre de l’Union des écrivains de Russie.",
+          "pt": "A cerimónia de abertura foi marcada pelo patriotismo; canções sobre a Rússia criaram um ambiente de união. Um dos destaques foi a atuação de Iu. Iu. Nazarenko-Blagaia, atriz de teatro e cinema, poetisa e membro da União de Escritores da Rússia.",
+          "sw": "Ufunguzi ulijaa moyo wa uzalendo; nyimbo kuhusu Urusi zilileta hali ya umoja. Kivutio kikuu kilikuwa onyesho la Yu. Yu. Nazarenko-Blagaya, mwigizaji maarufu wa jukwaa na filamu, mshairi na mwanachama wa Umoja wa Waandishi wa Urusi."
+        },
+        {
+          "ru": "Кульминационным моментом акции стало создание ладанок. В рамках проекта из 15 святынь России были специально доставлены освящённые платки. Затем их фрагменты были бережно размещены у икон из мест их происхождения.",
+          "en": "The culmination of the campaign was the making of ladankas (small amulet pouches). Consecrated cloths were brought specially from 15 holy sites of Russia, and fragments of them were placed by icons from their places of origin.",
+          "fr": "Le point culminant fut la confection des « ladankas » (petits sachets-amulettes). Des étoffes bénites ont été apportées de 15 lieux saints de Russie, et leurs fragments ont été déposés près d’icônes provenant de ces lieux.",
+          "pt": "O ponto alto da ação foi a confeção das «ladankas» (pequenas bolsas-amuleto). Foram trazidos tecidos benzidos de 15 lugares santos da Rússia, e os seus fragmentos foram colocados junto a ícones desses lugares.",
+          "sw": "Kilele cha kampeni kilikuwa kutengeneza «ladanka» (mifuko midogo ya hirizi). Vitambaa vilivyobarikiwa vililetwa kutoka maeneo 15 matakatifu ya Urusi, na vipande vyake viliwekwa karibu na sanamu takatifu za maeneo hayo."
+        },
+        {
+          "ru": "Ключевая особенность ладанок, созданных во время акции, заключается в том, что в каждую вложен освящённый фрагмент от всех 15 святынь. Таким образом, они послужат не просто личным оберегом, но и символом духовного единения России.",
+          "en": "The key feature of the ladankas made during the campaign is that each contains a consecrated fragment from all 15 holy sites. They will thus serve not only as a personal amulet but also as a symbol of the spiritual unity of Russia.",
+          "fr": "Chaque ladanka contient un fragment bénit de chacun des 15 lieux saints : elle sert ainsi d’amulette personnelle et de symbole de l’unité spirituelle de la Russie.",
+          "pt": "Cada ladanka contém um fragmento benzido de todos os 15 lugares santos, servindo como amuleto pessoal e como símbolo da unidade espiritual da Rússia.",
+          "sw": "Kila ladanka ina kipande kilichobarikiwa kutoka maeneo yote 15 matakatifu, hivyo ni hirizi binafsi na pia ishara ya umoja wa kiroho wa Urusi."
+        },
+        {
+          "ru": "Студенты и преподаватели РГГУ, ветераны СВО, деятели культуры, спортсмены и представители СМИ — все объединились в этот день. Творческая атмосфера царила на площадке, где участники своими руками изготавливали ладанки. В каждую были вложены не только освящённые частицы, но и искренние пожелания добра, здоровья и скорейшего возвращения домой.",
+          "en": "RSUH students and teachers, veterans of the special military operation, cultural figures, athletes and journalists all came together that day. Participants made the ladankas with their own hands, putting into each not only the consecrated fragments but also sincere wishes of kindness, health and a speedy return home.",
+          "fr": "Étudiants et enseignants de la RGGU, vétérans de l’opération militaire spéciale, personnalités de la culture, sportifs et journalistes se sont réunis ce jour-là. Les participants ont confectionné les ladankas de leurs propres mains, en y glissant aussi des vœux de santé et de prompt retour.",
+          "pt": "Estudantes e docentes da RGGU, veteranos da operação militar especial, figuras da cultura, desportistas e jornalistas juntaram-se nesse dia e confecionaram as ladankas com as próprias mãos, acrescentando votos de saúde e de regresso rápido a casa.",
+          "sw": "Wanafunzi na walimu wa RGGU, maveterani wa operesheni maalum ya kijeshi, wasanii, wanamichezo na waandishi wa habari waliungana siku hiyo na kutengeneza ladanka kwa mikono yao, wakiweka pia matakwa ya afya na kurudi nyumbani haraka."
+        },
+        {
+          "ru": "Все изготовленные ладанки обретут своих адресатов. Их передачу участникам специальной военной операции осуществит отец Виктор и актриса Юлия Благая. Финальным и самым важным этапом акции станет доставка символа всенародной поддержки и духовной защиты тем, кто сегодня стоит на страже безопасности страны.",
+          "en": "All the ladankas will reach their recipients. Father Viktor and actress Yulia Blagaya will hand them over to participants in the special military operation. The final and most important stage of the campaign will be delivering this symbol of nationwide support and spiritual protection to those who guard the country’s security today.",
+          "fr": "Toutes les ladankas parviendront à leurs destinataires : le père Viktor et l’actrice Ioulia Blagaïa les remettront aux participants de l’opération militaire spéciale.",
+          "pt": "Todas as ladankas chegarão aos destinatários: o padre Viktor e a atriz Iulia Blagaia entregá-las-ão aos participantes da operação militar especial.",
+          "sw": "Ladanka zote zitawafikia walengwa: Padre Viktor na mwigizaji Yulia Blagaya watazikabidhi kwa washiriki wa operesheni maalum ya kijeshi."
+        },
+        {
+          "ru": "РГГУ уже не первый раз демонстрирует свою социальную ответственность и активную гражданскую позицию, успешно реализуя значимые проекты в сотрудничестве с ведущими вузами столицы: Государственным университетом управления, Российским университетом дружбы народов, Московским авиационным институтом и другими. Межвузовское партнёрство в рамках этой и многих других акций становится значительной силой в решении важных общественных задач, объединяет ресурсы, знания и энтузиазм академического сообщества Москвы.",
+          "en": "This is not the first time RSUH has shown its social responsibility and active civic position, carrying out projects together with leading Moscow universities: the State University of Management, the Peoples’ Friendship University of Russia, the Moscow Aviation Institute and others. Inter-university partnership in this and many other campaigns has become a significant force in solving important social tasks, bringing together the resources, knowledge and enthusiasm of Moscow’s academic community.",
+          "fr": "Ce n’est pas la première fois que la RGGU affirme sa responsabilité sociale en menant des projets avec de grandes universités moscovites : l’Université d’État de gestion, l’Université de l’amitié des peuples, l’Institut d’aviation de Moscou et d’autres. Ce partenariat interuniversitaire réunit les ressources, les savoirs et l’enthousiasme de la communauté académique de Moscou.",
+          "pt": "Não é a primeira vez que a RGGU demonstra responsabilidade social, realizando projetos com grandes universidades de Moscovo: a Universidade Estatal de Gestão, a Universidade da Amizade dos Povos, o Instituto de Aviação de Moscovo e outras. Esta parceria reúne os recursos, o saber e o entusiasmo da comunidade académica de Moscovo.",
+          "sw": "Si mara ya kwanza RGGU kuonyesha uwajibikaji wa kijamii, ikitekeleza miradi pamoja na vyuo vikuu vikubwa vya Moscow: Chuo Kikuu cha Kitaifa cha Usimamizi, Chuo Kikuu cha Urafiki wa Watu, Taasisi ya Usafiri wa Anga ya Moscow na vingine. Ushirikiano huu unaunganisha rasilimali, maarifa na hamasa ya jumuiya ya kitaaluma ya Moscow."
+        }
+      ]
+    },
+    {
+      "id": "tula",
+      "category": "exh",
+      "date": "14.12.2024",
+      "iso": "2024-12-14",
+      "pinned": false,
+      "cover": "assets/news_tula1.jpg",
+      "hero": "assets/news_tula2.jpg",
+      "gallery": [
+        "assets/news_tula1.jpg",
+        "assets/news_tula0.jpg"
+      ],
+      "source": "https://www.rsuh.ru/news/mezhdunarodnyy-uchebno-nauchnyy-tsentr-prikladnoy-afrikanistiki/otkrytie-arkhivno-dokumentalnoy-ekspozitsii-v-tgpu-im-l-n-tolstogo/",
+      "title": {
+        "ru": "Открытие архивно-документальной экспозиции в ТГПУ им. Л.Н. Толстого",
+        "en": "Archival exhibition opens at Tula State Lev Tolstoy Pedagogical University",
+        "fr": "Ouverture d’une exposition d’archives à l’Université pédagogique Léon-Tolstoï de Toula",
+        "pt": "Exposição de arquivo inaugurada na Universidade Pedagógica Lev Tolstói de Tula",
+        "sw": "Maonyesho ya nyaraka za kumbukumbu yafunguliwa katika Chuo Kikuu cha Ualimu cha Tula"
+      },
+      "lead": {
+        "ru": "10 декабря в Туле открылась выставка о роли СССР и России в борьбе за независимость народов Африки.",
+        "en": "On 10 December an exhibition on the role of the USSR and Russia in African peoples’ struggle for independence opened in Tula.",
+        "fr": "Le 10 décembre, une exposition sur le rôle de l’URSS et de la Russie dans la lutte des peuples africains pour l’indépendance a ouvert à Toula.",
+        "pt": "A 10 de dezembro abriu em Tula uma exposição sobre o papel da URSS e da Rússia na luta dos povos africanos pela independência.",
+        "sw": "Tarehe 10 Desemba maonyesho kuhusu nafasi ya USSR na Urusi katika mapambano ya uhuru ya watu wa Afrika yalifunguliwa Tula."
+      },
+      "place": {
+        "ru": "Тула",
+        "en": "Tula",
+        "fr": "Toula",
+        "pt": "Tula",
+        "sw": "Tula"
+      },
+      "credit": {
+        "ru": "Текст: Александр Зотин · Фото: Дмитрий Борисов",
+        "en": "Text: Alexander Zotin · Photos: Dmitry Borisov",
+        "fr": "Texte : Alexandre Zotine · Photos : Dmitri Borissov",
+        "pt": "Texto: Alexander Zotin · Fotos: Dmitri Borisov",
+        "sw": "Maandishi: Alexander Zotin · Picha: Dmitry Borisov"
+      },
+      "body": [
+        {
+          "ru": "10 декабря 2024 г. в Тульском государственном педагогическом университете им. Л.Н. Толстого состоялось торжественное открытие архивно-документальной выставки, посвящённой роли СССР и России в борьбе за независимость народов Африки.",
+          "en": "On 10 December 2024 Tula State Lev Tolstoy Pedagogical University hosted the opening of an archival exhibition on the role of the USSR and Russia in the struggle of African peoples for independence.",
+          "fr": "Le 10 décembre 2024, l’Université pédagogique d’État Léon-Tolstoï de Toula a inauguré une exposition d’archives consacrée au rôle de l’URSS et de la Russie dans la lutte des peuples africains pour l’indépendance.",
+          "pt": "A 10 de dezembro de 2024, a Universidade Pedagógica Estatal Lev Tolstói de Tula inaugurou uma exposição de arquivo sobre o papel da URSS e da Rússia na luta dos povos africanos pela independência.",
+          "sw": "Tarehe 10 Desemba 2024, Chuo Kikuu cha Kitaifa cha Ualimu cha Tula (Lev Tolstoy) kilifungua maonyesho ya nyaraka za kumbukumbu kuhusu nafasi ya USSR na Urusi katika mapambano ya uhuru ya watu wa Afrika."
+        },
+        {
+          "ru": "Данное мероприятие продолжило серию экспозиций, подготовленных РГГУ при поддержке Министерства науки и высшего образования РФ. Ранее выставки уже были проведены в Зимбабве, Танзании и Мозамбике, а также в Калининграде.",
+          "en": "The event continued the series of exhibitions prepared by RSUH with the support of the Russian Ministry of Science and Higher Education. Earlier exhibitions had been held in Zimbabwe, Tanzania and Mozambique, as well as in Kaliningrad.",
+          "fr": "Elle prolonge la série d’expositions préparées par la RGGU avec le soutien du ministère russe de la Science et de l’Enseignement supérieur. Des expositions avaient déjà eu lieu au Zimbabwe, en Tanzanie, au Mozambique et à Kaliningrad.",
+          "pt": "A exposição dá continuidade à série preparada pela RGGU com o apoio do Ministério da Ciência e do Ensino Superior da Rússia. Antes, tinham sido realizadas exposições no Zimbabué, na Tanzânia, em Moçambique e em Kaliningrado.",
+          "sw": "Maonyesho haya yanaendeleza mfululizo ulioandaliwa na RGGU kwa msaada wa Wizara ya Sayansi na Elimu ya Juu ya Urusi. Maonyesho ya awali yalifanyika Zimbabwe, Tanzania, Msumbiji na Kaliningrad."
+        },
+        {
+          "ru": "Студенты ТГПУ смогут ознакомиться с документами и фотографиями, которые демонстрируют помощь СССР и России странам Африканского континента в период освобождения Африки от колониальной и неоколониальной зависимости. Рабочая группа проекта осуществила поиск необходимых материалов в ведущих российских государственных и личных архивах. Кроме того, некоторые фотографии предоставил Союз ветеранов Анголы — давний партнёр РГГУ.",
+          "en": "Students of the university can see documents and photographs showing the assistance of the USSR and Russia to African countries during Africa’s liberation from colonial and neo-colonial dependence. The project team searched for materials in leading Russian state and personal archives. Some photographs were provided by the Union of Angola Veterans, a long-standing partner of RSUH.",
+          "fr": "Les étudiants peuvent y découvrir des documents et des photographies montrant l’aide de l’URSS et de la Russie aux pays africains pendant la libération du continent de la dépendance coloniale et néocoloniale. L’équipe du projet a recherché les documents dans les grandes archives publiques et personnelles russes ; certaines photographies ont été fournies par l’Union des vétérans d’Angola, partenaire de longue date de la RGGU.",
+          "pt": "Os estudantes podem ver documentos e fotografias que mostram a ajuda da URSS e da Rússia aos países africanos durante a libertação da dependência colonial e neocolonial. A equipa do projeto procurou materiais nos principais arquivos públicos e pessoais russos; algumas fotografias foram cedidas pela União dos Veteranos de Angola, parceira de longa data da RGGU.",
+          "sw": "Wanafunzi wanaweza kuona nyaraka na picha zinazoonyesha msaada wa USSR na Urusi kwa nchi za Afrika wakati wa ukombozi kutoka utegemezi wa kikoloni na wa ukoloni mamboleo. Timu ya mradi ilitafuta nyaraka katika kumbukumbu kuu za serikali na binafsi za Urusi; baadhi ya picha zilitolewa na Umoja wa Maveterani wa Angola, mshirika wa muda mrefu wa RGGU."
+        },
+        {
+          "ru": "Среди посетивших выставку студентов были представители Бенина, Того, Чада, Эритреи и других африканских стран. Гостей церемонии открытия приветствовали проректор по научно-исследовательской работе ТГПУ им. Л.Н. Толстого Екатерина Ромашина и директор Международного учебно-научного центра африканистики РГГУ Александр Зотин.",
+          "en": "Among the students who visited the exhibition were people from Benin, Togo, Chad, Eritrea and other African countries. The guests were welcomed by the university’s Vice-Rector for Research Ekaterina Romashina and Alexander Zotin, director of the RSUH International Center for African Studies.",
+          "fr": "Parmi les visiteurs se trouvaient des étudiants du Bénin, du Togo, du Tchad, de l’Érythrée et d’autres pays africains. Les invités ont été accueillis par la prorectrice à la recherche Ekaterina Romachina et par Alexandre Zotine, directeur du Centre international d’études africaines de la RGGU.",
+          "pt": "Entre os visitantes havia estudantes do Benim, Togo, Chade, Eritreia e outros países africanos. Os convidados foram recebidos pela vice-reitora para a investigação Ekaterina Romashina e por Alexander Zotin, diretor do Centro Internacional de Estudos Africanos da RGGU.",
+          "sw": "Miongoni mwa wageni walikuwa wanafunzi kutoka Benin, Togo, Chad, Eritrea na nchi nyingine za Afrika. Wageni walikaribishwa na makamu mkuu wa chuo kwa utafiti Ekaterina Romashina na Alexander Zotin, mkurugenzi wa Kituo cha Kimataifa cha Taaluma za Afrika cha RGGU."
+        },
+        {
+          "ru": "По словам Александра Зотина, за последние несколько лет вектор внешней политики России в отношении стран Африки заметно изменился; при этом многие не помнят, что СССР, например, оказал серьёзную поддержку африканским государствам в борьбе за их независимость.",
+          "en": "According to Alexander Zotin, Russia’s foreign policy towards Africa has changed markedly in recent years, yet many do not remember that the USSR, for example, gave serious support to African states in their struggle for independence.",
+          "fr": "Selon Alexandre Zotine, la politique étrangère russe envers l’Afrique a nettement évolué ces dernières années, mais beaucoup oublient que l’URSS a fortement soutenu les États africains dans leur lutte pour l’indépendance.",
+          "pt": "Segundo Alexander Zotin, a política externa russa para África mudou visivelmente nos últimos anos, mas muitos não se lembram de que a URSS apoiou fortemente os Estados africanos na luta pela independência.",
+          "sw": "Kwa mujibu wa Alexander Zotin, sera ya nje ya Urusi kuhusu Afrika imebadilika sana katika miaka ya karibuni, lakini wengi hawakumbuki kwamba USSR iliunga mkono kwa nguvu nchi za Afrika katika mapambano yao ya uhuru."
+        },
+        {
+          "ru": "Организованная РГГУ и ТГПУ выставка о роли СССР и России в освобождении народов Африки стала не только значимым научным, образовательным и культурным событием, но и актуализацией российской «мягкой силы», что чрезвычайно важно в текущем геополитическом контексте.",
+          "en": "The exhibition organised by RSUH and the Tula university became not only a significant academic, educational and cultural event but also an expression of Russian “soft power”, which is especially important in the current geopolitical context.",
+          "fr": "Organisée par la RGGU et l’université de Toula, l’exposition est un événement scientifique, éducatif et culturel important, ainsi qu’une expression du « soft power » russe, particulièrement précieux dans le contexte géopolitique actuel.",
+          "pt": "A exposição organizada pela RGGU e pela universidade de Tula foi um importante acontecimento científico, educativo e cultural e uma expressão do «soft power» russo, especialmente relevante no atual contexto geopolítico.",
+          "sw": "Maonyesho yaliyoandaliwa na RGGU na chuo cha Tula yalikuwa tukio muhimu la kitaaluma, kielimu na kitamaduni, na pia kielelezo cha «nguvu laini» ya Urusi, jambo muhimu sana katika hali ya sasa ya kijiografia na kisiasa."
+        }
+      ]
+    },
+    {
+      "id": "dar",
+      "category": "exh",
+      "date": "05.11.2024",
+      "iso": "2024-11-05",
+      "pinned": false,
+      "cover": "assets/news_dar3.jpg",
+      "hero": "assets/news_dar2.jpg",
+      "gallery": [
+        "assets/news_dar1.jpg",
+        "assets/news_dar3.jpg",
+        "assets/news_dar4.jpg",
+        "assets/news_dar0.jpg"
+      ],
+      "source": "https://www.rsuh.ru/news/international/vystavki-rggu-pridayut-novyy-impuls-razvitiyu-rossiysko-afrikanskikh-otnosheniy/",
+      "title": {
+        "ru": "Выставки РГГУ придают новый импульс развитию российско-африканских отношений",
+        "en": "RSUH exhibitions give new impetus to Russian–African relations",
+        "fr": "Les expositions de la RGGU donnent un nouvel élan aux relations russo-africaines",
+        "pt": "Exposições da RGGU dão novo impulso às relações russo-africanas",
+        "sw": "Maonyesho ya RGGU yanaupa msukumo mpya uhusiano wa Urusi na Afrika"
+      },
+      "lead": {
+        "ru": "28 октября выставка открылась в Дар-эс-Саламе (Танзания), 31 октября — в Булавайо (Зимбабве).",
+        "en": "The exhibition opened in Dar es Salaam (Tanzania) on 28 October and in Bulawayo (Zimbabwe) on 31 October.",
+        "fr": "L’exposition a ouvert le 28 octobre à Dar es Salaam (Tanzanie) et le 31 octobre à Bulawayo (Zimbabwe).",
+        "pt": "A exposição abriu a 28 de outubro em Dar es Salaam (Tanzânia) e a 31 de outubro em Bulawayo (Zimbabué).",
+        "sw": "Maonyesho yalifunguliwa tarehe 28 Oktoba Dar es Salaam (Tanzania) na tarehe 31 Oktoba Bulawayo (Zimbabwe)."
+      },
+      "place": {
+        "ru": "Дар-эс-Салам · Булавайо",
+        "en": "Dar es Salaam · Bulawayo",
+        "fr": "Dar es Salaam · Bulawayo",
+        "pt": "Dar es Salaam · Bulawayo",
+        "sw": "Dar es Salaam · Bulawayo"
+      },
+      "credit": {
+        "ru": "Текст: Александр Зотин",
+        "en": "Text: Alexander Zotin",
+        "fr": "Texte : Alexandre Zotine",
+        "pt": "Texto: Alexander Zotin",
+        "sw": "Maandishi: Alexander Zotin"
+      },
+      "body": [
+        {
+          "ru": "28 октября 2024 г. в городе Дар-эс-Саламе (Танзания) прошло торжественное открытие архивно-документальной выставки, посвящённой помощи СССР и России африканским странам в борьбе за независимость. Единственная в своём роде экспозиция — плод усилий Российского государственного гуманитарного университета и Министерства образования и науки РФ.",
+          "en": "On 28 October 2024 an archival exhibition on the assistance of the USSR and Russia to African countries in their struggle for independence was ceremonially opened in Dar es Salaam, Tanzania. This one-of-a-kind exhibition is the result of the efforts of the Russian State University for the Humanities and the Russian Ministry of Education and Science.",
+          "fr": "Le 28 octobre 2024, une exposition d’archives consacrée à l’aide de l’URSS et de la Russie aux pays africains dans leur lutte pour l’indépendance a été inaugurée à Dar es Salaam, en Tanzanie. Cette exposition unique est le fruit du travail de l’Université d’État des sciences humaines de Russie et du ministère russe de l’Éducation et de la Science.",
+          "pt": "A 28 de outubro de 2024 foi inaugurada em Dar es Salaam, na Tanzânia, uma exposição de arquivo sobre a ajuda da URSS e da Rússia aos países africanos na luta pela independência. Esta exposição única resulta do trabalho da Universidade Estatal Russa de Humanidades e do Ministério da Educação e Ciência da Rússia.",
+          "sw": "Tarehe 28 Oktoba 2024, maonyesho ya nyaraka za kumbukumbu kuhusu msaada wa USSR na Urusi kwa nchi za Afrika katika mapambano ya uhuru yalifunguliwa rasmi Dar es Salaam, Tanzania. Maonyesho haya ya kipekee ni matunda ya kazi ya Chuo Kikuu cha Kitaifa cha Urusi cha Sayansi ya Kibinadamu na Wizara ya Elimu na Sayansi ya Urusi."
+        },
+        {
+          "ru": "Почти год выставка готовилась сотрудниками различных подразделений РГГУ, прежде всего МУНЦ прикладной африканистики, а также Музейного центра, Центра «Арт-дизайн» и Института филологии и истории. В работе над проектом активное участие приняли и студенты РГГУ.",
+          "en": "The exhibition was prepared for almost a year by staff of various RSUH units, above all the International Center for Applied African Studies, as well as the Museum Centre, the Art-Design Centre and the Institute of Philology and History. RSUH students also took an active part in the project.",
+          "fr": "Elle a été préparée pendant près d’un an par plusieurs départements de la RGGU — avant tout le Centre international d’études africaines appliquées, mais aussi le Centre muséal, le Centre « Art-design » et l’Institut de philologie et d’histoire — avec la participation active d’étudiants.",
+          "pt": "Foi preparada durante quase um ano por vários departamentos da RGGU — sobretudo o Centro Internacional de Estudos Africanos Aplicados, mas também o Centro Museológico, o Centro «Arte-Design» e o Instituto de Filologia e História —, com participação ativa de estudantes.",
+          "sw": "Yaliandaliwa kwa karibu mwaka mmoja na idara mbalimbali za RGGU — hasa Kituo cha Kimataifa cha Taaluma za Afrika kwa Vitendo, pamoja na Kituo cha Makumbusho, Kituo cha «Sanaa na Ubunifu» na Taasisi ya Filolojia na Historia — wanafunzi wakishiriki kikamilifu."
+        },
+        {
+          "ru": "Кроме того, материалы для выставки предоставил Институт Африки РАН и Союз ветеранов Анголы, а площадку для размещения — Российский центр науки и культуры в Танзании.",
+          "en": "Materials for the exhibition were also provided by the Institute for African Studies RAS and the Union of Angola Veterans, and the venue was provided by the Russian Centre for Science and Culture in Tanzania.",
+          "fr": "Des documents ont également été fournis par l’Institut de l’Afrique de l’Académie des sciences de Russie et par l’Union des vétérans d’Angola ; le lieu a été mis à disposition par le Centre russe de science et de culture en Tanzanie.",
+          "pt": "Os materiais foram também cedidos pelo Instituto de África da Academia de Ciências da Rússia e pela União dos Veteranos de Angola; o espaço foi disponibilizado pelo Centro Russo de Ciência e Cultura na Tanzânia.",
+          "sw": "Nyaraka pia zilitolewa na Taasisi ya Afrika ya Chuo cha Sayansi cha Urusi na Umoja wa Maveterani wa Angola, na ukumbi ulitolewa na Kituo cha Sayansi na Utamaduni cha Urusi nchini Tanzania."
+        },
+        {
+          "ru": "Экспозиция была приурочена к Первому заседанию совместной межправительственной Российско-Танзанийской комиссии по торгово-экономическому сотрудничеству. В качестве гостей на выставке присутствовали министр экономического развития России Максим Решетников, Посол России в Танзании Андрей Аветисян, директор Национального музея Танзании Ноэль Бисеко Львога, заместитель директора Департамента международного сотрудничества Минобрнауки России Степан Соколов и другие официальные лица, а также студенты танзанийских вузов.",
+          "en": "The exhibition was timed to the first meeting of the joint Russian–Tanzanian Intergovernmental Commission on Trade and Economic Cooperation. Guests included Russia’s Minister of Economic Development Maxim Reshetnikov, Russian Ambassador to Tanzania Andrey Avetisyan, director of the National Museum of Tanzania Noel Biseko Lwoga, deputy director of the International Cooperation Department of the Russian Ministry of Science Stepan Sokolov and other officials, as well as students of Tanzanian universities.",
+          "fr": "L’exposition coïncidait avec la première session de la Commission intergouvernementale russo-tanzanienne pour la coopération commerciale et économique. Parmi les invités : le ministre russe du Développement économique Maxime Rechetnikov, l’ambassadeur de Russie en Tanzanie Andreï Avetissian, le directeur du Musée national de Tanzanie Noel Biseko Lwoga, Stepan Sokolov du ministère russe de la Science, ainsi que des étudiants tanzaniens.",
+          "pt": "A exposição coincidiu com a primeira reunião da Comissão Intergovernamental Rússia–Tanzânia para a Cooperação Comercial e Económica. Estiveram presentes o ministro do Desenvolvimento Económico da Rússia Maxim Reshetnikov, o embaixador russo na Tanzânia Andrei Avetisian, o diretor do Museu Nacional da Tanzânia Noel Biseko Lwoga, Stepan Sokolov do Ministério da Ciência da Rússia e estudantes tanzanianos.",
+          "sw": "Maonyesho yaliendana na kikao cha kwanza cha Tume ya Pamoja ya Serikali za Urusi na Tanzania kuhusu Ushirikiano wa Biashara na Uchumi. Walihudhuria Waziri wa Maendeleo ya Uchumi wa Urusi Maxim Reshetnikov, Balozi wa Urusi nchini Tanzania Andrey Avetisyan, Mkurugenzi wa Makumbusho ya Taifa ya Tanzania Noel Biseko Lwoga, Stepan Sokolov wa Wizara ya Sayansi ya Urusi na wanafunzi wa vyuo vikuu vya Tanzania."
+        },
+        {
+          "ru": "Уникальность экспозиции в Танзании заключается в том, что впервые публике были представлены архивные материалы, отражающие тесные связи между советским и танзанийским народами, в частности, фотографии и воспоминания советских специалистов, помогавших развитию и постколониальному становлению африканской страны.",
+          "en": "What makes the Tanzanian exhibition unique is that for the first time archival materials reflecting the close ties between the Soviet and Tanzanian peoples were shown to the public, in particular photographs and memoirs of Soviet specialists who helped the African country develop after independence.",
+          "fr": "Pour la première fois, le public a découvert des archives illustrant les liens étroits entre les peuples soviétique et tanzanien, notamment des photographies et des souvenirs de spécialistes soviétiques ayant contribué au développement du pays après l’indépendance.",
+          "pt": "Pela primeira vez, o público viu materiais de arquivo sobre os laços estreitos entre os povos soviético e tanzaniano, incluindo fotografias e memórias de especialistas soviéticos que ajudaram o país depois da independência.",
+          "sw": "Kwa mara ya kwanza, umma ulionyeshwa nyaraka za kumbukumbu kuhusu uhusiano wa karibu kati ya watu wa Kisovyeti na Tanzania, zikiwemo picha na kumbukumbu za wataalamu wa Kisovyeti waliosaidia maendeleo ya nchi baada ya uhuru."
+        },
+        {
+          "ru": "Это уже не первая российская архивно-документальная выставка, которая была открыта на африканском континенте. Первая состоялась в декабре 2023 г. в Хараре (Зимбабве), где был основан Музей освобождения Африки. Тогда выставку посетили министры Зимбабве, члены правящей партии ZANU-PF, а также Послы ряда африканских государств. Вторая выставка состоялась в июле 2024 г. в столице Мозамбика Мапуту по просьбе Министерства экономического развития России и была приурочена к заседанию межправительственной Российско-Мозамбикской комиссии по торгово-экономическому сотрудничеству.",
+          "en": "This is not the first Russian archival exhibition on the African continent. The first was held in December 2023 in Harare, Zimbabwe, where the Museum of African Liberation was founded. It was visited by Zimbabwean ministers, members of the ruling ZANU-PF party and ambassadors of several African states. The second took place in July 2024 in Maputo, the capital of Mozambique, at the request of the Russian Ministry of Economic Development, timed to a meeting of the Russian–Mozambican intergovernmental commission.",
+          "fr": "Ce n’est pas la première exposition d’archives russe sur le continent : la première a eu lieu en décembre 2023 à Harare (Zimbabwe), où a été fondé le Musée de la libération africaine, en présence de ministres zimbabwéens, de membres de la ZANU-PF et d’ambassadeurs africains. La deuxième s’est tenue en juillet 2024 à Maputo (Mozambique), à la demande du ministère russe du Développement économique.",
+          "pt": "Não foi a primeira exposição russa deste tipo em África: a primeira realizou-se em dezembro de 2023 em Harare (Zimbabué), onde foi fundado o Museu da Libertação Africana, com a presença de ministros, membros da ZANU-PF e embaixadores africanos. A segunda decorreu em julho de 2024 em Maputo (Moçambique), a pedido do Ministério do Desenvolvimento Económico da Rússia.",
+          "sw": "Haya si maonyesho ya kwanza ya aina hii barani Afrika: ya kwanza yalifanyika Desemba 2023 Harare (Zimbabwe), ambako Makumbusho ya Ukombozi wa Afrika yalianzishwa, yakihudhuriwa na mawaziri, wanachama wa ZANU-PF na mabalozi wa Afrika. Ya pili yalifanyika Julai 2024 Maputo (Msumbiji), kwa ombi la Wizara ya Maendeleo ya Uchumi ya Urusi."
+        },
+        {
+          "ru": "Цикл выставок РГГУ стал важным элементом в контексте продвижения образовательной, гуманитарной и культурно-просветительской повестки России на африканском континенте. Роль СССР и России в освобождении Африки от колониального гнёта невозможно преуменьшить, и выставки, в свою очередь, являются напоминанием об общей исторической памяти России и Африки.",
+          "en": "The RSUH exhibition cycle has become an important part of promoting Russia’s educational, humanitarian and cultural agenda on the African continent. The role of the USSR and Russia in freeing Africa from colonial oppression cannot be underestimated, and the exhibitions remind us of the shared historical memory of Russia and Africa.",
+          "fr": "Le cycle d’expositions de la RGGU est devenu un élément important de la promotion de l’agenda éducatif, humanitaire et culturel de la Russie en Afrique. Il rappelle la mémoire historique commune de la Russie et de l’Afrique.",
+          "pt": "O ciclo de exposições da RGGU tornou-se um elemento importante da agenda educativa, humanitária e cultural da Rússia em África e lembra a memória histórica comum da Rússia e de África.",
+          "sw": "Mfululizo wa maonyesho ya RGGU umekuwa sehemu muhimu ya kukuza ajenda ya kielimu, kibinadamu na kitamaduni ya Urusi barani Afrika, na unakumbusha historia ya pamoja ya Urusi na Afrika."
+        },
+        {
+          "ru": "31 октября 2024 г. в городе Булавайо (Зимбабве) директор Международного учебно-научного центра прикладной африканистики РГГУ Александр Зотин, его заместитель Дмитрий Борисов и директор Музейного центра РГГУ Ирина Баканова открыли расширенную выставку, посвящённую роли СССР и России в освобождении Африки.",
+          "en": "On 31 October 2024 in Bulawayo, Zimbabwe, Alexander Zotin, director of the RSUH International Center for Applied African Studies, his deputy Dmitry Borisov and Irina Bakanova, director of the RSUH Museum Centre, opened an expanded exhibition on the role of the USSR and Russia in the liberation of Africa.",
+          "fr": "Le 31 octobre 2024 à Bulawayo (Zimbabwe), Alexandre Zotine, directeur du Centre, son adjoint Dmitri Borissov et la directrice du Centre muséal de la RGGU Irina Bakanova ont inauguré une exposition élargie sur le rôle de l’URSS et de la Russie dans la libération de l’Afrique.",
+          "pt": "A 31 de outubro de 2024, em Bulawayo (Zimbabué), Alexander Zotin, o seu adjunto Dmitri Borisov e a diretora do Centro Museológico da RGGU, Irina Bakanova, inauguraram uma exposição alargada sobre o papel da URSS e da Rússia na libertação de África.",
+          "sw": "Tarehe 31 Oktoba 2024 huko Bulawayo (Zimbabwe), Alexander Zotin, naibu wake Dmitry Borisov na mkurugenzi wa Kituo cha Makumbusho cha RGGU Irina Bakanova walifungua maonyesho yaliyopanuliwa kuhusu nafasi ya USSR na Urusi katika ukombozi wa Afrika."
+        },
+        {
+          "ru": "Выставку посетила министр Зимбабве по делам провинций Джудит Нкубе, вице-мэр Булавайо Эдвин Ндлову, ветераны освободительного движения, студенты зимбабвийских вузов. Соорганизатором выставки в Булавайо также выступил Музей Джошуа Нкомо — национального героя Зимбабве и, в своё время, большого друга СССР.",
+          "en": "The exhibition was visited by Zimbabwe’s Minister of Provincial Affairs Judith Ncube, Deputy Mayor of Bulawayo Edwin Ndlovu, veterans of the liberation movement and students of Zimbabwean universities. The Joshua Nkomo Museum — dedicated to Zimbabwe’s national hero and a great friend of the USSR in his time — co-organised the Bulawayo exhibition.",
+          "fr": "Elle a été visitée par la ministre zimbabwéenne des Affaires provinciales Judith Ncube, le maire adjoint de Bulawayo Edwin Ndlovu, des vétérans de la libération et des étudiants. Le musée Joshua Nkomo, consacré au héros national du Zimbabwe et grand ami de l’URSS, en était coorganisateur.",
+          "pt": "Visitaram-na a ministra zimbabueana dos Assuntos Provinciais Judith Ncube, o vice-presidente da câmara de Bulawayo Edwin Ndlovu, veteranos da libertação e estudantes. O Museu Joshua Nkomo, dedicado ao herói nacional do Zimbabué e grande amigo da URSS, foi coorganizador.",
+          "sw": "Maonyesho yalitembelewa na Waziri wa Masuala ya Mikoa wa Zimbabwe Judith Ncube, Naibu Meya wa Bulawayo Edwin Ndlovu, maveterani wa ukombozi na wanafunzi. Makumbusho ya Joshua Nkomo — shujaa wa taifa wa Zimbabwe na rafiki mkubwa wa USSR — yalikuwa mwandaaji mwenza."
+        },
+        {
+          "ru": "Благодаря усилиям МУНЦ прикладной африканистики, РГГУ уже несколько лет поддерживает тесные связи с научными и культурными учреждениями Зимбабве, в частности, с Институтом африканских исследований и Национальной галереей Зимбабве.",
+          "en": "Thanks to the work of the Center for Applied African Studies, RSUH has for several years maintained close ties with academic and cultural institutions in Zimbabwe, in particular the Institute of African Studies and the National Gallery of Zimbabwe.",
+          "fr": "Grâce au Centre d’études africaines appliquées, la RGGU entretient depuis plusieurs années des liens étroits avec l’Institut d’études africaines et la Galerie nationale du Zimbabwe.",
+          "pt": "Graças ao Centro de Estudos Africanos Aplicados, a RGGU mantém há vários anos laços estreitos com o Instituto de Estudos Africanos e a Galeria Nacional do Zimbabué.",
+          "sw": "Kutokana na kazi ya Kituo cha Taaluma za Afrika kwa Vitendo, RGGU kwa miaka kadhaa imedumisha uhusiano wa karibu na Taasisi ya Taaluma za Afrika na Jumba la Sanaa la Taifa la Zimbabwe."
+        },
+        {
+          "ru": "Выставки РГГУ в Танзании и Зимбабве были широко освещены в российских и африканских СМИ, в частности: RussiaToday, Известия, Рен-ТВ, DailyNews (Танзания), TheHerald (Зимбабве), TheChronicle (Зимбабве), Cite (Зимбабве).",
+          "en": "The RSUH exhibitions in Tanzania and Zimbabwe were widely covered by Russian and African media, including RT, Izvestia, REN TV, Daily News (Tanzania), The Herald, The Chronicle and Cite (Zimbabwe).",
+          "fr": "Les expositions de la RGGU en Tanzanie et au Zimbabwe ont été largement couvertes par les médias russes et africains : RT, Izvestia, REN TV, Daily News (Tanzanie), The Herald, The Chronicle et Cite (Zimbabwe).",
+          "pt": "As exposições na Tanzânia e no Zimbabué tiveram ampla cobertura nos media russos e africanos: RT, Izvestia, REN TV, Daily News (Tanzânia), The Herald, The Chronicle e Cite (Zimbabué).",
+          "sw": "Maonyesho ya RGGU nchini Tanzania na Zimbabwe yaliripotiwa sana na vyombo vya habari vya Urusi na Afrika: RT, Izvestia, REN TV, Daily News (Tanzania), The Herald, The Chronicle na Cite (Zimbabwe)."
+        },
+        {
+          "ru": "Экспозиции РГГУ стали первым за последние десятилетия наглядным, базирующимся на архивных материалах напоминанием о вкладе СССР и России в борьбу африканских патриотов за обретение свободы от колониального гнёта. Поворот России в сторону Глобального Юга невозможен без актуализации культурных, исторических, гуманитарных и образовательных связей между нашими народами. Реализация данной повестки РГГУ является важным элементом государственной политики.",
+          "en": "The RSUH exhibitions became the first visual reminder in decades, based on archival materials, of the contribution of the USSR and Russia to the struggle of African patriots for freedom from colonial oppression. Russia’s turn towards the Global South is impossible without reviving the cultural, historical, humanitarian and educational ties between our peoples.",
+          "fr": "Ces expositions sont le premier rappel visuel depuis des décennies, fondé sur des archives, de la contribution de l’URSS et de la Russie à la lutte des patriotes africains pour la liberté. Le tournant de la Russie vers le Sud global passe par la revitalisation des liens culturels, historiques, humanitaires et éducatifs entre nos peuples.",
+          "pt": "Estas exposições são a primeira evocação visual em décadas, baseada em arquivos, do contributo da URSS e da Rússia para a luta dos patriotas africanos pela liberdade. A viragem da Rússia para o Sul Global passa por revitalizar os laços culturais, históricos, humanitários e educativos entre os nossos povos.",
+          "sw": "Maonyesho haya ni ukumbusho wa kwanza wa picha katika miongo kadhaa, unaotegemea nyaraka za kumbukumbu, wa mchango wa USSR na Urusi katika mapambano ya wazalendo wa Afrika kwa uhuru. Mwelekeo wa Urusi kuelekea Kusini mwa Dunia unahitaji kufufua uhusiano wa kitamaduni, kihistoria, kibinadamu na kielimu kati ya watu wetu."
+        }
+      ]
+    },
+    {
+      "id": "bfu",
+      "category": "exh",
+      "date": "11.10.2024",
+      "iso": "2024-10-11",
+      "pinned": false,
+      "cover": "assets/news_bfu1.jpg",
+      "hero": "assets/news_bfu4.jpg",
+      "gallery": [
+        "assets/news_bfu1.jpg",
+        "assets/news_bfu2.jpg",
+        "assets/news_bfu3.jpg",
+        "assets/news_bfu0.jpg"
+      ],
+      "source": "https://www.rsuh.ru/news/mezhdunarodnyy-uchebno-nauchnyy-tsentr-prikladnoy-afrikanistiki/torzhestvennoe-otkrytie-arkhivno-dokumentalnoy-ekspozitsii-v-bfu-im-i-kanta/",
+      "title": {
+        "ru": "Торжественное открытие архивно-документальной экспозиции в БФУ им. И. Канта",
+        "en": "Archival exhibition opens at the Immanuel Kant Baltic Federal University",
+        "fr": "Ouverture d’une exposition d’archives à l’Université fédérale balte Emmanuel-Kant",
+        "pt": "Exposição de arquivo inaugurada na Universidade Federal Báltica Immanuel Kant",
+        "sw": "Maonyesho ya nyaraka za kumbukumbu yafunguliwa katika Chuo Kikuu cha Shirikisho cha Baltiki"
+      },
+      "lead": {
+        "ru": "4 октября в Балтийском федеральном университете открылась выставка о помощи СССР и России африканским странам.",
+        "en": "On 4 October an exhibition on Soviet and Russian assistance to African countries opened at the Baltic Federal University.",
+        "fr": "Le 4 octobre, une exposition sur l’aide soviétique et russe aux pays africains a ouvert à l’Université fédérale balte.",
+        "pt": "A 4 de outubro abriu na Universidade Federal Báltica uma exposição sobre a ajuda soviética e russa aos países africanos.",
+        "sw": "Tarehe 4 Oktoba maonyesho kuhusu msaada wa Kisovyeti na Urusi kwa nchi za Afrika yalifunguliwa katika Chuo Kikuu cha Baltiki."
+      },
+      "place": {
+        "ru": "Калининград",
+        "en": "Kaliningrad",
+        "fr": "Kaliningrad",
+        "pt": "Kaliningrado",
+        "sw": "Kaliningrad"
+      },
+      "credit": {
+        "ru": "Текст и фото: Международный учебно-научный центр прикладной африканистики РГГУ",
+        "en": "Text and photos: RSUH International Center for Applied African Studies",
+        "fr": "Texte et photos : Centre international d’études africaines appliquées de la RGGU",
+        "pt": "Texto e fotos: Centro Internacional de Estudos Africanos Aplicados da RGGU",
+        "sw": "Maandishi na picha: Kituo cha Kimataifa cha Taaluma za Afrika kwa Vitendo cha RGGU"
+      },
+      "body": [
+        {
+          "ru": "4 октября в Балтийском Федеральном Университете им. И. Канта (БФУ им. И. Канта) состоялось торжественное открытие архивно-документальной экспозиции, посвященной помощи СССР и России африканским странам в борьбе против колониализма и неоколониализма. Данный уникальный на постсоветском пространстве проект реализуется Российским государственным гуманитарным университетом (РГГУ) при поддержке Министерства науки и высшего образования России и Института Африканских исследований Зимбабве (INSTAK).",
+          "en": "On 4 October the Immanuel Kant Baltic Federal University hosted the ceremonial opening of an archival exhibition on the assistance of the USSR and Russia to African countries in their struggle against colonialism and neo-colonialism. This project, unique in the post-Soviet space, is carried out by the Russian State University for the Humanities (RSUH) with the support of the Russian Ministry of Science and Higher Education and the Institute of African Studies of Zimbabwe (INSTAK).",
+          "fr": "Le 4 octobre, l’Université fédérale balte Emmanuel-Kant a inauguré une exposition d’archives consacrée à l’aide de l’URSS et de la Russie aux pays africains dans leur lutte contre le colonialisme et le néocolonialisme. Ce projet, unique dans l’espace post-soviétique, est mené par la RGGU avec le soutien du ministère russe de la Science et de l’Enseignement supérieur et de l’Institut d’études africaines du Zimbabwe (INSTAK).",
+          "pt": "A 4 de outubro, a Universidade Federal Báltica Immanuel Kant inaugurou uma exposição de arquivo sobre a ajuda da URSS e da Rússia aos países africanos na luta contra o colonialismo e o neocolonialismo. Este projeto, único no espaço pós-soviético, é realizado pela RGGU com o apoio do Ministério da Ciência e do Ensino Superior da Rússia e do Instituto de Estudos Africanos do Zimbabué (INSTAK).",
+          "sw": "Tarehe 4 Oktoba, Chuo Kikuu cha Shirikisho cha Baltiki (Immanuel Kant) kilifungua maonyesho ya nyaraka za kumbukumbu kuhusu msaada wa USSR na Urusi kwa nchi za Afrika katika mapambano dhidi ya ukoloni na ukoloni mamboleo. Mradi huu wa kipekee katika eneo la baada ya Kisovyeti unatekelezwa na RGGU kwa msaada wa Wizara ya Sayansi na Elimu ya Juu ya Urusi na Taasisi ya Taaluma za Afrika ya Zimbabwe (INSTAK)."
+        },
+        {
+          "ru": "На выставке были представлены документы и фотографии, отражающие различные аспекты истории взаимоотношений России со странами африканского континента, истории помощи СССР и России в борьбе Африки за независимость. Рабочая группа проекта вела поиск в ведущих российских государственных архивах. Особый интерес представляют фотографии Союза ветеранов Анголы и фотоматериалы из личных архивов. Специально для проекта в РГГУ сняли серию видеоинтервью с участниками тех событий.",
+          "en": "The exhibition presented documents and photographs on various aspects of the history of Russia’s relations with African countries and of Soviet and Russian assistance to Africa’s struggle for independence. The project team searched leading Russian state archives. Of particular interest are photographs from the Union of Angola Veterans and from personal archives. A series of video interviews with participants in those events was filmed at RSUH specially for the project.",
+          "fr": "L’exposition présente des documents et des photographies sur l’histoire des relations de la Russie avec l’Afrique et sur l’aide soviétique et russe aux indépendances. Les photographies de l’Union des vétérans d’Angola et des archives personnelles sont particulièrement remarquables ; une série d’entretiens vidéo avec des témoins de l’époque a été tournée à la RGGU pour le projet.",
+          "pt": "A exposição apresenta documentos e fotografias sobre a história das relações da Rússia com África e sobre a ajuda soviética e russa às independências. Destacam-se as fotografias da União dos Veteranos de Angola e de arquivos pessoais; para o projeto foi gravada na RGGU uma série de entrevistas em vídeo com testemunhas da época.",
+          "sw": "Maonyesho yanaonyesha nyaraka na picha kuhusu historia ya uhusiano wa Urusi na Afrika na msaada wa Kisovyeti na Urusi kwa uhuru wa Afrika. Picha za Umoja wa Maveterani wa Angola na za kumbukumbu binafsi zinavutia hasa; mfululizo wa mahojiano ya video na mashahidi wa matukio hayo ulirekodiwa RGGU kwa ajili ya mradi."
+        },
+        {
+          "ru": "Первыми посетителями выставки стали студенты БФУ им. И. Канта, обучающиеся по программе «Международные отношения», а также курсанты Балтийского высшего военно-морского училища имени адмирала Ф. Ф. Ушакова.",
+          "en": "The first visitors were students of the university’s International Relations programme and cadets of the Admiral F. F. Ushakov Baltic Higher Naval School.",
+          "fr": "Les premiers visiteurs ont été les étudiants en relations internationales de l’université et les élèves de l’École navale supérieure balte Amiral-Ouchakov.",
+          "pt": "Os primeiros visitantes foram estudantes de Relações Internacionais da universidade e cadetes da Escola Naval Superior do Báltico Almirante Ushakov.",
+          "sw": "Wageni wa kwanza walikuwa wanafunzi wa Mahusiano ya Kimataifa wa chuo hicho na kadeti wa Chuo cha Juu cha Jeshi la Majini cha Baltiki (Admiral Ushakov)."
+        },
+        {
+          "ru": "На открытии стендовой экспозиции и. о. ректора БФУ им. И. Канта Максим Демин отметил, что сегодня российско-африканское партнерство активно развивается не только по вопросам экономики или политики, но и в академической среде.",
+          "en": "At the opening, acting rector of the university Maxim Demin noted that Russian–African partnership is now developing not only in economics and politics but also in the academic sphere.",
+          "fr": "Le recteur par intérim Maxime Demine a souligné que le partenariat russo-africain se développe désormais aussi dans le monde académique.",
+          "pt": "O reitor interino Maxim Demin sublinhou que a parceria russo-africana se desenvolve hoje também no meio académico.",
+          "sw": "Kaimu mkuu wa chuo Maxim Demin alisema kwamba ushirikiano wa Urusi na Afrika sasa unakua pia katika nyanja ya kitaaluma."
+        },
+        {
+          "ru": "«В России в прошлом году внедрили концепцию внешней политики, в соответствии с которой Африка занимает большее место. Речь идет о том, что Россия полностью разделяет усилия Африки по созданию новых многополярных независимых центров. Такие выставки, как сегодня открылась в БФУ, это так называемые инструменты «мягкой силы», когда мы поддерживаем гуманитарные и культурные начинания между нашими странами», — добавил заместитель Представителя МИД России в Калининграде Александр Калькута.",
+          "en": "“Last year Russia adopted a foreign policy concept in which Africa occupies a larger place. Russia fully shares Africa’s efforts to create new multipolar independent centres. Exhibitions like the one opened today at the university are instruments of ‘soft power’ through which we support humanitarian and cultural initiatives between our countries,” added Alexander Kalkuta, deputy representative of the Russian Foreign Ministry in Kaliningrad.",
+          "fr": "« La Russie a adopté l’an dernier un concept de politique étrangère qui accorde une plus grande place à l’Afrique. Des expositions comme celle-ci sont des instruments de “soft power” qui soutiennent les initiatives humanitaires et culturelles entre nos pays », a ajouté Alexandre Kalkouta, représentant adjoint du ministère russe des Affaires étrangères à Kaliningrad.",
+          "pt": "«No ano passado a Rússia adotou um conceito de política externa em que África ocupa um lugar maior. Exposições como esta são instrumentos de “soft power” que apoiam iniciativas humanitárias e culturais entre os nossos países», acrescentou Alexander Kalkuta, representante adjunto do Ministério dos Negócios Estrangeiros da Rússia em Kaliningrado.",
+          "sw": "«Mwaka jana Urusi ilipitisha dhana ya sera ya nje ambapo Afrika ina nafasi kubwa zaidi. Maonyesho kama haya ni vyombo vya “nguvu laini” vinavyounga mkono mipango ya kibinadamu na kitamaduni kati ya nchi zetu,» aliongeza Alexander Kalkuta, naibu mwakilishi wa Wizara ya Mambo ya Nje ya Urusi huko Kaliningrad."
+        }
+      ]
+    },
+    {
+      "id": "conf",
+      "category": "sci",
+      "date": "21.04.2021",
+      "iso": "2021-04-21",
+      "pinned": false,
+      "cover": "assets/news_conf0.jpg",
+      "hero": "assets/news_conf0.jpg",
+      "gallery": [],
+      "source": "https://www.rsuh.ru/news/mezhdunarodnyy-uchebno-nauchnyy-tsentr-prikladnoy-afrikanistiki/v-rggu-obsudili-riski-i-vyzovy-postupatelnogo-razvitiya-afriki/",
+      "title": {
+        "ru": "В РГГУ обсудили риски и вызовы поступательного развития Африки",
+        "en": "RSUH discusses the risks and challenges of Africa’s progressive development",
+        "fr": "La RGGU débat des risques et défis du développement de l’Afrique",
+        "pt": "RGGU debate os riscos e desafios do desenvolvimento de África",
+        "sw": "RGGU yajadili hatari na changamoto za maendeleo ya Afrika"
+      },
+      "lead": {
+        "ru": "Научно-практическая конференция «Современная Африка: риски и вызовы поступательного развития» собрала более 30 участников.",
+        "en": "The conference “Modern Africa: Risks and Challenges of Progressive Development” brought together more than 30 participants.",
+        "fr": "La conférence « L’Afrique contemporaine : risques et défis du développement » a réuni plus de 30 participants.",
+        "pt": "A conferência «África contemporânea: riscos e desafios do desenvolvimento» reuniu mais de 30 participantes.",
+        "sw": "Kongamano «Afrika ya kisasa: hatari na changamoto za maendeleo» lilileta pamoja washiriki zaidi ya 30."
+      },
+      "place": {
+        "ru": "Москва, РГГУ",
+        "en": "Moscow, RSUH",
+        "fr": "Moscou, RGGU",
+        "pt": "Moscovo, RGGU",
+        "sw": "Moscow, RGGU"
+      },
+      "credit": {
+        "ru": "Источник: rsuh.ru",
+        "en": "Source: rsuh.ru",
+        "fr": "Source : rsuh.ru",
+        "pt": "Fonte: rsuh.ru",
+        "sw": "Chanzo: rsuh.ru"
+      },
+      "body": [
+        {
+          "ru": "19 апреля 2021 года в Российском государственном гуманитарном университете в Зале ученого совета прошла научно-практическая конференция «Современная Африка: риски и вызовы поступательного развития». На мероприятии присутствовало более 30 участников — преподавателей и студентов различных факультетов, а также приглашенные гости. На конференции присутствовали эксперты из Института Африки РАН (Денисова Т.С., Рыбалкина И.Г., Хохолькова Н.Е., Костелянец С.В., Салахетдинов Э.Р., Гаврилова Н.Г. и др.), МГУ, РГГУ. Мероприятие открыли директор Центра прикладной африканистики проф., д.полит.н. Медушевский Н.А. и доц., д.и.н., зав. кафедрой Современного Востока ФИПП Филин Н.А.",
+          "en": "On 19 April 2021 the Academic Council Hall of the Russian State University for the Humanities hosted the research conference “Modern Africa: Risks and Challenges of Progressive Development”. It brought together more than 30 participants — teachers and students of various faculties as well as invited guests, including experts from the Institute for African Studies RAS (T. S. Denisova, I. G. Rybalkina, N. E. Khokholkova, S. V. Kostelyanets, E. R. Salakhetdinov, N. G. Gavrilova and others), Moscow State University and RSUH. The event was opened by the director of the Center for Applied African Studies, Professor N. A. Medushevsky, and the head of the Department of the Modern East, N. A. Filin.",
+          "fr": "Le 19 avril 2021, la salle du Conseil scientifique de la RGGU a accueilli la conférence « L’Afrique contemporaine : risques et défis du développement ». Plus de 30 participants y ont pris part — enseignants, étudiants et invités, dont des experts de l’Institut de l’Afrique de l’Académie des sciences de Russie (T. S. Denissova, I. G. Rybalkina, N. E. Khokholkova, S. V. Kostelianets, E. R. Salakhetdinov, N. G. Gavrilova et d’autres), de l’Université de Moscou et de la RGGU. La conférence a été ouverte par le directeur du Centre d’études africaines appliquées, le professeur N. A. Medouchevski, et par N. A. Filine, chef du département de l’Orient contemporain.",
+          "pt": "A 19 de abril de 2021, a sala do Conselho Científico da RGGU acolheu a conferência «África contemporânea: riscos e desafios do desenvolvimento», com mais de 30 participantes — docentes, estudantes e convidados, incluindo especialistas do Instituto de África da Academia de Ciências da Rússia (T. S. Denisova, I. G. Rybalkina, N. E. Khokholkova, S. V. Kostelianets, E. R. Salakhetdinov, N. G. Gavrilova e outros), da Universidade de Moscovo e da RGGU. Abriram a conferência o diretor do Centro de Estudos Africanos Aplicados, professor N. A. Medushevski, e N. A. Filin, chefe do departamento do Oriente Contemporâneo.",
+          "sw": "Tarehe 19 Aprili 2021, ukumbi wa Baraza la Kitaaluma la RGGU ulikuwa mwenyeji wa kongamano «Afrika ya kisasa: hatari na changamoto za maendeleo», lililoshirikisha zaidi ya watu 30 — walimu, wanafunzi na wageni, wakiwemo wataalamu wa Taasisi ya Afrika ya Chuo cha Sayansi cha Urusi (T. S. Denisova, I. G. Rybalkina, N. E. Khokholkova, S. V. Kostelyanets, E. R. Salakhetdinov, N. G. Gavrilova na wengine), Chuo Kikuu cha Moscow na RGGU. Kongamano lilifunguliwa na mkurugenzi wa Kituo cha Taaluma za Afrika kwa Vitendo, Profesa N. A. Medushevsky, na N. A. Filin, mkuu wa idara ya Mashariki ya Kisasa."
+        },
+        {
+          "ru": "В своем приветственном слове они обозначили роль направления африканистики в современной российской образовательной модели, отметив большой потенциал и перспективы развития данного направления и его ценность для страны и мира в целом. После выступления ведущих слово взяла к.и.н. доц. Гордеева М.А., которая презентовала первый пленарный доклад на тему «Реализация целей устойчивого развития в Африке: успехи и сложности».",
+          "en": "In their welcome speeches they outlined the role of African studies in the modern Russian education model and its great potential and value for the country and the world. The first plenary report, “Implementing the Sustainable Development Goals in Africa: successes and difficulties”, was presented by M. A. Gordeeva.",
+          "fr": "Ils ont rappelé le rôle des études africaines dans le modèle éducatif russe et leur grand potentiel. Le premier rapport plénier, « La mise en œuvre des Objectifs de développement durable en Afrique : succès et difficultés », a été présenté par M. A. Gordeïeva.",
+          "pt": "Ambos sublinharam o papel e o potencial dos estudos africanos no modelo educativo russo. O primeiro relatório plenário, «A concretização dos Objetivos de Desenvolvimento Sustentável em África: êxitos e dificuldades», foi apresentado por M. A. Gordeeva.",
+          "sw": "Walieleza nafasi na uwezo wa taaluma za Afrika katika mfumo wa elimu wa Urusi. Ripoti ya kwanza ya jumla, «Utekelezaji wa Malengo ya Maendeleo Endelevu barani Afrika: mafanikio na changamoto», iliwasilishwa na M. A. Gordeeva."
+        },
+        {
+          "ru": "Далее в рамках первой секции конференции были представлены доклады к.ю.н. доц. Логвинова И.В. «Проблемы и перспективы участия субъектов Российской Федерации в межрегиональном сотрудничестве со странами Африки», к.и.н., вед.н.с., зав. Центром изучения стран Тропической Африки Института Африки РАН Денисовой Т. С. «Бассейн озера Чад как пространство для деятельности исламистских группировок „Боко Харам“ и „Провинция Исламского государства в Западной Африке“», а также серия студенческих докладов по африканской проблематике.",
+          "en": "The first section featured reports by I. V. Logvinov, “Problems and prospects for the participation of Russian regions in interregional cooperation with African countries”, and by T. S. Denisova, head of the Center for Tropical African Studies at the Institute for African Studies RAS, “The Lake Chad Basin as a space for the Islamist groups Boko Haram and Islamic State West Africa Province”, as well as a series of student reports on African issues.",
+          "fr": "La première section comprenait les rapports d’I. V. Logvinov sur la coopération interrégionale des régions russes avec l’Afrique et de T. S. Denissova sur le bassin du lac Tchad comme espace d’action de Boko Haram et de l’État islamique en Afrique de l’Ouest, ainsi qu’une série de rapports d’étudiants.",
+          "pt": "Na primeira secção foram apresentados os relatórios de I. V. Logvinov sobre a cooperação inter-regional das regiões russas com África e de T. S. Denisova sobre a bacia do lago Chade como espaço de ação do Boko Haram e do Estado Islâmico na África Ocidental, bem como uma série de relatórios de estudantes.",
+          "sw": "Katika sehemu ya kwanza ziliwasilishwa ripoti za I. V. Logvinov kuhusu ushirikiano wa mikoa ya Urusi na Afrika na T. S. Denisova kuhusu bonde la Ziwa Chad kama eneo la shughuli za Boko Haram na Dola la Kiislamu Afrika Magharibi, pamoja na ripoti za wanafunzi."
+        },
+        {
+          "ru": "Вторая секция конференции, модератором которой выступил Филин Н.А., заведующий кафедрой современного Востока ФИПП ИАИ РГГУ, включила два основных тематических раздела: «семья и гендерные отношения на Африканском континенте» и «страновой подход к изучению Африки».",
+          "en": "The second section, moderated by N. A. Filin, covered two main themes: family and gender relations on the African continent, and a country-based approach to the study of Africa.",
+          "fr": "La deuxième section, animée par N. A. Filine, portait sur la famille et les relations de genre en Afrique et sur l’approche par pays de l’étude du continent.",
+          "pt": "A segunda secção, moderada por N. A. Filin, abordou a família e as relações de género em África e a abordagem por país ao estudo do continente.",
+          "sw": "Sehemu ya pili, iliyoongozwa na N. A. Filin, ilihusu familia na uhusiano wa kijinsia barani Afrika na mtazamo wa kila nchi katika kuisoma Afrika."
+        },
+        {
+          "ru": "В рамках второй секции прозвучали доклады: «Гендерный цифровой разрыв в странах Африки: пути преодоления» (Н.Е. Хохолькова), «Взгляды иранских политиков и экспертов на Африку» (Филин Н.А.), «Российско-индийское энергетическое сотрудничество в рамках БРИКС и ШОС: новые контуры сотрудничества» (Печищева Л.А.), «Современная стратегия КНР в странах Африки: ключевые приоритеты» (Морозова Н.В.), «Политика ОАЭ на африканском направлении: вызовы и приоритеты» (Костелянец С. В.), «Эволюция койсанской идентичности в Южной Африке: критический анализ» (Салахетдинов Э.Р.) и многие другие.",
+          "en": "Reports in the second section included “The gender digital divide in Africa: ways to overcome it” (N. E. Khokholkova), “Iranian politicians and experts on Africa” (N. A. Filin), “Russian–Indian energy cooperation within BRICS and the SCO” (L. A. Pechishcheva), “China’s current strategy in Africa: key priorities” (N. V. Morozova), “The UAE’s African policy: challenges and priorities” (S. V. Kostelyanets), “The evolution of Khoisan identity in South Africa: a critical analysis” (E. R. Salakhetdinov) and many others.",
+          "fr": "On y a entendu notamment : « La fracture numérique de genre en Afrique » (N. E. Khokholkova), « Les responsables et experts iraniens sur l’Afrique » (N. A. Filine), « La coopération énergétique russo-indienne dans les BRICS et l’OCS » (L. A. Pechtcheva), « La stratégie actuelle de la Chine en Afrique » (N. V. Morozova), « La politique africaine des Émirats arabes unis » (S. V. Kostelianets), « L’évolution de l’identité khoïsan en Afrique du Sud » (E. R. Salakhetdinov) et bien d’autres.",
+          "pt": "Ouviram-se, entre outros, «O fosso digital de género em África» (N. E. Khokholkova), «Políticos e especialistas iranianos sobre África» (N. A. Filin), «Cooperação energética russo-indiana nos BRICS e na OCX» (L. A. Pechishcheva), «A estratégia atual da China em África» (N. V. Morozova), «A política africana dos Emirados Árabes Unidos» (S. V. Kostelianets) e «A evolução da identidade khoisan na África do Sul» (E. R. Salakhetdinov).",
+          "sw": "Miongoni mwa ripoti zilikuwa «Pengo la kidijitali la kijinsia barani Afrika» (N. E. Khokholkova), «Wanasiasa na wataalamu wa Iran kuhusu Afrika» (N. A. Filin), «Ushirikiano wa nishati wa Urusi na India ndani ya BRICS na SCO» (L. A. Pechishcheva), «Mkakati wa sasa wa China barani Afrika» (N. V. Morozova), «Sera ya Falme za Kiarabu barani Afrika» (S. V. Kostelyanets) na «Mabadiliko ya utambulisho wa Wakhoisan Afrika Kusini» (E. R. Salakhetdinov)."
+        },
+        {
+          "ru": "Студенты и магистранты ФИПП и ФМОиЗР РГГУ также приняли активное участие в конференции. Интерес участников к проблематике конференции продемонстрировал высокую актуальность выбранного исследовательского вектора и обусловил потенциал для ежегодного проведения данного мероприятия в стенах РГГУ.",
+          "en": "Students and master’s students of RSUH faculties also took an active part. The participants’ interest showed the high relevance of the chosen research direction and the potential to hold the conference annually at RSUH.",
+          "fr": "Les étudiants et masterants de la RGGU y ont participé activement. L’intérêt suscité a montré la pertinence du sujet et la possibilité d’organiser cette conférence chaque année.",
+          "pt": "Estudantes e mestrandos da RGGU participaram ativamente. O interesse demonstrado confirmou a relevância do tema e a possibilidade de realizar a conferência anualmente.",
+          "sw": "Wanafunzi na wanafunzi wa uzamili wa RGGU walishiriki kikamilifu. Hamasa ya washiriki ilionyesha umuhimu wa mada na uwezekano wa kufanya kongamano hili kila mwaka."
+        }
+      ]
+    },
+    {
+      "id": "pres",
+      "category": "center",
+      "date": "06.04.2021",
+      "iso": "2021-04-06",
+      "pinned": false,
+      "cover": "assets/news_pres1.jpg",
+      "hero": "assets/news_pres2.jpg",
+      "gallery": [
+        "assets/news_pres1.jpg",
+        "assets/news_pres0.jpg"
+      ],
+      "source": "https://www.rsuh.ru/news/mezhdunarodnyy-uchebno-nauchnyy-tsentr-prikladnoy-afrikanistiki/v-rggu-proshla-prezentatsiya-tsentra-prikladnoy-afrikanistiki-/",
+      "title": {
+        "ru": "В РГГУ прошла презентация Центра прикладной африканистики",
+        "en": "RSUH presents the Center for Applied African Studies",
+        "fr": "Présentation du Centre d’études africaines appliquées à la RGGU",
+        "pt": "RGGU apresenta o Centro de Estudos Africanos Aplicados",
+        "sw": "RGGU yazindua Kituo cha Taaluma za Afrika kwa Vitendo"
+      },
+      "lead": {
+        "ru": "Центр, созданный в ноябре 2020 года, представили 1 апреля вместе с будущей магистерской программой.",
+        "en": "The Center, founded in November 2020, was presented on 1 April together with its future master’s programme.",
+        "fr": "Le Centre, créé en novembre 2020, a été présenté le 1er avril avec son futur programme de master.",
+        "pt": "O Centro, fundado em novembro de 2020, foi apresentado a 1 de abril juntamente com o futuro mestrado.",
+        "sw": "Kituo, kilichoanzishwa Novemba 2020, kilizinduliwa tarehe 1 Aprili pamoja na programu yake ya uzamili."
+      },
+      "place": {
+        "ru": "Москва, РГГУ",
+        "en": "Moscow, RSUH",
+        "fr": "Moscou, RGGU",
+        "pt": "Moscovo, RGGU",
+        "sw": "Moscow, RGGU"
+      },
+      "credit": {
+        "ru": "Источник: rsuh.ru",
+        "en": "Source: rsuh.ru",
+        "fr": "Source : rsuh.ru",
+        "pt": "Fonte: rsuh.ru",
+        "sw": "Chanzo: rsuh.ru"
+      },
+      "body": [
+        {
+          "ru": "Первого апреля 2021 года в Российском государственном гуманитарном университете прошла презентация Учебно-научного Центра прикладной африканистики РГГУ. Центр был создан в ноябре 2020 года и в 2021 году приступил к реализации исследовательских и образовательных проектов.",
+          "en": "On 1 April 2021 the Russian State University for the Humanities presented its Educational and Research Center for Applied African Studies. The Center was founded in November 2020 and began implementing research and educational projects in 2021.",
+          "fr": "Le 1er avril 2021, la RGGU a présenté son Centre d’enseignement et de recherche en études africaines appliquées, créé en novembre 2020 et qui a lancé en 2021 ses projets de recherche et d’enseignement.",
+          "pt": "A 1 de abril de 2021, a RGGU apresentou o seu Centro de Ensino e Investigação em Estudos Africanos Aplicados, fundado em novembro de 2020 e que iniciou em 2021 os seus projetos de investigação e ensino.",
+          "sw": "Tarehe 1 Aprili 2021, RGGU ilizindua Kituo chake cha Elimu na Utafiti wa Taaluma za Afrika kwa Vitendo, kilichoanzishwa Novemba 2020 na kuanza miradi yake ya utafiti na elimu mwaka 2021."
+        },
+        {
+          "ru": "Мероприятие открыл ректор РГГУ Александр Безбородов. В приветственном слове он обозначил роль направления африканистики в современной российской образовательной модели, отметив большой потенциал и перспективы развития данного направления и его ценность для Университета. Ректор обратил внимание на широкие перспективы развития Центра прикладной африканистики, связанные как с открытием новой магистратуры по направлению «Современная Африка: политические процессы и гуманитарное сотрудничество с Россией», так и с реализацией научного и академического сотрудничества с российскими и зарубежными университетами.",
+          "en": "The event was opened by RSUH Rector Alexander Bezborodov. He outlined the role of African studies in the modern Russian education model and noted the great potential of the field and its value for the University. The rector pointed to the broad prospects of the Center, linked both to the launch of a new master’s programme, “Modern Africa: Political Processes and Humanitarian Cooperation with Russia”, and to academic cooperation with Russian and foreign universities.",
+          "fr": "Le recteur Alexandre Bezborodov a ouvert l’événement en soulignant le potentiel des études africaines et les perspectives du Centre, liées à l’ouverture d’un nouveau master, « L’Afrique contemporaine : processus politiques et coopération humanitaire avec la Russie », et à la coopération avec des universités russes et étrangères.",
+          "pt": "O reitor Alexander Bezborodov abriu o evento, destacando o potencial dos estudos africanos e as perspetivas do Centro, ligadas ao novo mestrado «África contemporânea: processos políticos e cooperação humanitária com a Rússia» e à cooperação com universidades russas e estrangeiras.",
+          "sw": "Mkuu wa chuo Alexander Bezborodov alifungua tukio, akisisitiza uwezo wa taaluma za Afrika na matarajio ya Kituo, yanayohusiana na programu mpya ya uzamili «Afrika ya kisasa: michakato ya kisiasa na ushirikiano wa kibinadamu na Urusi» na ushirikiano na vyuo vikuu vya Urusi na vya nje."
+        },
+        {
+          "ru": "После выступления ректора слово взял директор Центра прикладной африканистики, профессор Николай Медушевский, который представил собравшимся презентацию, посвященную перспективным направлениям деятельности подразделения. Отдельные темы были посвящены государственным задачам и программам, связанным с российско-африканским сотрудничеством, и тому положению, которое в реализации этих программ занимает и в перспективе может занять Центр прикладной африканистики РГГУ.",
+          "en": "Then the director of the Center, Professor Nikolay Medushevsky, gave a presentation on the unit’s prospective areas of work, including state tasks and programmes related to Russian–African cooperation and the place the Center holds and may hold in them.",
+          "fr": "Le directeur du Centre, le professeur Nikolaï Medouchevski, a ensuite présenté les axes de travail du Centre, les programmes publics liés à la coopération russo-africaine et la place que le Centre peut y occuper.",
+          "pt": "O diretor do Centro, professor Nikolai Medushevski, apresentou depois as áreas de trabalho do Centro, os programas públicos de cooperação russo-africana e o lugar que o Centro pode ocupar neles.",
+          "sw": "Kisha mkurugenzi wa Kituo, Profesa Nikolay Medushevsky, alieleza maeneo ya kazi ya Kituo, programu za serikali za ushirikiano wa Urusi na Afrika na nafasi ambayo Kituo kinaweza kuwa nayo ndani yake."
+        },
+        {
+          "ru": "В рамках презентации докладчик рассказал про миссию, цели и направления исследовательской деятельности центра. Центр реализует прикладные проекты, связанные с вопросами развития африканских стран и российско-африканского сотрудничества, в соответствии с Целями устойчивого развития ООН, в том числе с привлечением представителей российского бизнеса, заинтересованных в развитии деятельности на Африканском континенте через призму гуманитарного сотрудничества России и Африки.",
+          "en": "He spoke about the Center’s mission, goals and research areas. The Center carries out applied projects on the development of African countries and Russian–African cooperation in line with the UN Sustainable Development Goals, including with Russian businesses interested in working in Africa through humanitarian cooperation.",
+          "fr": "Il a exposé la mission, les objectifs et les axes de recherche du Centre, qui mène des projets appliqués sur le développement des pays africains et la coopération russo-africaine conformément aux Objectifs de développement durable de l’ONU, y compris avec des entreprises russes intéressées par l’Afrique.",
+          "pt": "Falou da missão, dos objetivos e das linhas de investigação do Centro, que desenvolve projetos aplicados sobre o desenvolvimento dos países africanos e a cooperação russo-africana em linha com os Objetivos de Desenvolvimento Sustentável da ONU, também com empresas russas interessadas em África.",
+          "sw": "Alieleza dhamira, malengo na maeneo ya utafiti ya Kituo, kinachotekeleza miradi ya vitendo kuhusu maendeleo ya nchi za Afrika na ushirikiano wa Urusi na Afrika kwa mujibu wa Malengo ya Maendeleo Endelevu ya Umoja wa Mataifa, ikiwemo pamoja na makampuni ya Urusi yenye nia ya kufanya kazi Afrika."
+        },
+        {
+          "ru": "Николай Андреевич отметил, что УНЦ прикладной африканистики создан с учетом тенденций и требований современного общества и является результатом изучения опыта и знаний ведущих мировых и российских научных и образовательных учреждений.",
+          "en": "Nikolay Medushevsky noted that the Center was created with the trends and needs of modern society in mind, drawing on the experience of leading world and Russian research and educational institutions.",
+          "fr": "Selon Nikolaï Medouchevski, le Centre a été conçu en tenant compte des besoins de la société actuelle et de l’expérience des meilleures institutions mondiales et russes.",
+          "pt": "Segundo Nikolai Medushevski, o Centro foi criado tendo em conta as necessidades da sociedade atual e a experiência das melhores instituições mundiais e russas.",
+          "sw": "Kwa mujibu wa Nikolay Medushevsky, Kituo kiliundwa kwa kuzingatia mahitaji ya jamii ya leo na uzoefu wa taasisi bora za dunia na za Urusi."
+        },
+        {
+          "ru": "Следующим рассмотренным аспектом стала магистерская программа центра, реализация которой намечена на 2021–2023 годы. В рамках презентации программы слово было предоставлено кандидату наук Надежде Хохольковой, кандидату наук Башиер Нижуд Хассан и кандидату наук Алексею Даньшину, которые рассказали собравшимся о курсах, подготовленных в рамках магистерской программы.",
+          "en": "The next topic was the Center’s master’s programme planned for 2021–2023. Nadezhda Khokholkova, Bashier Nijud Hassan and Alexey Danshin presented the courses prepared for it.",
+          "fr": "Le programme de master prévu pour 2021–2023 a ensuite été présenté ; Nadejda Khokholkova, Bashier Nijud Hassan et Alexeï Danchine ont décrit les cours préparés.",
+          "pt": "Seguiu-se a apresentação do mestrado previsto para 2021–2023; Nadezhda Khokholkova, Bashier Nijud Hassan e Alexei Danshin descreveram as disciplinas preparadas.",
+          "sw": "Kisha ilielezwa programu ya uzamili iliyopangwa kwa 2021–2023; Nadezhda Khokholkova, Bashier Nijud Hassan na Alexey Danshin walieleza kozi zilizoandaliwa."
+        },
+        {
+          "ru": "Презентация завершилась широкой дискуссией по перспективным проектам центра, в которой участвовали как преподаватели и студенты РГГУ, так и приглашенные гости, представлявшие ведущие вузы и академические структуры.",
+          "en": "The presentation ended with a broad discussion of the Center’s future projects with RSUH teachers and students and guests from leading universities and academic institutions.",
+          "fr": "La présentation s’est conclue par une large discussion avec enseignants, étudiants et invités d’universités et d’instituts de recherche.",
+          "pt": "A apresentação terminou com um amplo debate com docentes, estudantes e convidados de universidades e instituições académicas.",
+          "sw": "Uzinduzi ulimalizika kwa majadiliano mapana pamoja na walimu, wanafunzi na wageni kutoka vyuo vikuu na taasisi za kitaaluma."
+        }
+      ]
+    }
+  ],
+  "announcements": [
+    {
+      "day": "[00]",
+      "month": {
+        "ru": "[МЕСЯЦ]",
+        "en": "[MONTH]",
+        "fr": "[MOIS]",
+        "pt": "[MÊS]",
+        "sw": "[MWEZI]"
+      },
+      "title": {
+        "ru": "[Открытие выставки]",
+        "en": "[Exhibition opening]",
+        "fr": "[Inauguration d’une exposition]",
+        "pt": "[Inauguração de exposição]",
+        "sw": "[Ufunguzi wa maonyesho]"
+      },
+      "place": {
+        "ru": "[Город, площадка]",
+        "en": "[City, venue]",
+        "fr": "[Ville, lieu]",
+        "pt": "[Cidade, local]",
+        "sw": "[Mji, ukumbi]"
+      }
+    },
+    {
+      "day": "[00]",
+      "month": {
+        "ru": "[МЕСЯЦ]",
+        "en": "[MONTH]",
+        "fr": "[MOIS]",
+        "pt": "[MÊS]",
+        "sw": "[MWEZI]"
+      },
+      "title": {
+        "ru": "[Лекция или круглый стол]",
+        "en": "[Lecture or round table]",
+        "fr": "[Conférence ou table ronde]",
+        "pt": "[Palestra ou mesa-redonda]",
+        "sw": "[Mhadhara au mjadala]"
+      },
+      "place": {
+        "ru": "[Место, время]",
+        "en": "[Place, time]",
+        "fr": "[Lieu, heure]",
+        "pt": "[Local, hora]",
+        "sw": "[Mahali, saa]"
+      }
+    },
+    {
+      "day": "[00]",
+      "month": {
+        "ru": "[МЕСЯЦ]",
+        "en": "[MONTH]",
+        "fr": "[MOIS]",
+        "pt": "[MÊS]",
+        "sw": "[MWEZI]"
+      },
+      "title": {
+        "ru": "[День открытых дверей магистратуры]",
+        "en": "[Master’s open day]",
+        "fr": "[Journée portes ouvertes du master]",
+        "pt": "[Dia aberto do mestrado]",
+        "sw": "[Siku ya wazi ya uzamili]"
+      },
+      "place": {
+        "ru": "[Место, время]",
+        "en": "[Place, time]",
+        "fr": "[Lieu, heure]",
+        "pt": "[Local, hora]",
+        "sw": "[Mahali, saa]"
+      }
+    }
+  ]
+}

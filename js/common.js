@@ -47,6 +47,12 @@
 
   CPA.$ = $; CPA.$$ = $$; CPA.esc = esc; CPA.tx = tx; CPA.t = t; CPA.pad2 = pad2; CPA.cap = cap; CPA.param = param; CPA.email = email;
   CPA.ARROW = ARROW;
+  // Выставки: куда ведёт карточка и какая у неё плашка («Фото с открытия», «Иллюстрация», «Пример»)
+  CPA.exLink = function (s) { return s.link || ('exhibition.html?id=' + encodeURIComponent(s.id || '')); };
+  CPA.exTag = function (s) {
+    var key = s.tag === 'photo' ? 'exhibitions.tagPhoto' : s.tag === 'illus' ? 'exhibitions.tagIllus' : (s.tag === 'sample' || s.sample) ? 'exhibitions.sample' : '';
+    return key ? t(key) : '';
+  };
   CPA.ARROW14 = ARROW.replace(/16/g, '14');
 
   // ---------- язык ----------
@@ -64,12 +70,52 @@
     try { localStorage.setItem('cpa.lang', l.toUpperCase()); } catch (e) {}
     renderAll();
   }
+  // Телефонное меню: пять кнопок. Шапка на компьютере: выпадающий список.
+  var CHEVRON = '<svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" aria-hidden="true"><path d="M6 9l6 6 6-6"/></svg>';
   function renderLangButtons() {
+    var cur = CPA.state.lang;
     $$('[data-langs]').forEach(function (box) {
       box.innerHTML = LANGS.map(function (l) {
-        return '<button type="button" data-lang="' + l + '" aria-pressed="' + (l === CPA.state.lang) + '" aria-label="' + LANG_NAMES[l] + '" lang="' + l + '">' + l.toUpperCase() + '</button>';
+        return '<button type="button" data-lang="' + l + '" aria-pressed="' + (l === cur) + '" aria-label="' + LANG_NAMES[l] + '" lang="' + l + '">' + l.toUpperCase() + '</button>';
       }).join('');
     });
+    $$('[data-lang-dd]').forEach(function (box) {
+      var open = box.classList.contains('open');
+      box.innerHTML =
+        '<button type="button" class="lang-dd-btn" data-lang-toggle aria-haspopup="listbox" aria-expanded="' + open + '" aria-label="' + esc(t('header.langLabel') + ': ' + LANG_NAMES[cur]) + '">' + cur.toUpperCase() + CHEVRON + '</button>' +
+        '<div class="lang-dd-list" role="listbox" aria-label="' + esc(t('header.langLabel')) + '"' + (open ? '' : ' hidden') + '>' +
+        LANGS.map(function (l) {
+          return '<button type="button" role="option" data-lang="' + l + '" aria-selected="' + (l === cur) + '" lang="' + l + '"><span>' + l.toUpperCase() + '</span><span class="nm">' + LANG_NAMES[l] + '</span></button>';
+        }).join('') + '</div>';
+    });
+  }
+  function setLangMenu(open) {
+    $$('[data-lang-dd]').forEach(function (box) {
+      box.classList.toggle('open', open);
+      var b = box.querySelector('[data-lang-toggle]'), list = box.querySelector('.lang-dd-list');
+      if (b) b.setAttribute('aria-expanded', open);
+      if (list) list.hidden = !open;
+    });
+  }
+
+  // ---------- меню: одно на все страницы ----------
+  // Страница сообщает о себе через <body data-page="...">. На главной «Хроника», «Выставки» и «О Центре» — прокрутка к блокам.
+  function renderNav() {
+    var page = document.body.getAttribute('data-page') || '';
+    var home = page === 'home';
+    var items = [
+      [home ? '#timeline' : 'index.html#timeline', 'header.navChron', ''],
+      [home ? '#exhibitions' : 'index.html#exhibitions', 'header.navExh', 'exhibition'],
+      ['publications.html', 'header.navPub', 'publications'],
+      ['news.html', 'header.navNews', 'news'],
+      ['master.html', 'header.navMaster', 'master'],
+      [home ? '#about' : 'about.html', 'header.navAbout', 'about']
+    ];
+    if (page === 'story') items.splice(1, 0, ['#materials', 'header.navArch', '']);
+    var html = items.map(function (it) {
+      return '<a href="' + it[0] + '"' + (it[2] && it[2] === page ? ' aria-current="page"' : '') + '>' + esc(t(it[1])) + '</a>';
+    }).join('');
+    $$('[data-nav]').forEach(function (el) { el.innerHTML = html; el.setAttribute('aria-label', t('header.navLabel')); });
   }
 
   // Простые тексты: data-t="группа.ключ", подсказки в полях: data-t-ph, подписи для экранных дикторов: data-t-aria
@@ -212,6 +258,28 @@
     return true;
   };
 
+  // ---------- свайп пальцем (телефон) ----------
+  // CPA.onSwipe('[data-swipe="shot"]', function (dir) { ... }) — dir = 1 (листнуть вперёд, палец влево) или -1 (назад).
+  // Порог 40 px; вертикальная прокрутка страницы не мешает (touch-action: pan-y задан в CSS для [data-swipe]).
+  CPA.onSwipe = function (selector, fn) {
+    var start = null;
+    document.addEventListener('pointerdown', function (e) {
+      var el = e.target.closest && e.target.closest(selector);
+      start = el && e.isPrimary ? { x: e.clientX, y: e.clientY, el: el } : null;
+    });
+    document.addEventListener('pointerup', function (e) {
+      if (!start) return;
+      var dx = e.clientX - start.x, dy = e.clientY - start.y;
+      var el = start.el;
+      start = null;
+      if (Math.abs(dx) < 40 || Math.abs(dx) < Math.abs(dy)) return;
+      el.setAttribute('data-swiped', '1');
+      setTimeout(function () { el.removeAttribute('data-swiped'); }, 0);
+      fn(dx < 0 ? 1 : -1, el);
+    });
+    document.addEventListener('pointercancel', function () { start = null; });
+  };
+
   // ---------- меню на телефоне ----------
   function setMenu(open) {
     var m = $('[data-mobile-menu]');
@@ -224,7 +292,13 @@
     document.addEventListener('click', function (e) {
       var el = e.target.closest ? e.target : e.target.parentNode;
       var lb = el.closest('[data-lang]');
-      if (lb) { setLang(lb.getAttribute('data-lang')); return; }
+      if (lb) { setLangMenu(false); setLang(lb.getAttribute('data-lang')); return; }
+      if (el.closest('[data-lang-toggle]')) {
+        var dd = el.closest('[data-lang-dd]');
+        setLangMenu(!dd.classList.contains('open'));
+        return;
+      }
+      if (!el.closest('[data-lang-dd]')) setLangMenu(false);
       if (el.closest('[data-burger]')) { setMenu($('[data-mobile-menu]').hidden); return; }
       var soon = el.closest('[data-soon]');
       if (soon) { e.preventDefault(); CPA.toast(t('system.soonNotice')); return; }
@@ -236,6 +310,11 @@
         setMenu(false);
       }
     });
+    document.addEventListener('keydown', function (e) {
+      if (e.key !== 'Escape') return;
+      var dd = $('[data-lang-dd].open');
+      if (dd) { setLangMenu(false); var b = dd.querySelector('[data-lang-toggle]'); if (b) b.focus(); }
+    });
     var onBreakpoint = function () {
       renderStaticTexts();
       if (!MOBILE.matches) setMenu(false);
@@ -245,6 +324,7 @@
   }
 
   function renderAll() {
+    renderNav();
     renderLangButtons();
     renderStaticTexts();
     if (opts.render) opts.render();

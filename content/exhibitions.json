@@ -1,51 +1,72 @@
 {
   "current": {
+    "id": "jhb",
     "city": {
-      "ru": "Дар-эс-Салам, Танзания",
-      "en": "Dar es Salaam, Tanzania",
-      "fr": "Dar es Salaam, Tanzanie",
-      "pt": "Dar es Salaam, Tanzânia",
-      "sw": "Dar es Salaam, Tanzania"
+      "ru": "Йоханнесбург, ЮАР",
+      "en": "Johannesburg, South Africa",
+      "fr": "Johannesburg, Afrique du Sud",
+      "pt": "Joanesburgo, África do Sul",
+      "sw": "Johannesburg, Afrika Kusini"
     },
     "venue": {
-      "ru": "Национальный музей Танзании",
-      "en": "National Museum of Tanzania",
-      "fr": "Musée national de Tanzanie",
-      "pt": "Museu Nacional da Tanzânia",
-      "sw": "Makumbusho ya Taifa ya Tanzania"
+      "ru": "Chief Albert Luthuli House",
+      "en": "Chief Albert Luthuli House",
+      "fr": "Chief Albert Luthuli House",
+      "pt": "Chief Albert Luthuli House",
+      "sw": "Chief Albert Luthuli House"
     },
-    "date": "[10.2026 — 12.2026]",
-    "photo": "assets/ex_darnm__c8a5aa09.jpg",
-    "sample": true,
+    "date": "23.10.2025",
+    "photo": "assets/news_jhb4.jpg",
+    "tag": "photo",
     "link": "",
-    "id": "dar",
+    "kicker": {
+      "ru": "ВЫСТАВКА · ЮАР, 2025",
+      "en": "EXHIBITION · SOUTH AFRICA, 2025",
+      "fr": "EXPOSITION · AFRIQUE DU SUD, 2025",
+      "pt": "EXPOSIÇÃO · ÁFRICA DO SUL, 2025",
+      "sw": "MAONYESHO · AFRIKA KUSINI, 2025"
+    },
+    "title": {
+      "ru": "Солидарность в борьбе против апартеида",
+      "en": "Solidarity in the struggle against apartheid",
+      "fr": "Solidarité dans la lutte contre l’apartheid",
+      "pt": "Solidariedade na luta contra o apartheid",
+      "sw": "Mshikamano katika mapambano dhidi ya ubaguzi wa rangi"
+    },
+    "lead": {
+      "ru": "Советский Союз и национально-освободительные движения юга Африки: документы и фотографии из государственных и частных архивов России и ЮАР.",
+      "en": "The Soviet Union and the national liberation movements of Southern Africa: documents and photographs from state and private archives in Russia and South Africa.",
+      "fr": "L’Union soviétique et les mouvements de libération nationale d’Afrique australe : documents et photographies d’archives publiques et privées de Russie et d’Afrique du Sud.",
+      "pt": "A União Soviética e os movimentos de libertação nacional da África Austral: documentos e fotografias de arquivos públicos e privados da Rússia e da África do Sul.",
+      "sw": "Umoja wa Kisovyeti na harakati za ukombozi wa kitaifa kusini mwa Afrika: nyaraka na picha kutoka kumbukumbu za serikali na binafsi za Urusi na Afrika Kusini."
+    },
     "address": {
-      "ru": "[адрес площадки]",
-      "en": "[venue address]",
-      "fr": "[adresse du lieu]",
-      "pt": "[morada do local]",
-      "sw": "[anwani ya ukumbi]"
+      "ru": "Chief Albert Luthuli House, Йоханнесбург",
+      "en": "Chief Albert Luthuli House, Johannesburg",
+      "fr": "Chief Albert Luthuli House, Johannesburg",
+      "pt": "Chief Albert Luthuli House, Joanesburgo",
+      "sw": "Chief Albert Luthuli House, Johannesburg"
     },
     "hours": {
-      "ru": "[вт–вс, 10:00–18:00]",
-      "en": "[Tue–Sun, 10:00–18:00]",
-      "fr": "[mar.–dim., 10 h–18 h]",
-      "pt": "[ter.–dom., 10h–18h]",
-      "sw": "[Jnn–Jpi, 10:00–18:00]"
+      "ru": "[уточнить]",
+      "en": "[to be confirmed]",
+      "fr": "[à préciser]",
+      "pt": "[a confirmar]",
+      "sw": "[itathibitishwa]"
     },
     "entry": {
-      "ru": "[свободный]",
-      "en": "[free]",
-      "fr": "[libre]",
-      "pt": "[livre]",
-      "sw": "[bure]"
+      "ru": "[уточнить]",
+      "en": "[to be confirmed]",
+      "fr": "[à préciser]",
+      "pt": "[a confirmar]",
+      "sw": "[itathibitishwa]"
     },
     "body": {
-      "ru": "[Здесь будет текст о выставке на этой площадке: чем она отличается, что показывают впервые, кто куратор и с кем сделана.]",
-      "en": "[Text about the exhibition at this venue will go here: what is special about it, what is shown for the first time, who curated it and with whom.]",
-      "fr": "[Ici, un texte sur l’exposition dans ce lieu : sa particularité, ce qui est montré pour la première fois, le commissaire et les partenaires.]",
-      "pt": "[Aqui ficará um texto sobre a exposição neste local: o que a distingue, o que se mostra pela primeira vez, quem é o curador e os parceiros.]",
-      "sw": "[Hapa itakuwa maelezo ya maonyesho katika ukumbi huu: upekee wake, kinachoonyeshwa kwa mara ya kwanza, msimamizi wake na washirika.]"
+      "ru": "Выставку РГГУ открыли 23 октября 2025 года в здании имени Альберта Лутули при участии руководства Африканского национального конгресса, Посольства России в ЮАР и дипломатического корпуса. Её подготовили Центр прикладной африканистики, Музейный центр, Учебный центр «Арт-дизайн», Факультет архивоведения и документоведения и Институт массмедиа РГГУ при поддержке Минобрнауки России, в сотрудничестве с музеем Роббен-Айленд и Обществом друзей Кубы в ЮАР. Уникальные архивные фотографии предоставил Союз ветеранов Анголы. Руководитель проекта — и. о. проректора по международному сотрудничеству Вера Заботкина. Открытие посетили экс-вице-президент ЮАР Фумзиле Мламбо-Нгкука, послы Кубы и Венесуэлы, ветераны борьбы с апартеидом.",
+      "en": "The RSUH exhibition opened on 23 October 2025 at Chief Albert Luthuli House with the leadership of the African National Congress, the Russian Embassy in South Africa and members of the diplomatic corps. It was prepared by the Center for Applied African Studies, the Museum Centre, the Art-Design Centre, the Faculty of Archival Studies and the Institute of Mass Media of RSUH with the support of the Russian Ministry of Science and Higher Education, in cooperation with the Robben Island Museum and the Friends of Cuba Society in South Africa. Unique archival photographs were provided by the Union of Angola Veterans. Project lead: Acting Vice-Rector for International Cooperation Vera Zabotkina. Guests included former Deputy President Phumzile Mlambo-Ngcuka, the ambassadors of Cuba and Venezuela and veterans of the anti-apartheid struggle.",
+      "fr": "L’exposition de la RGGU a été inaugurée le 23 octobre 2025 à la Chief Albert Luthuli House en présence de la direction du Congrès national africain, de l’ambassade de Russie et du corps diplomatique. Elle a été préparée par le Centre d’études africaines appliquées et d’autres départements de la RGGU avec le soutien du ministère russe de la Science et de l’Enseignement supérieur, en coopération avec le musée de Robben Island et la Société des amis de Cuba en Afrique du Sud. L’Union des vétérans d’Angola a fourni des photographies d’archives uniques. Parmi les invités : l’ancienne vice-présidente Phumzile Mlambo-Ngcuka, les ambassadeurs de Cuba et du Venezuela, des vétérans de la lutte contre l’apartheid.",
+      "pt": "A exposição da RGGU foi inaugurada a 23 de outubro de 2025 na Chief Albert Luthuli House, com a direção do Congresso Nacional Africano, a Embaixada da Rússia e o corpo diplomático. Foi preparada pelo Centro de Estudos Africanos Aplicados e outros departamentos da RGGU com o apoio do Ministério da Ciência e do Ensino Superior da Rússia, em cooperação com o Museu de Robben Island e a Sociedade dos Amigos de Cuba na África do Sul. A União dos Veteranos de Angola cedeu fotografias de arquivo únicas. Entre os convidados: a antiga vice-presidente Phumzile Mlambo-Ngcuka, os embaixadores de Cuba e da Venezuela e veteranos da luta contra o apartheid.",
+      "sw": "Maonyesho ya RGGU yalifunguliwa tarehe 23 Oktoba 2025 katika Chief Albert Luthuli House mbele ya uongozi wa African National Congress, Ubalozi wa Urusi na wanadiplomasia. Yaliandaliwa na Kituo cha Taaluma za Afrika kwa Vitendo na idara nyingine za RGGU kwa msaada wa Wizara ya Sayansi na Elimu ya Juu ya Urusi, kwa ushirikiano na Makumbusho ya Kisiwa cha Robben na Jumuiya ya Marafiki wa Cuba nchini Afrika Kusini. Umoja wa Maveterani wa Angola ulitoa picha za kipekee za kumbukumbu. Miongoni mwa wageni: Makamu wa Rais wa zamani Phumzile Mlambo-Ngcuka, mabalozi wa Cuba na Venezuela, na maveterani wa mapambano dhidi ya ubaguzi wa rangi."
     },
     "stats": [
       {
@@ -81,6 +102,11 @@
     ],
     "sections": [
       {
+        "story": "sa",
+        "photo": "assets/mandela__6178ec57.jpg",
+        "years": "1990—1994"
+      },
+      {
         "story": "aswan",
         "photo": "assets/aswan__37a9608c.jpg",
         "years": "1960—1970"
@@ -94,122 +120,163 @@
         "story": "tanganyika",
         "photo": "assets/nyerere__f97fcc59.jpg",
         "years": "1961"
-      },
-      {
-        "story": "sa",
-        "photo": "assets/mandela__6178ec57.jpg",
-        "years": "1990—1994"
       }
     ],
     "gallery": [
       {
-        "src": "assets/ex_darnm__c8a5aa09.jpg",
+        "src": "assets/news_jhb1.jpg",
         "caption": {
-          "ru": "Национальный музей, Дар-эс-Салам",
-          "en": "National Museum, Dar es Salaam",
-          "fr": "Musée national, Dar es Salaam",
-          "pt": "Museu Nacional, Dar es Salaam",
-          "sw": "Makumbusho ya Taifa, Dar es Salaam"
+          "ru": "Видеообращение на открытии",
+          "en": "Video address at the opening",
+          "fr": "Message vidéo lors de l’inauguration",
+          "pt": "Mensagem em vídeo na inauguração",
+          "sw": "Ujumbe wa video katika ufunguzi"
         },
-        "credit": "Jaba1977, CC BY-SA 4.0"
+        "credit": ""
       },
       {
-        "src": "assets/ex_dar07__58b92667.jpg",
+        "src": "assets/news_jhb2.jpg",
         "caption": {
-          "ru": "Зал музея",
-          "en": "Museum hall",
-          "fr": "Salle du musée",
-          "pt": "Sala do museu",
-          "sw": "Ukumbi wa makumbusho"
+          "ru": "Зал Chief Albert Luthuli House",
+          "en": "Hall of Chief Albert Luthuli House",
+          "fr": "Salle de la Chief Albert Luthuli House",
+          "pt": "Sala da Chief Albert Luthuli House",
+          "sw": "Ukumbi wa Chief Albert Luthuli House"
         },
-        "credit": "Jaba1977, CC BY-SA 4.0"
+        "credit": ""
       },
       {
-        "src": "assets/ex_dar13__ddf7476a.jpg",
+        "src": "assets/news_jhb4.jpg",
         "caption": {
-          "ru": "Экспозиция",
-          "en": "Display",
-          "fr": "Exposition",
-          "pt": "Exposição",
-          "sw": "Maonyesho"
+          "ru": "Гости открытия",
+          "en": "Guests at the opening",
+          "fr": "Invités de l’inauguration",
+          "pt": "Convidados da inauguração",
+          "sw": "Wageni wa ufunguzi"
         },
-        "credit": "Jaba1977, CC BY-SA 4.0"
+        "credit": ""
       },
       {
-        "src": "assets/ex_dar20__72fd0dd4.jpg",
+        "src": "assets/news_jhb3.jpg",
         "caption": {
-          "ru": "Двор музея",
-          "en": "Museum courtyard",
-          "fr": "Cour du musée",
-          "pt": "Pátio do museu",
-          "sw": "Uwanja wa makumbusho"
+          "ru": "Выступление по видеосвязи",
+          "en": "Speech via video link",
+          "fr": "Intervention par visioconférence",
+          "pt": "Intervenção por videoconferência",
+          "sw": "Hotuba kupitia video"
         },
-        "credit": "Jaba1977, CC BY-SA 4.0"
+        "credit": ""
+      },
+      {
+        "src": "assets/news_jhb6.jpg",
+        "caption": {
+          "ru": "Гости у стендов выставки",
+          "en": "Guests at the stands",
+          "fr": "Invités devant les panneaux",
+          "pt": "Convidados junto aos painéis",
+          "sw": "Wageni karibu na mabango"
+        },
+        "credit": ""
+      },
+      {
+        "src": "assets/news_jhb5.jpg",
+        "caption": {
+          "ru": "Стенды выставки",
+          "en": "Exhibition stands",
+          "fr": "Panneaux de l’exposition",
+          "pt": "Painéis da exposição",
+          "sw": "Mabango ya maonyesho"
+        },
+        "credit": ""
       }
     ],
+    "photoCredit": {
+      "ru": "Фото: Департамент коммуникаций РГГУ",
+      "en": "Photos: RSUH Communications Department",
+      "fr": "Photos : Département de la communication de la RGGU",
+      "pt": "Fotos: Departamento de Comunicação da RGGU",
+      "sw": "Picha: Idara ya Mawasiliano ya RGGU"
+    },
     "partners": [
       {
         "name": {
-          "ru": "[логотип партнёра]",
-          "en": "[partner logo]",
-          "fr": "[logo du partenaire]",
-          "pt": "[logótipo do parceiro]",
-          "sw": "[nembo ya mshirika]"
+          "ru": "РГГУ",
+          "en": "RSUH",
+          "fr": "RSUH",
+          "pt": "RSUH",
+          "sw": "RSUH"
         },
         "logo": ""
       },
       {
         "name": {
-          "ru": "[логотип партнёра]",
-          "en": "[partner logo]",
-          "fr": "[logo du partenaire]",
-          "pt": "[logótipo do parceiro]",
-          "sw": "[nembo ya mshirika]"
+          "ru": "Минобрнауки России",
+          "en": "Ministry of Science and Higher Education of Russia",
+          "fr": "Ministry of Science and Higher Education of Russia",
+          "pt": "Ministry of Science and Higher Education of Russia",
+          "sw": "Ministry of Science and Higher Education of Russia"
         },
         "logo": ""
       },
       {
         "name": {
-          "ru": "[логотип партнёра]",
-          "en": "[partner logo]",
-          "fr": "[logo du partenaire]",
-          "pt": "[logótipo do parceiro]",
-          "sw": "[nembo ya mshirika]"
+          "ru": "Музей Роббен-Айленд",
+          "en": "Robben Island Museum",
+          "fr": "Robben Island Museum",
+          "pt": "Robben Island Museum",
+          "sw": "Robben Island Museum"
         },
         "logo": ""
       },
       {
         "name": {
-          "ru": "[логотип партнёра]",
-          "en": "[partner logo]",
-          "fr": "[logo du partenaire]",
-          "pt": "[logótipo do parceiro]",
-          "sw": "[nembo ya mshirika]"
+          "ru": "Общество друзей Кубы в ЮАР",
+          "en": "Friends of Cuba Society, South Africa",
+          "fr": "Friends of Cuba Society, South Africa",
+          "pt": "Friends of Cuba Society, South Africa",
+          "sw": "Friends of Cuba Society, South Africa"
         },
         "logo": ""
       },
       {
         "name": {
-          "ru": "[логотип партнёра]",
-          "en": "[partner logo]",
-          "fr": "[logo du partenaire]",
-          "pt": "[logótipo do parceiro]",
-          "sw": "[nembo ya mshirika]"
+          "ru": "Союз ветеранов Анголы",
+          "en": "Union of Angola Veterans",
+          "fr": "Union of Angola Veterans",
+          "pt": "Union of Angola Veterans",
+          "sw": "Union of Angola Veterans"
         },
         "logo": ""
       },
       {
         "name": {
-          "ru": "[логотип партнёра]",
-          "en": "[partner logo]",
-          "fr": "[logo du partenaire]",
-          "pt": "[logótipo do parceiro]",
-          "sw": "[nembo ya mshirika]"
+          "ru": "Институт Африки РАН",
+          "en": "Institute for African Studies RAS",
+          "fr": "Institute for African Studies RAS",
+          "pt": "Institute for African Studies RAS",
+          "sw": "Institute for African Studies RAS"
         },
         "logo": ""
       }
     ],
     "press": [
+      {
+        "source": {
+          "ru": "rsuh.ru · 25.10.2025",
+          "en": "rsuh.ru · 25.10.2025",
+          "fr": "rsuh.ru · 25.10.2025",
+          "pt": "rsuh.ru · 25.10.2025",
+          "sw": "rsuh.ru · 25.10.2025"
+        },
+        "title": {
+          "ru": "«В Йоханнесбурге открылась выставка РГГУ о роли СССР и России в борьбе с апартеидом»",
+          "en": "RSUH exhibition on the role of the USSR and Russia in the fight against apartheid opens in Johannesburg",
+          "fr": "Une exposition de la RGGU sur le rôle de l’URSS et de la Russie dans la lutte contre l’apartheid ouvre à Johannesburg",
+          "pt": "Exposição da RGGU sobre o papel da URSS e da Rússia na luta contra o apartheid abre em Joanesburgo",
+          "sw": "Maonyesho ya RGGU kuhusu nafasi ya USSR na Urusi katika mapambano dhidi ya ubaguzi wa rangi yafunguliwa Johannesburg"
+        },
+        "link": "news.html?id=jhb"
+      },
       {
         "source": {
           "ru": "[Издание · дата]",
@@ -219,11 +286,11 @@
           "sw": "[Chombo · tarehe]"
         },
         "title": {
-          "ru": "[Заголовок публикации о выставке]",
-          "en": "[Headline about the exhibition]",
-          "fr": "[Titre d’un article sur l’exposition]",
-          "pt": "[Título de artigo sobre a exposição]",
-          "sw": "[Kichwa cha habari kuhusu maonyesho]"
+          "ru": "[Публикация о выставке в прессе ЮАР]",
+          "en": "[South African press coverage]",
+          "fr": "[Article de la presse sud-africaine]",
+          "pt": "[Artigo da imprensa sul-africana]",
+          "sw": "[Habari katika vyombo vya Afrika Kusini]"
         },
         "link": ""
       },
@@ -243,131 +310,587 @@
           "sw": "[Habari ya ufunguzi]"
         },
         "link": ""
+      }
+    ],
+    "exhibits": [
+      {
+        "story": "aswan",
+        "code": "CPA-EG-001"
       },
       {
-        "source": {
-          "ru": "[Портал · дата]",
-          "en": "[Website · date]",
-          "fr": "[Site · date]",
-          "pt": "[Portal · data]",
-          "sw": "[Tovuti · tarehe]"
-        },
-        "title": {
-          "ru": "[Интервью с куратором]",
-          "en": "[Interview with the curator]",
-          "fr": "[Entretien avec le commissaire]",
-          "pt": "[Entrevista com o curador]",
-          "sw": "[Mahojiano na msimamizi]"
-        },
-        "link": ""
+        "story": "aswan",
+        "code": "CPA-EG-002"
+      },
+      {
+        "story": "aswan",
+        "code": "CPA-EG-003"
+      },
+      {
+        "story": "aswan",
+        "code": "CPA-EG-004"
+      },
+      {
+        "story": "aswan",
+        "code": "CPA-EG-005"
+      },
+      {
+        "story": "africa",
+        "code": "CPA-CD-001"
+      },
+      {
+        "story": "africa",
+        "code": "CPA-CD-002"
+      },
+      {
+        "story": "africa",
+        "code": "CPA-CD-003"
+      },
+      {
+        "story": "africa",
+        "code": "CPA-SN-001"
+      },
+      {
+        "story": "africa",
+        "code": "CPA-ML-001"
+      },
+      {
+        "story": "africa",
+        "code": "CPA-GN-001"
+      },
+      {
+        "story": "africa",
+        "code": "CPA-PH-001"
+      },
+      {
+        "story": "tanganyika",
+        "code": "CPA-TZ-001"
+      },
+      {
+        "story": "tanganyika",
+        "code": "CPA-TZ-002"
+      },
+      {
+        "story": "tanganyika",
+        "code": "CPA-TZ-003"
+      },
+      {
+        "story": "tanganyika",
+        "code": "CPA-PH-002"
+      },
+      {
+        "story": "tanganyika",
+        "code": "CPA-PH-003"
+      },
+      {
+        "story": "tanganyika",
+        "code": "CPA-PH-004"
+      },
+      {
+        "story": "sa",
+        "code": "CPA-ZA-001"
+      },
+      {
+        "story": "sa",
+        "code": "CPA-ZA-002"
+      },
+      {
+        "story": "sa",
+        "code": "CPA-ZA-003"
+      },
+      {
+        "story": "sa",
+        "code": "CPA-ZA-004"
+      },
+      {
+        "story": "sa",
+        "code": "CPA-PH-005"
+      },
+      {
+        "story": "sa",
+        "code": "CPA-ZA-005"
+      },
+      {
+        "story": "sa",
+        "code": "CPA-ZA-006"
+      },
+      {
+        "story": "sa",
+        "code": "CPA-ZA-007"
       }
     ]
   },
   "past": [
     {
+      "id": "cpt",
       "city": {
-        "ru": "Аккра, Гана",
-        "en": "Accra, Ghana",
-        "fr": "Accra, Ghana",
-        "pt": "Acra, Gana",
-        "sw": "Accra, Ghana"
+        "ru": "Кейптаун, ЮАР",
+        "en": "Cape Town, South Africa",
+        "fr": "Le Cap, Afrique du Sud",
+        "pt": "Cidade do Cabo, África do Sul",
+        "sw": "Cape Town, Afrika Kusini"
       },
       "venue": {
-        "ru": "Библиотека Балме, Университет Ганы",
-        "en": "Balme Library, University of Ghana",
-        "fr": "Bibliothèque Balme, Université du Ghana",
-        "pt": "Biblioteca Balme, Universidade do Gana",
-        "sw": "Maktaba ya Balme, Chuo Kikuu cha Ghana"
+        "ru": "Музей Роббен-Айленд",
+        "en": "Robben Island Museum",
+        "fr": "Musée de Robben Island",
+        "pt": "Museu de Robben Island",
+        "sw": "Makumbusho ya Kisiwa cha Robben"
       },
-      "date": "[03.2026]",
-      "photo": "assets/ex_balme__ef4b2df1.jpg",
-      "sample": true,
-      "link": "",
-      "id": "balme"
+      "date": "09.2025",
+      "photo": "assets/mandela__6178ec57.jpg",
+      "tag": "illus",
+      "link": "news.html"
     },
     {
+      "id": "tula",
       "city": {
-        "ru": "Дакар, Сенегал",
-        "en": "Dakar, Senegal",
-        "fr": "Dakar, Sénégal",
-        "pt": "Dacar, Senegal",
-        "sw": "Dakar, Senegali"
+        "ru": "Тула, Россия",
+        "en": "Tula, Russia",
+        "fr": "Toula, Russie",
+        "pt": "Tula, Rússia",
+        "sw": "Tula, Urusi"
       },
       "venue": {
-        "ru": "Музей чёрных цивилизаций",
-        "en": "Museum of Black Civilisations",
-        "fr": "Musée des civilisations noires",
-        "pt": "Museu das Civilizações Negras",
-        "sw": "Makumbusho ya Ustaarabu wa Watu Weusi"
+        "ru": "ТГПУ им. Л. Н. Толстого",
+        "en": "Tula State Lev Tolstoy Pedagogical University",
+        "fr": "Université pédagogique Léon-Tolstoï de Toula",
+        "pt": "Universidade Pedagógica Lev Tolstói de Tula",
+        "sw": "Chuo Kikuu cha Ualimu cha Tula (Lev Tolstoy)"
       },
-      "date": "[11.2025]",
-      "photo": "assets/ex_mcn__bf719e74.jpg",
-      "sample": true,
-      "link": "",
-      "id": "mcn"
+      "date": "10.12.2024",
+      "photo": "assets/news_tula2.jpg",
+      "tag": "photo",
+      "link": "news.html?id=tula"
     },
     {
+      "id": "bul",
       "city": {
-        "ru": "Мапуту, Мозамбик",
-        "en": "Maputo, Mozambique",
-        "fr": "Maputo, Mozambique",
-        "pt": "Maputo, Moçambique",
-        "sw": "Maputo, Msumbiji"
+        "ru": "Булавайо, Зимбабве",
+        "en": "Bulawayo, Zimbabwe",
+        "fr": "Bulawayo, Zimbabwe",
+        "pt": "Bulawayo, Zimbabué",
+        "sw": "Bulawayo, Zimbabwe"
       },
       "venue": {
-        "ru": "Музей естественной истории",
-        "en": "Natural History Museum",
-        "fr": "Musée d’histoire naturelle",
-        "pt": "Museu de História Natural",
-        "sw": "Makumbusho ya Historia ya Asili"
+        "ru": "Совместно с Музеем Джошуа Нкомо",
+        "en": "With the Joshua Nkomo Museum",
+        "fr": "Avec le musée Joshua Nkomo",
+        "pt": "Com o Museu Joshua Nkomo",
+        "sw": "Pamoja na Makumbusho ya Joshua Nkomo"
       },
-      "date": "[06.2025]",
-      "photo": "assets/ex_maputo__a0a5f4c2.jpg",
-      "sample": true,
-      "link": "",
-      "id": "maputo"
+      "date": "31.10.2024",
+      "photo": "assets/zimmedal__c1d8b5ef.jpg",
+      "tag": "illus",
+      "link": "news.html"
     },
     {
+      "id": "dar",
       "city": {
-        "ru": "Луанда, Ангола",
-        "en": "Luanda, Angola",
-        "fr": "Luanda, Angola",
-        "pt": "Luanda, Angola",
-        "sw": "Luanda, Angola"
+        "ru": "Дар-эс-Салам, Танзания",
+        "en": "Dar es Salaam, Tanzania",
+        "fr": "Dar es Salaam, Tanzanie",
+        "pt": "Dar es Salaam, Tanzânia",
+        "sw": "Dar es Salaam, Tanzania"
       },
       "venue": {
-        "ru": "Набережная Маржинал, выставка под открытым небом",
-        "en": "Marginal waterfront, open-air exhibition",
-        "fr": "Front de mer de la Marginal, exposition en plein air",
-        "pt": "Marginal de Luanda, exposição ao ar livre",
-        "sw": "Ufukwe wa Marginal, maonyesho ya wazi"
+        "ru": "Российский центр науки и культуры",
+        "en": "Russian Centre for Science and Culture",
+        "fr": "Centre russe de science et de culture",
+        "pt": "Centro Russo de Ciência e Cultura",
+        "sw": "Kituo cha Sayansi na Utamaduni cha Urusi"
       },
-      "date": "[02.2025]",
-      "photo": "assets/ex_luanda__db0ac992.jpg",
-      "sample": true,
+      "date": "28.10.2024",
+      "photo": "assets/news_dar3.jpg",
+      "tag": "photo",
       "link": "",
-      "id": "luanda"
+      "kicker": {
+        "ru": "ВЫСТАВКА · ТАНЗАНИЯ, 2024",
+        "en": "EXHIBITION · TANZANIA, 2024",
+        "fr": "EXPOSITION · TANZANIE, 2024",
+        "pt": "EXPOSIÇÃO · TANZÂNIA, 2024",
+        "sw": "MAONYESHO · TANZANIA, 2024"
+      },
+      "title": {
+        "ru": "СССР и Россия в борьбе Африки за независимость",
+        "en": "The USSR and Russia in Africa’s struggle for independence",
+        "fr": "L’URSS et la Russie dans la lutte de l’Afrique pour l’indépendance",
+        "pt": "A URSS e a Rússia na luta de África pela independência",
+        "sw": "USSR na Urusi katika mapambano ya Afrika kwa uhuru"
+      },
+      "lead": {
+        "ru": "Фотографии, документы и плакаты о том, как страны Африки добивались независимости и как в этом участвовал Советский Союз.",
+        "en": "Photographs, documents and posters on how African countries won their independence and how the Soviet Union took part in it.",
+        "fr": "Photographies, documents et affiches sur la manière dont les pays africains ont conquis leur indépendance et sur le rôle de l’Union soviétique.",
+        "pt": "Fotografias, documentos e cartazes sobre como os países africanos conquistaram a independência e o papel da União Soviética.",
+        "sw": "Picha, nyaraka na mabango kuhusu jinsi nchi za Afrika zilivyopata uhuru na nafasi ya Umoja wa Kisovyeti katika hilo."
+      },
+      "address": {
+        "ru": "Российский центр науки и культуры, Дар-эс-Салам",
+        "en": "Russian Centre for Science and Culture, Dar es Salaam",
+        "fr": "Centre russe de science et de culture, Dar es Salaam",
+        "pt": "Centro Russo de Ciência e Cultura, Dar es Salaam",
+        "sw": "Kituo cha Sayansi na Utamaduni cha Urusi, Dar es Salaam"
+      },
+      "hours": {
+        "ru": "[уточнить]",
+        "en": "[to be confirmed]",
+        "fr": "[à préciser]",
+        "pt": "[a confirmar]",
+        "sw": "[itathibitishwa]"
+      },
+      "entry": {
+        "ru": "[уточнить]",
+        "en": "[to be confirmed]",
+        "fr": "[à préciser]",
+        "pt": "[a confirmar]",
+        "sw": "[itathibitishwa]"
+      },
+      "body": {
+        "ru": "Выставку почти год готовили Центр прикладной африканистики, Музейный центр, Центр «Арт-дизайн» и Институт филологии и истории РГГУ при участии студентов. Материалы предоставили Институт Африки РАН и Союз ветеранов Анголы. Впервые публике показали архивные свидетельства связей советского и танзанийского народов — фотографии и воспоминания советских специалистов, помогавших становлению страны. Открытие 28 октября 2024 года приурочили к первому заседанию Российско-Танзанийской межправительственной комиссии.",
+        "en": "The exhibition was prepared over almost a year by the Center for Applied African Studies, the Museum Centre, the Art-Design Centre and the Institute of Philology and History of RSUH, with students taking part. Materials were provided by the Institute for African Studies of the Russian Academy of Sciences and the Union of Angola Veterans. For the first time, archival evidence of ties between the Soviet and Tanzanian peoples was shown — photographs and memoirs of Soviet specialists who helped the country develop. The opening on 28 October 2024 coincided with the first meeting of the Russian–Tanzanian intergovernmental commission.",
+        "fr": "L’exposition a été préparée pendant près d’un an par le Centre d’études africaines appliquées, le Centre muséal, le Centre « Art-design » et l’Institut de philologie et d’histoire de la RGGU, avec la participation d’étudiants. Les documents ont été fournis par l’Institut de l’Afrique de l’Académie des sciences de Russie et l’Union des vétérans d’Angola. Pour la première fois, le public a découvert des archives sur les liens entre les peuples soviétique et tanzanien : photographies et souvenirs de spécialistes soviétiques. L’inauguration du 28 octobre 2024 a coïncidé avec la première session de la commission intergouvernementale russo-tanzanienne.",
+        "pt": "A exposição foi preparada durante quase um ano pelo Centro de Estudos Africanos Aplicados, o Centro Museológico, o Centro «Arte-Design» e o Instituto de Filologia e História da RGGU, com a participação de estudantes. Os materiais foram cedidos pelo Instituto de África da Academia de Ciências da Rússia e pela União dos Veteranos de Angola. Pela primeira vez, mostraram-se documentos de arquivo sobre os laços entre os povos soviético e tanzaniano: fotografias e memórias de especialistas soviéticos. A inauguração, a 28 de outubro de 2024, coincidiu com a primeira reunião da comissão intergovernamental Rússia–Tanzânia.",
+        "sw": "Maonyesho yaliandaliwa kwa karibu mwaka mmoja na Kituo cha Taaluma za Afrika kwa Vitendo, Kituo cha Makumbusho, Kituo cha «Sanaa na Ubunifu» na Taasisi ya Filolojia na Historia ya RGGU, pamoja na wanafunzi. Nyaraka zilitolewa na Taasisi ya Afrika ya Chuo cha Sayansi cha Urusi na Umoja wa Maveterani wa Angola. Kwa mara ya kwanza, umma ulionyeshwa nyaraka za kumbukumbu kuhusu uhusiano kati ya watu wa Kisovyeti na Tanzania — picha na kumbukumbu za wataalamu wa Kisovyeti. Ufunguzi wa tarehe 28 Oktoba 2024 ulienda sambamba na kikao cha kwanza cha tume ya serikali za Urusi na Tanzania."
+      },
+      "stats": [
+        {
+          "value": "[120]",
+          "label": {
+            "ru": "экспонатов",
+            "en": "exhibits",
+            "fr": "objets",
+            "pt": "peças",
+            "sw": "vitu"
+          }
+        },
+        {
+          "value": "[4]",
+          "label": {
+            "ru": "раздела",
+            "en": "sections",
+            "fr": "sections",
+            "pt": "secções",
+            "sw": "sehemu"
+          }
+        },
+        {
+          "value": "[5]",
+          "label": {
+            "ru": "языков",
+            "en": "languages",
+            "fr": "langues",
+            "pt": "línguas",
+            "sw": "lugha"
+          }
+        }
+      ],
+      "sections": [
+        {
+          "story": "aswan",
+          "photo": "assets/aswan__37a9608c.jpg",
+          "years": "1960—1970"
+        },
+        {
+          "story": "africa",
+          "photo": "assets/lumumba__08f72560.jpg",
+          "years": "1960"
+        },
+        {
+          "story": "tanganyika",
+          "photo": "assets/nyerere__f97fcc59.jpg",
+          "years": "1961"
+        },
+        {
+          "story": "sa",
+          "photo": "assets/mandela__6178ec57.jpg",
+          "years": "1990—1994"
+        }
+      ],
+      "gallery": [
+        {
+          "src": "assets/news_dar1.jpg",
+          "caption": {
+            "ru": "Гости открытия выставки",
+            "en": "Guests at the opening",
+            "fr": "Invités de l’inauguration",
+            "pt": "Convidados da inauguração",
+            "sw": "Wageni wa ufunguzi"
+          },
+          "credit": ""
+        },
+        {
+          "src": "assets/news_dar2.jpg",
+          "caption": {
+            "ru": "Посетители у стендов",
+            "en": "Visitors at the stands",
+            "fr": "Visiteurs devant les panneaux",
+            "pt": "Visitantes junto aos painéis",
+            "sw": "Wageni karibu na mabango"
+          },
+          "credit": ""
+        },
+        {
+          "src": "assets/news_dar3.jpg",
+          "caption": {
+            "ru": "Открытие в Российском центре науки и культуры",
+            "en": "Opening at the Russian Centre for Science and Culture",
+            "fr": "Inauguration au Centre russe de science et de culture",
+            "pt": "Inauguração no Centro Russo de Ciência e Cultura",
+            "sw": "Ufunguzi katika Kituo cha Sayansi na Utamaduni cha Urusi"
+          },
+          "credit": ""
+        },
+        {
+          "src": "assets/news_dar4.jpg",
+          "caption": {
+            "ru": "Стенды выставки",
+            "en": "Exhibition stands",
+            "fr": "Panneaux de l’exposition",
+            "pt": "Painéis da exposição",
+            "sw": "Mabango ya maonyesho"
+          },
+          "credit": ""
+        }
+      ],
+      "photoCredit": {
+        "ru": "Фото: rsuh.ru",
+        "en": "Photos: rsuh.ru",
+        "fr": "Photos : rsuh.ru",
+        "pt": "Fotos: rsuh.ru",
+        "sw": "Picha: rsuh.ru"
+      },
+      "partners": [
+        {
+          "name": {
+            "ru": "РГГУ",
+            "en": "RSUH",
+            "fr": "RSUH",
+            "pt": "RSUH",
+            "sw": "RSUH"
+          },
+          "logo": ""
+        },
+        {
+          "name": {
+            "ru": "Минобрнауки России",
+            "en": "Ministry of Science and Higher Education of Russia",
+            "fr": "Ministry of Science and Higher Education of Russia",
+            "pt": "Ministry of Science and Higher Education of Russia",
+            "sw": "Ministry of Science and Higher Education of Russia"
+          },
+          "logo": ""
+        },
+        {
+          "name": {
+            "ru": "Институт Африки РАН",
+            "en": "Institute for African Studies RAS",
+            "fr": "Institute for African Studies RAS",
+            "pt": "Institute for African Studies RAS",
+            "sw": "Institute for African Studies RAS"
+          },
+          "logo": ""
+        },
+        {
+          "name": {
+            "ru": "Союз ветеранов Анголы",
+            "en": "Union of Angola Veterans",
+            "fr": "Union of Angola Veterans",
+            "pt": "Union of Angola Veterans",
+            "sw": "Union of Angola Veterans"
+          },
+          "logo": ""
+        },
+        {
+          "name": {
+            "ru": "Российский центр науки и культуры в Танзании",
+            "en": "Russian Centre for Science and Culture in Tanzania",
+            "fr": "Russian Centre for Science and Culture in Tanzania",
+            "pt": "Russian Centre for Science and Culture in Tanzania",
+            "sw": "Russian Centre for Science and Culture in Tanzania"
+          },
+          "logo": ""
+        }
+      ],
+      "press": [
+        {
+          "source": {
+            "ru": "RT · Известия · РЕН ТВ",
+            "en": "RT · Izvestia · REN TV",
+            "fr": "RT · Izvestia · REN TV",
+            "pt": "RT · Izvestia · REN TV",
+            "sw": "RT · Izvestia · REN TV"
+          },
+          "title": {
+            "ru": "Российские СМИ об открытии выставки",
+            "en": "Russian media on the opening",
+            "fr": "Les médias russes sur l’inauguration",
+            "pt": "Media russos sobre a inauguração",
+            "sw": "Vyombo vya habari vya Urusi kuhusu ufunguzi"
+          },
+          "link": ""
+        },
+        {
+          "source": {
+            "ru": "Daily News, Танзания",
+            "en": "Daily News, Tanzania",
+            "fr": "Daily News, Tanzanie",
+            "pt": "Daily News, Tanzânia",
+            "sw": "Daily News, Tanzania"
+          },
+          "title": {
+            "ru": "Танзанийская пресса о выставке",
+            "en": "Tanzanian press on the exhibition",
+            "fr": "La presse tanzanienne sur l’exposition",
+            "pt": "Imprensa tanzaniana sobre a exposição",
+            "sw": "Magazeti ya Tanzania kuhusu maonyesho"
+          },
+          "link": ""
+        },
+        {
+          "source": {
+            "ru": "rsuh.ru · 05.11.2024",
+            "en": "rsuh.ru · 05.11.2024",
+            "fr": "rsuh.ru · 05.11.2024",
+            "pt": "rsuh.ru · 05.11.2024",
+            "sw": "rsuh.ru · 05.11.2024"
+          },
+          "title": {
+            "ru": "«Выставки РГГУ придают новый импульс развитию российско-африканских отношений»",
+            "en": "RSUH exhibitions give new impetus to Russian–African relations",
+            "fr": "Les expositions de la RGGU relancent les relations russo-africaines",
+            "pt": "Exposições da RGGU dão novo impulso às relações russo-africanas",
+            "sw": "Maonyesho ya RGGU yanaipa msukumo mpya uhusiano wa Urusi na Afrika"
+          },
+          "link": "news.html?id=dar"
+        }
+      ],
+      "exhibits": [
+        {
+          "story": "aswan",
+          "code": "CPA-EG-001"
+        },
+        {
+          "story": "aswan",
+          "code": "CPA-EG-002"
+        },
+        {
+          "story": "aswan",
+          "code": "CPA-EG-003"
+        },
+        {
+          "story": "aswan",
+          "code": "CPA-EG-004"
+        },
+        {
+          "story": "aswan",
+          "code": "CPA-EG-005"
+        },
+        {
+          "story": "africa",
+          "code": "CPA-CD-001"
+        },
+        {
+          "story": "africa",
+          "code": "CPA-CD-002"
+        },
+        {
+          "story": "africa",
+          "code": "CPA-CD-003"
+        },
+        {
+          "story": "africa",
+          "code": "CPA-SN-001"
+        },
+        {
+          "story": "africa",
+          "code": "CPA-ML-001"
+        },
+        {
+          "story": "africa",
+          "code": "CPA-GN-001"
+        },
+        {
+          "story": "africa",
+          "code": "CPA-PH-001"
+        },
+        {
+          "story": "tanganyika",
+          "code": "CPA-TZ-001"
+        },
+        {
+          "story": "tanganyika",
+          "code": "CPA-TZ-002"
+        },
+        {
+          "story": "tanganyika",
+          "code": "CPA-TZ-003"
+        },
+        {
+          "story": "tanganyika",
+          "code": "CPA-PH-002"
+        },
+        {
+          "story": "tanganyika",
+          "code": "CPA-PH-003"
+        },
+        {
+          "story": "tanganyika",
+          "code": "CPA-PH-004"
+        },
+        {
+          "story": "sa",
+          "code": "CPA-ZA-001"
+        },
+        {
+          "story": "sa",
+          "code": "CPA-ZA-002"
+        },
+        {
+          "story": "sa",
+          "code": "CPA-ZA-003"
+        },
+        {
+          "story": "sa",
+          "code": "CPA-ZA-004"
+        },
+        {
+          "story": "sa",
+          "code": "CPA-PH-005"
+        },
+        {
+          "story": "sa",
+          "code": "CPA-ZA-005"
+        },
+        {
+          "story": "sa",
+          "code": "CPA-ZA-006"
+        },
+        {
+          "story": "sa",
+          "code": "CPA-ZA-007"
+        }
+      ]
     },
     {
+      "id": "bfu",
       "city": {
-        "ru": "Аккра, Гана",
-        "en": "Accra, Ghana",
-        "fr": "Accra, Ghana",
-        "pt": "Acra, Gana",
-        "sw": "Accra, Ghana"
+        "ru": "Калининград, Россия",
+        "en": "Kaliningrad, Russia",
+        "fr": "Kaliningrad, Russie",
+        "pt": "Kaliningrado, Rússia",
+        "sw": "Kaliningrad, Urusi"
       },
       "venue": {
-        "ru": "Мемориальный парк Кваме Нкрумы",
-        "en": "Kwame Nkrumah Memorial Park",
-        "fr": "Parc commémoratif Kwame Nkrumah",
-        "pt": "Parque Memorial Kwame Nkrumah",
-        "sw": "Bustani ya Kumbukumbu ya Kwame Nkrumah"
+        "ru": "БФУ им. И. Канта",
+        "en": "Immanuel Kant Baltic Federal University",
+        "fr": "Université fédérale balte Emmanuel-Kant",
+        "pt": "Universidade Federal Báltica Immanuel Kant",
+        "sw": "Chuo Kikuu cha Shirikisho cha Baltiki (Immanuel Kant)"
       },
-      "date": "[09.2024]",
-      "photo": "assets/ex_nkpark__902dc96f.jpg",
-      "sample": true,
-      "link": "",
-      "id": "nkpark"
+      "date": "04.10.2024",
+      "photo": "assets/news_bfu1.jpg",
+      "tag": "photo",
+      "link": "news.html?id=bfu"
     }
   ]
 }

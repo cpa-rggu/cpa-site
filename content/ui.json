@@ -56,6 +56,27 @@
       "pt": "Sobre o Centro",
       "sw": "Kuhusu Kituo"
     },
+    "navNews": {
+      "ru": "Новости",
+      "en": "News",
+      "fr": "Actualités",
+      "pt": "Notícias",
+      "sw": "Habari"
+    },
+    "navMaster": {
+      "ru": "Магистратура",
+      "en": "Master’s",
+      "fr": "Master",
+      "pt": "Mestrado",
+      "sw": "Uzamili"
+    },
+    "langLabel": {
+      "ru": "Язык сайта",
+      "en": "Site language",
+      "fr": "Langue du site",
+      "pt": "Idioma do site",
+      "sw": "Lugha ya tovuti"
+    },
     "navArch": {
       "ru": "Архив",
       "en": "Archive",
@@ -92,6 +113,13 @@
       "fr": "Fil d’Ariane",
       "pt": "Navegação",
       "sw": "Njia"
+    },
+    "swipe": {
+      "ru": "Листайте",
+      "en": "Swipe",
+      "fr": "Faites défiler",
+      "pt": "Deslize",
+      "sw": "Telezesha"
     }
   },
   "hero": {
@@ -189,11 +217,11 @@
       "sw": ""
     },
     "swipe": {
-      "ru": "",
-      "en": "",
-      "fr": "",
-      "pt": "",
-      "sw": ""
+      "ru": "Листайте годы вбок или смахивайте карточку влево и вправо.",
+      "en": "Scroll the years or swipe the card left and right.",
+      "fr": "Faites défiler les années ou balayez la carte à gauche et à droite.",
+      "pt": "Percorra os anos ou deslize o cartão para os lados.",
+      "sw": "Telezesha miaka au sukuma kadi kushoto na kulia."
     },
     "yearsLabel": {
       "ru": "Годы",
@@ -240,11 +268,11 @@
       "sw": "Mahali maonyesho ya Kituo yamefanyika na yanapoweza kuonekana sasa: ripoti za picha, washirika na habari."
     },
     "now": {
-      "ru": "СЕЙЧАС",
-      "en": "NOW ON",
-      "fr": "EN COURS",
-      "pt": "AGORA",
-      "sw": "SASA"
+      "ru": "ПОСЛЕДНЯЯ",
+      "en": "LATEST",
+      "fr": "LA PLUS RÉCENTE",
+      "pt": "A MAIS RECENTE",
+      "sw": "YA HIVI KARIBUNI"
     },
     "more": {
       "ru": "Подробнее",
@@ -294,6 +322,20 @@
       "fr": "PARTENAIRES",
       "pt": "PARCEIROS",
       "sw": "KWA WASHIRIKA"
+    },
+    "tagPhoto": {
+      "ru": "ФОТО С ОТКРЫТИЯ",
+      "en": "OPENING PHOTO",
+      "fr": "PHOTO DE L’OUVERTURE",
+      "pt": "FOTO DA ABERTURA",
+      "sw": "PICHA YA UFUNGUZI"
+    },
+    "tagIllus": {
+      "ru": "ИЛЛЮСТРАЦИЯ",
+      "en": "ILLUSTRATION",
+      "fr": "ILLUSTRATION",
+      "pt": "ILUSTRAÇÃO",
+      "sw": "KIELELEZO"
     }
   },
   "publications": {
@@ -953,6 +995,76 @@
       "fr": "Exposition introuvable.",
       "pt": "Exposição não encontrada.",
       "sw": "Maonyesho hayakupatikana."
+    },
+    "exH": {
+      "ru": "Экспонаты",
+      "en": "Exhibits",
+      "fr": "Objets exposés",
+      "pt": "Peças expostas",
+      "sw": "Vitu vya maonyesho"
+    },
+    "exHint": {
+      "ru": "Фотографии, документы и марки, которые можно увидеть на стендах. Номер экспоната указан на стенде рядом с QR-кодом.",
+      "en": "Photographs, documents and stamps on display. The exhibit number is printed on the stand next to the QR code.",
+      "fr": "Photographies, documents et timbres présentés sur les panneaux. Le numéro figure sur le panneau à côté du code QR.",
+      "pt": "Fotografias, documentos e selos expostos nos painéis. O número da peça está no painel junto ao código QR.",
+      "sw": "Picha, nyaraka na stempu zinazoonyeshwa kwenye mabango. Namba ya kitu iko kwenye bango karibu na msimbo wa QR."
+    },
+    "exAll": {
+      "ru": "Все",
+      "en": "All",
+      "fr": "Tous",
+      "pt": "Todas",
+      "sw": "Vyote"
+    },
+    "exOpen": {
+      "ru": "Карточка экспоната",
+      "en": "Exhibit card",
+      "fr": "Fiche de l’objet",
+      "pt": "Ficha da peça",
+      "sw": "Kadi ya kitu"
+    },
+    "exPhoto": {
+      "ru": "ФОТО",
+      "en": "PHOTO",
+      "fr": "PHOTO",
+      "pt": "FOTO",
+      "sw": "PICHA"
+    },
+    "exDoc": {
+      "ru": "ДОКУМЕНТ",
+      "en": "DOCUMENT",
+      "fr": "DOCUMENT",
+      "pt": "DOCUMENTO",
+      "sw": "HATI"
+    },
+    "exNote": {
+      "ru": "ПРИМЕР · СОСТАВ ЭКСПОНАТОВ УТОЧНЯЕТСЯ",
+      "en": "SAMPLE · LIST OF EXHIBITS TO BE CONFIRMED",
+      "fr": "EXEMPLE · LISTE À PRÉCISER",
+      "pt": "EXEMPLO · LISTA A CONFIRMAR",
+      "sw": "MFANO · ORODHA ITATHIBITISHWA"
+    },
+    "exMore": {
+      "ru": "Все экспонаты",
+      "en": "All exhibits",
+      "fr": "Tous les objets",
+      "pt": "Todas as peças",
+      "sw": "Vitu vyote"
+    },
+    "exLess": {
+      "ru": "Свернуть",
+      "en": "Show less",
+      "fr": "Réduire",
+      "pt": "Mostrar menos",
+      "sw": "Punguza"
+    },
+    "latest": {
+      "ru": "ПОСЛЕДНЯЯ",
+      "en": "LATEST",
+      "fr": "LA PLUS RÉCENTE",
+      "pt": "A MAIS RECENTE",
+      "sw": "YA HIVI KARIBUNI"
     }
   },
   "pubpage": {
@@ -1286,6 +1398,467 @@
       "fr": "Cette rubrique sera ajoutée lors de la prochaine étape du site.",
       "pt": "Esta secção será acrescentada na próxima fase do site.",
       "sw": "Sehemu hii itaongezwa katika hatua inayofuata ya tovuti."
+    }
+  },
+  "aboutpage": {
+    "crumb": {
+      "ru": "О Центре",
+      "en": "About",
+      "fr": "Le Centre",
+      "pt": "Sobre",
+      "sw": "Kuhusu"
+    },
+    "btnPeople": {
+      "ru": "Персоналии",
+      "en": "People",
+      "fr": "L’équipe",
+      "pt": "Equipa",
+      "sw": "Watu"
+    },
+    "btnDirs": {
+      "ru": "Направления исследований",
+      "en": "Research areas",
+      "fr": "Axes de recherche",
+      "pt": "Linhas de investigação",
+      "sw": "Maeneo ya utafiti"
+    },
+    "missionK": {
+      "ru": "МИССИЯ",
+      "en": "MISSION",
+      "fr": "MISSION",
+      "pt": "MISSÃO",
+      "sw": "DHAMIRA"
+    },
+    "seeExh": {
+      "ru": "Смотреть выставки",
+      "en": "See the exhibitions",
+      "fr": "Voir les expositions",
+      "pt": "Ver as exposições",
+      "sw": "Tazama maonyesho"
+    },
+    "whoH": {
+      "ru": "Кто мы и что делаем",
+      "en": "Who we are and what we do",
+      "fr": "Qui sommes-nous",
+      "pt": "Quem somos e o que fazemos",
+      "sw": "Sisi ni nani na tunafanya nini"
+    },
+    "whoK": {
+      "ru": "04 НАПРАВЛЕНИЯ РАБОТЫ",
+      "en": "04 AREAS OF WORK",
+      "fr": "04 DOMAINES D’ACTIVITÉ",
+      "pt": "04 ÁREAS DE TRABALHO",
+      "sw": "MAENEO 04 YA KAZI"
+    },
+    "dirsK": {
+      "ru": "НАПРАВЛЕНИЯ ИССЛЕДОВАНИЙ",
+      "en": "RESEARCH AREAS",
+      "fr": "AXES DE RECHERCHE",
+      "pt": "LINHAS DE INVESTIGAÇÃO",
+      "sw": "MAENEO YA UTAFITI"
+    },
+    "dirsH": {
+      "ru": "Три вопроса, которыми занимается Центр",
+      "en": "Three questions the Center works on",
+      "fr": "Trois questions étudiées par le Centre",
+      "pt": "Três questões estudadas pelo Centro",
+      "sw": "Maswali matatu yanayoshughulikiwa na Kituo"
+    },
+    "pubLink": {
+      "ru": "Публикации по теме",
+      "en": "Related publications",
+      "fr": "Publications liées",
+      "pt": "Publicações relacionadas",
+      "sw": "Machapisho yanayohusiana"
+    },
+    "peopleH": {
+      "ru": "Персоналии",
+      "en": "People",
+      "fr": "L’équipe",
+      "pt": "Equipa",
+      "sw": "Watu"
+    },
+    "expertsK": {
+      "ru": "ЭКСПЕРТЫ И АВТОРЫ",
+      "en": "EXPERTS AND AUTHORS",
+      "fr": "EXPERTS ET AUTEURS",
+      "pt": "ESPECIALISTAS E AUTORES",
+      "sw": "WATAALAMU NA WAANDISHI"
+    },
+    "milesH": {
+      "ru": "Вехи Центра",
+      "en": "Milestones",
+      "fr": "Repères",
+      "pt": "Marcos",
+      "sw": "Hatua muhimu"
+    },
+    "contactsH": {
+      "ru": "Контакты",
+      "en": "Contacts",
+      "fr": "Contacts",
+      "pt": "Contactos",
+      "sw": "Mawasiliano"
+    },
+    "cAddr": {
+      "ru": "АДРЕС",
+      "en": "ADDRESS",
+      "fr": "ADRESSE",
+      "pt": "MORADA",
+      "sw": "ANWANI"
+    },
+    "cPhone": {
+      "ru": "ТЕЛЕФОН",
+      "en": "PHONE",
+      "fr": "TÉLÉPHONE",
+      "pt": "TELEFONE",
+      "sw": "SIMU"
+    },
+    "cMail": {
+      "ru": "ПОЧТА",
+      "en": "EMAIL",
+      "fr": "E-MAIL",
+      "pt": "E-MAIL",
+      "sw": "BARUA PEPE"
+    },
+    "cDir": {
+      "ru": "ДИРЕКТОР",
+      "en": "DIRECTOR",
+      "fr": "DIRECTEUR",
+      "pt": "DIRETOR",
+      "sw": "MKURUGENZI"
+    },
+    "cDoc": {
+      "ru": "ПОЛОЖЕНИЕ",
+      "en": "REGULATIONS",
+      "fr": "RÈGLEMENT",
+      "pt": "REGULAMENTO",
+      "sw": "KANUNI"
+    },
+    "cPage": {
+      "ru": "СТРАНИЦА НА САЙТЕ РГГУ",
+      "en": "PAGE ON THE RSUH WEBSITE",
+      "fr": "PAGE SUR LE SITE DE LA RGGU",
+      "pt": "PÁGINA NO SITE DA RGGU",
+      "sw": "UKURASA KWENYE TOVUTI YA RGGU"
+    }
+  },
+  "newspage": {
+    "h1": {
+      "ru": "Новости и анонсы",
+      "en": "News and events",
+      "fr": "Actualités et annonces",
+      "pt": "Notícias e eventos",
+      "sw": "Habari na matangazo"
+    },
+    "rubrics": {
+      "ru": "Рубрики",
+      "en": "Categories",
+      "fr": "Rubriques",
+      "pt": "Categorias",
+      "sw": "Makundi"
+    },
+    "pinned": {
+      "ru": "ЗАКРЕПЛЕНО",
+      "en": "PINNED",
+      "fr": "ÉPINGLÉ",
+      "pt": "EM DESTAQUE",
+      "sw": "IMEBANDIKWA"
+    },
+    "latest": {
+      "ru": "ПОСЛЕДНЯЯ НОВОСТЬ",
+      "en": "LATEST NEWS",
+      "fr": "DERNIÈRE ACTUALITÉ",
+      "pt": "ÚLTIMA NOTÍCIA",
+      "sw": "HABARI MPYA"
+    },
+    "read": {
+      "ru": "Читать",
+      "en": "Read",
+      "fr": "Lire",
+      "pt": "Ler",
+      "sw": "Soma"
+    },
+    "anonsK": {
+      "ru": "АНОНСЫ",
+      "en": "UPCOMING",
+      "fr": "À VENIR",
+      "pt": "PRÓXIMOS EVENTOS",
+      "sw": "MATUKIO YAJAYO"
+    },
+    "anonsNote": {
+      "ru": "ПРИМЕР · В ПЕРВОИСТОЧНИКЕ АНОНСОВ ПОКА НЕТ",
+      "en": "SAMPLE · NO EVENTS ANNOUNCED IN THE SOURCE YET",
+      "fr": "EXEMPLE · AUCUNE ANNONCE DANS LA SOURCE POUR L’INSTANT",
+      "pt": "EXEMPLO · AINDA SEM EVENTOS NA FONTE",
+      "sw": "MFANO · BADO HAKUNA MATANGAZO KWENYE CHANZO"
+    },
+    "hostT": {
+      "ru": "Выставка в вашем городе?",
+      "en": "The exhibition in your city?",
+      "fr": "L’exposition dans votre ville ?",
+      "pt": "A exposição na sua cidade?",
+      "sw": "Maonyesho katika mji wako?"
+    },
+    "hostP": {
+      "ru": "Университеты и музеи могут пригласить выставку Центра.",
+      "en": "Universities and museums can invite the Center’s exhibition.",
+      "fr": "Universités et musées peuvent inviter l’exposition du Centre.",
+      "pt": "Universidades e museus podem convidar a exposição do Centro.",
+      "sw": "Vyuo vikuu na makumbusho vinaweza kualika maonyesho ya Kituo."
+    },
+    "hostCta": {
+      "ru": "Оставить заявку",
+      "en": "Send a request",
+      "fr": "Envoyer une demande",
+      "pt": "Enviar pedido",
+      "sw": "Tuma ombi"
+    },
+    "back": {
+      "ru": "Все новости",
+      "en": "All news",
+      "fr": "Toutes les actualités",
+      "pt": "Todas as notícias",
+      "sw": "Habari zote"
+    },
+    "photoK": {
+      "ru": "ФОТО",
+      "en": "PHOTOS",
+      "fr": "PHOTOS",
+      "pt": "FOTOS",
+      "sw": "PICHA"
+    },
+    "source": {
+      "ru": "Первоисточник на rsuh.ru",
+      "en": "Original on rsuh.ru (in Russian)",
+      "fr": "Original sur rsuh.ru (en russe)",
+      "pt": "Original em rsuh.ru (em russo)",
+      "sw": "Asili kwenye rsuh.ru (kwa Kirusi)"
+    },
+    "trNote": {
+      "ru": "",
+      "en": "Translated from Russian",
+      "fr": "Traduit du russe",
+      "pt": "Traduzido do russo",
+      "sw": "Imetafsiriwa kutoka Kirusi"
+    },
+    "fAll": {
+      "ru": "Все",
+      "en": "All",
+      "fr": "Toutes",
+      "pt": "Todas",
+      "sw": "Zote"
+    },
+    "cat_exh": {
+      "ru": "ВЫСТАВКИ",
+      "en": "EXHIBITIONS",
+      "fr": "EXPOSITIONS",
+      "pt": "EXPOSIÇÕES",
+      "sw": "MAONYESHO"
+    },
+    "f_exh": {
+      "ru": "Выставки",
+      "en": "Exhibitions",
+      "fr": "Expositions",
+      "pt": "Exposições",
+      "sw": "Maonyesho"
+    },
+    "cat_sci": {
+      "ru": "НАУКА",
+      "en": "RESEARCH",
+      "fr": "RECHERCHE",
+      "pt": "INVESTIGAÇÃO",
+      "sw": "UTAFITI"
+    },
+    "f_sci": {
+      "ru": "Наука",
+      "en": "Research",
+      "fr": "Recherche",
+      "pt": "Investigação",
+      "sw": "Utafiti"
+    },
+    "cat_center": {
+      "ru": "ЦЕНТР",
+      "en": "CENTER",
+      "fr": "CENTRE",
+      "pt": "CENTRO",
+      "sw": "KITUO"
+    },
+    "f_center": {
+      "ru": "Центр",
+      "en": "Center",
+      "fr": "Centre",
+      "pt": "Centro",
+      "sw": "Kituo"
+    },
+    "cat_stud": {
+      "ru": "СТУДЕНЧЕСКАЯ ЖИЗНЬ",
+      "en": "STUDENT LIFE",
+      "fr": "VIE ÉTUDIANTE",
+      "pt": "VIDA ESTUDANTIL",
+      "sw": "MAISHA YA WANAFUNZI"
+    },
+    "f_stud": {
+      "ru": "Студенческая жизнь",
+      "en": "Student life",
+      "fr": "Vie étudiante",
+      "pt": "Vida estudantil",
+      "sw": "Maisha ya wanafunzi"
+    },
+    "notFound": {
+      "ru": "Новость не найдена.",
+      "en": "News item not found.",
+      "fr": "Actualité introuvable.",
+      "pt": "Notícia não encontrada.",
+      "sw": "Habari haikupatikana."
+    }
+  },
+  "masterpage": {
+    "crumb": {
+      "ru": "Магистерская программа",
+      "en": "Master’s programme",
+      "fr": "Master",
+      "pt": "Mestrado",
+      "sw": "Programu ya uzamili"
+    },
+    "apply": {
+      "ru": "Поступить",
+      "en": "Apply",
+      "fr": "Candidater",
+      "pt": "Candidatar-se",
+      "sw": "Omba"
+    },
+    "studyBtn": {
+      "ru": "Что изучают",
+      "en": "What you study",
+      "fr": "Contenu du cursus",
+      "pt": "O que se estuda",
+      "sw": "Unachojifunza"
+    },
+    "studyK": {
+      "ru": "ЧТО ИЗУЧАЮТ",
+      "en": "WHAT YOU STUDY",
+      "fr": "CONTENU DU CURSUS",
+      "pt": "O QUE SE ESTUDA",
+      "sw": "UNACHOJIFUNZA"
+    },
+    "studyH": {
+      "ru": "Дисциплины",
+      "en": "Courses",
+      "fr": "Enseignements",
+      "pt": "Disciplinas",
+      "sw": "Masomo"
+    },
+    "aboutK": {
+      "ru": "О ПРОГРАММЕ",
+      "en": "ABOUT THE PROGRAMME",
+      "fr": "LE PROGRAMME",
+      "pt": "SOBRE O PROGRAMA",
+      "sw": "KUHUSU PROGRAMU"
+    },
+    "teachersK": {
+      "ru": "ВЕДУЩИЕ ПРЕПОДАВАТЕЛИ",
+      "en": "LEAD TEACHERS",
+      "fr": "ENSEIGNANTS PRINCIPAUX",
+      "pt": "PRINCIPAIS DOCENTES",
+      "sw": "WAHADHIRI WAKUU"
+    },
+    "partnersK": {
+      "ru": "ПАРТНЁРЫ",
+      "en": "PARTNERS",
+      "fr": "PARTENAIRES",
+      "pt": "PARCEIROS",
+      "sw": "WASHIRIKA"
+    },
+    "careerK": {
+      "ru": "КАРЬЕРА",
+      "en": "CAREERS",
+      "fr": "DÉBOUCHÉS",
+      "pt": "CARREIRA",
+      "sw": "TAALUMA"
+    },
+    "career": {
+      "ru": "Карьерная карта направления, PDF",
+      "en": "Career map for this field, PDF",
+      "fr": "Carte des métiers de la filière, PDF",
+      "pt": "Mapa de carreiras da área, PDF",
+      "sw": "Ramani ya ajira ya fani hii, PDF"
+    },
+    "moreK": {
+      "ru": "ЕЩЁ О ЦЕНТРЕ ПРИКЛАДНОЙ АФРИКАНИСТИКИ",
+      "en": "MORE FROM THE CENTER FOR APPLIED AFRICAN STUDIES",
+      "fr": "DÉCOUVRIR AUSSI LE CENTRE D’ÉTUDES AFRICAINES APPLIQUÉES",
+      "pt": "MAIS SOBRE O CENTRO DE ESTUDOS AFRICANOS APLICADOS",
+      "sw": "ZAIDI KUHUSU KITUO CHA TAALUMA ZA AFRIKA KWA VITENDO"
+    },
+    "admK": {
+      "ru": "ПОСТУПЛЕНИЕ",
+      "en": "ADMISSION",
+      "fr": "ADMISSION",
+      "pt": "CANDIDATURA",
+      "sw": "KUJIUNGA"
+    },
+    "admH": {
+      "ru": "Три шага к зачислению",
+      "en": "Three steps to enrolment",
+      "fr": "Trois étapes pour s’inscrire",
+      "pt": "Três passos para a matrícula",
+      "sw": "Hatua tatu za kujiunga"
+    },
+    "examQ": {
+      "ru": "Вопросы к экзамену, PDF",
+      "en": "Exam questions, PDF",
+      "fr": "Questions d’examen, PDF",
+      "pt": "Perguntas do exame, PDF",
+      "sw": "Maswali ya mtihani, PDF"
+    },
+    "ctaH": {
+      "ru": "Остались вопросы о программе?",
+      "en": "Questions about the programme?",
+      "fr": "Des questions sur le programme ?",
+      "pt": "Dúvidas sobre o programa?",
+      "sw": "Una maswali kuhusu programu?"
+    },
+    "ctaP": {
+      "ru": "Приёмная комиссия РГГУ",
+      "en": "RSUH admissions office",
+      "fr": "Service des admissions de la RGGU",
+      "pt": "Serviços de admissão da RGGU",
+      "sw": "Ofisi ya udahili ya RGGU"
+    },
+    "topPeople": {
+      "ru": "Персоналии",
+      "en": "People",
+      "fr": "L’équipe",
+      "pt": "Equipa",
+      "sw": "Watu"
+    },
+    "topExh": {
+      "ru": "Выставки",
+      "en": "Exhibitions",
+      "fr": "Expositions",
+      "pt": "Exposições",
+      "sw": "Maonyesho"
+    },
+    "topPub": {
+      "ru": "Публикации",
+      "en": "Publications",
+      "fr": "Publications",
+      "pt": "Publicações",
+      "sw": "Machapisho"
+    },
+    "topNews": {
+      "ru": "Новости",
+      "en": "News",
+      "fr": "Actualités",
+      "pt": "Notícias",
+      "sw": "Habari"
+    },
+    "topAbout": {
+      "ru": "О Центре",
+      "en": "About",
+      "fr": "Le Centre",
+      "pt": "Sobre",
+      "sw": "Kuhusu"
     }
   }
 }

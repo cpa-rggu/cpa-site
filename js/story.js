@@ -27,7 +27,7 @@
       ? '<img class="viewer-bg" src="' + esc(it.src) + '" alt="" aria-hidden="true"><img class="viewer-img' + bw(it.color) + '" src="' + esc(it.src) + '" alt="' + esc(tx(it.title)) + '">'
       : '<span class="scan-ph">' + esc(t('story.scan')) + '</span>';
     return '<div id="viewer" class="viewer" role="region" aria-label="' + esc(t('story.viewer')) + '">' +
-      '<div class="viewer-stage">' + pic + '</div>' +
+      '<div class="viewer-stage" data-swipe="viewer">' + pic + '</div>' +
       '<div class="viewer-side">' +
         '<div class="viewer-top"><span class="viewer-kind">' + esc(kindLabel(it.type)) + ' · ' + (o + 1) + ' / ' + items.length + '</span>' +
           '<button type="button" class="icon-btn" data-close aria-label="' + esc(t('story.close')) + '">' + X_ICON + '</button></div>' +
@@ -143,7 +143,7 @@
         '<div class="section-head"><h2 class="h2-sm">' + esc(t('story.optics')) + '</h2><p class="section-hint">' + esc(tx(s.optics && s.optics.intro)) + '</p></div>' +
         '<div class="optics">' + optics + '</div></div></section>' +
 
-      '<section class="st-related-sec"><div class="wrap st-related-inner"><h2 class="h2-sm">' + esc(t('story.other')) + '</h2><div class="rel-grid">' + related + '</div></div></section>';
+      '<section class="st-related-sec"><div class="wrap st-related-inner"><h2 class="h2-sm">' + esc(t('story.other')) + '</h2><span class="swipe-hint">' + esc(t('common.swipe')) + ' →</span><div class="rel-grid noscroll">' + related + '</div></div></section>';
     renderMaterials();
   }
 
@@ -162,6 +162,20 @@
     content: ['stories'],
     render: render,
     ready: function () {
+      // ссылка из раздела «Экспонаты» на странице выставки: story.html?id=africa&open=CPA-CD-001 — сразу открыть этот материал
+      var openCode = CPA.param('open');
+      if (openCode) {
+        var st = (CPA.data.stories.items || []).filter(function (s) { return s.id === CPA.param('id'); })[0];
+        var idx = st ? (st.items || []).map(function (it) { return it.code; }).indexOf(openCode) : -1;
+        if (idx >= 0) state.open = idx;
+      }
+      // свайп по просмотрщику материалов: влево — следующий, вправо — предыдущий
+      CPA.onSwipe('[data-swipe="viewer"]', function (dir) {
+        if (state.open < 0 || !story) return;
+        var n = story.items.length;
+        state.open = (state.open + dir + n) % n;
+        renderMaterials();
+      });
       document.addEventListener('click', function (e) {
         var el = e.target;
         var f = el.closest('[data-filter]');
