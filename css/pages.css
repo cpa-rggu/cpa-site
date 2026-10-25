@@ -724,6 +724,31 @@ body.page-pubs { line-height: 1.55; }
 .pp-status { background: #F6E3DF; border-left: 3px solid var(--accent); padding: 16px 18px; font-size: 15px; }
 .pp-status.ok { background: #E3EFE3; border-left-color: #1E7A46; }
 
+/* ---------- личный кабинет (account.html, тест) ---------- */
+.ac-inner { padding-top: 64px; padding-bottom: 88px; display: grid; grid-template-columns: minmax(0, 5fr) minmax(0, 6fr); gap: 32px 64px; align-items: start; }
+.ac-head { display: flex; flex-direction: column; gap: 16px; }
+.ac-test { align-self: flex-start; font-family: var(--f-mono); font-size: 11px; letter-spacing: 0.08em; padding: 4px 8px; border: 1px dashed var(--accent); color: var(--accent); }
+.ac-p { margin: 0; color: var(--muted); font-size: 15px; }
+.ac-body { display: flex; flex-direction: column; gap: 18px; align-items: flex-start; }
+.ac-body > * { width: 100%; }
+.ac-body > .btn-outline, .ac-body > .ac-link { width: auto; }
+.ac-form { border: 1px solid var(--ink); padding: 28px; }
+.ac-h2 { margin: 0; font-family: var(--f-head); font-weight: 600; font-size: 20px; letter-spacing: -0.02em; }
+.ac-tabs { display: flex; border: 1px solid var(--ink); }
+.ac-tab { flex: 1; min-height: 48px; border: none; background: transparent; font: inherit; font-weight: 600; cursor: pointer; color: var(--ink); }
+.ac-tab[aria-selected="true"] { background: var(--ink); color: var(--bg); }
+.ac-link { align-self: flex-start; background: none; border: none; padding: 4px 0; font: inherit; font-size: 15px; color: var(--accent); cursor: pointer; text-decoration: underline; text-underline-offset: 3px; }
+.ac-dl { margin: 0; border-top: 2px solid var(--ink); }
+.ac-dl > div { display: grid; grid-template-columns: 180px minmax(0, 1fr); gap: 12px; padding: 14px 0; border-bottom: 1px solid #CFCCC4; }
+.ac-dl dt { font-family: var(--f-mono); font-size: 12px; letter-spacing: 0.06em; color: var(--muted); }
+.ac-dl dd { margin: 0; overflow-wrap: anywhere; }
+.pp-submit:disabled { opacity: 0.6; cursor: wait; }
+@media (max-width: 760px) {
+  .ac-inner { padding-top: 32px; padding-bottom: 48px; grid-template-columns: 1fr; }
+  .ac-body .ac-form { padding: 20px; margin: 0; }
+  .ac-dl > div { grid-template-columns: 1fr; gap: 4px; }
+}
+
 @media (max-width: 960px) {
   .pp-main { grid-template-columns: 1fr; }
   .pp-aside { position: static; }
