@@ -74,6 +74,15 @@ button { font: inherit; }
 .lang-dd-list button[aria-selected="true"] { background: var(--ink); color: var(--bg); }
 .lang-dd-list .nm { font-family: var(--f-text); font-size: 14px; }
 .mobile-nav { display: flex; flex-direction: column; }
+/* Кнопка «Войти / Кабинет» рядом с выбором языка */
+.header-tools { display: flex; align-items: center; gap: 8px; flex: none; }
+.acct-btn {
+  min-height: 44px; padding: 0 14px; border: 1px solid var(--ink); display: inline-flex; align-items: center; gap: 8px;
+  text-decoration: none; font-size: 14px; font-weight: 600; color: var(--ink);
+}
+.acct-btn:hover, .acct-btn[aria-current="page"] { background: var(--ink); color: var(--bg); }
+/* Если всё не помещается в одну строку: логотип и кнопки — в первой, меню — во второй (класс ставит js/common.js) */
+.header-row.nav-below .nav { order: 3; flex-basis: 100%; }
 .langs { display: flex; gap: 2px; font-family: var(--f-mono); font-size: 12px; }
 .langs button {
   min-width: 44px; min-height: 44px; border: 1px solid transparent; background: transparent;
@@ -281,7 +290,7 @@ button { font: inherit; }
   .brand-text { display: block; font-weight: 600; font-size: 13px; line-height: 1.15; }
   .brand-org, .brand-uni { font-family: var(--f-text); font-size: 13px; color: var(--ink); font-weight: 600; }
   .brand-uni::before { content: ' · '; }
-  .header-row .nav, .header-row .langs, .header-row .lang-dd { display: none; }
+  .header-row .nav, .header-row .langs, .header-row .lang-dd, .header-row .header-tools { display: none; }
   .mobile-menu a[aria-current="page"] { color: var(--accent-dark); }
   .burger { flex: none; width: 44px; height: 44px; border: 1px solid var(--ink); background: transparent; display: flex; align-items: center; justify-content: center; cursor: pointer; padding: 0; }
   .mobile-menu:not([hidden]) { display: flex; flex-direction: column; background: var(--ink); color: var(--bg); padding: 8px 16px 20px; }

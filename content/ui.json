@@ -77,6 +77,20 @@
       "pt": "Idioma do site",
       "sw": "Lugha ya tovuti"
     },
+    "signIn": {
+      "ru": "Войти",
+      "en": "Sign in",
+      "fr": "Se connecter",
+      "pt": "Entrar",
+      "sw": "Ingia"
+    },
+    "account": {
+      "ru": "Кабинет",
+      "en": "My account",
+      "fr": "Mon compte",
+      "pt": "Minha conta",
+      "sw": "Akaunti yangu"
+    },
     "navArch": {
       "ru": "Архив",
       "en": "Archive",

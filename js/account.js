@@ -176,6 +176,7 @@
   function go(view, msg, ok) {
     state.view = view; state.msg = msg || ''; state.ok = !!ok;
     render();
+    CPA.renderNav(); // «Войти» ↔ «Кабинет» в шапке
     var f = $('[data-ac-body] input');
     if (f && view !== 'cabinet') f.focus();
   }

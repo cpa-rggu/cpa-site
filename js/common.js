@@ -45,6 +45,7 @@
   }
   var ARROW = '<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg>';
 
+  CPA.renderNav = renderNav;
   CPA.$ = $; CPA.$$ = $$; CPA.esc = esc; CPA.tx = tx; CPA.t = t; CPA.pad2 = pad2; CPA.cap = cap; CPA.param = param; CPA.email = email;
   CPA.ARROW = ARROW;
   // Выставки: куда ведёт карточка и какая у неё плашка («Фото с открытия», «Иллюстрация», «Пример»)
@@ -115,8 +116,62 @@
     var html = items.map(function (it) {
       return '<a href="' + it[0] + '"' + (it[2] && it[2] === page ? ' aria-current="page"' : '') + '>' + esc(t(it[1])) + '</a>';
     }).join('');
-    $$('[data-nav]').forEach(function (el) { el.innerHTML = html; el.setAttribute('aria-label', t('header.navLabel')); });
+    var acct = accountLabel();
+    var cur = page === 'account' ? ' aria-current="page"' : '';
+    $$('[data-nav]').forEach(function (el) {
+      // в меню телефона «Войти / Кабинет» — последним пунктом
+      el.innerHTML = html + (el.classList.contains('mobile-nav') ? '<a href="account.html"' + cur + '>' + esc(acct) + '</a>' : '');
+      el.setAttribute('aria-label', t('header.navLabel'));
+    });
+    renderAccountButton(acct, cur);
   }
+
+  // «Войти» — если посетитель ещё не входил, «Кабинет» — если вход уже выполнен (сессия в браузере, см. js/account.js)
+  function accountLabel() {
+    var signed = false;
+    try { signed = !!localStorage.getItem('cpa.auth'); } catch (e) {}
+    return t(signed ? 'header.account' : 'header.signIn');
+  }
+  // Кнопка в шапке (компьютер): ставится рядом с выбором языка, без правки HTML каждой страницы
+  function renderAccountButton(label, cur) {
+    var dd = $('.header-row [data-lang-dd]');
+    if (!dd) return;
+    var tools = dd.parentNode.classList.contains('header-tools') ? dd.parentNode : null;
+    if (!tools) {
+      tools = document.createElement('div');
+      tools.className = 'header-tools';
+      dd.parentNode.insertBefore(tools, dd);
+      tools.appendChild(dd);
+    }
+    var btn = tools.querySelector('[data-acct]');
+    if (!btn) {
+      btn = document.createElement('a');
+      btn.className = 'acct-btn';
+      btn.href = 'account.html';
+      btn.setAttribute('data-acct', '');
+      tools.insertBefore(btn, dd);
+    }
+    fitHeaderSoon();
+    btn.innerHTML = '<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="12" cy="8" r="4"/><path d="M4 21c0-4.4 3.6-8 8-8s8 3.6 8 8"/></svg><span>' + esc(label) + '</span>';
+    if (cur) btn.setAttribute('aria-current', 'page'); else btn.removeAttribute('aria-current');
+  }
+  // Шапка в одну строку, если помещается; иначе меню уходит во вторую строку целиком (длина меню зависит от языка)
+  function fitHeader() {
+    var row = $('.header-row'), nav = row && row.querySelector('.nav'), tools = row && row.querySelector('.header-tools');
+    if (!nav || !tools) return;
+    row.classList.remove('nav-below');
+    if (MOBILE.matches) return;
+    var top = row.firstElementChild.offsetTop;
+    if (nav.offsetTop - top > 20 || tools.offsetTop - top > 20) row.classList.add('nav-below');
+  }
+  var fitPending = false;
+  function fitHeaderSoon() {
+    if (fitPending) return;
+    fitPending = true;
+    requestAnimationFrame(function () { fitPending = false; fitHeader(); });
+  }
+  window.addEventListener('resize', fitHeaderSoon);
+  if (document.fonts && document.fonts.ready) document.fonts.ready.then(fitHeaderSoon);
 
   // Простые тексты: data-t="группа.ключ", подсказки в полях: data-t-ph, подписи для экранных дикторов: data-t-aria
   function renderStaticTexts() {

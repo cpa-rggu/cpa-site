@@ -1837,6 +1837,24 @@ collections:
                   - { name: fr, label: 'Français', widget: string, required: false }
                   - { name: pt, label: 'Português', widget: string, required: false }
                   - { name: sw, label: 'Kiswahili', widget: string, required: false }
+              - name: signIn
+                label: 'Кнопка «Войти» (личный кабинет)'
+                widget: object
+                fields:
+                  - { name: ru, label: 'Русский', widget: string, required: false }
+                  - { name: en, label: 'English', widget: string, required: false }
+                  - { name: fr, label: 'Français', widget: string, required: false }
+                  - { name: pt, label: 'Português', widget: string, required: false }
+                  - { name: sw, label: 'Kiswahili', widget: string, required: false }
+              - name: account
+                label: 'Кнопка «Кабинет» (после входа)'
+                widget: object
+                fields:
+                  - { name: ru, label: 'Русский', widget: string, required: false }
+                  - { name: en, label: 'English', widget: string, required: false }
+                  - { name: fr, label: 'Français', widget: string, required: false }
+                  - { name: pt, label: 'Português', widget: string, required: false }
+                  - { name: sw, label: 'Kiswahili', widget: string, required: false }
           - name: common
             label: 'Общие надписи'
             widget: object
